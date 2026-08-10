@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:$15 Moonshine Flights & Moonshine Tasting
 DTSTART;VALUE=DATE:20250615
 DTEND;VALUE=DATE:20250616
-DTSTAMP:20260809T161729Z
+DTSTAMP:20260810T113333Z
 UID:b6432d870f2c0958f26453a40d59@visitri-calendar
 DESCRIPTION:Try a Moonshine Flight tasting at Moonshine Alley! Moonshine F
  lights are available daily for just $15! We have over 13 flavors to choose
@@ -20,10 +20,56 @@ URL:https://www.visitrhodeisland.com/event/%2415-moonshine-flights-%26-moo
  nshine-tasting/105663/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Children's Weekly Storytime
+DTSTART;VALUE=DATE:20260330
+DTEND;VALUE=DATE:20260331
+DTSTAMP:20260810T113333Z
+UID:6a42c90422362e83701e98f899c2@visitri-calendar
+DESCRIPTION:Children's Storytime Join Elizabeth as she hosts storytime on 
+ Monday mornings at 10:30 AM. Every Monday\, Elizabeth will chose a book co
+ rrelating with the season or holiday. All children and their families are 
+ welcome to join!\n\nSource: https://www.visitrhodeisland.com/event/childre
+ ns-weekly-storytime/109524/
+LOCATION:Charter Books\, 8 Broadway\, Newport\, RI 02840 Time: 10:30 AM to
+  11:00 AM
+URL:https://www.visitrhodeisland.com/event/childrens-weekly-storytime/1095
+ 24/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Coastal Cruisers - The Golden Hour
+DTSTART;VALUE=DATE:20260501
+DTEND;VALUE=DATE:20260502
+DTSTAMP:20260810T113333Z
+UID:9f3864060ce7679e35293700f37c@visitri-calendar
+DESCRIPTION:Experience the Island in our Coastal Cruisers\, Newport’s pr
+ ivate chauffeured luxury tour\, dedicated to providing a sophisticated way
+  to experience our beloved island. We blend elegance\, fun &amp\; storytel
+ ling into a bespoke tour of Newport. For us\, it is about fostering experi
+ ences that create lasting memorable moments. From chasing golden sunsets t
+ o experiencing salty-breeze adventures\, Coastal Cruisers treats every tou
+ r as an opportunity to provide exceptional service &amp\; a personal conne
+ ction that lasts well beyond the journey. Offer 3 tour options and hourly 
+ bookings. Tour Option: The Golden Hour A private\, bespoke guided excursio
+ n designed to highlight Newport's most magnificent sunset vistas. This dis
+ tinctive experience is meticulously orchestrated\, ensuring optimal positi
+ oning at prime viewing locations for capturing striking photographs &amp\;
+  securing a truly memorable occasion. Your experienced guide will navigate
+  picturesque coastal thoroughfares and Newport's charming bridge view neig
+ hborhoods\, making stops at both lesser-known vantage points &amp\; renown
+ ed landmarks celebrated for their exceptional 'golden hour' illumination &
+ amp\; sweeping ocean panoramas. 7:00 PM Tour (75 minutes) $150 per person 
+ Available: Daily\, May 1 - December 31\, 2026 (Unavailable May 23 and May 
+ 31)\n\nSource: https://www.visitrhodeisland.com/event/coastal-cruisers-the
+ -golden-hour/109827/
+LOCATION:Coastal Cruisers\, 478 Thames Street\, Newport\, RI 02840
+URL:https://www.visitrhodeisland.com/event/coastal-cruisers-the-golden-hou
+ r/109827/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Beyond the Brewhouse Tour
 DTSTART;VALUE=DATE:20260515
 DTEND;VALUE=DATE:20260516
-DTSTAMP:20260809T161729Z
+DTSTAMP:20260810T113333Z
 UID:acc9d8e1d1bdab34c6766b602473@visitri-calendar
 DESCRIPTION:Beyond the Brewhouse Where: Newport Craft Brewing and Distilli
  ng\, 293 JT Connell Road\, Newport 45 minutes: $20 per person Did you know
@@ -39,49 +85,34 @@ URL:https://www.visitrhodeisland.com/event/beyond-the-brewhouse-tour/11015
  3/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Alger Mitchell at SALTwater Harborside Dining
-DTSTART;VALUE=DATE:20260524
-DTEND;VALUE=DATE:20260525
-DTSTAMP:20260809T161729Z
-UID:56651fdef385ddc5772b8f8d401e@visitri-calendar
-DESCRIPTION:Alger Mitchell at SALTwater Harborside Dining Sundays from 4:0
- 0 to 7:00 PM Alger Mitchell is a dynamic song stylist\, songwriter\, and v
- ocalist\, delivering captivating performances with guitar and harmonica. B
- oasting a remarkable repertoire of approximately 250 songs performed entir
- ely from memory\, Alger's music is 100% live\, free of electronic enhancem
- ents. His versatile setlist spans the timeless classics of The Great Ameri
- can Songbook\, from Broadway to Hollywood\, alongside beloved jazz and pop
-  standards\, classic country\, oldies\, and his own original compositions.
-  With infectious energy\, his live performances invite optional dancing\, 
- making it nearly impossible to resist moving to the music! Keep a smile on
-  your face and a song in your heart!\n\nSource: https://www.visitrhodeisla
- nd.com/event/alger-mitchell-at-saltwater-harborside-dining/110157/
-LOCATION:Saltwater at The Newport Harbor Hotel & Marina\, 49 America's Cup
-  Avenue\, Newport\, RI 02840 Time: 4:00 PM to 7:00 PM 49 America's Cup Ave
- nue\, Newport\, RI 02840 OFFICIAL RHODE ISLAND TRAVEL GUIDE Get Guide Get 
- news from Visit Rhode Island in your inbox. Industry Partner Leisure Trave
- l Sign Up Ratings Powered by Press Industry Travel Trade Meetings & Conven
- tions Contact Privacy Policy Sitemap Partner Portal SMS Privacy Policy SMS
-  Terms & Conditions UGC Terms and Conditions Wedding Planning Press Photos
-  Story Ideas Fun-Sized Rhode Island Rhode Island in the News Free Travel G
- uide Contact Visit Rhode Island Industry Travel Trade Ideas & Itineraries 
- Downton Abbey Lifestyle Rhode Island Foodways Hidden Gems Image Library Fr
- ee Travel Guide Contact Visit Rhode Island Meetings & Conventions Contact 
- Privacy Policy Sitemap Partner Portal SMS Privacy Policy SMS Terms & Condi
- tions UGC Terms and Conditions Wedding Planning Weddings - Venues Wedding 
- - Catering Wedding - Cakes Wedding - Attire Wedding - Florists Wedding - J
- ewelers Wedding - Transportation © 2026 Rhode Island Commerce Corporation
-  Special Offers Offers Here Looking to plan your next visit to Rhode Islan
- d\, check out some of the current special offers and enjoy savings\, extra
-  perks and more! Offers Here
-URL:https://www.visitrhodeisland.com/event/alger-mitchell-at-saltwater-har
- borside-dining/110157/
+SUMMARY:Bruce Jacques Show at One Pelham East
+DTSTART;VALUE=DATE:20260525
+DTEND;VALUE=DATE:20260526
+DTSTAMP:20260810T113333Z
+UID:1a094f507695de921be36457a8f9@visitri-calendar
+DESCRIPTION:Bruce Jacques Show at One Pelham East When: Every Monday from 
+ 9:00 PM to 12:00 AM (May 25 - August 25\, 2026) Where: 1 Pelham East\, New
+ port\, RI 02840 Bruce incorporates comedy spoofs of artists such as Queen\
+ , Beyonce\, Guns and Roses\, Britney Spears\, Elvis\, and many more. His r
+ epertoire is a mix of songs everyone knows by heart from the sixties to to
+ day’s top hits. He also involves the audience with a six foot L.E.D. lig
+ ht board that displays the words for sing-a-longs. Bruce's ability to conn
+ ect with audiences of all ages and in all types of settings is something t
+ hat comes only with years of experience. He also possesses the natural abi
+ lity to make people feel comfortable - to make them laugh\, sing\, and dan
+ ce. Bruce's experience includes over three decades of private parties\, co
+ rporate functions\, colleges\, nightclubs and resorts. Bruce has several l
+ ong-standing gigs including:\n\nSource: https://www.visitrhodeisland.com/e
+ vent/bruce-jacques-show-at-one-pelham-east/110092/
+LOCATION:1 Pelham East\, 270 Thames Street\, Newport\, RI 02840
+URL:https://www.visitrhodeisland.com/event/bruce-jacques-show-at-one-pelha
+ m-east/110092/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Music at Sunset: Concert Series 2026
 DTSTART;VALUE=DATE:20260603
 DTEND;VALUE=DATE:20260604
-DTSTAMP:20260809T161729Z
+DTSTAMP:20260810T113333Z
 UID:87bda7b48d099d40defa3f7e711b@visitri-calendar
 DESCRIPTION:Music at Sunset: Concert Series 2026 Wednesdays | June 3 &#821
  1\; August 26 Music from 6:00 &#8211\; 8:00 PM\, Parking and Check-in open
@@ -131,7 +162,7 @@ BEGIN:VEVENT
 SUMMARY:Field of Artisans at the Beach
 DTSTART;VALUE=DATE:20260711
 DTEND;VALUE=DATE:20260712
-DTSTAMP:20260809T161729Z
+DTSTAMP:20260810T113333Z
 UID:7ebe1a9998bbb563181c86657159@visitri-calendar
 DESCRIPTION:Join Field of Artisans on Saturdays this summer for the 11th y
  ear of bringing creativity to this beautiful location! Artists will displa
@@ -148,7 +179,7 @@ BEGIN:VEVENT
 SUMMARY:$15 Moonshine Flights & Moonshine Tasting
 DTSTART;VALUE=DATE:20260721
 DTEND;VALUE=DATE:20260722
-DTSTAMP:20260809T161729Z
+DTSTAMP:20260810T113333Z
 UID:6ac059c408c431eceb1c3c855c19@visitri-calendar
 DESCRIPTION:Try a Moonshine Flight tasting at Moonshine Alley! Moonshine F
  lights are available daily for just $15! We have over 13 flavors to choose
@@ -161,109 +192,10 @@ URL:https://www.visitrhodeisland.com/event/%2415-moonshine-flights-%26-moo
  nshine-tasting/105663/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:"Mea Duke: Dreamliners" Exhibit
-DTSTART;VALUE=DATE:20260801
-DTEND;VALUE=DATE:20260802
-DTSTAMP:20260809T161729Z
-UID:c06cfbf2bf6470118f0deef8d28e@visitri-calendar
-DESCRIPTION:Jessica Hagen Fine Art + Design is pleased to announce the exh
- ibit: "Mea Duke: Dreamliners" August 1 - August 30\, 2026. This solo exhib
- ition marks Mea Duke’s third solo show with Jessica Hagen’s gallery. D
- reamliners assembles objects and images from the mid-twentieth century mom
- ent when progress felt most like destiny: Pan Am flying boats\, LIFE magaz
- ines\, lifejackets\, sunblock\, straw hats\, shipping containers\, endless
-  horizons. Together they form an archive of optimism\, sleek engineering\,
-  and the promise that the world was suddenly\, thrillingly within reach. T
- he title borrows from Boeing's Dreamliner\, an aircraft whose name still t
- rades on the same aspirational language the Pan Am era perfected. Duke's p
- ractice has long lived in the space between painting an object and treatin
- g the painting itself as an object\, an artifact with its own weight\, mat
- eriality\, and history. Jessica Hagen states\, “Dreamliners is a smart\,
-  fun and beautifully executed show. Mea Duke is a highly skilled painter a
- nd she is very clearly on top of her game\; treating us to paintings that 
- are in her words\, created slowly by hand\, with clean deliberate precisio
- n. Replete with iconic objects and imagery rendered as only Duke can\, thi
- s show is not to be missed.” “Mea Duke: Dreamliners” closes August 3
- 0\, 2026. Jessica Hagen Fine Art + Design was founded in 2005 and features
-  contemporary art including painting\, sculpture\, photography\, ceramics\
- , textiles\, and jewelry. Located in the historic Point section of Newport
- \, the gallery’s hours are Wednesday- Saturday 11:00 AM - 5:00 PM\, and 
- Sunday 12:00 - 5:00 PM. The gallery is also open by appointment. Image Att
- ached: Mea Duke Flying Boat I oil/canvas 40” x 64”\n\nSource: https://
- www.visitrhodeisland.com/event/mea-duke%3a-dreamliners-exhibit/111171/
-LOCATION:Jessica Hagen Fine Art & Design\, 9A Bridge Street\, Newport\, RI
-  02840
-URL:https://www.visitrhodeisland.com/event/mea-duke%3a-dreamliners-exhibit
- /111171/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A Midsummer Night’s Dream
-DTSTART:20260807T190000
-DTEND:20260807T210000
-DTSTAMP:20260809T161729Z
-UID:dfb474755718eb257964ba12c9d2@visitri-calendar
-DESCRIPTION:Fall in Love All Over Again… Join Swamp Meadow Community The
- atre in this colorful retelling of William Shakespeare’s A Midsummer Nig
- ht’s Dream . Love is in the air in Athens\, as well as shenanigans. As f
- our youths enter a mysterious enchanted forest\, the mischievous fairy kin
- g Oberon tasks his servant Puck to brew a love potion for his wife. But th
- ings go awry when the potion is given to the youths\, and all relationship
- s go topsy-turvy! Add in a clueless theatre troop\, whose leader is a donk
- ey\, and you end up with a hilarious yet enchanting time at the theatre! D
- ates August 7 &#8211\; 7 PM August 8 &#8211\; 7 PM August 9 &#8211\; 2 PM 
- General &#8211\; $20 Senior/Student &#8211\; $15 Playing at the Kent Pavil
- lion &#8211\; 1111 Putnam Pike\, Chepachet RI 02814\n\nSource: https://www
- .visitrhodeisland.com/event/a-midsummer-night%e2%80%99s-dream/110735/
-LOCATION:Kent Pavillion\, 1111 Putnam Pike\, Chepachet\, RI 02814
-URL:https://www.visitrhodeisland.com/event/a-midsummer-night%e2%80%99s-dre
- am/110735/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A Midsummer Night’s Dream
-DTSTART:20260808T190000
-DTEND:20260808T210000
-DTSTAMP:20260809T161729Z
-UID:64ff9930a2715b1dcafd5bde3910@visitri-calendar
-DESCRIPTION:Fall in Love All Over Again… Join Swamp Meadow Community The
- atre in this colorful retelling of William Shakespeare’s A Midsummer Nig
- ht’s Dream . Love is in the air in Athens\, as well as shenanigans. As f
- our youths enter a mysterious enchanted forest\, the mischievous fairy kin
- g Oberon tasks his servant Puck to brew a love potion for his wife. But th
- ings go awry when the potion is given to the youths\, and all relationship
- s go topsy-turvy! Add in a clueless theatre troop\, whose leader is a donk
- ey\, and you end up with a hilarious yet enchanting time at the theatre! D
- ates August 7 &#8211\; 7 PM August 8 &#8211\; 7 PM August 9 &#8211\; 2 PM 
- General &#8211\; $20 Senior/Student &#8211\; $15 Playing at the Kent Pavil
- lion &#8211\; 1111 Putnam Pike\, Chepachet RI 02814\n\nSource: https://www
- .visitrhodeisland.com/event/a-midsummer-night%e2%80%99s-dream/110735/
-LOCATION:Kent Pavillion\, 1111 Putnam Pike\, Chepachet\, RI 02814
-URL:https://www.visitrhodeisland.com/event/a-midsummer-night%e2%80%99s-dre
- am/110735/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Artists’ Open Studios
-DTSTART;VALUE=DATE:20260808
-DTEND;VALUE=DATE:20260809
-DTSTAMP:20260809T161729Z
-UID:2c7d957261d6b6b0deb3fe5189f9@visitri-calendar
-DESCRIPTION:Artists’ Open Studios Tour When: Saturday\, August 8th and S
- unday\, August 9th from 10:00 AM to 4:00 PM Two day island-wide Artists' O
- pen Studios Tour - Free to attend Follow the "Art Here" signs around James
- town for a two day island-wide art event where participating artists welco
- me you into their studios! Participating artists and studios listed below.
-  Printed maps are available for pick up at Jamestown Arts Center (18 Valle
- y Street) starting on Thursday\, August 6. See full participating artists 
- + studios here.\n\nSource: https://www.visitrhodeisland.com/event/artists%
- e2%80%99-open-studios/111256/
-LOCATION:Jamestown Arts Center\, 18 Valley Street\, Jamestown\, RI 02835
-URL:https://www.visitrhodeisland.com/event/artists%e2%80%99-open-studios/1
- 11256/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Block Island Arts and Artisans Festival
 DTSTART;VALUE=DATE:20260808
 DTEND;VALUE=DATE:20260809
-DTSTAMP:20260809T161729Z
+DTSTAMP:20260810T113333Z
 UID:d1e5c232c237b7ea1eb153544ac3@visitri-calendar
 DESCRIPTION:Beautiful paintings\, pottery\, jewelry\, photography and othe
  r handmade pieces created by a talented group of artists. Aug 8\, 9\,10 20
@@ -290,76 +222,55 @@ URL:https://www.visitrhodeisland.com/event/block-island-arts-and-artisans-
  festival/110771/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:"Night for the Light" Evening Gala + Fundraiser in Jamestown
-DTSTART;VALUE=DATE:20260809
-DTEND;VALUE=DATE:20260810
-DTSTAMP:20260809T161729Z
-UID:1a519c75e2dc820f53eb17f0e60b@visitri-calendar
-DESCRIPTION:"Night for the Light" An Evening Under the Stars - Cocktail Ga
- la Fundraiser Hosted by The Beavertail Lighthouse Museum Association When:
-  Sunday\, August 9th from 5:00 to 8:30 PM Where: Fort Getty Pavilion\, Jam
- estown\, RI Open bar and heavy hors d'oeuvres Live and silent auctions Liv
- e music by Decades by DeZyne Join the Beavertail Lighthouse Museum Associa
- tion for an unforgettable evening by the sea in support of preserving the 
- historic Beavertail Lighthouse and its buildings\, including critical rest
- oration projects such as window replacement. Ticketing: Individual - $300 
- Tower Keeper (1 guest) - $600 Lighthouse Keeper (2 guests) - $1\,000 Benef
- actor (2 guests) - $2\,000 Tickets open to general public beginning June 2
- \, 2026. Cocktail attire suggested\, event will be held rain or shine!\n\n
- Source: https://www.visitrhodeisland.com/event/night-for-the-light-evening
- -gala-%2b-fundraiser-in-jamestown/110541/
-LOCATION:Fort Getty Pavilion\, Fort Getty Road\, Jamestown\, RI 02835 Time
- : 5:00 PM to 8:30 PM
-URL:https://www.visitrhodeisland.com/event/night-for-the-light-evening-gal
- a-%2b-fundraiser-in-jamestown/110541/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A Midsummer Night’s Dream
-DTSTART:20260809T140000
-DTEND:20260809T160000
-DTSTAMP:20260809T161729Z
-UID:29bfbbd037867e8416a5c8476edf@visitri-calendar
-DESCRIPTION:Fall in Love All Over Again… Join Swamp Meadow Community The
- atre in this colorful retelling of William Shakespeare’s A Midsummer Nig
- ht’s Dream . Love is in the air in Athens\, as well as shenanigans. As f
- our youths enter a mysterious enchanted forest\, the mischievous fairy kin
- g Oberon tasks his servant Puck to brew a love potion for his wife. But th
- ings go awry when the potion is given to the youths\, and all relationship
- s go topsy-turvy! Add in a clueless theatre troop\, whose leader is a donk
- ey\, and you end up with a hilarious yet enchanting time at the theatre! D
- ates August 7 &#8211\; 7 PM August 8 &#8211\; 7 PM August 9 &#8211\; 2 PM 
- General &#8211\; $20 Senior/Student &#8211\; $15 Playing at the Kent Pavil
- lion &#8211\; 1111 Putnam Pike\, Chepachet RI 02814\n\nSource: https://www
- .visitrhodeisland.com/event/a-midsummer-night%e2%80%99s-dream/110735/
-LOCATION:Kent Pavillion\, 1111 Putnam Pike\, Chepachet\, RI 02814
-URL:https://www.visitrhodeisland.com/event/a-midsummer-night%e2%80%99s-dre
- am/110735/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Artists’ Open Studios
-DTSTART;VALUE=DATE:20260809
-DTEND;VALUE=DATE:20260810
-DTSTAMP:20260809T161729Z
-UID:71d33a05cce66bd3120b888150d1@visitri-calendar
-DESCRIPTION:Artists’ Open Studios Tour When: Saturday\, August 8th and S
- unday\, August 9th from 10:00 AM to 4:00 PM Two day island-wide Artists' O
- pen Studios Tour - Free to attend Follow the "Art Here" signs around James
- town for a two day island-wide art event where participating artists welco
- me you into their studios! Participating artists and studios listed below.
-  Printed maps are available for pick up at Jamestown Arts Center (18 Valle
- y Street) starting on Thursday\, August 6. See full participating artists 
- + studios here.\n\nSource: https://www.visitrhodeisland.com/event/artists%
- e2%80%99-open-studios/111256/
-LOCATION:Jamestown Arts Center\, 18 Valley Street\, Jamestown\, RI 02835
-URL:https://www.visitrhodeisland.com/event/artists%e2%80%99-open-studios/1
- 11256/
+SUMMARY:Birds Of A Feather - Family Paint and Pizza Party
+DTSTART;VALUE=DATE:20260810
+DTEND;VALUE=DATE:20260811
+DTSTAMP:20260810T113333Z
+UID:f1aa5c620cd0019ad4e6801066bb@visitri-calendar
+DESCRIPTION:🖌️ IN-STUDIO SESSION DETAILS Reserve your spot and enjoy 
+ a complimentary beverage—choose from soda\, beer\, or wine (21+ with val
+ id ID). Additional drinks will be available for purchase. Immerse yourself
+  in a fun and creative atmosphere while painting your own unique masterpie
+ ce! Recommended for ages 14 and up. ⏰ ARRIVAL TIME Our studio opens 30 m
+ inutes prior to class time. We recommend arriving 15&#8211\;30 minutes ear
+ ly to find parking\, grab a drink\, and get settled. Please note: If you a
+ rrive late\, the artist may not be able to fill you in on the steps you mi
+ ssed\, as they will be focused on guiding the rest of the class. If you ar
+ rive more than 20 minutes late\, we kindly ask that you do not join the se
+ ssion. Late arrivals can be disruptive and may not have enough time to com
+ plete the painting. Unfortunately\, we cannot offer refunds or reschedules
+  for late arrivals. 🚗 PARKING INFO Our studio is located at 150 Main St
+ reet (rear entrance)\, Pawtucket\, Rhode Island\, and we have two FREE par
+ king lots: 🚗 One directly attached to our entrance 🚗 A second lot ju
+ st one building down on the same side of the street — clearly labeled 
+ 🪑 WANT TO SIT WITH FRIENDS? If you purchased 2 or more tickets in one t
+ ransaction\, we’ll automatically seat your group together. If you booked
+  separately but want to sit with someone\, please include their first and 
+ last names in the “Additional Information / Order Notes” field during 
+ checkout. 🔄 RESCHEDULING &amp\; CANCELLATION POLICY All reservations ar
+ e non-refundable. However\, if you need to reschedule\, you may request a 
+ reschedule voucher at least 48 hours before your session. You can do this 
+ easily on our website — just [click here]. No-shows cannot be reschedule
+ d. 🚨 CLASS CANCELLATION Classes may be canceled due to low attendance. 
+ In this case\, we’ll notify you and issue a voucher for a future session
+ . We appreciate your understanding and look forward to welcoming you to a 
+ future class! ❄️ INCLEMENT WEATHER POLICY Because New England weather 
+ can be unpredictable\, we typically wait until a few hours before class to
+  make final decisions. If we cancel due to snow or other severe weather\, 
+ we’ll email you a voucher for a future session. Have more questions? Che
+ ck out our [Frequently Asked Questions] page — just [click here].\n\nSou
+ rce: https://www.visitrhodeisland.com/event/birds-of-a-feather-family-pain
+ t-and-pizza-party/111151/
+LOCATION:Paint and Vino\, 150 Main Street\, Pawtucket\, 02860
+URL:https://www.visitrhodeisland.com/event/birds-of-a-feather-family-paint
+ -and-pizza-party/111151/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Blithewold Annual Family Clambake
-DTSTART;VALUE=DATE:20260809
-DTEND;VALUE=DATE:20260810
-DTSTAMP:20260809T161729Z
-UID:b51173f8df7e7529812faf3cafd7@visitri-calendar
+DTSTART;VALUE=DATE:20260810
+DTEND;VALUE=DATE:20260811
+DTSTAMP:20260810T113333Z
+UID:5d747ea2ba741dc9a3d14bb72602@visitri-calendar
 DESCRIPTION:Blithewold Annual Family Clambake Thursday | August 27 5:00 &#
  8211\; 8:00 PM Location: Event Tent The Great Lawn has been the scene of f
  amily clambakes for over a century! Step back in time and stroll the garde
@@ -413,34 +324,41 @@ URL:https://www.visitrhodeisland.com/event/blithewold-annual-family-clamba
  ke/109496/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Boston Legacy Soccer Match vs. Portland Thorns
-DTSTART;VALUE=DATE:20260809
-DTEND;VALUE=DATE:20260810
-DTSTAMP:20260809T161729Z
-UID:99d1f90873431adc45c1169c472b@visitri-calendar
-DESCRIPTION:Check out Boston's newest club - the Boston Legacy women's soc
- cer club - as they take the field at Centreville Bank Stadium during their
-  inaugural season. From exciting matchups to memorable games at the stadiu
- m close to home in RI\, every match is an opportunity to be part of histor
- y as it happens! Check out ticket packages for Rhode Island games: DISCOUN
- TED TICKETS Pride Night Out 401 Edition - You won’t want to miss all the
-  excitement of our Ocean State Pride game\, complete with a never--before-
- seen halftime that is sure to leave you wanting more. Come celebrate true 
- community joy with us as we celebrate OUR LGBTQIA+ community. Fans who pur
- chase through this special offer will receive a special Legacy pride item 
- per ticket purchased. SPECIAL TICKET PACKAGE\n\nSource: https://www.visitr
- hodeisland.com/event/boston-legacy-soccer-match-vs-portland-thorns/108573/
-LOCATION:Centreville Bank Stadium\, 11 Tidewater Street\, Pawtucket\, RI 0
- 2860
-URL:https://www.visitrhodeisland.com/event/boston-legacy-soccer-match-vs-p
- ortland-thorns/108573/
+SUMMARY:Block Island Arts and Artisans Festival
+DTSTART;VALUE=DATE:20260810
+DTEND;VALUE=DATE:20260811
+DTSTAMP:20260810T113333Z
+UID:ec9f75368e406fd31aa78de4dbd7@visitri-calendar
+DESCRIPTION:Beautiful paintings\, pottery\, jewelry\, photography and othe
+ r handmade pieces created by a talented group of artists. Aug 8\, 9\,10 20
+ 26 Victory Weekend at the Narragansett Inn\n\nSource: https://www.visitrho
+ deisland.com/event/block-island-arts-and-artisans-festival/110771/
+LOCATION:Narragansett Inn\, Ocean Avenue\, Block Island\, RI 02807 Time: 1
+ 0:00 AM Ocean Avenue\, Block Island\, RI 02807 OFFICIAL RHODE ISLAND TRAVE
+ L GUIDE Get Guide Get news from Visit Rhode Island in your inbox. Industry
+  Partner Leisure Travel Sign Up Ratings Powered by Press Industry Travel T
+ rade Meetings & Conventions Contact Privacy Policy Sitemap Partner Portal 
+ SMS Privacy Policy SMS Terms & Conditions UGC Terms and Conditions Wedding
+  Planning Press Photos Story Ideas Fun-Sized Rhode Island Rhode Island in 
+ the News Free Travel Guide Contact Visit Rhode Island Industry Travel Trad
+ e Ideas & Itineraries Downton Abbey Lifestyle Rhode Island Foodways Hidden
+  Gems Image Library Free Travel Guide Contact Visit Rhode Island Meetings 
+ & Conventions Contact Privacy Policy Sitemap Partner Portal SMS Privacy Po
+ licy SMS Terms & Conditions UGC Terms and Conditions Wedding Planning Wedd
+ ings - Venues Wedding - Catering Wedding - Cakes Wedding - Attire Wedding 
+ - Florists Wedding - Jewelers Wedding - Transportation © 2026 Rhode Islan
+ d Commerce Corporation Special Offers Offers Here Looking to plan your nex
+ t visit to Rhode Island\, check out some of the current special offers and
+  enjoy savings\, extra perks and more! Offers Here
+URL:https://www.visitrhodeisland.com/event/block-island-arts-and-artisans-
+ festival/110771/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Brew at the Zoo
-DTSTART;VALUE=DATE:20260809
-DTEND;VALUE=DATE:20260810
-DTSTAMP:20260809T161729Z
-UID:f1a23f3b832bf19e92d77e0f5302@visitri-calendar
+DTSTART;VALUE=DATE:20260810
+DTEND;VALUE=DATE:20260811
+DTSTAMP:20260810T113333Z
+UID:4ec05a60bea9676e684911fcd679@visitri-calendar
 DESCRIPTION:Tap into your wild side at Brew at the Zoo on Saturday\, Augus
  t 29th\, an adults-only evening event\, and sample hundreds of beers\, har
  d seltzers\, wines and ready-to-drink cocktails from dozens of local\, reg
@@ -457,96 +375,80 @@ LOCATION:Roger Williams Park Zoo & Carousel Village\, 1000 Elmwood Avenue\
 URL:https://www.visitrhodeisland.com/event/brew-at-the-zoo/110973/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Cars & Coffee — Gardner Seveney Sports Complex
-DTSTART;VALUE=DATE:20260809
-DTEND;VALUE=DATE:20260810
-DTSTAMP:20260809T161729Z
-UID:20f664a1dad3f95da098c9c51415@visitri-calendar
-DESCRIPTION:Cars &amp\; Coffee When: Select Sundays from 8:00 AM - 10:00 A
- M at Gardner Seveney Sports Complex\, 110-298 Linden Lane\, Portsmouth Jul
- y 5 July 26 August 9 September 20 Cars &amp\; Coffee\, hosted by the Audra
- in Automobile Museum\, has grown exponentially since the start - now eight
-  years ago\, only 52 cars appeared at the first event! The Cars &amp\; Cof
- fee family has expanded\, now consistently seeing 350-400 cars on the fiel
- d and more than 1\,000 at the Motor Week event. We feel that Cars &amp\; C
- offee is now the backbone Audrain Automobile Museum and the local car comm
- unity as well. Cheers to another season! Below are a couple reminders for 
- the 2026 Season: For Audrain Members\, registration will open the Monday b
- efore each of the Cars &amp\; Coffee events and public registration will o
- pen on the Wednesday before each of the Cars &amp\; Coffee events. In orde
- r to register for one of the Cars &amp\; Coffee events\, you must be subsc
- ribed to our email list. You cannot register for any of the Cars &amp\; Co
- ffee events through the Audrain website or over the phone. Only Vehicles a
- re required to register for the event. Guests of drivers\, and spectators 
- do not need to register. *All events are subject to change. All events are
-  rain or shine unless noted.\n\nSource: https://www.visitrhodeisland.com/e
- vent/cars-%26-coffee-%e2%80%94-gardner-seveney-sports-complex/110036/
-LOCATION:Gardner Seveney Sports Complex\, 110-298 Linden Lane \, Portsmout
- h\, RI 02871 Time: 8:00 AM to 10:00 AM
-URL:https://www.visitrhodeisland.com/event/cars-%26-coffee-%e2%80%94-gardn
- er-seveney-sports-complex/110036/
+SUMMARY:Creative Survival: Newport's Black History
+DTSTART;VALUE=DATE:20260810
+DTEND;VALUE=DATE:20260811
+DTSTAMP:20260810T113333Z
+UID:57b41b6ae57569530c4fa0a67fb1@visitri-calendar
+DESCRIPTION:Newport Historical Society (NHS) Walking Tour - Creative Survi
+ val: Newport’s Black History Discover the history of Newport’s people 
+ of color\, enslaved and free. Explore the places where enslaved people liv
+ ed and labored\, along with locations where free African Americans built t
+ heir enterprises and supported a new local industry. This tour lasts appro
+ ximately 90 mins. Monday\, January 19th at 1:00 PM Sunday\, March 22nd at 
+ 11:00 AM Monday\, June 1st - Monday\, October 26th at 2:00 PM Health &amp\
+ ; Safety As you explore Newport's rich history with us\, please be aware o
+ f the following health and safety considerations: Active City Environment:
+  Newport is a vibrant\, working city with active traffic and bustling stre
+ ets. Please stay alert and follow your guide's instructions at all times. 
+ Narrow Streets and Sidewalks: Many of Newport's streets and sidewalks are 
+ narrow\, which can sometimes lead to crowded conditions. Please walk singl
+ e file when necessary and be cautious when crossing streets. Uneven and Co
+ bblestone Surfaces: Sidewalks and streets in historic Newport can be uneve
+ n and may include cobblestones. Wear comfortable\, sturdy footwear to navi
+ gate these areas safely. Weather Conditions: Newport's weather can be unpr
+ edictable. Dress in layers\, wear sun protection\, and bring water to stay
+  hydrated\, especially during warm months.\n\nSource: https://www.visitrho
+ deisland.com/event/creative-survival%3a-newports-black-history/109644/
+LOCATION:Newport Historical Society Walking Tours\, 127 Thames Street\, Ne
+ wport\, RI 02840
+URL:https://www.visitrhodeisland.com/event/creative-survival%3a-newports-b
+ lack-history/109644/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Disco Inferno Drag Brunch
-DTSTART;VALUE=DATE:20260809
-DTEND;VALUE=DATE:20260810
-DTSTAMP:20260809T161729Z
-UID:62e07b3825951e62bbb9ed3c7906@visitri-calendar
-DESCRIPTION:Newport OUT is taking you to the golden age of disco with DISC
- O INFERNO DRAG BRUNCH on Sunday\, August 9th\, a brunch where the glitter 
- is endless\, the platforms are sky-high\, and the dance floor is calling. 
- Think Studio 54 glamour\, ABBA-level sparkle\, and queens ready to turn ev
- ery moment into a disco fantasy. Hosted by Boston’s Gigi Glam\, with per
- formances by Kennedy Plaza\, Lucy Diamonds\, and Shania Taint\, this disco
-  dream will be packed with camp\, comedy\, and unforgettable performances.
-  Your $60 ticket includes: A fabulous 2-course brunch A full drag show spe
- ctacular $10 Drink Specials So grab your dancing queens\, disco divas\, an
- d boogie buddies — because DISCO INFERNO DRAG BRUNCH is bringing the Boo
- gie Wonderland you’ve been waiting for.\n\nSource: https://www.visitrhod
- eisland.com/event/disco-inferno-drag-brunch/111092/
-LOCATION:Stoneacre Brasserie\, 28 Washington Square\, Newport\, RI 02840
-URL:https://www.visitrhodeisland.com/event/disco-inferno-drag-brunch/11109
- 2/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dominican Festival & Parade of Rhode Island
-DTSTART;VALUE=DATE:20260809
-DTEND;VALUE=DATE:20260810
-DTSTAMP:20260809T161729Z
-UID:bb58714102f6c48e4f4254a907dd@visitri-calendar
-DESCRIPTION:Parade Route: Corner of Broad Street and Thurbers Avenue. Walk
-  through Broad Street into Roger Williams Park. The Festival will be held 
- at noon at the Temple to Music in Roger Williams Park.\n\nSource: https://
- www.visitrhodeisland.com/event/dominican-festival-%26-parade-of-rhode-isla
- nd/66566/
-LOCATION:Corner of Thurbers Ave. & Broad Street\, Temple to Music in Roger
-  Williams Park \, Providence\, RI 02903 Time: 10:00 AM Corner of Thurbers 
- Ave. & Broad Street\, Temple to Music in Roger Williams Park \, Providence
- \, RI 02903 OFFICIAL RHODE ISLAND TRAVEL GUIDE Get Guide Get news from Vis
- it Rhode Island in your inbox. Industry Partner Leisure Travel Sign Up Rat
- ings Powered by Press Industry Travel Trade Meetings & Conventions Contact
-  Privacy Policy Sitemap Partner Portal SMS Privacy Policy SMS Terms & Cond
- itions UGC Terms and Conditions Wedding Planning Press Photos Story Ideas 
- Fun-Sized Rhode Island Rhode Island in the News Free Travel Guide Contact 
- Visit Rhode Island Industry Travel Trade Ideas & Itineraries Downton Abbey
-  Lifestyle Rhode Island Foodways Hidden Gems Image Library Free Travel Gui
- de Contact Visit Rhode Island Meetings & Conventions Contact Privacy Polic
- y Sitemap Partner Portal SMS Privacy Policy SMS Terms & Conditions UGC Ter
- ms and Conditions Wedding Planning Weddings - Venues Wedding - Catering We
- dding - Cakes Wedding - Attire Wedding - Florists Wedding - Jewelers Weddi
- ng - Transportation © 2026 Rhode Island Commerce Corporation Special Offe
- rs Offers Here Looking to plan your next visit to Rhode Island\, check out
-  some of the current special offers and enjoy savings\, extra perks and mo
- re! Offers Here
-URL:https://www.visitrhodeisland.com/event/dominican-festival-%26-parade-o
- f-rhode-island/66566/
+SUMMARY:Dirty Deeds the ACDC Experience live at Ballard’s
+DTSTART;VALUE=DATE:20260810
+DTEND;VALUE=DATE:20260811
+DTSTAMP:20260810T113333Z
+UID:2e8c5b5b600c495b1df45364b27c@visitri-calendar
+DESCRIPTION:Dirty Deeds the ACDC Experience live at Ballard’s brings str
+ aight up high voltage rock to Block Island for a beach day that turns into
+  a full on singalong. If you want big guitars massive choruses and nonstop
+  energy with the oceanfront vibe at Ballard’s this is the show to plan a
+ round Known for delivering a true to the era ACDC tribute Dirty Deeds the 
+ ACDC Experience recreates the sound attitude and power that made the band 
+ legendary. Expect the anthems everyone knows the riffs that hit instantly 
+ and a performance that keeps the patio moving from the first chord to the 
+ last. Whether you are a lifelong fan or you just want a guaranteed party s
+ et this is the kind of live music that lights up the whole beach\n\nSource
+ : https://www.visitrhodeisland.com/event/dirty-deeds-the-acdc-experience-l
+ ive-at-ballard%e2%80%99s/110501/
+LOCATION:Ballard's Beach Resort\, 42 Water Street\, Block Island\, RI 0280
+ 7 42 Water Street\, Block Island\, RI 02807 OFFICIAL RHODE ISLAND TRAVEL G
+ UIDE Get Guide Get news from Visit Rhode Island in your inbox. Industry Pa
+ rtner Leisure Travel Sign Up Ratings Powered by Press Industry Travel Trad
+ e Meetings & Conventions Contact Privacy Policy Sitemap Partner Portal SMS
+  Privacy Policy SMS Terms & Conditions UGC Terms and Conditions Wedding Pl
+ anning Press Photos Story Ideas Fun-Sized Rhode Island Rhode Island in the
+  News Free Travel Guide Contact Visit Rhode Island Industry Travel Trade I
+ deas & Itineraries Downton Abbey Lifestyle Rhode Island Foodways Hidden Ge
+ ms Image Library Free Travel Guide Contact Visit Rhode Island Meetings & C
+ onventions Contact Privacy Policy Sitemap Partner Portal SMS Privacy Polic
+ y SMS Terms & Conditions UGC Terms and Conditions Wedding Planning Wedding
+ s - Venues Wedding - Catering Wedding - Cakes Wedding - Attire Wedding - F
+ lorists Wedding - Jewelers Wedding - Transportation © 2026 Rhode Island C
+ ommerce Corporation Special Offers Offers Here Looking to plan your next v
+ isit to Rhode Island\, check out some of the current special offers and en
+ joy savings\, extra perks and more! Offers Here
+URL:https://www.visitrhodeisland.com/event/dirty-deeds-the-acdc-experience
+ -live-at-ballard%e2%80%99s/110501/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:General Stanton Inn Blues Music Festival
-DTSTART;VALUE=DATE:20260809
-DTEND;VALUE=DATE:20260810
-DTSTAMP:20260809T161729Z
-UID:f6c5bf40181c044a51e77df8f3ed@visitri-calendar
+DTSTART;VALUE=DATE:20260810
+DTEND;VALUE=DATE:20260811
+DTSTAMP:20260810T113333Z
+UID:5d69be53229368b3fdcbe85b3f4b@visitri-calendar
 DESCRIPTION:Top Rhode Island blues music artists perform under the Stanton
   tent\, bbq\, beer\, seafood\, bourbon and more. Bring a lawn chair.\n\nSo
  urce: https://www.visitrhodeisland.com/event/general-stanton-inn-blues-mus
@@ -557,10 +459,10 @@ URL:https://www.visitrhodeisland.com/event/general-stanton-inn-blues-music
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Jacob Hackworth Live at Moonshine Alley!
-DTSTART;VALUE=DATE:20260809
-DTEND;VALUE=DATE:20260810
-DTSTAMP:20260809T161729Z
-UID:960747b7c9cc50ceee658d2850b3@visitri-calendar
+DTSTART;VALUE=DATE:20260810
+DTEND;VALUE=DATE:20260811
+DTSTAMP:20260810T113333Z
+UID:0de004cbe79d59ea9252c423546a@visitri-calendar
 DESCRIPTION:ON SALE NOW Cat Country 98.1 presents Jacob Hackworth LIVE at 
  Moonshine Alley on Tuesday\, August 25th! MCA Records &amp\; Nashville sin
  ger and songwriter Jacob Hackworth is coming to Providence for one night o
@@ -580,10 +482,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:NIMFest: Groove Merchants w/ Olivia Nied | Live\, Outdoor Music at
   King Park
-DTSTART;VALUE=DATE:20260809
-DTEND;VALUE=DATE:20260810
-DTSTAMP:20260809T161729Z
-UID:dc4ef4592a9415d4169e5c4c2dab@visitri-calendar
+DTSTART;VALUE=DATE:20260810
+DTEND;VALUE=DATE:20260811
+DTSTAMP:20260810T113333Z
+UID:c0df5f2425e0c30f1fabf999297b@visitri-calendar
 DESCRIPTION:NIMFest (Newport Independent Music Festival) comes to you live
   from the King Park Gazebo at 125 Wellington Ave in Newport. This FREE\, w
  eekly concert series runs every Sunday in July and August from 3:00-6:00PM
@@ -599,10 +501,10 @@ URL:https://www.visitrhodeisland.com/event/nimfest%3a-groove-merchants-w-o
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Puerto Rican Festival
-DTSTART;VALUE=DATE:20260809
-DTEND;VALUE=DATE:20260810
-DTSTAMP:20260809T161729Z
-UID:bc285edad7954d2e5e763c340edc@visitri-calendar
+DTSTART;VALUE=DATE:20260810
+DTEND;VALUE=DATE:20260811
+DTSTAMP:20260810T113333Z
+UID:91be3ca37329cc78acf51d8229eb@visitri-calendar
 DESCRIPTION:We are proud to announce the Puerto Rican Festival in Woonsock
  et\, a vibrant cultural celebration set to take place [August 29\, 2026] a
  t [River Island Park\, Woonsocket\, RI]. This landmark event will bring to
@@ -634,10 +536,10 @@ URL:https://www.visitrhodeisland.com/event/puerto-rican-festival/109367/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Summer Favorites and Jimmy Buffett Hits Live Music Cruise
-DTSTART;VALUE=DATE:20260809
-DTEND;VALUE=DATE:20260810
-DTSTAMP:20260809T161729Z
-UID:79a9d0b22f6051823e9662763d89@visitri-calendar
+DTSTART;VALUE=DATE:20260810
+DTEND;VALUE=DATE:20260811
+DTSTAMP:20260810T113333Z
+UID:7a4024979774cb55b7fb1476597d@visitri-calendar
 DESCRIPTION:Enjoy live summer favorites by Brian Cabral—including classi
  c Jimmy Buffett hits—aboard Coastal Queen as she cruises from Jamestown 
  through Narragansett Bay and around Newport Harbor. Enjoy a summer beverag
@@ -651,10 +553,10 @@ URL:https://www.visitrhodeisland.com/event/summer-favorites-and-jimmy-buff
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Teacher's Lounge
-DTSTART;VALUE=DATE:20260809
-DTEND;VALUE=DATE:20260810
-DTSTAMP:20260809T161729Z
-UID:85792d3fcc889cf887775c0ca28c@visitri-calendar
+DTSTART;VALUE=DATE:20260810
+DTEND;VALUE=DATE:20260811
+DTSTAMP:20260810T113333Z
+UID:4a3044d629f75c8685b35d555c84@visitri-calendar
 DESCRIPTION:Join three seasoned educators—Gaspare Randazzo (Netflix\, Th
  e Social Studies Podcast and @StandUpRandazzo on social media)\, Philip Li
  ndsay (Social Media Sensation @Mr_PhLindsay_Sped on IG\, The Today Show)\,
@@ -671,40 +573,10 @@ LOCATION:Comedy Connection\, 39 Warren Avenue\, East Providence\, RI 02914
 URL:https://www.visitrhodeisland.com/event/teachers-lounge/111067/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Block Island Arts and Artisans Festival
-DTSTART;VALUE=DATE:20260810
-DTEND;VALUE=DATE:20260811
-DTSTAMP:20260809T161729Z
-UID:ec9f75368e406fd31aa78de4dbd7@visitri-calendar
-DESCRIPTION:Beautiful paintings\, pottery\, jewelry\, photography and othe
- r handmade pieces created by a talented group of artists. Aug 8\, 9\,10 20
- 26 Victory Weekend at the Narragansett Inn\n\nSource: https://www.visitrho
- deisland.com/event/block-island-arts-and-artisans-festival/110771/
-LOCATION:Narragansett Inn\, Ocean Avenue\, Block Island\, RI 02807 Time: 1
- 0:00 AM Ocean Avenue\, Block Island\, RI 02807 OFFICIAL RHODE ISLAND TRAVE
- L GUIDE Get Guide Get news from Visit Rhode Island in your inbox. Industry
-  Partner Leisure Travel Sign Up Ratings Powered by Press Industry Travel T
- rade Meetings & Conventions Contact Privacy Policy Sitemap Partner Portal 
- SMS Privacy Policy SMS Terms & Conditions UGC Terms and Conditions Wedding
-  Planning Press Photos Story Ideas Fun-Sized Rhode Island Rhode Island in 
- the News Free Travel Guide Contact Visit Rhode Island Industry Travel Trad
- e Ideas & Itineraries Downton Abbey Lifestyle Rhode Island Foodways Hidden
-  Gems Image Library Free Travel Guide Contact Visit Rhode Island Meetings 
- & Conventions Contact Privacy Policy Sitemap Partner Portal SMS Privacy Po
- licy SMS Terms & Conditions UGC Terms and Conditions Wedding Planning Wedd
- ings - Venues Wedding - Catering Wedding - Cakes Wedding - Attire Wedding 
- - Florists Wedding - Jewelers Wedding - Transportation © 2026 Rhode Islan
- d Commerce Corporation Special Offers Offers Here Looking to plan your nex
- t visit to Rhode Island\, check out some of the current special offers and
-  enjoy savings\, extra perks and more! Offers Here
-URL:https://www.visitrhodeisland.com/event/block-island-arts-and-artisans-
- festival/110771/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Summer Favorites and Jimmy Buffett Hits Live Music Cruise
 DTSTART;VALUE=DATE:20260811
 DTEND;VALUE=DATE:20260812
-DTSTAMP:20260809T161729Z
+DTSTAMP:20260810T113333Z
 UID:056543a81d213d141e0bdc15d1b7@visitri-calendar
 DESCRIPTION:Enjoy live summer favorites by Brian Cabral—including classi
  c Jimmy Buffett hits—aboard Coastal Queen as she cruises from Jamestown 
@@ -718,118 +590,10 @@ URL:https://www.visitrhodeisland.com/event/summer-favorites-and-jimmy-buff
  ett-hits-live-music-cruise/109532/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:"Mea Duke: Dreamliners" Exhibit
-DTSTART;VALUE=DATE:20260812
-DTEND;VALUE=DATE:20260813
-DTSTAMP:20260809T161729Z
-UID:0d2908b3e8444a300050978eb771@visitri-calendar
-DESCRIPTION:Jessica Hagen Fine Art + Design is pleased to announce the exh
- ibit: "Mea Duke: Dreamliners" August 1 - August 30\, 2026. This solo exhib
- ition marks Mea Duke’s third solo show with Jessica Hagen’s gallery. D
- reamliners assembles objects and images from the mid-twentieth century mom
- ent when progress felt most like destiny: Pan Am flying boats\, LIFE magaz
- ines\, lifejackets\, sunblock\, straw hats\, shipping containers\, endless
-  horizons. Together they form an archive of optimism\, sleek engineering\,
-  and the promise that the world was suddenly\, thrillingly within reach. T
- he title borrows from Boeing's Dreamliner\, an aircraft whose name still t
- rades on the same aspirational language the Pan Am era perfected. Duke's p
- ractice has long lived in the space between painting an object and treatin
- g the painting itself as an object\, an artifact with its own weight\, mat
- eriality\, and history. Jessica Hagen states\, “Dreamliners is a smart\,
-  fun and beautifully executed show. Mea Duke is a highly skilled painter a
- nd she is very clearly on top of her game\; treating us to paintings that 
- are in her words\, created slowly by hand\, with clean deliberate precisio
- n. Replete with iconic objects and imagery rendered as only Duke can\, thi
- s show is not to be missed.” “Mea Duke: Dreamliners” closes August 3
- 0\, 2026. Jessica Hagen Fine Art + Design was founded in 2005 and features
-  contemporary art including painting\, sculpture\, photography\, ceramics\
- , textiles\, and jewelry. Located in the historic Point section of Newport
- \, the gallery’s hours are Wednesday- Saturday 11:00 AM - 5:00 PM\, and 
- Sunday 12:00 - 5:00 PM. The gallery is also open by appointment. Image Att
- ached: Mea Duke Flying Boat I oil/canvas 40” x 64”\n\nSource: https://
- www.visitrhodeisland.com/event/mea-duke%3a-dreamliners-exhibit/111171/
-LOCATION:Jessica Hagen Fine Art & Design\, 9A Bridge Street\, Newport\, RI
-  02840
-URL:https://www.visitrhodeisland.com/event/mea-duke%3a-dreamliners-exhibit
- /111171/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:"Mea Duke: Dreamliners" Exhibit
-DTSTART;VALUE=DATE:20260813
-DTEND;VALUE=DATE:20260814
-DTSTAMP:20260809T161729Z
-UID:d4e7b3cf0b2067165006c2948d8a@visitri-calendar
-DESCRIPTION:Jessica Hagen Fine Art + Design is pleased to announce the exh
- ibit: "Mea Duke: Dreamliners" August 1 - August 30\, 2026. This solo exhib
- ition marks Mea Duke’s third solo show with Jessica Hagen’s gallery. D
- reamliners assembles objects and images from the mid-twentieth century mom
- ent when progress felt most like destiny: Pan Am flying boats\, LIFE magaz
- ines\, lifejackets\, sunblock\, straw hats\, shipping containers\, endless
-  horizons. Together they form an archive of optimism\, sleek engineering\,
-  and the promise that the world was suddenly\, thrillingly within reach. T
- he title borrows from Boeing's Dreamliner\, an aircraft whose name still t
- rades on the same aspirational language the Pan Am era perfected. Duke's p
- ractice has long lived in the space between painting an object and treatin
- g the painting itself as an object\, an artifact with its own weight\, mat
- eriality\, and history. Jessica Hagen states\, “Dreamliners is a smart\,
-  fun and beautifully executed show. Mea Duke is a highly skilled painter a
- nd she is very clearly on top of her game\; treating us to paintings that 
- are in her words\, created slowly by hand\, with clean deliberate precisio
- n. Replete with iconic objects and imagery rendered as only Duke can\, thi
- s show is not to be missed.” “Mea Duke: Dreamliners” closes August 3
- 0\, 2026. Jessica Hagen Fine Art + Design was founded in 2005 and features
-  contemporary art including painting\, sculpture\, photography\, ceramics\
- , textiles\, and jewelry. Located in the historic Point section of Newport
- \, the gallery’s hours are Wednesday- Saturday 11:00 AM - 5:00 PM\, and 
- Sunday 12:00 - 5:00 PM. The gallery is also open by appointment. Image Att
- ached: Mea Duke Flying Boat I oil/canvas 40” x 64”\n\nSource: https://
- www.visitrhodeisland.com/event/mea-duke%3a-dreamliners-exhibit/111171/
-LOCATION:Jessica Hagen Fine Art & Design\, 9A Bridge Street\, Newport\, RI
-  02840
-URL:https://www.visitrhodeisland.com/event/mea-duke%3a-dreamliners-exhibit
- /111171/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:"Mea Duke: Dreamliners" Exhibit
-DTSTART;VALUE=DATE:20260814
-DTEND;VALUE=DATE:20260815
-DTSTAMP:20260809T161729Z
-UID:76010e0409a83e73c4134afa53eb@visitri-calendar
-DESCRIPTION:Jessica Hagen Fine Art + Design is pleased to announce the exh
- ibit: "Mea Duke: Dreamliners" August 1 - August 30\, 2026. This solo exhib
- ition marks Mea Duke’s third solo show with Jessica Hagen’s gallery. D
- reamliners assembles objects and images from the mid-twentieth century mom
- ent when progress felt most like destiny: Pan Am flying boats\, LIFE magaz
- ines\, lifejackets\, sunblock\, straw hats\, shipping containers\, endless
-  horizons. Together they form an archive of optimism\, sleek engineering\,
-  and the promise that the world was suddenly\, thrillingly within reach. T
- he title borrows from Boeing's Dreamliner\, an aircraft whose name still t
- rades on the same aspirational language the Pan Am era perfected. Duke's p
- ractice has long lived in the space between painting an object and treatin
- g the painting itself as an object\, an artifact with its own weight\, mat
- eriality\, and history. Jessica Hagen states\, “Dreamliners is a smart\,
-  fun and beautifully executed show. Mea Duke is a highly skilled painter a
- nd she is very clearly on top of her game\; treating us to paintings that 
- are in her words\, created slowly by hand\, with clean deliberate precisio
- n. Replete with iconic objects and imagery rendered as only Duke can\, thi
- s show is not to be missed.” “Mea Duke: Dreamliners” closes August 3
- 0\, 2026. Jessica Hagen Fine Art + Design was founded in 2005 and features
-  contemporary art including painting\, sculpture\, photography\, ceramics\
- , textiles\, and jewelry. Located in the historic Point section of Newport
- \, the gallery’s hours are Wednesday- Saturday 11:00 AM - 5:00 PM\, and 
- Sunday 12:00 - 5:00 PM. The gallery is also open by appointment. Image Att
- ached: Mea Duke Flying Boat I oil/canvas 40” x 64”\n\nSource: https://
- www.visitrhodeisland.com/event/mea-duke%3a-dreamliners-exhibit/111171/
-LOCATION:Jessica Hagen Fine Art & Design\, 9A Bridge Street\, Newport\, RI
-  02840
-URL:https://www.visitrhodeisland.com/event/mea-duke%3a-dreamliners-exhibit
- /111171/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Willy Wonka Jr.
 DTSTART;VALUE=DATE:20260814
 DTEND;VALUE=DATE:20260815
-DTSTAMP:20260809T161729Z
+DTSTAMP:20260810T113333Z
 UID:a5e49a0a0720ec778da40a452ea2@visitri-calendar
 DESCRIPTION:Step into a world of pure imagination with Willy Wonka Jr. ! J
  oin Charlie Bucket as he embarks on a magical adventure through Willy Wonk
@@ -843,46 +607,10 @@ LOCATION:Granite Theatre\, 1 Granite Street\, Westerly\, RI 02891
 URL:https://www.visitrhodeisland.com/event/willy-wonka-jr/108276/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:"Mea Duke: Dreamliners" Exhibit
-DTSTART;VALUE=DATE:20260815
-DTEND;VALUE=DATE:20260816
-DTSTAMP:20260809T161729Z
-UID:85b2278e619d7497dada8fbd7634@visitri-calendar
-DESCRIPTION:Jessica Hagen Fine Art + Design is pleased to announce the exh
- ibit: "Mea Duke: Dreamliners" August 1 - August 30\, 2026. This solo exhib
- ition marks Mea Duke’s third solo show with Jessica Hagen’s gallery. D
- reamliners assembles objects and images from the mid-twentieth century mom
- ent when progress felt most like destiny: Pan Am flying boats\, LIFE magaz
- ines\, lifejackets\, sunblock\, straw hats\, shipping containers\, endless
-  horizons. Together they form an archive of optimism\, sleek engineering\,
-  and the promise that the world was suddenly\, thrillingly within reach. T
- he title borrows from Boeing's Dreamliner\, an aircraft whose name still t
- rades on the same aspirational language the Pan Am era perfected. Duke's p
- ractice has long lived in the space between painting an object and treatin
- g the painting itself as an object\, an artifact with its own weight\, mat
- eriality\, and history. Jessica Hagen states\, “Dreamliners is a smart\,
-  fun and beautifully executed show. Mea Duke is a highly skilled painter a
- nd she is very clearly on top of her game\; treating us to paintings that 
- are in her words\, created slowly by hand\, with clean deliberate precisio
- n. Replete with iconic objects and imagery rendered as only Duke can\, thi
- s show is not to be missed.” “Mea Duke: Dreamliners” closes August 3
- 0\, 2026. Jessica Hagen Fine Art + Design was founded in 2005 and features
-  contemporary art including painting\, sculpture\, photography\, ceramics\
- , textiles\, and jewelry. Located in the historic Point section of Newport
- \, the gallery’s hours are Wednesday- Saturday 11:00 AM - 5:00 PM\, and 
- Sunday 12:00 - 5:00 PM. The gallery is also open by appointment. Image Att
- ached: Mea Duke Flying Boat I oil/canvas 40” x 64”\n\nSource: https://
- www.visitrhodeisland.com/event/mea-duke%3a-dreamliners-exhibit/111171/
-LOCATION:Jessica Hagen Fine Art & Design\, 9A Bridge Street\, Newport\, RI
-  02840
-URL:https://www.visitrhodeisland.com/event/mea-duke%3a-dreamliners-exhibit
- /111171/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Island Rhodes Music Festival
 DTSTART;VALUE=DATE:20260815
 DTEND;VALUE=DATE:20260816
-DTSTAMP:20260809T161729Z
+DTSTAMP:20260810T113333Z
 UID:ace7c364f24262c067e163fb9b96@visitri-calendar
 DESCRIPTION:The Ocean State is welcoming a brand-new marquee music festiva
  l this summer with the debut of Centreville Bank Stadium’s first-ever co
@@ -910,7 +638,7 @@ BEGIN:VEVENT
 SUMMARY:Live Music by Logan Vale
 DTSTART;VALUE=DATE:20260815
 DTEND;VALUE=DATE:20260816
-DTSTAMP:20260809T161729Z
+DTSTAMP:20260810T113333Z
 UID:83f1c7264b84148bcd597ec3aec6@visitri-calendar
 DESCRIPTION:The music of Logan Vale! Dinner reservations required either o
  nline or call 401.861.3850 x. 3\n\nSource: https://www.visitrhodeisland.co
@@ -924,7 +652,7 @@ BEGIN:VEVENT
 SUMMARY:Willy Wonka Jr.
 DTSTART;VALUE=DATE:20260815
 DTEND;VALUE=DATE:20260816
-DTSTAMP:20260809T161729Z
+DTSTAMP:20260810T113333Z
 UID:c446ddac28bb55719dccb612ecb1@visitri-calendar
 DESCRIPTION:Step into a world of pure imagination with Willy Wonka Jr. ! J
  oin Charlie Bucket as he embarks on a magical adventure through Willy Wonk
@@ -941,7 +669,7 @@ BEGIN:VEVENT
 SUMMARY:Island Rhodes Music Festival
 DTSTART;VALUE=DATE:20260816
 DTEND;VALUE=DATE:20260817
-DTSTAMP:20260809T161729Z
+DTSTAMP:20260810T113333Z
 UID:93e5ea0aa328c3ced2b4563c7e32@visitri-calendar
 DESCRIPTION:The Ocean State is welcoming a brand-new marquee music festiva
  l this summer with the debut of Centreville Bank Stadium’s first-ever co
@@ -969,7 +697,7 @@ BEGIN:VEVENT
 SUMMARY:Teacher's Lounge
 DTSTART;VALUE=DATE:20260816
 DTEND;VALUE=DATE:20260817
-DTSTAMP:20260809T161729Z
+DTSTAMP:20260810T113333Z
 UID:38916c245d764c09eb4e210e1dc3@visitri-calendar
 DESCRIPTION:Join three seasoned educators—Gaspare Randazzo (Netflix\, Th
  e Social Studies Podcast and @StandUpRandazzo on social media)\, Philip Li
@@ -987,10 +715,41 @@ LOCATION:Comedy Connection\, 39 Warren Avenue\, East Providence\, RI 02914
 URL:https://www.visitrhodeisland.com/event/teachers-lounge/111067/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Creative Survival: Newport's Black History
+DTSTART;VALUE=DATE:20260817
+DTEND;VALUE=DATE:20260818
+DTSTAMP:20260810T113333Z
+UID:4d502ff53be71146a18e492e19cd@visitri-calendar
+DESCRIPTION:Newport Historical Society (NHS) Walking Tour - Creative Survi
+ val: Newport’s Black History Discover the history of Newport’s people 
+ of color\, enslaved and free. Explore the places where enslaved people liv
+ ed and labored\, along with locations where free African Americans built t
+ heir enterprises and supported a new local industry. This tour lasts appro
+ ximately 90 mins. Monday\, January 19th at 1:00 PM Sunday\, March 22nd at 
+ 11:00 AM Monday\, June 1st - Monday\, October 26th at 2:00 PM Health &amp\
+ ; Safety As you explore Newport's rich history with us\, please be aware o
+ f the following health and safety considerations: Active City Environment:
+  Newport is a vibrant\, working city with active traffic and bustling stre
+ ets. Please stay alert and follow your guide's instructions at all times. 
+ Narrow Streets and Sidewalks: Many of Newport's streets and sidewalks are 
+ narrow\, which can sometimes lead to crowded conditions. Please walk singl
+ e file when necessary and be cautious when crossing streets. Uneven and Co
+ bblestone Surfaces: Sidewalks and streets in historic Newport can be uneve
+ n and may include cobblestones. Wear comfortable\, sturdy footwear to navi
+ gate these areas safely. Weather Conditions: Newport's weather can be unpr
+ edictable. Dress in layers\, wear sun protection\, and bring water to stay
+  hydrated\, especially during warm months.\n\nSource: https://www.visitrho
+ deisland.com/event/creative-survival%3a-newports-black-history/109644/
+LOCATION:Newport Historical Society Walking Tours\, 127 Thames Street\, Ne
+ wport\, RI 02840
+URL:https://www.visitrhodeisland.com/event/creative-survival%3a-newports-b
+ lack-history/109644/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:General Stanton Inn Blues Music Festival
 DTSTART;VALUE=DATE:20260823
 DTEND;VALUE=DATE:20260824
-DTSTAMP:20260809T161729Z
+DTSTAMP:20260810T113333Z
 UID:d4af5e9754de8b7973ccbe936045@visitri-calendar
 DESCRIPTION:Top Rhode Island blues music artists perform under the Stanton
   tent\, bbq\, beer\, seafood\, bourbon and more. Bring a lawn chair.\n\nSo
@@ -1005,7 +764,7 @@ SUMMARY:NIMFest: Groove Merchants w/ Olivia Nied | Live\, Outdoor Music at
   King Park
 DTSTART;VALUE=DATE:20260823
 DTEND;VALUE=DATE:20260824
-DTSTAMP:20260809T161729Z
+DTSTAMP:20260810T113333Z
 UID:e43d950bc7c5636c64f3187cf4d2@visitri-calendar
 DESCRIPTION:NIMFest (Newport Independent Music Festival) comes to you live
   from the King Park Gazebo at 125 Wellington Ave in Newport. This FREE\, w
@@ -1021,10 +780,41 @@ URL:https://www.visitrhodeisland.com/event/nimfest%3a-groove-merchants-w-o
  livia-nied-%7c-live-outdoor-music-at-king-park/109909/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Creative Survival: Newport's Black History
+DTSTART;VALUE=DATE:20260824
+DTEND;VALUE=DATE:20260825
+DTSTAMP:20260810T113333Z
+UID:1d3137f0fcc08a560dc162b339f8@visitri-calendar
+DESCRIPTION:Newport Historical Society (NHS) Walking Tour - Creative Survi
+ val: Newport’s Black History Discover the history of Newport’s people 
+ of color\, enslaved and free. Explore the places where enslaved people liv
+ ed and labored\, along with locations where free African Americans built t
+ heir enterprises and supported a new local industry. This tour lasts appro
+ ximately 90 mins. Monday\, January 19th at 1:00 PM Sunday\, March 22nd at 
+ 11:00 AM Monday\, June 1st - Monday\, October 26th at 2:00 PM Health &amp\
+ ; Safety As you explore Newport's rich history with us\, please be aware o
+ f the following health and safety considerations: Active City Environment:
+  Newport is a vibrant\, working city with active traffic and bustling stre
+ ets. Please stay alert and follow your guide's instructions at all times. 
+ Narrow Streets and Sidewalks: Many of Newport's streets and sidewalks are 
+ narrow\, which can sometimes lead to crowded conditions. Please walk singl
+ e file when necessary and be cautious when crossing streets. Uneven and Co
+ bblestone Surfaces: Sidewalks and streets in historic Newport can be uneve
+ n and may include cobblestones. Wear comfortable\, sturdy footwear to navi
+ gate these areas safely. Weather Conditions: Newport's weather can be unpr
+ edictable. Dress in layers\, wear sun protection\, and bring water to stay
+  hydrated\, especially during warm months.\n\nSource: https://www.visitrho
+ deisland.com/event/creative-survival%3a-newports-black-history/109644/
+LOCATION:Newport Historical Society Walking Tours\, 127 Thames Street\, Ne
+ wport\, RI 02840
+URL:https://www.visitrhodeisland.com/event/creative-survival%3a-newports-b
+ lack-history/109644/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Jacob Hackworth Live at Moonshine Alley!
 DTSTART;VALUE=DATE:20260825
 DTEND;VALUE=DATE:20260826
-DTSTAMP:20260809T161729Z
+DTSTAMP:20260810T113333Z
 UID:f35a8fe4166371ef1f7d3be66b07@visitri-calendar
 DESCRIPTION:ON SALE NOW Cat Country 98.1 presents Jacob Hackworth LIVE at 
  Moonshine Alley on Tuesday\, August 25th! MCA Records &amp\; Nashville sin
@@ -1046,7 +836,7 @@ BEGIN:VEVENT
 SUMMARY:Music at Sunset: Concert Series 2026
 DTSTART;VALUE=DATE:20260826
 DTEND;VALUE=DATE:20260827
-DTSTAMP:20260809T161729Z
+DTSTAMP:20260810T113333Z
 UID:f7374ee07909032aafe715f097f0@visitri-calendar
 DESCRIPTION:Music at Sunset: Concert Series 2026 Wednesdays | June 3 &#821
  1\; August 26 Music from 6:00 &#8211\; 8:00 PM\, Parking and Check-in open
@@ -1096,7 +886,7 @@ BEGIN:VEVENT
 SUMMARY:Blithewold Annual Family Clambake
 DTSTART;VALUE=DATE:20260827
 DTEND;VALUE=DATE:20260828
-DTSTAMP:20260809T161729Z
+DTSTAMP:20260810T113333Z
 UID:527f3299a90d3c05a0676865fdb2@visitri-calendar
 DESCRIPTION:Blithewold Annual Family Clambake Thursday | August 27 5:00 &#
  8211\; 8:00 PM Location: Event Tent The Great Lawn has been the scene of f
@@ -1154,7 +944,7 @@ BEGIN:VEVENT
 SUMMARY:Food Truck Concert Nights - Diamond Hill Park
 DTSTART;VALUE=DATE:20260827
 DTEND;VALUE=DATE:20260828
-DTSTAMP:20260809T161729Z
+DTSTAMP:20260810T113333Z
 UID:6f571d24d4473b04f931421aed68@visitri-calendar
 DESCRIPTION:We return to Diamond Hill Park in Cumberland for another serie
  s of memorable events in 2026. Attendance is free\, just pay for what you 
@@ -1182,7 +972,7 @@ BEGIN:VEVENT
 SUMMARY:Brew at the Zoo
 DTSTART;VALUE=DATE:20260829
 DTEND;VALUE=DATE:20260830
-DTSTAMP:20260809T161729Z
+DTSTAMP:20260810T113333Z
 UID:2f2070c631904a407ca11ec8d953@visitri-calendar
 DESCRIPTION:Tap into your wild side at Brew at the Zoo on Saturday\, Augus
  t 29th\, an adults-only evening event\, and sample hundreds of beers\, har
@@ -1203,7 +993,7 @@ BEGIN:VEVENT
 SUMMARY:Field of Artisans at the Beach
 DTSTART;VALUE=DATE:20260829
 DTEND;VALUE=DATE:20260830
-DTSTAMP:20260809T161729Z
+DTSTAMP:20260810T113333Z
 UID:ccb222ee4b8c9bc014c177518d7d@visitri-calendar
 DESCRIPTION:Join Field of Artisans on Saturdays this summer for the 11th y
  ear of bringing creativity to this beautiful location! Artists will displa
@@ -1220,7 +1010,7 @@ BEGIN:VEVENT
 SUMMARY:Live Music by Logan Vale
 DTSTART;VALUE=DATE:20260829
 DTEND;VALUE=DATE:20260830
-DTSTAMP:20260809T161729Z
+DTSTAMP:20260810T113333Z
 UID:51d81b6b9ac830a4dbc32c26efd3@visitri-calendar
 DESCRIPTION:The music of Logan Vale! Dinner reservations required either o
  nline or call 401.861.3850 x. 3\n\nSource: https://www.visitrhodeisland.co
@@ -1234,7 +1024,7 @@ BEGIN:VEVENT
 SUMMARY:Puerto Rican Festival
 DTSTART;VALUE=DATE:20260829
 DTEND;VALUE=DATE:20260830
-DTSTAMP:20260809T161729Z
+DTSTAMP:20260810T113333Z
 UID:cd67e316cf44f09e5ad6a29b3974@visitri-calendar
 DESCRIPTION:We are proud to announce the Puerto Rican Festival in Woonsock
  et\, a vibrant cultural celebration set to take place [August 29\, 2026] a
@@ -1266,46 +1056,127 @@ LOCATION:River Island Art Park\, River Island Art Park\, 57 Bernon St\, Wo
 URL:https://www.visitrhodeisland.com/event/puerto-rican-festival/109367/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:"Mea Duke: Dreamliners" Exhibit
-DTSTART;VALUE=DATE:20260830
-DTEND;VALUE=DATE:20260831
-DTSTAMP:20260809T161729Z
-UID:1ceb74b8635685237cf864c3942d@visitri-calendar
-DESCRIPTION:Jessica Hagen Fine Art + Design is pleased to announce the exh
- ibit: "Mea Duke: Dreamliners" August 1 - August 30\, 2026. This solo exhib
- ition marks Mea Duke’s third solo show with Jessica Hagen’s gallery. D
- reamliners assembles objects and images from the mid-twentieth century mom
- ent when progress felt most like destiny: Pan Am flying boats\, LIFE magaz
- ines\, lifejackets\, sunblock\, straw hats\, shipping containers\, endless
-  horizons. Together they form an archive of optimism\, sleek engineering\,
-  and the promise that the world was suddenly\, thrillingly within reach. T
- he title borrows from Boeing's Dreamliner\, an aircraft whose name still t
- rades on the same aspirational language the Pan Am era perfected. Duke's p
- ractice has long lived in the space between painting an object and treatin
- g the painting itself as an object\, an artifact with its own weight\, mat
- eriality\, and history. Jessica Hagen states\, “Dreamliners is a smart\,
-  fun and beautifully executed show. Mea Duke is a highly skilled painter a
- nd she is very clearly on top of her game\; treating us to paintings that 
- are in her words\, created slowly by hand\, with clean deliberate precisio
- n. Replete with iconic objects and imagery rendered as only Duke can\, thi
- s show is not to be missed.” “Mea Duke: Dreamliners” closes August 3
- 0\, 2026. Jessica Hagen Fine Art + Design was founded in 2005 and features
-  contemporary art including painting\, sculpture\, photography\, ceramics\
- , textiles\, and jewelry. Located in the historic Point section of Newport
- \, the gallery’s hours are Wednesday- Saturday 11:00 AM - 5:00 PM\, and 
- Sunday 12:00 - 5:00 PM. The gallery is also open by appointment. Image Att
- ached: Mea Duke Flying Boat I oil/canvas 40” x 64”\n\nSource: https://
- www.visitrhodeisland.com/event/mea-duke%3a-dreamliners-exhibit/111171/
-LOCATION:Jessica Hagen Fine Art & Design\, 9A Bridge Street\, Newport\, RI
-  02840
-URL:https://www.visitrhodeisland.com/event/mea-duke%3a-dreamliners-exhibit
- /111171/
+SUMMARY:Bruce Jacques Show at One Pelham East
+DTSTART;VALUE=DATE:20260831
+DTEND;VALUE=DATE:20260901
+DTSTAMP:20260810T113333Z
+UID:571ee8f608107624e8eb6fbb1a47@visitri-calendar
+DESCRIPTION:Bruce Jacques Show at One Pelham East When: Every Monday from 
+ 9:00 PM to 12:00 AM (May 25 - August 25\, 2026) Where: 1 Pelham East\, New
+ port\, RI 02840 Bruce incorporates comedy spoofs of artists such as Queen\
+ , Beyonce\, Guns and Roses\, Britney Spears\, Elvis\, and many more. His r
+ epertoire is a mix of songs everyone knows by heart from the sixties to to
+ day’s top hits. He also involves the audience with a six foot L.E.D. lig
+ ht board that displays the words for sing-a-longs. Bruce's ability to conn
+ ect with audiences of all ages and in all types of settings is something t
+ hat comes only with years of experience. He also possesses the natural abi
+ lity to make people feel comfortable - to make them laugh\, sing\, and dan
+ ce. Bruce's experience includes over three decades of private parties\, co
+ rporate functions\, colleges\, nightclubs and resorts. Bruce has several l
+ ong-standing gigs including:\n\nSource: https://www.visitrhodeisland.com/e
+ vent/bruce-jacques-show-at-one-pelham-east/110092/
+LOCATION:1 Pelham East\, 270 Thames Street\, Newport\, RI 02840
+URL:https://www.visitrhodeisland.com/event/bruce-jacques-show-at-one-pelha
+ m-east/110092/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Creative Survival: Newport's Black History
+DTSTART;VALUE=DATE:20260831
+DTEND;VALUE=DATE:20260901
+DTSTAMP:20260810T113333Z
+UID:e6bbf225abe55aff5aa095991f60@visitri-calendar
+DESCRIPTION:Newport Historical Society (NHS) Walking Tour - Creative Survi
+ val: Newport’s Black History Discover the history of Newport’s people 
+ of color\, enslaved and free. Explore the places where enslaved people liv
+ ed and labored\, along with locations where free African Americans built t
+ heir enterprises and supported a new local industry. This tour lasts appro
+ ximately 90 mins. Monday\, January 19th at 1:00 PM Sunday\, March 22nd at 
+ 11:00 AM Monday\, June 1st - Monday\, October 26th at 2:00 PM Health &amp\
+ ; Safety As you explore Newport's rich history with us\, please be aware o
+ f the following health and safety considerations: Active City Environment:
+  Newport is a vibrant\, working city with active traffic and bustling stre
+ ets. Please stay alert and follow your guide's instructions at all times. 
+ Narrow Streets and Sidewalks: Many of Newport's streets and sidewalks are 
+ narrow\, which can sometimes lead to crowded conditions. Please walk singl
+ e file when necessary and be cautious when crossing streets. Uneven and Co
+ bblestone Surfaces: Sidewalks and streets in historic Newport can be uneve
+ n and may include cobblestones. Wear comfortable\, sturdy footwear to navi
+ gate these areas safely. Weather Conditions: Newport's weather can be unpr
+ edictable. Dress in layers\, wear sun protection\, and bring water to stay
+  hydrated\, especially during warm months.\n\nSource: https://www.visitrho
+ deisland.com/event/creative-survival%3a-newports-black-history/109644/
+LOCATION:Newport Historical Society Walking Tours\, 127 Thames Street\, Ne
+ wport\, RI 02840
+URL:https://www.visitrhodeisland.com/event/creative-survival%3a-newports-b
+ lack-history/109644/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Creative Survival: Newport's Black History
+DTSTART;VALUE=DATE:20260907
+DTEND;VALUE=DATE:20260908
+DTSTAMP:20260810T113333Z
+UID:d35c071c243c9e20c02d37974018@visitri-calendar
+DESCRIPTION:Newport Historical Society (NHS) Walking Tour - Creative Survi
+ val: Newport’s Black History Discover the history of Newport’s people 
+ of color\, enslaved and free. Explore the places where enslaved people liv
+ ed and labored\, along with locations where free African Americans built t
+ heir enterprises and supported a new local industry. This tour lasts appro
+ ximately 90 mins. Monday\, January 19th at 1:00 PM Sunday\, March 22nd at 
+ 11:00 AM Monday\, June 1st - Monday\, October 26th at 2:00 PM Health &amp\
+ ; Safety As you explore Newport's rich history with us\, please be aware o
+ f the following health and safety considerations: Active City Environment:
+  Newport is a vibrant\, working city with active traffic and bustling stre
+ ets. Please stay alert and follow your guide's instructions at all times. 
+ Narrow Streets and Sidewalks: Many of Newport's streets and sidewalks are 
+ narrow\, which can sometimes lead to crowded conditions. Please walk singl
+ e file when necessary and be cautious when crossing streets. Uneven and Co
+ bblestone Surfaces: Sidewalks and streets in historic Newport can be uneve
+ n and may include cobblestones. Wear comfortable\, sturdy footwear to navi
+ gate these areas safely. Weather Conditions: Newport's weather can be unpr
+ edictable. Dress in layers\, wear sun protection\, and bring water to stay
+  hydrated\, especially during warm months.\n\nSource: https://www.visitrho
+ deisland.com/event/creative-survival%3a-newports-black-history/109644/
+LOCATION:Newport Historical Society Walking Tours\, 127 Thames Street\, Ne
+ wport\, RI 02840
+URL:https://www.visitrhodeisland.com/event/creative-survival%3a-newports-b
+ lack-history/109644/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Creative Survival: Newport's Black History
+DTSTART;VALUE=DATE:20260914
+DTEND;VALUE=DATE:20260915
+DTSTAMP:20260810T113333Z
+UID:f1466647fbd0ee8d6344d94224c6@visitri-calendar
+DESCRIPTION:Newport Historical Society (NHS) Walking Tour - Creative Survi
+ val: Newport’s Black History Discover the history of Newport’s people 
+ of color\, enslaved and free. Explore the places where enslaved people liv
+ ed and labored\, along with locations where free African Americans built t
+ heir enterprises and supported a new local industry. This tour lasts appro
+ ximately 90 mins. Monday\, January 19th at 1:00 PM Sunday\, March 22nd at 
+ 11:00 AM Monday\, June 1st - Monday\, October 26th at 2:00 PM Health &amp\
+ ; Safety As you explore Newport's rich history with us\, please be aware o
+ f the following health and safety considerations: Active City Environment:
+  Newport is a vibrant\, working city with active traffic and bustling stre
+ ets. Please stay alert and follow your guide's instructions at all times. 
+ Narrow Streets and Sidewalks: Many of Newport's streets and sidewalks are 
+ narrow\, which can sometimes lead to crowded conditions. Please walk singl
+ e file when necessary and be cautious when crossing streets. Uneven and Co
+ bblestone Surfaces: Sidewalks and streets in historic Newport can be uneve
+ n and may include cobblestones. Wear comfortable\, sturdy footwear to navi
+ gate these areas safely. Weather Conditions: Newport's weather can be unpr
+ edictable. Dress in layers\, wear sun protection\, and bring water to stay
+  hydrated\, especially during warm months.\n\nSource: https://www.visitrho
+ deisland.com/event/creative-survival%3a-newports-black-history/109644/
+LOCATION:Newport Historical Society Walking Tours\, 127 Thames Street\, Ne
+ wport\, RI 02840
+URL:https://www.visitrhodeisland.com/event/creative-survival%3a-newports-b
+ lack-history/109644/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Food Truck Concert Nights - Diamond Hill Park
 DTSTART;VALUE=DATE:20260919
 DTEND;VALUE=DATE:20260920
-DTSTAMP:20260809T161729Z
+DTSTAMP:20260810T113333Z
 UID:c61110f0d2ee251ab02333bed717@visitri-calendar
 DESCRIPTION:We return to Diamond Hill Park in Cumberland for another serie
  s of memorable events in 2026. Attendance is free\, just pay for what you 
@@ -1330,40 +1201,134 @@ URL:https://www.visitrhodeisland.com/event/food-truck-concert-nights-diamo
  nd-hill-park/107172/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Cars & Coffee — Gardner Seveney Sports Complex
-DTSTART;VALUE=DATE:20260920
-DTEND;VALUE=DATE:20260921
-DTSTAMP:20260809T161729Z
-UID:2d587f4d35d9c0eb7555bed1df35@visitri-calendar
-DESCRIPTION:Cars &amp\; Coffee When: Select Sundays from 8:00 AM - 10:00 A
- M at Gardner Seveney Sports Complex\, 110-298 Linden Lane\, Portsmouth Jul
- y 5 July 26 August 9 September 20 Cars &amp\; Coffee\, hosted by the Audra
- in Automobile Museum\, has grown exponentially since the start - now eight
-  years ago\, only 52 cars appeared at the first event! The Cars &amp\; Cof
- fee family has expanded\, now consistently seeing 350-400 cars on the fiel
- d and more than 1\,000 at the Motor Week event. We feel that Cars &amp\; C
- offee is now the backbone Audrain Automobile Museum and the local car comm
- unity as well. Cheers to another season! Below are a couple reminders for 
- the 2026 Season: For Audrain Members\, registration will open the Monday b
- efore each of the Cars &amp\; Coffee events and public registration will o
- pen on the Wednesday before each of the Cars &amp\; Coffee events. In orde
- r to register for one of the Cars &amp\; Coffee events\, you must be subsc
- ribed to our email list. You cannot register for any of the Cars &amp\; Co
- ffee events through the Audrain website or over the phone. Only Vehicles a
- re required to register for the event. Guests of drivers\, and spectators 
- do not need to register. *All events are subject to change. All events are
-  rain or shine unless noted.\n\nSource: https://www.visitrhodeisland.com/e
- vent/cars-%26-coffee-%e2%80%94-gardner-seveney-sports-complex/110036/
-LOCATION:Gardner Seveney Sports Complex\, 110-298 Linden Lane \, Portsmout
- h\, RI 02871 Time: 8:00 AM to 10:00 AM
-URL:https://www.visitrhodeisland.com/event/cars-%26-coffee-%e2%80%94-gardn
- er-seveney-sports-complex/110036/
+SUMMARY:Creative Survival: Newport's Black History
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+DTSTAMP:20260810T113333Z
+UID:6a5bdbec86dafd47f682c0b5620d@visitri-calendar
+DESCRIPTION:Newport Historical Society (NHS) Walking Tour - Creative Survi
+ val: Newport’s Black History Discover the history of Newport’s people 
+ of color\, enslaved and free. Explore the places where enslaved people liv
+ ed and labored\, along with locations where free African Americans built t
+ heir enterprises and supported a new local industry. This tour lasts appro
+ ximately 90 mins. Monday\, January 19th at 1:00 PM Sunday\, March 22nd at 
+ 11:00 AM Monday\, June 1st - Monday\, October 26th at 2:00 PM Health &amp\
+ ; Safety As you explore Newport's rich history with us\, please be aware o
+ f the following health and safety considerations: Active City Environment:
+  Newport is a vibrant\, working city with active traffic and bustling stre
+ ets. Please stay alert and follow your guide's instructions at all times. 
+ Narrow Streets and Sidewalks: Many of Newport's streets and sidewalks are 
+ narrow\, which can sometimes lead to crowded conditions. Please walk singl
+ e file when necessary and be cautious when crossing streets. Uneven and Co
+ bblestone Surfaces: Sidewalks and streets in historic Newport can be uneve
+ n and may include cobblestones. Wear comfortable\, sturdy footwear to navi
+ gate these areas safely. Weather Conditions: Newport's weather can be unpr
+ edictable. Dress in layers\, wear sun protection\, and bring water to stay
+  hydrated\, especially during warm months.\n\nSource: https://www.visitrho
+ deisland.com/event/creative-survival%3a-newports-black-history/109644/
+LOCATION:Newport Historical Society Walking Tours\, 127 Thames Street\, Ne
+ wport\, RI 02840
+URL:https://www.visitrhodeisland.com/event/creative-survival%3a-newports-b
+ lack-history/109644/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Creative Survival: Newport's Black History
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+DTSTAMP:20260810T113333Z
+UID:b66965ccbfb133b2e3ed54e9b16c@visitri-calendar
+DESCRIPTION:Newport Historical Society (NHS) Walking Tour - Creative Survi
+ val: Newport’s Black History Discover the history of Newport’s people 
+ of color\, enslaved and free. Explore the places where enslaved people liv
+ ed and labored\, along with locations where free African Americans built t
+ heir enterprises and supported a new local industry. This tour lasts appro
+ ximately 90 mins. Monday\, January 19th at 1:00 PM Sunday\, March 22nd at 
+ 11:00 AM Monday\, June 1st - Monday\, October 26th at 2:00 PM Health &amp\
+ ; Safety As you explore Newport's rich history with us\, please be aware o
+ f the following health and safety considerations: Active City Environment:
+  Newport is a vibrant\, working city with active traffic and bustling stre
+ ets. Please stay alert and follow your guide's instructions at all times. 
+ Narrow Streets and Sidewalks: Many of Newport's streets and sidewalks are 
+ narrow\, which can sometimes lead to crowded conditions. Please walk singl
+ e file when necessary and be cautious when crossing streets. Uneven and Co
+ bblestone Surfaces: Sidewalks and streets in historic Newport can be uneve
+ n and may include cobblestones. Wear comfortable\, sturdy footwear to navi
+ gate these areas safely. Weather Conditions: Newport's weather can be unpr
+ edictable. Dress in layers\, wear sun protection\, and bring water to stay
+  hydrated\, especially during warm months.\n\nSource: https://www.visitrho
+ deisland.com/event/creative-survival%3a-newports-black-history/109644/
+LOCATION:Newport Historical Society Walking Tours\, 127 Thames Street\, Ne
+ wport\, RI 02840
+URL:https://www.visitrhodeisland.com/event/creative-survival%3a-newports-b
+ lack-history/109644/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Creative Survival: Newport's Black History
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+DTSTAMP:20260810T113333Z
+UID:0604a380ce7b17ca8e10395c3ab6@visitri-calendar
+DESCRIPTION:Newport Historical Society (NHS) Walking Tour - Creative Survi
+ val: Newport’s Black History Discover the history of Newport’s people 
+ of color\, enslaved and free. Explore the places where enslaved people liv
+ ed and labored\, along with locations where free African Americans built t
+ heir enterprises and supported a new local industry. This tour lasts appro
+ ximately 90 mins. Monday\, January 19th at 1:00 PM Sunday\, March 22nd at 
+ 11:00 AM Monday\, June 1st - Monday\, October 26th at 2:00 PM Health &amp\
+ ; Safety As you explore Newport's rich history with us\, please be aware o
+ f the following health and safety considerations: Active City Environment:
+  Newport is a vibrant\, working city with active traffic and bustling stre
+ ets. Please stay alert and follow your guide's instructions at all times. 
+ Narrow Streets and Sidewalks: Many of Newport's streets and sidewalks are 
+ narrow\, which can sometimes lead to crowded conditions. Please walk singl
+ e file when necessary and be cautious when crossing streets. Uneven and Co
+ bblestone Surfaces: Sidewalks and streets in historic Newport can be uneve
+ n and may include cobblestones. Wear comfortable\, sturdy footwear to navi
+ gate these areas safely. Weather Conditions: Newport's weather can be unpr
+ edictable. Dress in layers\, wear sun protection\, and bring water to stay
+  hydrated\, especially during warm months.\n\nSource: https://www.visitrho
+ deisland.com/event/creative-survival%3a-newports-black-history/109644/
+LOCATION:Newport Historical Society Walking Tours\, 127 Thames Street\, Ne
+ wport\, RI 02840
+URL:https://www.visitrhodeisland.com/event/creative-survival%3a-newports-b
+ lack-history/109644/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Creative Survival: Newport's Black History
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
+DTSTAMP:20260810T113333Z
+UID:7e8fcf62f307741e4a51287d3dec@visitri-calendar
+DESCRIPTION:Newport Historical Society (NHS) Walking Tour - Creative Survi
+ val: Newport’s Black History Discover the history of Newport’s people 
+ of color\, enslaved and free. Explore the places where enslaved people liv
+ ed and labored\, along with locations where free African Americans built t
+ heir enterprises and supported a new local industry. This tour lasts appro
+ ximately 90 mins. Monday\, January 19th at 1:00 PM Sunday\, March 22nd at 
+ 11:00 AM Monday\, June 1st - Monday\, October 26th at 2:00 PM Health &amp\
+ ; Safety As you explore Newport's rich history with us\, please be aware o
+ f the following health and safety considerations: Active City Environment:
+  Newport is a vibrant\, working city with active traffic and bustling stre
+ ets. Please stay alert and follow your guide's instructions at all times. 
+ Narrow Streets and Sidewalks: Many of Newport's streets and sidewalks are 
+ narrow\, which can sometimes lead to crowded conditions. Please walk singl
+ e file when necessary and be cautious when crossing streets. Uneven and Co
+ bblestone Surfaces: Sidewalks and streets in historic Newport can be uneve
+ n and may include cobblestones. Wear comfortable\, sturdy footwear to navi
+ gate these areas safely. Weather Conditions: Newport's weather can be unpr
+ edictable. Dress in layers\, wear sun protection\, and bring water to stay
+  hydrated\, especially during warm months.\n\nSource: https://www.visitrho
+ deisland.com/event/creative-survival%3a-newports-black-history/109644/
+LOCATION:Newport Historical Society Walking Tours\, 127 Thames Street\, Ne
+ wport\, RI 02840
+URL:https://www.visitrhodeisland.com/event/creative-survival%3a-newports-b
+ lack-history/109644/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Live Music by Logan Vale
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261018
-DTSTAMP:20260809T161729Z
+DTSTAMP:20260810T113333Z
 UID:2241186137b505cf7c814cd90b60@visitri-calendar
 DESCRIPTION:The music of Logan Vale! Dinner reservations required either o
  nline or call 401.861.3850 x. 3\n\nSource: https://www.visitrhodeisland.co
@@ -1374,49 +1339,118 @@ URL:https://www.visitrhodeisland.com/event/live-music-by-logan-vale/110313
  /
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Alger Mitchell at SALTwater Harborside Dining
-DTSTART;VALUE=DATE:20261025
-DTEND;VALUE=DATE:20261026
-DTSTAMP:20260809T161729Z
-UID:c8707a642277214ae36e5ea850d3@visitri-calendar
-DESCRIPTION:Alger Mitchell at SALTwater Harborside Dining Sundays from 4:0
- 0 to 7:00 PM Alger Mitchell is a dynamic song stylist\, songwriter\, and v
- ocalist\, delivering captivating performances with guitar and harmonica. B
- oasting a remarkable repertoire of approximately 250 songs performed entir
- ely from memory\, Alger's music is 100% live\, free of electronic enhancem
- ents. His versatile setlist spans the timeless classics of The Great Ameri
- can Songbook\, from Broadway to Hollywood\, alongside beloved jazz and pop
-  standards\, classic country\, oldies\, and his own original compositions.
-  With infectious energy\, his live performances invite optional dancing\, 
- making it nearly impossible to resist moving to the music! Keep a smile on
-  your face and a song in your heart!\n\nSource: https://www.visitrhodeisla
- nd.com/event/alger-mitchell-at-saltwater-harborside-dining/110157/
-LOCATION:Saltwater at The Newport Harbor Hotel & Marina\, 49 America's Cup
-  Avenue\, Newport\, RI 02840 Time: 4:00 PM to 7:00 PM 49 America's Cup Ave
- nue\, Newport\, RI 02840 OFFICIAL RHODE ISLAND TRAVEL GUIDE Get Guide Get 
- news from Visit Rhode Island in your inbox. Industry Partner Leisure Trave
- l Sign Up Ratings Powered by Press Industry Travel Trade Meetings & Conven
- tions Contact Privacy Policy Sitemap Partner Portal SMS Privacy Policy SMS
-  Terms & Conditions UGC Terms and Conditions Wedding Planning Press Photos
-  Story Ideas Fun-Sized Rhode Island Rhode Island in the News Free Travel G
- uide Contact Visit Rhode Island Industry Travel Trade Ideas & Itineraries 
- Downton Abbey Lifestyle Rhode Island Foodways Hidden Gems Image Library Fr
- ee Travel Guide Contact Visit Rhode Island Meetings & Conventions Contact 
- Privacy Policy Sitemap Partner Portal SMS Privacy Policy SMS Terms & Condi
- tions UGC Terms and Conditions Wedding Planning Weddings - Venues Wedding 
- - Catering Wedding - Cakes Wedding - Attire Wedding - Florists Wedding - J
- ewelers Wedding - Transportation © 2026 Rhode Island Commerce Corporation
-  Special Offers Offers Here Looking to plan your next visit to Rhode Islan
- d\, check out some of the current special offers and enjoy savings\, extra
-  perks and more! Offers Here
-URL:https://www.visitrhodeisland.com/event/alger-mitchell-at-saltwater-har
- borside-dining/110157/
+SUMMARY:Creative Survival: Newport's Black History
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+DTSTAMP:20260810T113333Z
+UID:f1c1b7952fed90b16ba382709f5a@visitri-calendar
+DESCRIPTION:Newport Historical Society (NHS) Walking Tour - Creative Survi
+ val: Newport’s Black History Discover the history of Newport’s people 
+ of color\, enslaved and free. Explore the places where enslaved people liv
+ ed and labored\, along with locations where free African Americans built t
+ heir enterprises and supported a new local industry. This tour lasts appro
+ ximately 90 mins. Monday\, January 19th at 1:00 PM Sunday\, March 22nd at 
+ 11:00 AM Monday\, June 1st - Monday\, October 26th at 2:00 PM Health &amp\
+ ; Safety As you explore Newport's rich history with us\, please be aware o
+ f the following health and safety considerations: Active City Environment:
+  Newport is a vibrant\, working city with active traffic and bustling stre
+ ets. Please stay alert and follow your guide's instructions at all times. 
+ Narrow Streets and Sidewalks: Many of Newport's streets and sidewalks are 
+ narrow\, which can sometimes lead to crowded conditions. Please walk singl
+ e file when necessary and be cautious when crossing streets. Uneven and Co
+ bblestone Surfaces: Sidewalks and streets in historic Newport can be uneve
+ n and may include cobblestones. Wear comfortable\, sturdy footwear to navi
+ gate these areas safely. Weather Conditions: Newport's weather can be unpr
+ edictable. Dress in layers\, wear sun protection\, and bring water to stay
+  hydrated\, especially during warm months.\n\nSource: https://www.visitrho
+ deisland.com/event/creative-survival%3a-newports-black-history/109644/
+LOCATION:Newport Historical Society Walking Tours\, 127 Thames Street\, Ne
+ wport\, RI 02840
+URL:https://www.visitrhodeisland.com/event/creative-survival%3a-newports-b
+ lack-history/109644/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Creative Survival: Newport's Black History
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+DTSTAMP:20260810T113333Z
+UID:5d0842ae052a86801d614f333fd9@visitri-calendar
+DESCRIPTION:Newport Historical Society (NHS) Walking Tour - Creative Survi
+ val: Newport’s Black History Discover the history of Newport’s people 
+ of color\, enslaved and free. Explore the places where enslaved people liv
+ ed and labored\, along with locations where free African Americans built t
+ heir enterprises and supported a new local industry. This tour lasts appro
+ ximately 90 mins. Monday\, January 19th at 1:00 PM Sunday\, March 22nd at 
+ 11:00 AM Monday\, June 1st - Monday\, October 26th at 2:00 PM Health &amp\
+ ; Safety As you explore Newport's rich history with us\, please be aware o
+ f the following health and safety considerations: Active City Environment:
+  Newport is a vibrant\, working city with active traffic and bustling stre
+ ets. Please stay alert and follow your guide's instructions at all times. 
+ Narrow Streets and Sidewalks: Many of Newport's streets and sidewalks are 
+ narrow\, which can sometimes lead to crowded conditions. Please walk singl
+ e file when necessary and be cautious when crossing streets. Uneven and Co
+ bblestone Surfaces: Sidewalks and streets in historic Newport can be uneve
+ n and may include cobblestones. Wear comfortable\, sturdy footwear to navi
+ gate these areas safely. Weather Conditions: Newport's weather can be unpr
+ edictable. Dress in layers\, wear sun protection\, and bring water to stay
+  hydrated\, especially during warm months.\n\nSource: https://www.visitrho
+ deisland.com/event/creative-survival%3a-newports-black-history/109644/
+LOCATION:Newport Historical Society Walking Tours\, 127 Thames Street\, Ne
+ wport\, RI 02840
+URL:https://www.visitrhodeisland.com/event/creative-survival%3a-newports-b
+ lack-history/109644/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Coastal Cruisers - The Golden Hour
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+DTSTAMP:20260810T113333Z
+UID:a33f7731698b5451e05ba44e42fd@visitri-calendar
+DESCRIPTION:Experience the Island in our Coastal Cruisers\, Newport’s pr
+ ivate chauffeured luxury tour\, dedicated to providing a sophisticated way
+  to experience our beloved island. We blend elegance\, fun &amp\; storytel
+ ling into a bespoke tour of Newport. For us\, it is about fostering experi
+ ences that create lasting memorable moments. From chasing golden sunsets t
+ o experiencing salty-breeze adventures\, Coastal Cruisers treats every tou
+ r as an opportunity to provide exceptional service &amp\; a personal conne
+ ction that lasts well beyond the journey. Offer 3 tour options and hourly 
+ bookings. Tour Option: The Golden Hour A private\, bespoke guided excursio
+ n designed to highlight Newport's most magnificent sunset vistas. This dis
+ tinctive experience is meticulously orchestrated\, ensuring optimal positi
+ oning at prime viewing locations for capturing striking photographs &amp\;
+  securing a truly memorable occasion. Your experienced guide will navigate
+  picturesque coastal thoroughfares and Newport's charming bridge view neig
+ hborhoods\, making stops at both lesser-known vantage points &amp\; renown
+ ed landmarks celebrated for their exceptional 'golden hour' illumination &
+ amp\; sweeping ocean panoramas. 7:00 PM Tour (75 minutes) $150 per person 
+ Available: Daily\, May 1 - December 31\, 2026 (Unavailable May 23 and May 
+ 31)\n\nSource: https://www.visitrhodeisland.com/event/coastal-cruisers-the
+ -golden-hour/109827/
+LOCATION:Coastal Cruisers\, 478 Thames Street\, Newport\, RI 02840
+URL:https://www.visitrhodeisland.com/event/coastal-cruisers-the-golden-hou
+ r/109827/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Children's Weekly Storytime
+DTSTART;VALUE=DATE:20261221
+DTEND;VALUE=DATE:20261222
+DTSTAMP:20260810T113333Z
+UID:505c13cc68dfd1161c6032fdf540@visitri-calendar
+DESCRIPTION:Children's Storytime Join Elizabeth as she hosts storytime on 
+ Monday mornings at 10:30 AM. Every Monday\, Elizabeth will chose a book co
+ rrelating with the season or holiday. All children and their families are 
+ welcome to join!\n\nSource: https://www.visitrhodeisland.com/event/childre
+ ns-weekly-storytime/109524/
+LOCATION:Charter Books\, 8 Broadway\, Newport\, RI 02840 Time: 10:30 AM to
+  11:00 AM
+URL:https://www.visitrhodeisland.com/event/childrens-weekly-storytime/1095
+ 24/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Beyond the Brewhouse Tour
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
-DTSTAMP:20260809T161729Z
+DTSTAMP:20260810T113333Z
 UID:c7b48636db9ede5f5acbbb263d31@visitri-calendar
 DESCRIPTION:Beyond the Brewhouse Where: Newport Craft Brewing and Distilli
  ng\, 293 JT Connell Road\, Newport 45 minutes: $20 per person Did you know
