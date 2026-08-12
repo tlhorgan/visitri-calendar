@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:$15 Moonshine Flights & Moonshine Tasting
 DTSTART;VALUE=DATE:20250615
 DTEND;VALUE=DATE:20250616
-DTSTAMP:20260811T112644Z
+DTSTAMP:20260812T112646Z
 UID:b6432d870f2c0958f26453a40d59@visitri-calendar
 DESCRIPTION:Try a Moonshine Flight tasting at Moonshine Alley! Moonshine F
  lights are available daily for just $15! We have over 13 flavors to choose
@@ -20,10 +20,39 @@ URL:https://www.visitrhodeisland.com/event/%2415-moonshine-flights-%26-moo
  nshine-tasting/105663/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Early Bird Museum Highlight Tour at Newport Car Museum
+DTSTART;VALUE=DATE:20260401
+DTEND;VALUE=DATE:20260402
+DTSTAMP:20260812T112646Z
+UID:75253880a8c565d95c2d97a759c9@visitri-calendar
+DESCRIPTION:Early Bird Highlight Tour For 90 minutes (8:30 &#8211\; 10:00 
+ AM) prior to Museum opening. Call to book: +1 (401) 848-2277 Price $75.00 
+ per person (minimum 2\, maximum 6 ppl) Offered Wednesday\, Thursday\, and 
+ Saturday only April 1 - December 31\, 2026. General admission is included 
+ with price. 72-hour advance notice is suggested. Only one group will be ho
+ sted on any given morning. This is your chance to have the Newport Car Mus
+ eum all to yourself with a private guide to share with you the not-to-miss
+  highlights in seven expansive galleries. With over 100 iconic\, rare and 
+ exotic cars on display at one time\, this private collection is bursting w
+ ith history\, provenance and color\, not to mention the breathtaking sculp
+ tural beauty of automotive designs starting with the 1950s and finishing w
+ ith new models from the 21 st Century. After 90 minutes with your private\
+ , continue to explore at your own pace so that you can further examine you
+ r favorites from the Ford/Shelby\, Corvette\, World Car\, Porsche\, Fin Ca
+ r\, American Muscle and Mopar exhibits while enjoying immersive videos\, a
+ rtwork and the Museum’s eclectic collection of Mid-Century Modern Furnit
+ ure.\n\nSource: https://www.visitrhodeisland.com/event/early-bird-museum-h
+ ighlight-tour-at-newport-car-museum/109638/
+LOCATION:Newport Car Museum\, Enter at Light 1947 West Main Road\, Portsmo
+ uth\, RI 02871
+URL:https://www.visitrhodeisland.com/event/early-bird-museum-highlight-tou
+ r-at-newport-car-museum/109638/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Coastal Cruisers - The Golden Hour
 DTSTART;VALUE=DATE:20260501
 DTEND;VALUE=DATE:20260502
-DTSTAMP:20260811T112644Z
+DTSTAMP:20260812T112646Z
 UID:9f3864060ce7679e35293700f37c@visitri-calendar
 DESCRIPTION:Experience the Island in our Coastal Cruisers\, Newport’s pr
  ivate chauffeured luxury tour\, dedicated to providing a sophisticated way
@@ -53,7 +82,7 @@ BEGIN:VEVENT
 SUMMARY:Beyond the Brewhouse Tour
 DTSTART;VALUE=DATE:20260515
 DTEND;VALUE=DATE:20260516
-DTSTAMP:20260811T112644Z
+DTSTAMP:20260812T112646Z
 UID:acc9d8e1d1bdab34c6766b602473@visitri-calendar
 DESCRIPTION:Beyond the Brewhouse Where: Newport Craft Brewing and Distilli
  ng\, 293 JT Connell Road\, Newport 45 minutes: $20 per person Did you know
@@ -69,47 +98,10 @@ URL:https://www.visitrhodeisland.com/event/beyond-the-brewhouse-tour/11015
  3/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Craft on the Lawn at Newport Art Museum
-DTSTART;VALUE=DATE:20260602
-DTEND;VALUE=DATE:20260603
-DTSTAMP:20260811T112644Z
-UID:8b179e3791a824c644510af79c1a@visitri-calendar
-DESCRIPTION:Craft Club on the Lawn Location: Newport Art Museum\, 76 Belle
- vue Avenue\, Newport When: Weekly on Tuesdays\, June 2 - September 29\, 20
- 26 from 5:00 to 7:00 PM Cost: $10 per person Teaching Artist: Keelin Malon
- ey Join The Nest and the Newport Art Museum for Craft Club on the Lawn- a 
- weekly summer gathering for makers of all kinds. Bring your knitting\, ske
- tchbook\, embroidery\, collage\, crochet\, or any creative project and spe
- nd the evening crafting in community on the museum lawn. Meet fellow creat
- ives\, soak up inspiration\, and create alongside others every Tuesday fro
- m 5:00 to 7:00 PM all summer long. Hosted by fiber artist\, Keelin Maloney
- . Sliding scale donation. All crafts welcome. Pay in person. Location and 
- Parking Craft Club will be held on the Griswold Lawn at 76 Bellevue Avenue
- . Please park in our Museum parking lots or along Liberty Street.\n\nSourc
- e: https://www.visitrhodeisland.com/event/craft-on-the-lawn-at-newport-art
- -museum/111285/
-LOCATION:Newport Art Museum\, 76 Bellevue Avenue\, Newport When: Weekly on
-  Tuesdays\, June 2 - September 29\, 2026 from 5:00 to 7:00 PM Cost: $10 pe
- r person Teaching Artist: Keelin Maloney Join The Nest and the Newport Art
-  Museum for Craft Club on the Lawn- a weekly summer gathering for makers o
- f all kinds. Bring your knitting\, sketchbook\, embroidery\, collage\, cro
- chet\, or any creative project and spend the evening crafting in community
-  on the museum lawn. Meet fellow creatives\, soak up inspiration\, and cre
- ate alongside others every Tuesday from 5:00 to 7:00 PM all summer long. H
- osted by fiber artist\, Keelin Maloney . Sliding scale donation. All craft
- s welcome. Pay in person. Location and Parking Craft Club will be held on 
- the Griswold Lawn at 76 Bellevue Avenue. Please park in our Museum parking
-  lots or along Liberty Street. Show More View Website 1 / 1 Additional Inf
- ormation\, 76 Bellevue Avenue\, Newport\, RI 02840 Time: 5:00 PM to 7:00 P
- M
-URL:https://www.visitrhodeisland.com/event/craft-on-the-lawn-at-newport-ar
- t-museum/111285/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Music at Sunset: Concert Series 2026
 DTSTART;VALUE=DATE:20260603
 DTEND;VALUE=DATE:20260604
-DTSTAMP:20260811T112644Z
+DTSTAMP:20260812T112646Z
 UID:87bda7b48d099d40defa3f7e711b@visitri-calendar
 DESCRIPTION:Music at Sunset: Concert Series 2026 Wednesdays | June 3 &#821
  1\; August 26 Music from 6:00 &#8211\; 8:00 PM\, Parking and Check-in open
@@ -156,65 +148,10 @@ URL:https://www.visitrhodeisland.com/event/music-at-sunset%3a-concert-seri
  es-2026/109486/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Family Night Concert Series at Easton's Beach
-DTSTART;VALUE=DATE:20260707
-DTEND;VALUE=DATE:20260708
-DTSTAMP:20260811T112644Z
-UID:2a622ead08a77e380adeee6c5534@visitri-calendar
-DESCRIPTION:Interactive live bands\, magicians and story tellers complete 
- your child's experience at the Family Night Concert Series at Easton's Bea
- ch on select Tuesdays and Thursdays this summer. Festivities begin at 6:00
-  PM\, parking is free after 4:00 PM on show nights! 2026 Concert Series Sc
- hedule: July 7: Jesse Liam Band July 14: Soul Syndicate of RI July 21: Dow
- n City Band July 28: Bar Fly August 4: Country Wild Heart August 11: The R
- epercussions\n\nSource: https://www.visitrhodeisland.com/event/family-nigh
- t-concert-series-at-eastons-beach/110591/
-LOCATION:Easton's Beach (First Beach)\, 175 Memorial Boulevard\, Newport\,
-  RI 02840
-URL:https://www.visitrhodeisland.com/event/family-night-concert-series-at-
- eastons-beach/110591/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Food Truck Tuesdays & Taproom Music at Ragged Island Brewing
-DTSTART;VALUE=DATE:20260707
-DTEND;VALUE=DATE:20260708
-DTSTAMP:20260811T112644Z
-UID:08efa32677d1f6c0e8d3ffd568e4@visitri-calendar
-DESCRIPTION:Food Truck Tuesdays at Ragged Island Brewing What's better tha
- n a week night full of good food and live music? 2026 Schedule July 7: Foo
- d Truck Tuesday Newport Sushi Co\, W’s Wood Fire Pizza\, California Taco
-  Truck\, Little Fish\, Tolia\, Rhode Rage\, and Mad Good Cookie 4:00 &#821
- 1\; 8:00 PM Live Music in the taproom: Dave Alves 5:00 &#8211\; 8:00 PM Ju
- ly 14: Food Truck Tuesday Newport Sushi Co.\, Farm to Sandwich\, W’s Woo
- d Fire Pizza\, California Taco Truck\, Little Fish\, Hometown Poke\, Rhode
-  Rage\, Mad Good Cookies 4:00 &#8211\; 8:00 PM Live Music in the taproom: 
- Steve Demers 5:00 &#8211\; 8:00 PM July 21: Food Truck Tuesday Newport Sus
- hi Co.\, Farm to Sandwich\, W’s Wood Fired Pizza\, California Taco Truck
- \, Mad Good Cookies 4:00 &#8211\; 8:00 PM Live Music in the taproom: Bob T
- omassone 5:00 &#8211\; 8:00 PM July 28: Food Truck Tuesday W’s Wood Fire
-  Pizza\, California Taco Truck\, Tolia\, Mad Good Cookies 4:00 &#8211\; 8:
- 00 PM Live Music in the taproom: Lauren King 5:00 &#8211\; 8:00 PM August 
- 4: Food Truck Tuesday Newport Sushi Co\, Teddi’s\, Farm to Sandwich\, W
- ’s Pizza\, Cali Taco\, Tolia\, Rhode Rage\, Mad Good Cookies 4:00 &#8211
- \; 8:00 PM Live Music in the taproom: Ian Botha 5:00 &#8211\; 8:00 PM Augu
- st 11: Food Truck Tuesday W’s Pizza\, Cali Taco\, Hometown Poke\, Mad Go
- od Cookies 4:00 &#8211\; 8:00 PM Live Music in the taproom: Chris &amp\; D
- iane Myers 5:00 &#8211\; 8:00 PM August 18: Food Truck Tuesday Newport Sus
- hi Co\,Teddi’s\, Farm to Sandwich\, W’s Pizza\, California Taco Truck\
- , Little Fish\, Tolia\, Rhode Rage\, Mad Good Cookies 4:00 &#8211\; 8:00 P
- M Live Music in the taproom: Steve Demers 5:00 &#8211\; 8:00 PM\n\nSource:
-  https://www.visitrhodeisland.com/event/food-truck-tuesdays-%26-taproom-mu
- sic-at-ragged-island-brewing/110449/
-LOCATION:Ragged Island Brewing Company\, 54 Bristol Ferry Road\, Portsmout
- h\, RI 02871 Time: 4:00 PM to 8:00 PM
-URL:https://www.visitrhodeisland.com/event/food-truck-tuesdays-%26-taproom
- -music-at-ragged-island-brewing/110449/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Field of Artisans at the Beach
 DTSTART;VALUE=DATE:20260711
 DTEND;VALUE=DATE:20260712
-DTSTAMP:20260811T112644Z
+DTSTAMP:20260812T112646Z
 UID:7ebe1a9998bbb563181c86657159@visitri-calendar
 DESCRIPTION:Join Field of Artisans on Saturdays this summer for the 11th y
  ear of bringing creativity to this beautiful location! Artists will displa
@@ -231,7 +168,7 @@ BEGIN:VEVENT
 SUMMARY:$15 Moonshine Flights & Moonshine Tasting
 DTSTART;VALUE=DATE:20260721
 DTEND;VALUE=DATE:20260722
-DTSTAMP:20260811T112644Z
+DTSTAMP:20260812T112646Z
 UID:6ac059c408c431eceb1c3c855c19@visitri-calendar
 DESCRIPTION:Try a Moonshine Flight tasting at Moonshine Alley! Moonshine F
  lights are available daily for just $15! We have over 13 flavors to choose
@@ -244,29 +181,144 @@ URL:https://www.visitrhodeisland.com/event/%2415-moonshine-flights-%26-moo
  nshine-tasting/105663/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Half Price Tacos and House Margs at Yellow Door Taqueria!
-DTSTART;VALUE=DATE:20260731
-DTEND;VALUE=DATE:20260801
-DTSTAMP:20260811T112644Z
-UID:e0d95b06c7be4290562a81ad7ad5@visitri-calendar
-DESCRIPTION:Join us EVERY DAY at Yellow Door Taqueria from 3-6 PM at the b
- ar for half price select tacos and house margaritas! It's the perfect way 
- to wrap up your work day or grab a drink with friends! Choose from any of 
- our scratch-made house margarita flavors and six of our favorite tacos! *D
- ine in only\, select items only from 3-6 PM every day. Bar seating only*\n
- \nSource: https://www.visitrhodeisland.com/event/half-price-tacos-and-hous
- e-margs-at-yellow-door-taqueria!/111221/
-LOCATION:Yellow Door Taqueria\, 191 Dorrance Street\, Providence\, RI 0290
- 3
-URL:https://www.visitrhodeisland.com/event/half-price-tacos-and-house-marg
- s-at-yellow-door-taqueria!/111221/
+SUMMARY:"Mea Duke: Dreamliners" Exhibit
+DTSTART;VALUE=DATE:20260801
+DTEND;VALUE=DATE:20260802
+DTSTAMP:20260812T112646Z
+UID:c06cfbf2bf6470118f0deef8d28e@visitri-calendar
+DESCRIPTION:Jessica Hagen Fine Art + Design is pleased to announce the exh
+ ibit: "Mea Duke: Dreamliners" August 1 - August 30\, 2026. This solo exhib
+ ition marks Mea Duke’s third solo show with Jessica Hagen’s gallery. D
+ reamliners assembles objects and images from the mid-twentieth century mom
+ ent when progress felt most like destiny: Pan Am flying boats\, LIFE magaz
+ ines\, lifejackets\, sunblock\, straw hats\, shipping containers\, endless
+  horizons. Together they form an archive of optimism\, sleek engineering\,
+  and the promise that the world was suddenly\, thrillingly within reach. T
+ he title borrows from Boeing's Dreamliner\, an aircraft whose name still t
+ rades on the same aspirational language the Pan Am era perfected. Duke's p
+ ractice has long lived in the space between painting an object and treatin
+ g the painting itself as an object\, an artifact with its own weight\, mat
+ eriality\, and history. Jessica Hagen states\, “Dreamliners is a smart\,
+  fun and beautifully executed show. Mea Duke is a highly skilled painter a
+ nd she is very clearly on top of her game\; treating us to paintings that 
+ are in her words\, created slowly by hand\, with clean deliberate precisio
+ n. Replete with iconic objects and imagery rendered as only Duke can\, thi
+ s show is not to be missed.” “Mea Duke: Dreamliners” closes August 3
+ 0\, 2026. Jessica Hagen Fine Art + Design was founded in 2005 and features
+  contemporary art including painting\, sculpture\, photography\, ceramics\
+ , textiles\, and jewelry. Located in the historic Point section of Newport
+ \, the gallery’s hours are Wednesday- Saturday 11:00 AM - 5:00 PM\, and 
+ Sunday 12:00 - 5:00 PM. The gallery is also open by appointment. Image Att
+ ached: Mea Duke Flying Boat I oil/canvas 40” x 64”\n\nSource: https://
+ www.visitrhodeisland.com/event/mea-duke%3a-dreamliners-exhibit/111171/
+LOCATION:Jessica Hagen Fine Art & Design\, 9A Bridge Street\, Newport\, RI
+  02840
+URL:https://www.visitrhodeisland.com/event/mea-duke%3a-dreamliners-exhibit
+ /111171/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Beach Wave – Charcuterie Resin Tray!
-DTSTART;VALUE=DATE:20260811
-DTEND;VALUE=DATE:20260812
-DTSTAMP:20260811T112644Z
-UID:5b3bcea237a956a5b8d1cde35578@visitri-calendar
+SUMMARY:"Mea Duke: Dreamliners" Exhibit
+DTSTART;VALUE=DATE:20260812
+DTEND;VALUE=DATE:20260813
+DTSTAMP:20260812T112646Z
+UID:0d2908b3e8444a300050978eb771@visitri-calendar
+DESCRIPTION:Jessica Hagen Fine Art + Design is pleased to announce the exh
+ ibit: "Mea Duke: Dreamliners" August 1 - August 30\, 2026. This solo exhib
+ ition marks Mea Duke’s third solo show with Jessica Hagen’s gallery. D
+ reamliners assembles objects and images from the mid-twentieth century mom
+ ent when progress felt most like destiny: Pan Am flying boats\, LIFE magaz
+ ines\, lifejackets\, sunblock\, straw hats\, shipping containers\, endless
+  horizons. Together they form an archive of optimism\, sleek engineering\,
+  and the promise that the world was suddenly\, thrillingly within reach. T
+ he title borrows from Boeing's Dreamliner\, an aircraft whose name still t
+ rades on the same aspirational language the Pan Am era perfected. Duke's p
+ ractice has long lived in the space between painting an object and treatin
+ g the painting itself as an object\, an artifact with its own weight\, mat
+ eriality\, and history. Jessica Hagen states\, “Dreamliners is a smart\,
+  fun and beautifully executed show. Mea Duke is a highly skilled painter a
+ nd she is very clearly on top of her game\; treating us to paintings that 
+ are in her words\, created slowly by hand\, with clean deliberate precisio
+ n. Replete with iconic objects and imagery rendered as only Duke can\, thi
+ s show is not to be missed.” “Mea Duke: Dreamliners” closes August 3
+ 0\, 2026. Jessica Hagen Fine Art + Design was founded in 2005 and features
+  contemporary art including painting\, sculpture\, photography\, ceramics\
+ , textiles\, and jewelry. Located in the historic Point section of Newport
+ \, the gallery’s hours are Wednesday- Saturday 11:00 AM - 5:00 PM\, and 
+ Sunday 12:00 - 5:00 PM. The gallery is also open by appointment. Image Att
+ ached: Mea Duke Flying Boat I oil/canvas 40” x 64”\n\nSource: https://
+ www.visitrhodeisland.com/event/mea-duke%3a-dreamliners-exhibit/111171/
+LOCATION:Jessica Hagen Fine Art & Design\, 9A Bridge Street\, Newport\, RI
+  02840
+URL:https://www.visitrhodeisland.com/event/mea-duke%3a-dreamliners-exhibit
+ /111171/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Adam de Boer in Conversation with Christine Cocca
+DTSTART;VALUE=DATE:20260812
+DTEND;VALUE=DATE:20260813
+DTSTAMP:20260812T112646Z
+UID:12309c558bc886dd6a314a60b2f0@visitri-calendar
+DESCRIPTION:Artist Talk: After the Fire: Batik\, Memory\, and the Lives Tr
+ ees Hold RSVP encouraged |Pay-what-you-can Join artist Adam de Boer for a 
+ lively\, illustrated conversation with Jamestown Arts Center Executive Dir
+ ector Christine Cocca on the occasion of A Celebration of Trees. Rather th
+ an a traditional artist lecture\, this evening will unfold as a dialogue b
+ etween de Boer and Cocca\, whose shared experiences as Fulbright scholars 
+ in Yogyakarta\, Indonesia\, provide a natural point of connection for a br
+ oader conversation about art\, place\, cultural exchange\, and the ways la
+ ndscapes shape creative practice. Beginning with de Boer’s Reconstructio
+ n Site No. 5\, currently on view in the exhibition\, the conversation will
+  consider how trees\, coastlines\, cityscapes\, and sites of destruction a
+ nd renewal can hold memory\, identity\, and transformation. In January 202
+ 5\, the Los Angeles wildfires devastated de Boer’s neighborhood of Altad
+ ena. As the son of a firefighter\, de Boer had long understood fire as par
+ t of California’s ecological and cultural reality\, but experiencing the
+  disaster so closely reshaped his relationship to the place he calls home.
+  His ongoing Reconstruction Site series records not only destruction\, but
+  also endurance\, renewal\, and the intimate ways a city begins to rebuild
+  after loss. The discussion will also trace de Boer’s long engagement wi
+ th Javanese batik\, a centuries-old textile tradition that he has adapted 
+ into a hybrid painting practice. Through images\, process documentation\, 
+ and exchange\, de Boer and Cocca will discuss molten beeswax\, canting too
+ ls\, staining\, boiling\, oil painting\, and the deeper questions embedded
+  in technique: what it means to inherit\, translate\, and transform a cult
+ ural form across geographies. Together\, they will reflect on California a
+ nd Indonesia\, wildfire and memory\, Dutch-Indonesian heritage\, and the r
+ ole of artistic practice in making sense of the places that form us. The e
+ vening will include projected images\, behind-the-scenes views of de Boer
+ ’s process\, and time for audience Q&amp\;A. About the Artist Adam de Bo
+ er is a Los Angeles-based artist whose work combines traditional Javanese 
+ crafts\, including batik and wood carving\, with Western oil painting as a
+  way to connect his artistic practice with those of his distant cultural f
+ orebears. For more than a decade\, his coastal scenes\, cityscapes\, and a
+ rchitectural landscapes have explored the visual textures\, cultural mingl
+ ings\, and socioeconomic realities of California and Indonesia. His recent
+  work depicts the cultural hodgepodge of Los Angeles while maintaining a s
+ trong connection to his Dutch-Indonesian immigrant heritage. De Boer recei
+ ved a BFA in Painting from the College of Creative Studies at the Universi
+ ty of California\, Santa Barbara\, and an MA in Fine Art from Chelsea Coll
+ ege of Arts\, University of the Arts London. His work has been exhibited i
+ nternationally\, including at Jane Lombard Gallery\, New York\; Gazelli Ar
+ t House\, London\; Plato\, New York\; Taymour Grahne Projects\, London\; T
+ he Pit\, Los Angeles\; Gajah Gallery\, Jakarta and Singapore\; Ben Brown F
+ ine Arts\, London and Hong Kong\; The Hole\, New York and Los Angeles\; Wo
+ rld Trade Centre\, Jakarta\; and Art Jog\, Yogyakarta. De Boer is a Joan M
+ itchell Foundation Fellowship alumnus and\, in 2017\, was awarded a Fulbri
+ ght Research Fellowship to Java\, Indonesia. His additional grants and awa
+ rds include the International Art Prize presented by Winsor &amp\; Newton 
+ and Paul Smith’s Foundation\, and Arts for India from the University of 
+ the Arts London.\n\nSource: https://www.visitrhodeisland.com/event/adam-de
+ -boer-in-conversation-with-christine-cocca/111252/
+LOCATION:Jamestown Arts Center\, 18 Valley Street\, Jamestown\, 02835
+URL:https://www.visitrhodeisland.com/event/adam-de-boer-in-conversation-wi
+ th-christine-cocca/111252/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Aurora Skies - Painting Class
+DTSTART;VALUE=DATE:20260812
+DTEND;VALUE=DATE:20260813
+DTSTAMP:20260812T112646Z
+UID:d88bb7f6bfee0a85bcca1879229e@visitri-calendar
 DESCRIPTION:🖌️ IN-STUDIO SESSION DETAILS Reserve your spot and enjoy 
  a complimentary beverage—choose from soda\, beer\, or wine (21+ with val
  id ID). Additional drinks will be available for purchase. Immerse yourself
@@ -299,18 +351,18 @@ DESCRIPTION:🖌️ IN-STUDIO SESSION DETAILS Reserve your spot and enjoy
   make final decisions. If we cancel due to snow or other severe weather\, 
  we’ll email you a voucher for a future session. Have more questions? Che
  ck out our [Frequently Asked Questions] page — just [click here].\n\nSou
- rce: https://www.visitrhodeisland.com/event/beach-wave-%26%238211%3b-charc
- uterie-resin-tray!/110957/
+ rce: https://www.visitrhodeisland.com/event/aurora-skies-painting-class/11
+ 0937/
 LOCATION:Paint and Vino\, 150 Main Street\, Pawtucket\, RI 02860
-URL:https://www.visitrhodeisland.com/event/beach-wave-%26%238211%3b-charcu
- terie-resin-tray!/110957/
+URL:https://www.visitrhodeisland.com/event/aurora-skies-painting-class/110
+ 937/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Blithewold Annual Family Clambake
-DTSTART;VALUE=DATE:20260811
-DTEND;VALUE=DATE:20260812
-DTSTAMP:20260811T112644Z
-UID:eb1b6abfb0b2c2f2f1df6fa66a03@visitri-calendar
+DTSTART;VALUE=DATE:20260812
+DTEND;VALUE=DATE:20260813
+DTSTAMP:20260812T112646Z
+UID:5eb51791d227fd64d48953b1c602@visitri-calendar
 DESCRIPTION:Blithewold Annual Family Clambake Thursday | August 27 5:00 &#
  8211\; 8:00 PM Location: Event Tent The Great Lawn has been the scene of f
  amily clambakes for over a century! Step back in time and stroll the garde
@@ -365,10 +417,10 @@ URL:https://www.visitrhodeisland.com/event/blithewold-annual-family-clamba
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Brew at the Zoo
-DTSTART;VALUE=DATE:20260811
-DTEND;VALUE=DATE:20260812
-DTSTAMP:20260811T112644Z
-UID:b3b056b2005c2c34276886997145@visitri-calendar
+DTSTART;VALUE=DATE:20260812
+DTEND;VALUE=DATE:20260813
+DTSTAMP:20260812T112646Z
+UID:15948dbc9ad3166de665db9e7703@visitri-calendar
 DESCRIPTION:Tap into your wild side at Brew at the Zoo on Saturday\, Augus
  t 29th\, an adults-only evening event\, and sample hundreds of beers\, har
  d seltzers\, wines and ready-to-drink cocktails from dozens of local\, reg
@@ -385,30 +437,11 @@ LOCATION:Roger Williams Park Zoo & Carousel Village\, 1000 Elmwood Avenue\
 URL:https://www.visitrhodeisland.com/event/brew-at-the-zoo/110973/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Family Night Concert Series at Easton's Beach
-DTSTART;VALUE=DATE:20260811
-DTEND;VALUE=DATE:20260812
-DTSTAMP:20260811T112644Z
-UID:73cb2ea451b68bae9a41c109f8bf@visitri-calendar
-DESCRIPTION:Interactive live bands\, magicians and story tellers complete 
- your child's experience at the Family Night Concert Series at Easton's Bea
- ch on select Tuesdays and Thursdays this summer. Festivities begin at 6:00
-  PM\, parking is free after 4:00 PM on show nights! 2026 Concert Series Sc
- hedule: July 7: Jesse Liam Band July 14: Soul Syndicate of RI July 21: Dow
- n City Band July 28: Bar Fly August 4: Country Wild Heart August 11: The R
- epercussions\n\nSource: https://www.visitrhodeisland.com/event/family-nigh
- t-concert-series-at-eastons-beach/110591/
-LOCATION:Easton's Beach (First Beach)\, 175 Memorial Boulevard\, Newport\,
-  RI 02840
-URL:https://www.visitrhodeisland.com/event/family-night-concert-series-at-
- eastons-beach/110591/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:General Stanton Inn Blues Music Festival
-DTSTART;VALUE=DATE:20260811
-DTEND;VALUE=DATE:20260812
-DTSTAMP:20260811T112644Z
-UID:09f41af00c563ce2b4861c2f03db@visitri-calendar
+DTSTART;VALUE=DATE:20260812
+DTEND;VALUE=DATE:20260813
+DTSTAMP:20260812T112646Z
+UID:573f9b41e1ba0c376a91917e9c93@visitri-calendar
 DESCRIPTION:Top Rhode Island blues music artists perform under the Stanton
   tent\, bbq\, beer\, seafood\, bourbon and more. Bring a lawn chair.\n\nSo
  urce: https://www.visitrhodeisland.com/event/general-stanton-inn-blues-mus
@@ -419,10 +452,10 @@ URL:https://www.visitrhodeisland.com/event/general-stanton-inn-blues-music
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Jacob Hackworth Live at Moonshine Alley!
-DTSTART;VALUE=DATE:20260811
-DTEND;VALUE=DATE:20260812
-DTSTAMP:20260811T112644Z
-UID:62c4ee9c5c8bb94036072e07d4fb@visitri-calendar
+DTSTART;VALUE=DATE:20260812
+DTEND;VALUE=DATE:20260813
+DTSTAMP:20260812T112646Z
+UID:aa9892c275dcd5fec9dedc260af0@visitri-calendar
 DESCRIPTION:ON SALE NOW Cat Country 98.1 presents Jacob Hackworth LIVE at 
  Moonshine Alley on Tuesday\, August 25th! MCA Records &amp\; Nashville sin
  ger and songwriter Jacob Hackworth is coming to Providence for one night o
@@ -442,10 +475,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:NIMFest: Groove Merchants w/ Olivia Nied | Live\, Outdoor Music at
   King Park
-DTSTART;VALUE=DATE:20260811
-DTEND;VALUE=DATE:20260812
-DTSTAMP:20260811T112644Z
-UID:b045575d9a2a342377a2141ccfd8@visitri-calendar
+DTSTART;VALUE=DATE:20260812
+DTEND;VALUE=DATE:20260813
+DTSTAMP:20260812T112646Z
+UID:dc1a1ca7245add723a758a6e5350@visitri-calendar
 DESCRIPTION:NIMFest (Newport Independent Music Festival) comes to you live
   from the King Park Gazebo at 125 Wellington Ave in Newport. This FREE\, w
  eekly concert series runs every Sunday in July and August from 3:00-6:00PM
@@ -461,10 +494,10 @@ URL:https://www.visitrhodeisland.com/event/nimfest%3a-groove-merchants-w-o
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Puerto Rican Festival
-DTSTART;VALUE=DATE:20260811
-DTEND;VALUE=DATE:20260812
-DTSTAMP:20260811T112644Z
-UID:7993856f1a4608c6eac34f1dc339@visitri-calendar
+DTSTART;VALUE=DATE:20260812
+DTEND;VALUE=DATE:20260813
+DTSTAMP:20260812T112646Z
+UID:496d1856381299aa5abdc818a361@visitri-calendar
 DESCRIPTION:We are proud to announce the Puerto Rican Festival in Woonsock
  et\, a vibrant cultural celebration set to take place [August 29\, 2026] a
  t [River Island Park\, Woonsocket\, RI]. This landmark event will bring to
@@ -495,28 +528,11 @@ LOCATION:River Island Art Park\, River Island Art Park\, 57 Bernon St\, Wo
 URL:https://www.visitrhodeisland.com/event/puerto-rican-festival/109367/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Summer Favorites and Jimmy Buffett Hits Live Music Cruise
-DTSTART;VALUE=DATE:20260811
-DTEND;VALUE=DATE:20260812
-DTSTAMP:20260811T112644Z
-UID:056543a81d213d141e0bdc15d1b7@visitri-calendar
-DESCRIPTION:Enjoy live summer favorites by Brian Cabral—including classi
- c Jimmy Buffett hits—aboard Coastal Queen as she cruises from Jamestown 
- through Narragansett Bay and around Newport Harbor. Enjoy a summer beverag
- e from our grand center bar. The 90-minute cruise departs at 6:30 PM from 
- 1 East Ferry Wharf in Jamestown.\n\nSource: https://www.visitrhodeisland.c
- om/event/summer-favorites-and-jimmy-buffett-hits-live-music-cruise/109532/
-LOCATION:Coastal Queen Cruises\, from Jamestown\, 1 East Ferry Wharf\, Jam
- estown\, RI 02835
-URL:https://www.visitrhodeisland.com/event/summer-favorites-and-jimmy-buff
- ett-hits-live-music-cruise/109532/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Teacher's Lounge
-DTSTART;VALUE=DATE:20260811
-DTEND;VALUE=DATE:20260812
-DTSTAMP:20260811T112644Z
-UID:89617f525eb59b3496c73021fe09@visitri-calendar
+DTSTART;VALUE=DATE:20260812
+DTEND;VALUE=DATE:20260813
+DTSTAMP:20260812T112646Z
+UID:f53fa7b72085f05c102d35e78cf3@visitri-calendar
 DESCRIPTION:Join three seasoned educators—Gaspare Randazzo (Netflix\, Th
  e Social Studies Podcast and @StandUpRandazzo on social media)\, Philip Li
  ndsay (Social Media Sensation @Mr_PhLindsay_Sped on IG\, The Today Show)\,
@@ -533,29 +549,146 @@ LOCATION:Comedy Connection\, 39 Warren Avenue\, East Providence\, RI 02914
 URL:https://www.visitrhodeisland.com/event/teachers-lounge/111067/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Family Night Concert Series at Easton's Beach
+SUMMARY:Washington County Fair
+DTSTART;VALUE=DATE:20260812
+DTEND;VALUE=DATE:20260813
+DTSTAMP:20260812T112646Z
+UID:e9349cbadfa54061b73d240ec35b@visitri-calendar
+DESCRIPTION:The Fair is RI's largest agricultural event. Admission include
+ s access to all daily concerts\, special acts and events\, the giant midwa
+ y and kiddy land area (all ride tickets &amp\; games separate)\, agricultu
+ ral events/shows\, exhibits/displays\, tractor and horse pulls\, farm muse
+ um\, and much more! At the Main Stage pine grove you can relax and enjoy s
+ ome of music's hottest acts...one of the biggest draws to the Fair is toda
+ y's Country Music Stars! Bring the entire family for five full days of FUN
+ !\n\nSource: https://www.visitrhodeisland.com/event/washington-county-fair
+ /110326/
+LOCATION:Washington County Fairgrounds\, 78 Richmond Townhouse Road\, Rich
+ mond\, RI 02812
+URL:https://www.visitrhodeisland.com/event/washington-county-fair/110326/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:"Mea Duke: Dreamliners" Exhibit
 DTSTART;VALUE=DATE:20260813
 DTEND;VALUE=DATE:20260814
-DTSTAMP:20260811T112644Z
-UID:d3aa822569a7dd8fdce9056165a5@visitri-calendar
-DESCRIPTION:Interactive live bands\, magicians and story tellers complete 
- your child's experience at the Family Night Concert Series at Easton's Bea
- ch on select Tuesdays and Thursdays this summer. Festivities begin at 6:00
-  PM\, parking is free after 4:00 PM on show nights! 2026 Concert Series Sc
- hedule: July 7: Jesse Liam Band July 14: Soul Syndicate of RI July 21: Dow
- n City Band July 28: Bar Fly August 4: Country Wild Heart August 11: The R
- epercussions\n\nSource: https://www.visitrhodeisland.com/event/family-nigh
- t-concert-series-at-eastons-beach/110591/
-LOCATION:Easton's Beach (First Beach)\, 175 Memorial Boulevard\, Newport\,
-  RI 02840
-URL:https://www.visitrhodeisland.com/event/family-night-concert-series-at-
- eastons-beach/110591/
+DTSTAMP:20260812T112646Z
+UID:d4e7b3cf0b2067165006c2948d8a@visitri-calendar
+DESCRIPTION:Jessica Hagen Fine Art + Design is pleased to announce the exh
+ ibit: "Mea Duke: Dreamliners" August 1 - August 30\, 2026. This solo exhib
+ ition marks Mea Duke’s third solo show with Jessica Hagen’s gallery. D
+ reamliners assembles objects and images from the mid-twentieth century mom
+ ent when progress felt most like destiny: Pan Am flying boats\, LIFE magaz
+ ines\, lifejackets\, sunblock\, straw hats\, shipping containers\, endless
+  horizons. Together they form an archive of optimism\, sleek engineering\,
+  and the promise that the world was suddenly\, thrillingly within reach. T
+ he title borrows from Boeing's Dreamliner\, an aircraft whose name still t
+ rades on the same aspirational language the Pan Am era perfected. Duke's p
+ ractice has long lived in the space between painting an object and treatin
+ g the painting itself as an object\, an artifact with its own weight\, mat
+ eriality\, and history. Jessica Hagen states\, “Dreamliners is a smart\,
+  fun and beautifully executed show. Mea Duke is a highly skilled painter a
+ nd she is very clearly on top of her game\; treating us to paintings that 
+ are in her words\, created slowly by hand\, with clean deliberate precisio
+ n. Replete with iconic objects and imagery rendered as only Duke can\, thi
+ s show is not to be missed.” “Mea Duke: Dreamliners” closes August 3
+ 0\, 2026. Jessica Hagen Fine Art + Design was founded in 2005 and features
+  contemporary art including painting\, sculpture\, photography\, ceramics\
+ , textiles\, and jewelry. Located in the historic Point section of Newport
+ \, the gallery’s hours are Wednesday- Saturday 11:00 AM - 5:00 PM\, and 
+ Sunday 12:00 - 5:00 PM. The gallery is also open by appointment. Image Att
+ ached: Mea Duke Flying Boat I oil/canvas 40” x 64”\n\nSource: https://
+ www.visitrhodeisland.com/event/mea-duke%3a-dreamliners-exhibit/111171/
+LOCATION:Jessica Hagen Fine Art & Design\, 9A Bridge Street\, Newport\, RI
+  02840
+URL:https://www.visitrhodeisland.com/event/mea-duke%3a-dreamliners-exhibit
+ /111171/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Early Bird Museum Highlight Tour at Newport Car Museum
+DTSTART;VALUE=DATE:20260813
+DTEND;VALUE=DATE:20260814
+DTSTAMP:20260812T112646Z
+UID:3bc98d69aef3bc53313af54b2d21@visitri-calendar
+DESCRIPTION:Early Bird Highlight Tour For 90 minutes (8:30 &#8211\; 10:00 
+ AM) prior to Museum opening. Call to book: +1 (401) 848-2277 Price $75.00 
+ per person (minimum 2\, maximum 6 ppl) Offered Wednesday\, Thursday\, and 
+ Saturday only April 1 - December 31\, 2026. General admission is included 
+ with price. 72-hour advance notice is suggested. Only one group will be ho
+ sted on any given morning. This is your chance to have the Newport Car Mus
+ eum all to yourself with a private guide to share with you the not-to-miss
+  highlights in seven expansive galleries. With over 100 iconic\, rare and 
+ exotic cars on display at one time\, this private collection is bursting w
+ ith history\, provenance and color\, not to mention the breathtaking sculp
+ tural beauty of automotive designs starting with the 1950s and finishing w
+ ith new models from the 21 st Century. After 90 minutes with your private\
+ , continue to explore at your own pace so that you can further examine you
+ r favorites from the Ford/Shelby\, Corvette\, World Car\, Porsche\, Fin Ca
+ r\, American Muscle and Mopar exhibits while enjoying immersive videos\, a
+ rtwork and the Museum’s eclectic collection of Mid-Century Modern Furnit
+ ure.\n\nSource: https://www.visitrhodeisland.com/event/early-bird-museum-h
+ ighlight-tour-at-newport-car-museum/109638/
+LOCATION:Newport Car Museum\, Enter at Light 1947 West Main Road\, Portsmo
+ uth\, RI 02871
+URL:https://www.visitrhodeisland.com/event/early-bird-museum-highlight-tou
+ r-at-newport-car-museum/109638/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NecronomiCon Providence
+DTSTART;VALUE=DATE:20260813
+DTEND;VALUE=DATE:20260814
+DTSTAMP:20260812T112646Z
+UID:776adfcbf05b1e673cd80c848a7c@visitri-calendar
+DESCRIPTION:NecronomiCon Providence is an expansive exploration and celebr
+ ation of all the greats of weird fiction\, old and new\, including predece
+ ssors and contemporaries of Providence’s H.P. Lovecraft and the many aut
+ hors and artists who have forged their own paths of weird. Visit website f
+ or more information and updates for another incredible convention and fest
+ ival. Providence welcomes you all.\n\nSource: https://www.visitrhodeisland
+ .com/event/necronomicon-providence/84602/
+LOCATION:Various Venues \, Providence\, RI 02903 Time: see website
+URL:https://www.visitrhodeisland.com/event/necronomicon-providence/84602/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:"Mea Duke: Dreamliners" Exhibit
+DTSTART;VALUE=DATE:20260814
+DTEND;VALUE=DATE:20260815
+DTSTAMP:20260812T112646Z
+UID:76010e0409a83e73c4134afa53eb@visitri-calendar
+DESCRIPTION:Jessica Hagen Fine Art + Design is pleased to announce the exh
+ ibit: "Mea Duke: Dreamliners" August 1 - August 30\, 2026. This solo exhib
+ ition marks Mea Duke’s third solo show with Jessica Hagen’s gallery. D
+ reamliners assembles objects and images from the mid-twentieth century mom
+ ent when progress felt most like destiny: Pan Am flying boats\, LIFE magaz
+ ines\, lifejackets\, sunblock\, straw hats\, shipping containers\, endless
+  horizons. Together they form an archive of optimism\, sleek engineering\,
+  and the promise that the world was suddenly\, thrillingly within reach. T
+ he title borrows from Boeing's Dreamliner\, an aircraft whose name still t
+ rades on the same aspirational language the Pan Am era perfected. Duke's p
+ ractice has long lived in the space between painting an object and treatin
+ g the painting itself as an object\, an artifact with its own weight\, mat
+ eriality\, and history. Jessica Hagen states\, “Dreamliners is a smart\,
+  fun and beautifully executed show. Mea Duke is a highly skilled painter a
+ nd she is very clearly on top of her game\; treating us to paintings that 
+ are in her words\, created slowly by hand\, with clean deliberate precisio
+ n. Replete with iconic objects and imagery rendered as only Duke can\, thi
+ s show is not to be missed.” “Mea Duke: Dreamliners” closes August 3
+ 0\, 2026. Jessica Hagen Fine Art + Design was founded in 2005 and features
+  contemporary art including painting\, sculpture\, photography\, ceramics\
+ , textiles\, and jewelry. Located in the historic Point section of Newport
+ \, the gallery’s hours are Wednesday- Saturday 11:00 AM - 5:00 PM\, and 
+ Sunday 12:00 - 5:00 PM. The gallery is also open by appointment. Image Att
+ ached: Mea Duke Flying Boat I oil/canvas 40” x 64”\n\nSource: https://
+ www.visitrhodeisland.com/event/mea-duke%3a-dreamliners-exhibit/111171/
+LOCATION:Jessica Hagen Fine Art & Design\, 9A Bridge Street\, Newport\, RI
+  02840
+URL:https://www.visitrhodeisland.com/event/mea-duke%3a-dreamliners-exhibit
+ /111171/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Willy Wonka Jr.
 DTSTART;VALUE=DATE:20260814
 DTEND;VALUE=DATE:20260815
-DTSTAMP:20260811T112644Z
+DTSTAMP:20260812T112646Z
 UID:a5e49a0a0720ec778da40a452ea2@visitri-calendar
 DESCRIPTION:Step into a world of pure imagination with Willy Wonka Jr. ! J
  oin Charlie Bucket as he embarks on a magical adventure through Willy Wonk
@@ -569,10 +702,75 @@ LOCATION:Granite Theatre\, 1 Granite Street\, Westerly\, RI 02891
 URL:https://www.visitrhodeisland.com/event/willy-wonka-jr/108276/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:"Mea Duke: Dreamliners" Exhibit
+DTSTART;VALUE=DATE:20260815
+DTEND;VALUE=DATE:20260816
+DTSTAMP:20260812T112646Z
+UID:85b2278e619d7497dada8fbd7634@visitri-calendar
+DESCRIPTION:Jessica Hagen Fine Art + Design is pleased to announce the exh
+ ibit: "Mea Duke: Dreamliners" August 1 - August 30\, 2026. This solo exhib
+ ition marks Mea Duke’s third solo show with Jessica Hagen’s gallery. D
+ reamliners assembles objects and images from the mid-twentieth century mom
+ ent when progress felt most like destiny: Pan Am flying boats\, LIFE magaz
+ ines\, lifejackets\, sunblock\, straw hats\, shipping containers\, endless
+  horizons. Together they form an archive of optimism\, sleek engineering\,
+  and the promise that the world was suddenly\, thrillingly within reach. T
+ he title borrows from Boeing's Dreamliner\, an aircraft whose name still t
+ rades on the same aspirational language the Pan Am era perfected. Duke's p
+ ractice has long lived in the space between painting an object and treatin
+ g the painting itself as an object\, an artifact with its own weight\, mat
+ eriality\, and history. Jessica Hagen states\, “Dreamliners is a smart\,
+  fun and beautifully executed show. Mea Duke is a highly skilled painter a
+ nd she is very clearly on top of her game\; treating us to paintings that 
+ are in her words\, created slowly by hand\, with clean deliberate precisio
+ n. Replete with iconic objects and imagery rendered as only Duke can\, thi
+ s show is not to be missed.” “Mea Duke: Dreamliners” closes August 3
+ 0\, 2026. Jessica Hagen Fine Art + Design was founded in 2005 and features
+  contemporary art including painting\, sculpture\, photography\, ceramics\
+ , textiles\, and jewelry. Located in the historic Point section of Newport
+ \, the gallery’s hours are Wednesday- Saturday 11:00 AM - 5:00 PM\, and 
+ Sunday 12:00 - 5:00 PM. The gallery is also open by appointment. Image Att
+ ached: Mea Duke Flying Boat I oil/canvas 40” x 64”\n\nSource: https://
+ www.visitrhodeisland.com/event/mea-duke%3a-dreamliners-exhibit/111171/
+LOCATION:Jessica Hagen Fine Art & Design\, 9A Bridge Street\, Newport\, RI
+  02840
+URL:https://www.visitrhodeisland.com/event/mea-duke%3a-dreamliners-exhibit
+ /111171/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Early Bird Museum Highlight Tour at Newport Car Museum
+DTSTART;VALUE=DATE:20260815
+DTEND;VALUE=DATE:20260816
+DTSTAMP:20260812T112646Z
+UID:cc068185d794ccacea1bc5e70a35@visitri-calendar
+DESCRIPTION:Early Bird Highlight Tour For 90 minutes (8:30 &#8211\; 10:00 
+ AM) prior to Museum opening. Call to book: +1 (401) 848-2277 Price $75.00 
+ per person (minimum 2\, maximum 6 ppl) Offered Wednesday\, Thursday\, and 
+ Saturday only April 1 - December 31\, 2026. General admission is included 
+ with price. 72-hour advance notice is suggested. Only one group will be ho
+ sted on any given morning. This is your chance to have the Newport Car Mus
+ eum all to yourself with a private guide to share with you the not-to-miss
+  highlights in seven expansive galleries. With over 100 iconic\, rare and 
+ exotic cars on display at one time\, this private collection is bursting w
+ ith history\, provenance and color\, not to mention the breathtaking sculp
+ tural beauty of automotive designs starting with the 1950s and finishing w
+ ith new models from the 21 st Century. After 90 minutes with your private\
+ , continue to explore at your own pace so that you can further examine you
+ r favorites from the Ford/Shelby\, Corvette\, World Car\, Porsche\, Fin Ca
+ r\, American Muscle and Mopar exhibits while enjoying immersive videos\, a
+ rtwork and the Museum’s eclectic collection of Mid-Century Modern Furnit
+ ure.\n\nSource: https://www.visitrhodeisland.com/event/early-bird-museum-h
+ ighlight-tour-at-newport-car-museum/109638/
+LOCATION:Newport Car Museum\, Enter at Light 1947 West Main Road\, Portsmo
+ uth\, RI 02871
+URL:https://www.visitrhodeisland.com/event/early-bird-museum-highlight-tou
+ r-at-newport-car-museum/109638/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Island Rhodes Music Festival
 DTSTART;VALUE=DATE:20260815
 DTEND;VALUE=DATE:20260816
-DTSTAMP:20260811T112644Z
+DTSTAMP:20260812T112646Z
 UID:ace7c364f24262c067e163fb9b96@visitri-calendar
 DESCRIPTION:The Ocean State is welcoming a brand-new marquee music festiva
  l this summer with the debut of Centreville Bank Stadium’s first-ever co
@@ -600,7 +798,7 @@ BEGIN:VEVENT
 SUMMARY:Live Music by Logan Vale
 DTSTART;VALUE=DATE:20260815
 DTEND;VALUE=DATE:20260816
-DTSTAMP:20260811T112644Z
+DTSTAMP:20260812T112646Z
 UID:83f1c7264b84148bcd597ec3aec6@visitri-calendar
 DESCRIPTION:The music of Logan Vale! Dinner reservations required either o
  nline or call 401.861.3850 x. 3\n\nSource: https://www.visitrhodeisland.co
@@ -614,7 +812,7 @@ BEGIN:VEVENT
 SUMMARY:Willy Wonka Jr.
 DTSTART;VALUE=DATE:20260815
 DTEND;VALUE=DATE:20260816
-DTSTAMP:20260811T112644Z
+DTSTAMP:20260812T112646Z
 UID:c446ddac28bb55719dccb612ecb1@visitri-calendar
 DESCRIPTION:Step into a world of pure imagination with Willy Wonka Jr. ! J
  oin Charlie Bucket as he embarks on a magical adventure through Willy Wonk
@@ -631,7 +829,7 @@ BEGIN:VEVENT
 SUMMARY:Island Rhodes Music Festival
 DTSTART;VALUE=DATE:20260816
 DTEND;VALUE=DATE:20260817
-DTSTAMP:20260811T112644Z
+DTSTAMP:20260812T112646Z
 UID:93e5ea0aa328c3ced2b4563c7e32@visitri-calendar
 DESCRIPTION:The Ocean State is welcoming a brand-new marquee music festiva
  l this summer with the debut of Centreville Bank Stadium’s first-ever co
@@ -656,10 +854,26 @@ URL:https://www.visitrhodeisland.com/event/island-rhodes-music-festival/10
  9333/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:NecronomiCon Providence
+DTSTART;VALUE=DATE:20260816
+DTEND;VALUE=DATE:20260817
+DTSTAMP:20260812T112646Z
+UID:7a9739b6e6b1706884da0b261bdd@visitri-calendar
+DESCRIPTION:NecronomiCon Providence is an expansive exploration and celebr
+ ation of all the greats of weird fiction\, old and new\, including predece
+ ssors and contemporaries of Providence’s H.P. Lovecraft and the many aut
+ hors and artists who have forged their own paths of weird. Visit website f
+ or more information and updates for another incredible convention and fest
+ ival. Providence welcomes you all.\n\nSource: https://www.visitrhodeisland
+ .com/event/necronomicon-providence/84602/
+LOCATION:Various Venues \, Providence\, RI 02903 Time: see website
+URL:https://www.visitrhodeisland.com/event/necronomicon-providence/84602/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Teacher's Lounge
 DTSTART;VALUE=DATE:20260816
 DTEND;VALUE=DATE:20260817
-DTSTAMP:20260811T112644Z
+DTSTAMP:20260812T112646Z
 UID:38916c245d764c09eb4e210e1dc3@visitri-calendar
 DESCRIPTION:Join three seasoned educators—Gaspare Randazzo (Netflix\, Th
  e Social Studies Podcast and @StandUpRandazzo on social media)\, Philip Li
@@ -677,46 +891,29 @@ LOCATION:Comedy Connection\, 39 Warren Avenue\, East Providence\, RI 02914
 URL:https://www.visitrhodeisland.com/event/teachers-lounge/111067/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Food Truck Tuesdays & Taproom Music at Ragged Island Brewing
-DTSTART;VALUE=DATE:20260818
-DTEND;VALUE=DATE:20260819
-DTSTAMP:20260811T112644Z
-UID:6e38843b84dc3cc904a918dd0a05@visitri-calendar
-DESCRIPTION:Food Truck Tuesdays at Ragged Island Brewing What's better tha
- n a week night full of good food and live music? 2026 Schedule July 7: Foo
- d Truck Tuesday Newport Sushi Co\, W’s Wood Fire Pizza\, California Taco
-  Truck\, Little Fish\, Tolia\, Rhode Rage\, and Mad Good Cookie 4:00 &#821
- 1\; 8:00 PM Live Music in the taproom: Dave Alves 5:00 &#8211\; 8:00 PM Ju
- ly 14: Food Truck Tuesday Newport Sushi Co.\, Farm to Sandwich\, W’s Woo
- d Fire Pizza\, California Taco Truck\, Little Fish\, Hometown Poke\, Rhode
-  Rage\, Mad Good Cookies 4:00 &#8211\; 8:00 PM Live Music in the taproom: 
- Steve Demers 5:00 &#8211\; 8:00 PM July 21: Food Truck Tuesday Newport Sus
- hi Co.\, Farm to Sandwich\, W’s Wood Fired Pizza\, California Taco Truck
- \, Mad Good Cookies 4:00 &#8211\; 8:00 PM Live Music in the taproom: Bob T
- omassone 5:00 &#8211\; 8:00 PM July 28: Food Truck Tuesday W’s Wood Fire
-  Pizza\, California Taco Truck\, Tolia\, Mad Good Cookies 4:00 &#8211\; 8:
- 00 PM Live Music in the taproom: Lauren King 5:00 &#8211\; 8:00 PM August 
- 4: Food Truck Tuesday Newport Sushi Co\, Teddi’s\, Farm to Sandwich\, W
- ’s Pizza\, Cali Taco\, Tolia\, Rhode Rage\, Mad Good Cookies 4:00 &#8211
- \; 8:00 PM Live Music in the taproom: Ian Botha 5:00 &#8211\; 8:00 PM Augu
- st 11: Food Truck Tuesday W’s Pizza\, Cali Taco\, Hometown Poke\, Mad Go
- od Cookies 4:00 &#8211\; 8:00 PM Live Music in the taproom: Chris &amp\; D
- iane Myers 5:00 &#8211\; 8:00 PM August 18: Food Truck Tuesday Newport Sus
- hi Co\,Teddi’s\, Farm to Sandwich\, W’s Pizza\, California Taco Truck\
- , Little Fish\, Tolia\, Rhode Rage\, Mad Good Cookies 4:00 &#8211\; 8:00 P
- M Live Music in the taproom: Steve Demers 5:00 &#8211\; 8:00 PM\n\nSource:
-  https://www.visitrhodeisland.com/event/food-truck-tuesdays-%26-taproom-mu
- sic-at-ragged-island-brewing/110449/
-LOCATION:Ragged Island Brewing Company\, 54 Bristol Ferry Road\, Portsmout
- h\, RI 02871 Time: 4:00 PM to 8:00 PM
-URL:https://www.visitrhodeisland.com/event/food-truck-tuesdays-%26-taproom
- -music-at-ragged-island-brewing/110449/
+SUMMARY:Washington County Fair
+DTSTART;VALUE=DATE:20260816
+DTEND;VALUE=DATE:20260817
+DTSTAMP:20260812T112646Z
+UID:cad4ada55549b9d58f789c549cde@visitri-calendar
+DESCRIPTION:The Fair is RI's largest agricultural event. Admission include
+ s access to all daily concerts\, special acts and events\, the giant midwa
+ y and kiddy land area (all ride tickets &amp\; games separate)\, agricultu
+ ral events/shows\, exhibits/displays\, tractor and horse pulls\, farm muse
+ um\, and much more! At the Main Stage pine grove you can relax and enjoy s
+ ome of music's hottest acts...one of the biggest draws to the Fair is toda
+ y's Country Music Stars! Bring the entire family for five full days of FUN
+ !\n\nSource: https://www.visitrhodeisland.com/event/washington-county-fair
+ /110326/
+LOCATION:Washington County Fairgrounds\, 78 Richmond Townhouse Road\, Rich
+ mond\, RI 02812
+URL:https://www.visitrhodeisland.com/event/washington-county-fair/110326/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:General Stanton Inn Blues Music Festival
 DTSTART;VALUE=DATE:20260823
 DTEND;VALUE=DATE:20260824
-DTSTAMP:20260811T112644Z
+DTSTAMP:20260812T112646Z
 UID:d4af5e9754de8b7973ccbe936045@visitri-calendar
 DESCRIPTION:Top Rhode Island blues music artists perform under the Stanton
   tent\, bbq\, beer\, seafood\, bourbon and more. Bring a lawn chair.\n\nSo
@@ -731,7 +928,7 @@ SUMMARY:NIMFest: Groove Merchants w/ Olivia Nied | Live\, Outdoor Music at
   King Park
 DTSTART;VALUE=DATE:20260823
 DTEND;VALUE=DATE:20260824
-DTSTAMP:20260811T112644Z
+DTSTAMP:20260812T112646Z
 UID:e43d950bc7c5636c64f3187cf4d2@visitri-calendar
 DESCRIPTION:NIMFest (Newport Independent Music Festival) comes to you live
   from the King Park Gazebo at 125 Wellington Ave in Newport. This FREE\, w
@@ -750,7 +947,7 @@ BEGIN:VEVENT
 SUMMARY:Jacob Hackworth Live at Moonshine Alley!
 DTSTART;VALUE=DATE:20260825
 DTEND;VALUE=DATE:20260826
-DTSTAMP:20260811T112644Z
+DTSTAMP:20260812T112646Z
 UID:f35a8fe4166371ef1f7d3be66b07@visitri-calendar
 DESCRIPTION:ON SALE NOW Cat Country 98.1 presents Jacob Hackworth LIVE at 
  Moonshine Alley on Tuesday\, August 25th! MCA Records &amp\; Nashville sin
@@ -772,7 +969,7 @@ BEGIN:VEVENT
 SUMMARY:Music at Sunset: Concert Series 2026
 DTSTART;VALUE=DATE:20260826
 DTEND;VALUE=DATE:20260827
-DTSTAMP:20260811T112644Z
+DTSTAMP:20260812T112646Z
 UID:f7374ee07909032aafe715f097f0@visitri-calendar
 DESCRIPTION:Music at Sunset: Concert Series 2026 Wednesdays | June 3 &#821
  1\; August 26 Music from 6:00 &#8211\; 8:00 PM\, Parking and Check-in open
@@ -822,7 +1019,7 @@ BEGIN:VEVENT
 SUMMARY:Blithewold Annual Family Clambake
 DTSTART;VALUE=DATE:20260827
 DTEND;VALUE=DATE:20260828
-DTSTAMP:20260811T112644Z
+DTSTAMP:20260812T112646Z
 UID:527f3299a90d3c05a0676865fdb2@visitri-calendar
 DESCRIPTION:Blithewold Annual Family Clambake Thursday | August 27 5:00 &#
  8211\; 8:00 PM Location: Event Tent The Great Lawn has been the scene of f
@@ -880,7 +1077,7 @@ BEGIN:VEVENT
 SUMMARY:Food Truck Concert Nights - Diamond Hill Park
 DTSTART;VALUE=DATE:20260827
 DTEND;VALUE=DATE:20260828
-DTSTAMP:20260811T112644Z
+DTSTAMP:20260812T112646Z
 UID:6f571d24d4473b04f931421aed68@visitri-calendar
 DESCRIPTION:We return to Diamond Hill Park in Cumberland for another serie
  s of memorable events in 2026. Attendance is free\, just pay for what you 
@@ -908,7 +1105,7 @@ BEGIN:VEVENT
 SUMMARY:Brew at the Zoo
 DTSTART;VALUE=DATE:20260829
 DTEND;VALUE=DATE:20260830
-DTSTAMP:20260811T112644Z
+DTSTAMP:20260812T112646Z
 UID:2f2070c631904a407ca11ec8d953@visitri-calendar
 DESCRIPTION:Tap into your wild side at Brew at the Zoo on Saturday\, Augus
  t 29th\, an adults-only evening event\, and sample hundreds of beers\, har
@@ -929,7 +1126,7 @@ BEGIN:VEVENT
 SUMMARY:Field of Artisans at the Beach
 DTSTART;VALUE=DATE:20260829
 DTEND;VALUE=DATE:20260830
-DTSTAMP:20260811T112644Z
+DTSTAMP:20260812T112646Z
 UID:ccb222ee4b8c9bc014c177518d7d@visitri-calendar
 DESCRIPTION:Join Field of Artisans on Saturdays this summer for the 11th y
  ear of bringing creativity to this beautiful location! Artists will displa
@@ -946,7 +1143,7 @@ BEGIN:VEVENT
 SUMMARY:Live Music by Logan Vale
 DTSTART;VALUE=DATE:20260829
 DTEND;VALUE=DATE:20260830
-DTSTAMP:20260811T112644Z
+DTSTAMP:20260812T112646Z
 UID:51d81b6b9ac830a4dbc32c26efd3@visitri-calendar
 DESCRIPTION:The music of Logan Vale! Dinner reservations required either o
  nline or call 401.861.3850 x. 3\n\nSource: https://www.visitrhodeisland.co
@@ -960,7 +1157,7 @@ BEGIN:VEVENT
 SUMMARY:Puerto Rican Festival
 DTSTART;VALUE=DATE:20260829
 DTEND;VALUE=DATE:20260830
-DTSTAMP:20260811T112644Z
+DTSTAMP:20260812T112646Z
 UID:cd67e316cf44f09e5ad6a29b3974@visitri-calendar
 DESCRIPTION:We are proud to announce the Puerto Rican Festival in Woonsock
  et\, a vibrant cultural celebration set to take place [August 29\, 2026] a
@@ -992,10 +1189,65 @@ LOCATION:River Island Art Park\, River Island Art Park\, 57 Bernon St\, Wo
 URL:https://www.visitrhodeisland.com/event/puerto-rican-festival/109367/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:"Mea Duke: Dreamliners" Exhibit
+DTSTART;VALUE=DATE:20260830
+DTEND;VALUE=DATE:20260831
+DTSTAMP:20260812T112646Z
+UID:1ceb74b8635685237cf864c3942d@visitri-calendar
+DESCRIPTION:Jessica Hagen Fine Art + Design is pleased to announce the exh
+ ibit: "Mea Duke: Dreamliners" August 1 - August 30\, 2026. This solo exhib
+ ition marks Mea Duke’s third solo show with Jessica Hagen’s gallery. D
+ reamliners assembles objects and images from the mid-twentieth century mom
+ ent when progress felt most like destiny: Pan Am flying boats\, LIFE magaz
+ ines\, lifejackets\, sunblock\, straw hats\, shipping containers\, endless
+  horizons. Together they form an archive of optimism\, sleek engineering\,
+  and the promise that the world was suddenly\, thrillingly within reach. T
+ he title borrows from Boeing's Dreamliner\, an aircraft whose name still t
+ rades on the same aspirational language the Pan Am era perfected. Duke's p
+ ractice has long lived in the space between painting an object and treatin
+ g the painting itself as an object\, an artifact with its own weight\, mat
+ eriality\, and history. Jessica Hagen states\, “Dreamliners is a smart\,
+  fun and beautifully executed show. Mea Duke is a highly skilled painter a
+ nd she is very clearly on top of her game\; treating us to paintings that 
+ are in her words\, created slowly by hand\, with clean deliberate precisio
+ n. Replete with iconic objects and imagery rendered as only Duke can\, thi
+ s show is not to be missed.” “Mea Duke: Dreamliners” closes August 3
+ 0\, 2026. Jessica Hagen Fine Art + Design was founded in 2005 and features
+  contemporary art including painting\, sculpture\, photography\, ceramics\
+ , textiles\, and jewelry. Located in the historic Point section of Newport
+ \, the gallery’s hours are Wednesday- Saturday 11:00 AM - 5:00 PM\, and 
+ Sunday 12:00 - 5:00 PM. The gallery is also open by appointment. Image Att
+ ached: Mea Duke Flying Boat I oil/canvas 40” x 64”\n\nSource: https://
+ www.visitrhodeisland.com/event/mea-duke%3a-dreamliners-exhibit/111171/
+LOCATION:Jessica Hagen Fine Art & Design\, 9A Bridge Street\, Newport\, RI
+  02840
+URL:https://www.visitrhodeisland.com/event/mea-duke%3a-dreamliners-exhibit
+ /111171/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PVDFest 2026
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260919
+DTSTAMP:20260812T112646Z
+UID:2de49afd8f722627b9a1f5e00bb1@visitri-calendar
+DESCRIPTION:The People’s Festival for Arts\, Music\, and Culture Mayor B
+ rett P. Smiley\, the City’s Department of Art\, Culture\, Tourism and Pr
+ oducing Partner FirstWorks once again host PVDFest\, Providence’s signat
+ ure outdoor arts festival\, September 18-19\, 2026. This year’s festival
+  returns to the beating heart of Downtown\, animating the streets of the C
+ reative Capital with astonishing performances\, art installations\, parade
+ s\, artisan markets\, and world-class cuisine. Discover a vibrant\, cultur
+ al experience unlike anything else in the region. Attend\n\nSource: https:
+ //www.visitrhodeisland.com/event/pvdfest-2026/104917/
+LOCATION:Downtown Providence\, Downtown Providence\, Providence\, RI 02903
+  Time: All Day Event
+URL:https://www.visitrhodeisland.com/event/pvdfest-2026/104917/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Food Truck Concert Nights - Diamond Hill Park
 DTSTART;VALUE=DATE:20260919
 DTEND;VALUE=DATE:20260920
-DTSTAMP:20260811T112644Z
+DTSTAMP:20260812T112646Z
 UID:c61110f0d2ee251ab02333bed717@visitri-calendar
 DESCRIPTION:We return to Diamond Hill Park in Cumberland for another serie
  s of memorable events in 2026. Attendance is free\, just pay for what you 
@@ -1020,47 +1272,29 @@ URL:https://www.visitrhodeisland.com/event/food-truck-concert-nights-diamo
  nd-hill-park/107172/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Craft on the Lawn at Newport Art Museum
-DTSTART;VALUE=DATE:20260929
-DTEND;VALUE=DATE:20260930
-DTSTAMP:20260811T112644Z
-UID:a5d9459ae6d4a0240f9c257a3670@visitri-calendar
-DESCRIPTION:Craft Club on the Lawn Location: Newport Art Museum\, 76 Belle
- vue Avenue\, Newport When: Weekly on Tuesdays\, June 2 - September 29\, 20
- 26 from 5:00 to 7:00 PM Cost: $10 per person Teaching Artist: Keelin Malon
- ey Join The Nest and the Newport Art Museum for Craft Club on the Lawn- a 
- weekly summer gathering for makers of all kinds. Bring your knitting\, ske
- tchbook\, embroidery\, collage\, crochet\, or any creative project and spe
- nd the evening crafting in community on the museum lawn. Meet fellow creat
- ives\, soak up inspiration\, and create alongside others every Tuesday fro
- m 5:00 to 7:00 PM all summer long. Hosted by fiber artist\, Keelin Maloney
- . Sliding scale donation. All crafts welcome. Pay in person. Location and 
- Parking Craft Club will be held on the Griswold Lawn at 76 Bellevue Avenue
- . Please park in our Museum parking lots or along Liberty Street.\n\nSourc
- e: https://www.visitrhodeisland.com/event/craft-on-the-lawn-at-newport-art
- -museum/111285/
-LOCATION:Newport Art Museum\, 76 Bellevue Avenue\, Newport When: Weekly on
-  Tuesdays\, June 2 - September 29\, 2026 from 5:00 to 7:00 PM Cost: $10 pe
- r person Teaching Artist: Keelin Maloney Join The Nest and the Newport Art
-  Museum for Craft Club on the Lawn- a weekly summer gathering for makers o
- f all kinds. Bring your knitting\, sketchbook\, embroidery\, collage\, cro
- chet\, or any creative project and spend the evening crafting in community
-  on the museum lawn. Meet fellow creatives\, soak up inspiration\, and cre
- ate alongside others every Tuesday from 5:00 to 7:00 PM all summer long. H
- osted by fiber artist\, Keelin Maloney . Sliding scale donation. All craft
- s welcome. Pay in person. Location and Parking Craft Club will be held on 
- the Griswold Lawn at 76 Bellevue Avenue. Please park in our Museum parking
-  lots or along Liberty Street. Show More View Website 1 / 1 Additional Inf
- ormation\, 76 Bellevue Avenue\, Newport\, RI 02840 Time: 5:00 PM to 7:00 P
- M
-URL:https://www.visitrhodeisland.com/event/craft-on-the-lawn-at-newport-ar
- t-museum/111285/
+SUMMARY:PVDFest 2026
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260920
+DTSTAMP:20260812T112646Z
+UID:553bda94539f69469073803099fb@visitri-calendar
+DESCRIPTION:The People’s Festival for Arts\, Music\, and Culture Mayor B
+ rett P. Smiley\, the City’s Department of Art\, Culture\, Tourism and Pr
+ oducing Partner FirstWorks once again host PVDFest\, Providence’s signat
+ ure outdoor arts festival\, September 18-19\, 2026. This year’s festival
+  returns to the beating heart of Downtown\, animating the streets of the C
+ reative Capital with astonishing performances\, art installations\, parade
+ s\, artisan markets\, and world-class cuisine. Discover a vibrant\, cultur
+ al experience unlike anything else in the region. Attend\n\nSource: https:
+ //www.visitrhodeisland.com/event/pvdfest-2026/104917/
+LOCATION:Downtown Providence\, Downtown Providence\, Providence\, RI 02903
+  Time: All Day Event
+URL:https://www.visitrhodeisland.com/event/pvdfest-2026/104917/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Live Music by Logan Vale
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261018
-DTSTAMP:20260811T112644Z
+DTSTAMP:20260812T112646Z
 UID:2241186137b505cf7c814cd90b60@visitri-calendar
 DESCRIPTION:The music of Logan Vale! Dinner reservations required either o
  nline or call 401.861.3850 x. 3\n\nSource: https://www.visitrhodeisland.co
@@ -1074,7 +1308,7 @@ BEGIN:VEVENT
 SUMMARY:Coastal Cruisers - The Golden Hour
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
-DTSTAMP:20260811T112644Z
+DTSTAMP:20260812T112646Z
 UID:a33f7731698b5451e05ba44e42fd@visitri-calendar
 DESCRIPTION:Experience the Island in our Coastal Cruisers\, Newport’s pr
  ivate chauffeured luxury tour\, dedicated to providing a sophisticated way
@@ -1101,28 +1335,10 @@ URL:https://www.visitrhodeisland.com/event/coastal-cruisers-the-golden-hou
  r/109827/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Half Price Tacos and House Margs at Yellow Door Taqueria!
-DTSTART;VALUE=DATE:20261031
-DTEND;VALUE=DATE:20261101
-DTSTAMP:20260811T112644Z
-UID:9e3061f0648341ee71e7158e4b15@visitri-calendar
-DESCRIPTION:Join us EVERY DAY at Yellow Door Taqueria from 3-6 PM at the b
- ar for half price select tacos and house margaritas! It's the perfect way 
- to wrap up your work day or grab a drink with friends! Choose from any of 
- our scratch-made house margarita flavors and six of our favorite tacos! *D
- ine in only\, select items only from 3-6 PM every day. Bar seating only*\n
- \nSource: https://www.visitrhodeisland.com/event/half-price-tacos-and-hous
- e-margs-at-yellow-door-taqueria!/111221/
-LOCATION:Yellow Door Taqueria\, 191 Dorrance Street\, Providence\, RI 0290
- 3
-URL:https://www.visitrhodeisland.com/event/half-price-tacos-and-house-marg
- s-at-yellow-door-taqueria!/111221/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Beyond the Brewhouse Tour
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
-DTSTAMP:20260811T112644Z
+DTSTAMP:20260812T112646Z
 UID:c7b48636db9ede5f5acbbb263d31@visitri-calendar
 DESCRIPTION:Beyond the Brewhouse Where: Newport Craft Brewing and Distilli
  ng\, 293 JT Connell Road\, Newport 45 minutes: $20 per person Did you know
@@ -1136,5 +1352,34 @@ LOCATION:Newport Craft Brewing & Distilling Company\, 293 JT Connell Road\
  , Newport\, RI 02840 Time: 45 minutes: Tour start time varies by booking.
 URL:https://www.visitrhodeisland.com/event/beyond-the-brewhouse-tour/11015
  3/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Early Bird Museum Highlight Tour at Newport Car Museum
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+DTSTAMP:20260812T112646Z
+UID:2f06cece69080ebb1042b1f38a6b@visitri-calendar
+DESCRIPTION:Early Bird Highlight Tour For 90 minutes (8:30 &#8211\; 10:00 
+ AM) prior to Museum opening. Call to book: +1 (401) 848-2277 Price $75.00 
+ per person (minimum 2\, maximum 6 ppl) Offered Wednesday\, Thursday\, and 
+ Saturday only April 1 - December 31\, 2026. General admission is included 
+ with price. 72-hour advance notice is suggested. Only one group will be ho
+ sted on any given morning. This is your chance to have the Newport Car Mus
+ eum all to yourself with a private guide to share with you the not-to-miss
+  highlights in seven expansive galleries. With over 100 iconic\, rare and 
+ exotic cars on display at one time\, this private collection is bursting w
+ ith history\, provenance and color\, not to mention the breathtaking sculp
+ tural beauty of automotive designs starting with the 1950s and finishing w
+ ith new models from the 21 st Century. After 90 minutes with your private\
+ , continue to explore at your own pace so that you can further examine you
+ r favorites from the Ford/Shelby\, Corvette\, World Car\, Porsche\, Fin Ca
+ r\, American Muscle and Mopar exhibits while enjoying immersive videos\, a
+ rtwork and the Museum’s eclectic collection of Mid-Century Modern Furnit
+ ure.\n\nSource: https://www.visitrhodeisland.com/event/early-bird-museum-h
+ ighlight-tour-at-newport-car-museum/109638/
+LOCATION:Newport Car Museum\, Enter at Light 1947 West Main Road\, Portsmo
+ uth\, RI 02871
+URL:https://www.visitrhodeisland.com/event/early-bird-museum-highlight-tou
+ r-at-newport-car-museum/109638/
 END:VEVENT
 END:VCALENDAR
