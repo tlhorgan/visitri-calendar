@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:$15 Moonshine Flights & Moonshine Tasting
 DTSTART;VALUE=DATE:20250615
 DTEND;VALUE=DATE:20250616
-DTSTAMP:20260813T112541Z
+DTSTAMP:20260814T112426Z
 UID:b6432d870f2c0958f26453a40d59@visitri-calendar
 DESCRIPTION:Try a Moonshine Flight tasting at Moonshine Alley! Moonshine F
  lights are available daily for just $15! We have over 13 flavors to choose
@@ -20,39 +20,10 @@ URL:https://www.visitrhodeisland.com/event/%2415-moonshine-flights-%26-moo
  nshine-tasting/105663/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Early Bird Museum Highlight Tour at Newport Car Museum
-DTSTART;VALUE=DATE:20260401
-DTEND;VALUE=DATE:20260402
-DTSTAMP:20260813T112541Z
-UID:75253880a8c565d95c2d97a759c9@visitri-calendar
-DESCRIPTION:Early Bird Highlight Tour For 90 minutes (8:30 &#8211\; 10:00 
- AM) prior to Museum opening. Call to book: +1 (401) 848-2277 Price $75.00 
- per person (minimum 2\, maximum 6 ppl) Offered Wednesday\, Thursday\, and 
- Saturday only April 1 - December 31\, 2026. General admission is included 
- with price. 72-hour advance notice is suggested. Only one group will be ho
- sted on any given morning. This is your chance to have the Newport Car Mus
- eum all to yourself with a private guide to share with you the not-to-miss
-  highlights in seven expansive galleries. With over 100 iconic\, rare and 
- exotic cars on display at one time\, this private collection is bursting w
- ith history\, provenance and color\, not to mention the breathtaking sculp
- tural beauty of automotive designs starting with the 1950s and finishing w
- ith new models from the 21 st Century. After 90 minutes with your private\
- , continue to explore at your own pace so that you can further examine you
- r favorites from the Ford/Shelby\, Corvette\, World Car\, Porsche\, Fin Ca
- r\, American Muscle and Mopar exhibits while enjoying immersive videos\, a
- rtwork and the Museum’s eclectic collection of Mid-Century Modern Furnit
- ure.\n\nSource: https://www.visitrhodeisland.com/event/early-bird-museum-h
- ighlight-tour-at-newport-car-museum/109638/
-LOCATION:Newport Car Museum\, Enter at Light 1947 West Main Road\, Portsmo
- uth\, RI 02871
-URL:https://www.visitrhodeisland.com/event/early-bird-museum-highlight-tou
- r-at-newport-car-museum/109638/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Coastal Cruisers - The Golden Hour
 DTSTART;VALUE=DATE:20260501
 DTEND;VALUE=DATE:20260502
-DTSTAMP:20260813T112541Z
+DTSTAMP:20260814T112426Z
 UID:9f3864060ce7679e35293700f37c@visitri-calendar
 DESCRIPTION:Experience the Island in our Coastal Cruisers\, Newport’s pr
  ivate chauffeured luxury tour\, dedicated to providing a sophisticated way
@@ -82,7 +53,7 @@ BEGIN:VEVENT
 SUMMARY:Beyond the Brewhouse Tour
 DTSTART;VALUE=DATE:20260515
 DTEND;VALUE=DATE:20260516
-DTSTAMP:20260813T112541Z
+DTSTAMP:20260814T112426Z
 UID:acc9d8e1d1bdab34c6766b602473@visitri-calendar
 DESCRIPTION:Beyond the Brewhouse Where: Newport Craft Brewing and Distilli
  ng\, 293 JT Connell Road\, Newport 45 minutes: $20 per person Did you know
@@ -101,7 +72,7 @@ BEGIN:VEVENT
 SUMMARY:Music at Sunset: Concert Series 2026
 DTSTART;VALUE=DATE:20260603
 DTEND;VALUE=DATE:20260604
-DTSTAMP:20260813T112541Z
+DTSTAMP:20260814T112426Z
 UID:87bda7b48d099d40defa3f7e711b@visitri-calendar
 DESCRIPTION:Music at Sunset: Concert Series 2026 Wednesdays | June 3 &#821
  1\; August 26 Music from 6:00 &#8211\; 8:00 PM\, Parking and Check-in open
@@ -151,7 +122,7 @@ BEGIN:VEVENT
 SUMMARY:Free Summer Concert Series at Ragged Island
 DTSTART;VALUE=DATE:20260624
 DTEND;VALUE=DATE:20260625
-DTSTAMP:20260813T112541Z
+DTSTAMP:20260814T112426Z
 UID:1c212ee8000d851f7b6e4ea8f143@visitri-calendar
 DESCRIPTION:Announcing Ragged Island's Free 2026 Summer Concert Series Rag
  ged Island has nine awesome bands lined up for Wednesday nights in July an
@@ -183,7 +154,7 @@ BEGIN:VEVENT
 SUMMARY:Hope & Main Makers Markets: Summer Series
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260702
-DTSTAMP:20260813T112541Z
+DTSTAMP:20260814T112426Z
 UID:a4c76656bb4dd2f560a21d25ca37@visitri-calendar
 DESCRIPTION:Developed by the operators of Hope &amp\; Main in Warren\, the
   Schoolyard Market helps locally-based food and beverage businesses start 
@@ -205,7 +176,7 @@ BEGIN:VEVENT
 SUMMARY:Field of Artisans at the Beach
 DTSTART;VALUE=DATE:20260711
 DTEND;VALUE=DATE:20260712
-DTSTAMP:20260813T112541Z
+DTSTAMP:20260814T112426Z
 UID:7ebe1a9998bbb563181c86657159@visitri-calendar
 DESCRIPTION:Join Field of Artisans on Saturdays this summer for the 11th y
  ear of bringing creativity to this beautiful location! Artists will displa
@@ -222,7 +193,7 @@ BEGIN:VEVENT
 SUMMARY:$15 Moonshine Flights & Moonshine Tasting
 DTSTART;VALUE=DATE:20260721
 DTEND;VALUE=DATE:20260722
-DTSTAMP:20260813T112541Z
+DTSTAMP:20260814T112426Z
 UID:6ac059c408c431eceb1c3c855c19@visitri-calendar
 DESCRIPTION:Try a Moonshine Flight tasting at Moonshine Alley! Moonshine F
  lights are available daily for just $15! We have over 13 flavors to choose
@@ -238,7 +209,7 @@ BEGIN:VEVENT
 SUMMARY:"Mea Duke: Dreamliners" Exhibit
 DTSTART;VALUE=DATE:20260801
 DTEND;VALUE=DATE:20260802
-DTSTAMP:20260813T112541Z
+DTSTAMP:20260814T112426Z
 UID:c06cfbf2bf6470118f0deef8d28e@visitri-calendar
 DESCRIPTION:Jessica Hagen Fine Art + Design is pleased to announce the exh
  ibit: "Mea Duke: Dreamliners" August 1 - August 30\, 2026. This solo exhib
@@ -274,7 +245,7 @@ BEGIN:VEVENT
 SUMMARY:Washington County Fair
 DTSTART;VALUE=DATE:20260812
 DTEND;VALUE=DATE:20260813
-DTSTAMP:20260813T112541Z
+DTSTAMP:20260814T112426Z
 UID:e9349cbadfa54061b73d240ec35b@visitri-calendar
 DESCRIPTION:The Fair is RI's largest agricultural event. Admission include
  s access to all daily concerts\, special acts and events\, the giant midwa
@@ -290,11 +261,27 @@ LOCATION:Washington County Fairgrounds\, 78 Richmond Townhouse Road\, Rich
 URL:https://www.visitrhodeisland.com/event/washington-county-fair/110326/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:"Mea Duke: Dreamliners" Exhibit
+SUMMARY:NecronomiCon Providence
 DTSTART;VALUE=DATE:20260813
 DTEND;VALUE=DATE:20260814
-DTSTAMP:20260813T112541Z
-UID:d4e7b3cf0b2067165006c2948d8a@visitri-calendar
+DTSTAMP:20260814T112426Z
+UID:776adfcbf05b1e673cd80c848a7c@visitri-calendar
+DESCRIPTION:NecronomiCon Providence is an expansive exploration and celebr
+ ation of all the greats of weird fiction\, old and new\, including predece
+ ssors and contemporaries of Providence’s H.P. Lovecraft and the many aut
+ hors and artists who have forged their own paths of weird. Visit website f
+ or more information and updates for another incredible convention and fest
+ ival. Providence welcomes you all.\n\nSource: https://www.visitrhodeisland
+ .com/event/necronomicon-providence/84602/
+LOCATION:Various Venues \, Providence\, RI 02903 Time: see website
+URL:https://www.visitrhodeisland.com/event/necronomicon-providence/84602/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:"Mea Duke: Dreamliners" Exhibit
+DTSTART;VALUE=DATE:20260814
+DTEND;VALUE=DATE:20260815
+DTSTAMP:20260814T112426Z
+UID:76010e0409a83e73c4134afa53eb@visitri-calendar
 DESCRIPTION:Jessica Hagen Fine Art + Design is pleased to announce the exh
  ibit: "Mea Duke: Dreamliners" August 1 - August 30\, 2026. This solo exhib
  ition marks Mea Duke’s third solo show with Jessica Hagen’s gallery. D
@@ -326,40 +313,31 @@ URL:https://www.visitrhodeisland.com/event/mea-duke%3a-dreamliners-exhibit
  /111171/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:1776| 2026: Inside the Exhibition
-DTSTART;VALUE=DATE:20260813
-DTEND;VALUE=DATE:20260814
-DTSTAMP:20260813T112541Z
-UID:8e718bc11e7dcac4a94746841218@visitri-calendar
-DESCRIPTION:1776| 2026: Inside the Exhibition When: Thursday\, August 13th
-  from 4:00 &#8211\; 5:00 PM Location: Rough Point Museum\, 680 Bellevue Av
- enue\, Newport Go behind-the-scenes of 1776 | 2026: The Newport Restoratio
- n Foundation Reflects on the American Revolution. Inspired by Doris Duke
- ’s remarkable legacy\, the Newport Restoration Foundation today preserve
- s objects\, sites\, and stories with connections to the American Revolutio
- n. This tour will share more about the stories behind the art\, craft\, an
- d design on display—including works of furniture\, architectural drawing
- s\, and fashion. Know before you go: This tour is wheelchair accessible.\n
- \nSource: https://www.visitrhodeisland.com/event/1776%7c-2026%3a-inside-th
- e-exhibition/109784/
-LOCATION:Rough Point Museum\, 680 Bellevue Avenue\, Newport Go behind-the-
- scenes of 1776 | 2026: The Newport Restoration Foundation Reflects on the 
- American Revolution. Inspired by Doris Duke’s remarkable legacy\, the Ne
- wport Restoration Foundation today preserves objects\, sites\, and stories
-  with connections to the American Revolution. This tour will share more ab
- out the stories behind the art\, craft\, and design on display—including
-  works of furniture\, architectural drawings\, and fashion. Know before yo
- u go: This tour is wheelchair accessible. Show More View Website | Email 1
-  / 1 Additional Information\, 680 Bellevue Avenue\, Newport\, RI 02840
-URL:https://www.visitrhodeisland.com/event/1776%7c-2026%3a-inside-the-exhi
- bition/109784/
+SUMMARY:ABBA Tribute
+DTSTART;VALUE=DATE:20260814
+DTEND;VALUE=DATE:20260815
+DTSTAMP:20260814T112426Z
+UID:fbb3f1c5452d18b5565caac5db15@visitri-calendar
+DESCRIPTION:With the new resurgence of the ‘70s\, portrayed in part by t
+ he hugely popular live musical production and now the world wide release o
+ f “Mamma Mia” - The Movie\, the music of ABBA is finding its way back 
+ into the hearts of those who lived it then and taking over the hearts of t
+ hose who are experiencing it for the first time now. Adbacadabra promises 
+ to continue the momentum! Adbacadabra is the best ABBA tribute around and 
+ they’ll prove it to you as they perform ABBA’s greatest hits in full A
+ BBA fashion and flair! “S.O.S.\,” “Super Trooper” and “Dancing Q
+ ueen” will be re-created with such precision that you’ll swear you are
+  listening to the originals themselves.\n\nSource: https://www.visitrhodei
+ sland.com/event/abba-tribute/111158/
+LOCATION:Stadium Theatre\, 28 Monument Square\, Woonsocket\, RI 02895
+URL:https://www.visitrhodeisland.com/event/abba-tribute/111158/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Blithewold Annual Family Clambake
-DTSTART;VALUE=DATE:20260813
-DTEND;VALUE=DATE:20260814
-DTSTAMP:20260813T112541Z
-UID:60fd020ceef0e2e9dd634ab6d297@visitri-calendar
+DTSTART;VALUE=DATE:20260814
+DTEND;VALUE=DATE:20260815
+DTSTAMP:20260814T112426Z
+UID:c9cb687820f70db10aec2ef5f034@visitri-calendar
 DESCRIPTION:Blithewold Annual Family Clambake Thursday | August 27 5:00 &#
  8211\; 8:00 PM Location: Event Tent The Great Lawn has been the scene of f
  amily clambakes for over a century! Step back in time and stroll the garde
@@ -414,10 +392,10 @@ URL:https://www.visitrhodeisland.com/event/blithewold-annual-family-clamba
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Brew at the Zoo
-DTSTART;VALUE=DATE:20260813
-DTEND;VALUE=DATE:20260814
-DTSTAMP:20260813T112541Z
-UID:c76b835bed7699adab002ceae464@visitri-calendar
+DTSTART;VALUE=DATE:20260814
+DTEND;VALUE=DATE:20260815
+DTSTAMP:20260814T112426Z
+UID:64cd85b41f06e00df4893de7f252@visitri-calendar
 DESCRIPTION:Tap into your wild side at Brew at the Zoo on Saturday\, Augus
  t 29th\, an adults-only evening event\, and sample hundreds of beers\, har
  d seltzers\, wines and ready-to-drink cocktails from dozens of local\, reg
@@ -434,109 +412,126 @@ LOCATION:Roger Williams Park Zoo & Carousel Village\, 1000 Elmwood Avenue\
 URL:https://www.visitrhodeisland.com/event/brew-at-the-zoo/110973/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Concerts Under the Elms: David Tessier’s All-Star Band of All-St
- ar Stars (NEW)
-DTSTART;VALUE=DATE:20260813
-DTEND;VALUE=DATE:20260814
-DTSTAMP:20260813T112541Z
-UID:3c65eb1872d13047efa4bdb4493a@visitri-calendar
-DESCRIPTION:David Tessier’s All-Star Band of All-Star Stars has been pos
- tponed to August 13th\, due to weather conditions. The Rhode Island Histor
- ical Society will kick off the 29th season of its beloved Concerts Under t
- he Elms series on Thursday\, July 2\, at 6:30 p.m. The six-week series\, h
- osted on the Great Lawn of the John Brown House Museum\, will feature a li
- neup of returning favorites and first-time performers. Each evening will a
- lso feature a specially selected food truck\, along with a Del’s Lemonad
- e truck. On Thursday\, August 13\, we will welcome first-time CUE performe
- r\, David Tessier’s All-Star Band of All-Star Stars (NEW) . David Tessie
- r’s All-Star Band of All-Star Stars is a musical collective performing r
- ock ‘n’ roll works of all kinds. In this performance inspired by the 2
- 50th\, the band will perform a special “British Invasion” show highlig
- hting music from the Beatles to Bowie. Food provided by Blount Clam Shack.
-  Concerts are free for RIHS members and $10 for nonmembers. Membership pac
- kages start at $45. Guests are welcome to bring chairs and coolers. Flex p
- asses are available here. Concerts Under the Elms are made possible by AAR
- P\, along with Amica\, Brown 2026\, OnIT Technological Solutions\, and iHe
- art Media. The Schedule Thursday\, July 2: The American Band: The American
-  Band is a symphonic concert band comprised of over 50 adult musicians fro
- m Rhode Island and nearby Connecticut and Massachusetts. The American Band
-  is one of the oldest continuously active bands in the United States\, per
- forming a special setlist that highlights a wide range of American music t
- o commemorate the 250th. Food provided by Saugy’s. Thursday\, July 9: Ho
- neycomb Lately (NEW): Honeycomb Lately is a rock band from Rhode Island\, 
- reminiscent of Laurel Canyon’s folk scene of the ‘70s and ‘90s alter
- native rock. Food provided by Little B’s BBQ. Thursday\, July 16: Motion
-  Avenue (NEW): Motion Avenue is a high-energy groove cover band based in N
- ewport\, RI\, bringing funky favorites and soulful hits to every stage the
- y hit. Food provided by Cultrō. Thursday\, July 23: Bird Stick: Bird Stic
- k is an Aquidneck Island-based band covering a variety of genres from clas
- sic rock to contemporary hits. Food provided by Ming’s Asian Street Food
- . (Postponed to Aug 13) Thursday\, July 30: David Tessier’s All-Star Ban
- d of All-Star Stars (NEW): David Tessier’s All-Star Band of All-Star Sta
- rs is a musical collective performing rock ‘n’ roll works of all kinds
- . In this performance inspired by the 250th\, the band will perform a spec
- ial “British Invasion” show highlighting music from the Beatles to Bow
- ie. Food provided by Blount Clam Shack. Thursday\, August 6: Alexus Lee: A
- lexus Lee is a Providence-based artist who has been with her effortless bl
- end of soul\, jazz\, and R&amp\;B. On the stage\, she dazzles audiences wi
- th her soulful storytelling\, masterful vocals\, and infectious grooves. F
- ood provided by JaPatty.\n\nSource: https://www.visitrhodeisland.com/event
- /concerts-under-the-elms%3a-david-tessier%e2%80%99s-all-star-band-of-all-s
- tar-stars-(new)/111199/
-LOCATION:Rhode Island Historical Society\, The John Brown House Museum\, 5
- 2 Power St\, Providence\, RI 02906 Time: 6:30 PM to 8:00 PM
-URL:https://www.visitrhodeisland.com/event/concerts-under-the-elms%3a-davi
- d-tessier%e2%80%99s-all-star-band-of-all-star-stars-(new)/111199/
+SUMMARY:Candlelight: 90s Hip-Hop on Strings
+DTSTART;VALUE=DATE:20260814
+DTEND;VALUE=DATE:20260815
+DTSTAMP:20260814T112426Z
+UID:b5e30cded691cfc592e936ecd802@visitri-calendar
+DESCRIPTION:Candlelight concerts bring the magic of a live\, multi-sensory
+  musical experience to awe-inspiring locations like never seen before in P
+ rovidence. Get your tickets now to discover the music of 90s Hip-Hop on St
+ rings at Central Congregational Church under the gentle glow of candleligh
+ t. This is a tribute concert experience. It is not affiliated with\, endor
+ sed by\, or sponsored by the artist\, their estate\, or official represent
+ atives. General Info Venue: Central Congregational Church Dates and times:
+  select your dates/times directly in the ticket selector Duration: 60 minu
+ tes. Doors open 60 minutes before the show. No entry once it starts Age re
+ quirement: 8 years old or older. Anyone under the age of 16 must be accomp
+ anied by an adult Accessibility: this venue is ADA compliant View the FAQs
+  for this event here Seating is assigned on a first come first served basi
+ s in each zone If you would like to book a private concert or buy regular 
+ tickets for a large group (+30 people)\, click here Check out all the Cand
+ lelight concerts in Providence To treat your friends and family to a Candl
+ elight gift card\, click here Tentative Program Fugees and Lauryn Hill Med
+ ley (Ready or Not\, Doo-Wop\, Fu-Gee-La\, and Killing Me Softly) Outkast M
+ edley (Rosa Parks\, Elevators (Me &amp\; You)\, SpottieOttieDopaliscious\,
+  and More) Missy 'Misdemeanor' Elliott Medley (The Rain (Supa Dupa Fly)\, 
+ Sock It to Me\, and More) Nas Medley (It Ain't Hard to Tell\, N.Y. State o
+ f Mind\, The World Is Yours\, and More) Jay-Z Medley (Can I Get A…\, Big
+  Pimpin\, Money Ain't a Thing\, and More) A Tribe Called Quest Medley (Can
+  I Kick It\, Check the Rhime\, Scenario\, and More) Wu Tang Clan Medley (C
+ .R.E.A.M. (Cash Rules Everything Around Me)\, Wu-Tang Clan Ain't Nuthing T
+ a F' Wit\, Protect Ya Neck\, and More) 2Pac Medley (Dear Mama\, California
+  Love\, and more) The Notorious B.I.G. Medley (Juicy\, Big Poppa\, Hypnoti
+ ze\, and More) Dr. Dre Medley (Still D.R.E.\, Forgot About Dre\, Nuthin' b
+ ut a 'G' Thang\, and More) Performers Listeso String Quartet Seating Map\n
+ \nSource: https://www.visitrhodeisland.com/event/candlelight%3a-90s-hip-ho
+ p-on-strings/111122/
+LOCATION:Central Congregational Church\, 296 Angell St\, Providence\, 0290
+ 6
+URL:https://www.visitrhodeisland.com/event/candlelight%3a-90s-hip-hop-on-s
+ trings/111122/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Concerts in the Park 2026
-DTSTART;VALUE=DATE:20260813
-DTEND;VALUE=DATE:20260814
-DTSTAMP:20260813T112541Z
-UID:99bcb52226ff9c5d9ebb975b0b83@visitri-calendar
-DESCRIPTION:The August 13 concert features Stone Cold Gypsies\, perfoming 
- an eclectic mix of rock\, R&amp\;B\, and a mix of country and reggae. All 
- performances are weather permitting.\n\nSource: https://www.visitrhodeisla
- nd.com/event/concerts-in-the-park-2026/109938/
-LOCATION:Crescent Park\, 701 Bullocks Point Avenue\, Riverside\, RI 02915
-URL:https://www.visitrhodeisland.com/event/concerts-in-the-park-2026/10993
- 8/
+SUMMARY:Candlelight: 90s Hip-Hop on Strings
+DTSTART;VALUE=DATE:20260814
+DTEND;VALUE=DATE:20260815
+DTSTAMP:20260814T112426Z
+UID:e6bfa80b94878f1c394f90c42c7f@visitri-calendar
+DESCRIPTION:Candlelight concerts bring the magic of a live\, multi-sensory
+  musical experience to awe-inspiring locations like never seen before in P
+ rovidence. Get your tickets now to discover the music of 90s Hip-Hop on St
+ rings at Central Congregational Church under the gentle glow of candleligh
+ t. This is a tribute concert experience. It is not affiliated with\, endor
+ sed by\, or sponsored by the artist\, their estate\, or official represent
+ atives. General Info Venue: Central Congregational Church Dates and times:
+  select your dates/times directly in the ticket selector Duration: 60 minu
+ tes. Doors open 60 minutes before the show. No entry once it starts Age re
+ quirement: 8 years old or older. Anyone under the age of 16 must be accomp
+ anied by an adult Accessibility: this venue is ADA compliant View the FAQs
+  for this event here Seating is assigned on a first come first served basi
+ s in each zone If you would like to book a private concert or buy regular 
+ tickets for a large group (+30 people)\, click here Check out all the Cand
+ lelight concerts in Providence To treat your friends and family to a Candl
+ elight gift card\, click here Tentative Program Fugees and Lauryn Hill Med
+ ley (Ready or Not\, Doo-Wop\, Fu-Gee-La\, and Killing Me Softly) Outkast M
+ edley (Rosa Parks\, Elevators (Me &amp\; You)\, SpottieOttieDopaliscious\,
+  and More) Missy 'Misdemeanor' Elliott Medley (The Rain (Supa Dupa Fly)\, 
+ Sock It to Me\, and More) Nas Medley (It Ain't Hard to Tell\, N.Y. State o
+ f Mind\, The World Is Yours\, and More) Jay-Z Medley (Can I Get A…\, Big
+  Pimpin\, Money Ain't a Thing\, and More) A Tribe Called Quest Medley (Can
+  I Kick It\, Check the Rhime\, Scenario\, and More) Wu Tang Clan Medley (C
+ .R.E.A.M. (Cash Rules Everything Around Me)\, Wu-Tang Clan Ain't Nuthing T
+ a F' Wit\, Protect Ya Neck\, and More) 2Pac Medley (Dear Mama\, California
+  Love\, and more) The Notorious B.I.G. Medley (Juicy\, Big Poppa\, Hypnoti
+ ze\, and More) Dr. Dre Medley (Still D.R.E.\, Forgot About Dre\, Nuthin' b
+ ut a 'G' Thang\, and More) Performers Listeso String Quartet Seating Map\n
+ \nSource: https://www.visitrhodeisland.com/event/candlelight%3a-90s-hip-ho
+ p-on-strings/111124/
+LOCATION:Central Congregational Church\, 296 Angell St\, Providence\, 0290
+ 6
+URL:https://www.visitrhodeisland.com/event/candlelight%3a-90s-hip-hop-on-s
+ trings/111124/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Early Bird Museum Highlight Tour at Newport Car Museum
-DTSTART;VALUE=DATE:20260813
-DTEND;VALUE=DATE:20260814
-DTSTAMP:20260813T112541Z
-UID:3bc98d69aef3bc53313af54b2d21@visitri-calendar
-DESCRIPTION:Early Bird Highlight Tour For 90 minutes (8:30 &#8211\; 10:00 
- AM) prior to Museum opening. Call to book: +1 (401) 848-2277 Price $75.00 
- per person (minimum 2\, maximum 6 ppl) Offered Wednesday\, Thursday\, and 
- Saturday only April 1 - December 31\, 2026. General admission is included 
- with price. 72-hour advance notice is suggested. Only one group will be ho
- sted on any given morning. This is your chance to have the Newport Car Mus
- eum all to yourself with a private guide to share with you the not-to-miss
-  highlights in seven expansive galleries. With over 100 iconic\, rare and 
- exotic cars on display at one time\, this private collection is bursting w
- ith history\, provenance and color\, not to mention the breathtaking sculp
- tural beauty of automotive designs starting with the 1950s and finishing w
- ith new models from the 21 st Century. After 90 minutes with your private\
- , continue to explore at your own pace so that you can further examine you
- r favorites from the Ford/Shelby\, Corvette\, World Car\, Porsche\, Fin Ca
- r\, American Muscle and Mopar exhibits while enjoying immersive videos\, a
- rtwork and the Museum’s eclectic collection of Mid-Century Modern Furnit
- ure.\n\nSource: https://www.visitrhodeisland.com/event/early-bird-museum-h
- ighlight-tour-at-newport-car-museum/109638/
-LOCATION:Newport Car Museum\, Enter at Light 1947 West Main Road\, Portsmo
- uth\, RI 02871
-URL:https://www.visitrhodeisland.com/event/early-bird-museum-highlight-tou
- r-at-newport-car-museum/109638/
+SUMMARY:Candlelight: Tribute to ABBA & More
+DTSTART;VALUE=DATE:20260814
+DTEND;VALUE=DATE:20260815
+DTSTAMP:20260814T112426Z
+UID:b93ed9dc166e2900d036f3fac05a@visitri-calendar
+DESCRIPTION:Candlelight concerts bring the magic of a live\, multi-sensory
+  musical experience to awe-inspiring locations like never seen before in P
+ rovidence. Get your tickets now to discover the music of ABBA &amp\; More 
+ at Central Congregational Church under the gentle glow of candlelight. Thi
+ s is a tribute concert experience. It is not affiliated with\, endorsed by
+ \, or sponsored by the artist\, their estate\, or official representatives
+ . General Info Venue: Central Congregational Church Dates and times: selec
+ t your dates/times directly in the ticket selector Duration: 60 minutes. D
+ oors open 60 minutes before the show. No entry once it starts Age requirem
+ ent: 8 years old or older. Anyone under the age of 16 must be accompanied 
+ by an adult Accessibility: this venue is ADA compliant View the FAQs for t
+ his event here Seating is assigned on a first come first served basis in e
+ ach zone If you would like to book a private concert or buy regular ticket
+ s for a large group (+30 people)\, click here Check out all the Candleligh
+ t concerts in Providence To treat your friends and family to a Candlelight
+  gift card\, click here Tentative Program Dancing Queen - ABBA SOS - ABBA 
+ Money\, Money\, Money - ABBA Voulez Vous - ABBA Bohemian Rhapsody - Queen 
+ I Want to Break Free - Queen Killer Queen - Queen Waterloo - ABBA Super Tr
+ ouper - ABBA Mamma Mia - ABBA Don't Stop Me Now - Queen We Will Rock You -
+  Queen We Are the Champions - Queen Gimme Gimme Gimme - ABBA Performers Li
+ steso String Quartet Seating Map\n\nSource: https://www.visitrhodeisland.c
+ om/event/candlelight%3a-tribute-to-abba-%26-more/110580/
+LOCATION:Central Congregational Church\, 296 Angell St\, Providence\, 0290
+ 6
+URL:https://www.visitrhodeisland.com/event/candlelight%3a-tribute-to-abba-
+ %26-more/110580/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:General Stanton Inn Blues Music Festival
-DTSTART;VALUE=DATE:20260813
-DTEND;VALUE=DATE:20260814
-DTSTAMP:20260813T112541Z
-UID:c18681febee32e634ea734202234@visitri-calendar
+DTSTART;VALUE=DATE:20260814
+DTEND;VALUE=DATE:20260815
+DTSTAMP:20260814T112426Z
+UID:f8eae922030b8225dd6773903649@visitri-calendar
 DESCRIPTION:Top Rhode Island blues music artists perform under the Stanton
   tent\, bbq\, beer\, seafood\, bourbon and more. Bring a lawn chair.\n\nSo
  urce: https://www.visitrhodeisland.com/event/general-stanton-inn-blues-mus
@@ -547,10 +542,10 @@ URL:https://www.visitrhodeisland.com/event/general-stanton-inn-blues-music
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Jacob Hackworth Live at Moonshine Alley!
-DTSTART;VALUE=DATE:20260813
-DTEND;VALUE=DATE:20260814
-DTSTAMP:20260813T112541Z
-UID:49da50bcdcf5d32f4829eebcf82c@visitri-calendar
+DTSTART;VALUE=DATE:20260814
+DTEND;VALUE=DATE:20260815
+DTSTAMP:20260814T112426Z
+UID:407dc30cab024463a657332aa19d@visitri-calendar
 DESCRIPTION:ON SALE NOW Cat Country 98.1 presents Jacob Hackworth LIVE at 
  Moonshine Alley on Tuesday\, August 25th! MCA Records &amp\; Nashville sin
  ger and songwriter Jacob Hackworth is coming to Providence for one night o
@@ -570,10 +565,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:NIMFest: Groove Merchants w/ Olivia Nied | Live\, Outdoor Music at
   King Park
-DTSTART;VALUE=DATE:20260813
-DTEND;VALUE=DATE:20260814
-DTSTAMP:20260813T112541Z
-UID:0d0630fe54f1fb5766c41b4f2534@visitri-calendar
+DTSTART;VALUE=DATE:20260814
+DTEND;VALUE=DATE:20260815
+DTSTAMP:20260814T112426Z
+UID:fded8094f98a1b00fbaadd899d8c@visitri-calendar
 DESCRIPTION:NIMFest (Newport Independent Music Festival) comes to you live
   from the King Park Gazebo at 125 Wellington Ave in Newport. This FREE\, w
  eekly concert series runs every Sunday in July and August from 3:00-6:00PM
@@ -588,27 +583,11 @@ URL:https://www.visitrhodeisland.com/event/nimfest%3a-groove-merchants-w-o
  livia-nied-%7c-live-outdoor-music-at-king-park/109909/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:NecronomiCon Providence
-DTSTART;VALUE=DATE:20260813
-DTEND;VALUE=DATE:20260814
-DTSTAMP:20260813T112541Z
-UID:776adfcbf05b1e673cd80c848a7c@visitri-calendar
-DESCRIPTION:NecronomiCon Providence is an expansive exploration and celebr
- ation of all the greats of weird fiction\, old and new\, including predece
- ssors and contemporaries of Providence’s H.P. Lovecraft and the many aut
- hors and artists who have forged their own paths of weird. Visit website f
- or more information and updates for another incredible convention and fest
- ival. Providence welcomes you all.\n\nSource: https://www.visitrhodeisland
- .com/event/necronomicon-providence/84602/
-LOCATION:Various Venues \, Providence\, RI 02903 Time: see website
-URL:https://www.visitrhodeisland.com/event/necronomicon-providence/84602/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Puerto Rican Festival
-DTSTART;VALUE=DATE:20260813
-DTEND;VALUE=DATE:20260814
-DTSTAMP:20260813T112541Z
-UID:36ede8f942aaa854d3285912774e@visitri-calendar
+DTSTART;VALUE=DATE:20260814
+DTEND;VALUE=DATE:20260815
+DTSTAMP:20260814T112426Z
+UID:a873d5f9f62b9022b4ca5e1e35ea@visitri-calendar
 DESCRIPTION:We are proud to announce the Puerto Rican Festival in Woonsock
  et\, a vibrant cultural celebration set to take place [August 29\, 2026] a
  t [River Island Park\, Woonsocket\, RI]. This landmark event will bring to
@@ -640,10 +619,10 @@ URL:https://www.visitrhodeisland.com/event/puerto-rican-festival/109367/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Teacher's Lounge
-DTSTART;VALUE=DATE:20260813
-DTEND;VALUE=DATE:20260814
-DTSTAMP:20260813T112541Z
-UID:161f27c695727f629290ba6d5244@visitri-calendar
+DTSTART;VALUE=DATE:20260814
+DTEND;VALUE=DATE:20260815
+DTSTAMP:20260814T112426Z
+UID:6969c3ace08cf06ce2b7a85b9b7c@visitri-calendar
 DESCRIPTION:Join three seasoned educators—Gaspare Randazzo (Netflix\, Th
  e Social Studies Podcast and @StandUpRandazzo on social media)\, Philip Li
  ndsay (Social Media Sensation @Mr_PhLindsay_Sped on IG\, The Today Show)\,
@@ -660,46 +639,10 @@ LOCATION:Comedy Connection\, 39 Warren Avenue\, East Providence\, RI 02914
 URL:https://www.visitrhodeisland.com/event/teachers-lounge/111067/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:"Mea Duke: Dreamliners" Exhibit
-DTSTART;VALUE=DATE:20260814
-DTEND;VALUE=DATE:20260815
-DTSTAMP:20260813T112541Z
-UID:76010e0409a83e73c4134afa53eb@visitri-calendar
-DESCRIPTION:Jessica Hagen Fine Art + Design is pleased to announce the exh
- ibit: "Mea Duke: Dreamliners" August 1 - August 30\, 2026. This solo exhib
- ition marks Mea Duke’s third solo show with Jessica Hagen’s gallery. D
- reamliners assembles objects and images from the mid-twentieth century mom
- ent when progress felt most like destiny: Pan Am flying boats\, LIFE magaz
- ines\, lifejackets\, sunblock\, straw hats\, shipping containers\, endless
-  horizons. Together they form an archive of optimism\, sleek engineering\,
-  and the promise that the world was suddenly\, thrillingly within reach. T
- he title borrows from Boeing's Dreamliner\, an aircraft whose name still t
- rades on the same aspirational language the Pan Am era perfected. Duke's p
- ractice has long lived in the space between painting an object and treatin
- g the painting itself as an object\, an artifact with its own weight\, mat
- eriality\, and history. Jessica Hagen states\, “Dreamliners is a smart\,
-  fun and beautifully executed show. Mea Duke is a highly skilled painter a
- nd she is very clearly on top of her game\; treating us to paintings that 
- are in her words\, created slowly by hand\, with clean deliberate precisio
- n. Replete with iconic objects and imagery rendered as only Duke can\, thi
- s show is not to be missed.” “Mea Duke: Dreamliners” closes August 3
- 0\, 2026. Jessica Hagen Fine Art + Design was founded in 2005 and features
-  contemporary art including painting\, sculpture\, photography\, ceramics\
- , textiles\, and jewelry. Located in the historic Point section of Newport
- \, the gallery’s hours are Wednesday- Saturday 11:00 AM - 5:00 PM\, and 
- Sunday 12:00 - 5:00 PM. The gallery is also open by appointment. Image Att
- ached: Mea Duke Flying Boat I oil/canvas 40” x 64”\n\nSource: https://
- www.visitrhodeisland.com/event/mea-duke%3a-dreamliners-exhibit/111171/
-LOCATION:Jessica Hagen Fine Art & Design\, 9A Bridge Street\, Newport\, RI
-  02840
-URL:https://www.visitrhodeisland.com/event/mea-duke%3a-dreamliners-exhibit
- /111171/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Willy Wonka Jr.
 DTSTART;VALUE=DATE:20260814
 DTEND;VALUE=DATE:20260815
-DTSTAMP:20260813T112541Z
+DTSTAMP:20260814T112426Z
 UID:a5e49a0a0720ec778da40a452ea2@visitri-calendar
 DESCRIPTION:Step into a world of pure imagination with Willy Wonka Jr. ! J
  oin Charlie Bucket as he embarks on a magical adventure through Willy Wonk
@@ -716,7 +659,7 @@ BEGIN:VEVENT
 SUMMARY:"Mea Duke: Dreamliners" Exhibit
 DTSTART;VALUE=DATE:20260815
 DTEND;VALUE=DATE:20260816
-DTSTAMP:20260813T112541Z
+DTSTAMP:20260814T112426Z
 UID:85b2278e619d7497dada8fbd7634@visitri-calendar
 DESCRIPTION:Jessica Hagen Fine Art + Design is pleased to announce the exh
  ibit: "Mea Duke: Dreamliners" August 1 - August 30\, 2026. This solo exhib
@@ -749,39 +692,10 @@ URL:https://www.visitrhodeisland.com/event/mea-duke%3a-dreamliners-exhibit
  /111171/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Early Bird Museum Highlight Tour at Newport Car Museum
-DTSTART;VALUE=DATE:20260815
-DTEND;VALUE=DATE:20260816
-DTSTAMP:20260813T112541Z
-UID:cc068185d794ccacea1bc5e70a35@visitri-calendar
-DESCRIPTION:Early Bird Highlight Tour For 90 minutes (8:30 &#8211\; 10:00 
- AM) prior to Museum opening. Call to book: +1 (401) 848-2277 Price $75.00 
- per person (minimum 2\, maximum 6 ppl) Offered Wednesday\, Thursday\, and 
- Saturday only April 1 - December 31\, 2026. General admission is included 
- with price. 72-hour advance notice is suggested. Only one group will be ho
- sted on any given morning. This is your chance to have the Newport Car Mus
- eum all to yourself with a private guide to share with you the not-to-miss
-  highlights in seven expansive galleries. With over 100 iconic\, rare and 
- exotic cars on display at one time\, this private collection is bursting w
- ith history\, provenance and color\, not to mention the breathtaking sculp
- tural beauty of automotive designs starting with the 1950s and finishing w
- ith new models from the 21 st Century. After 90 minutes with your private\
- , continue to explore at your own pace so that you can further examine you
- r favorites from the Ford/Shelby\, Corvette\, World Car\, Porsche\, Fin Ca
- r\, American Muscle and Mopar exhibits while enjoying immersive videos\, a
- rtwork and the Museum’s eclectic collection of Mid-Century Modern Furnit
- ure.\n\nSource: https://www.visitrhodeisland.com/event/early-bird-museum-h
- ighlight-tour-at-newport-car-museum/109638/
-LOCATION:Newport Car Museum\, Enter at Light 1947 West Main Road\, Portsmo
- uth\, RI 02871
-URL:https://www.visitrhodeisland.com/event/early-bird-museum-highlight-tou
- r-at-newport-car-museum/109638/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Island Rhodes Music Festival
 DTSTART;VALUE=DATE:20260815
 DTEND;VALUE=DATE:20260816
-DTSTAMP:20260813T112541Z
+DTSTAMP:20260814T112426Z
 UID:ace7c364f24262c067e163fb9b96@visitri-calendar
 DESCRIPTION:The Ocean State is welcoming a brand-new marquee music festiva
  l this summer with the debut of Centreville Bank Stadium’s first-ever co
@@ -809,7 +723,7 @@ BEGIN:VEVENT
 SUMMARY:Live Music by Logan Vale
 DTSTART;VALUE=DATE:20260815
 DTEND;VALUE=DATE:20260816
-DTSTAMP:20260813T112541Z
+DTSTAMP:20260814T112426Z
 UID:83f1c7264b84148bcd597ec3aec6@visitri-calendar
 DESCRIPTION:The music of Logan Vale! Dinner reservations required either o
  nline or call 401.861.3850 x. 3\n\nSource: https://www.visitrhodeisland.co
@@ -823,7 +737,7 @@ BEGIN:VEVENT
 SUMMARY:Willy Wonka Jr.
 DTSTART;VALUE=DATE:20260815
 DTEND;VALUE=DATE:20260816
-DTSTAMP:20260813T112541Z
+DTSTAMP:20260814T112426Z
 UID:c446ddac28bb55719dccb612ecb1@visitri-calendar
 DESCRIPTION:Step into a world of pure imagination with Willy Wonka Jr. ! J
  oin Charlie Bucket as he embarks on a magical adventure through Willy Wonk
@@ -840,7 +754,7 @@ BEGIN:VEVENT
 SUMMARY:Island Rhodes Music Festival
 DTSTART;VALUE=DATE:20260816
 DTEND;VALUE=DATE:20260817
-DTSTAMP:20260813T112541Z
+DTSTAMP:20260814T112426Z
 UID:93e5ea0aa328c3ced2b4563c7e32@visitri-calendar
 DESCRIPTION:The Ocean State is welcoming a brand-new marquee music festiva
  l this summer with the debut of Centreville Bank Stadium’s first-ever co
@@ -868,7 +782,7 @@ BEGIN:VEVENT
 SUMMARY:NecronomiCon Providence
 DTSTART;VALUE=DATE:20260816
 DTEND;VALUE=DATE:20260817
-DTSTAMP:20260813T112541Z
+DTSTAMP:20260814T112426Z
 UID:7a9739b6e6b1706884da0b261bdd@visitri-calendar
 DESCRIPTION:NecronomiCon Providence is an expansive exploration and celebr
  ation of all the greats of weird fiction\, old and new\, including predece
@@ -884,7 +798,7 @@ BEGIN:VEVENT
 SUMMARY:Teacher's Lounge
 DTSTART;VALUE=DATE:20260816
 DTEND;VALUE=DATE:20260817
-DTSTAMP:20260813T112541Z
+DTSTAMP:20260814T112426Z
 UID:38916c245d764c09eb4e210e1dc3@visitri-calendar
 DESCRIPTION:Join three seasoned educators—Gaspare Randazzo (Netflix\, Th
  e Social Studies Podcast and @StandUpRandazzo on social media)\, Philip Li
@@ -905,7 +819,7 @@ BEGIN:VEVENT
 SUMMARY:Washington County Fair
 DTSTART;VALUE=DATE:20260816
 DTEND;VALUE=DATE:20260817
-DTSTAMP:20260813T112541Z
+DTSTAMP:20260814T112426Z
 UID:cad4ada55549b9d58f789c549cde@visitri-calendar
 DESCRIPTION:The Fair is RI's largest agricultural event. Admission include
  s access to all daily concerts\, special acts and events\, the giant midwa
@@ -924,8 +838,44 @@ BEGIN:VEVENT
 SUMMARY:"Mea Duke: Dreamliners" Exhibit
 DTSTART;VALUE=DATE:20260819
 DTEND;VALUE=DATE:20260820
-DTSTAMP:20260813T112541Z
+DTSTAMP:20260814T112426Z
 UID:19f2231bc057fa502163344f8a63@visitri-calendar
+DESCRIPTION:Jessica Hagen Fine Art + Design is pleased to announce the exh
+ ibit: "Mea Duke: Dreamliners" August 1 - August 30\, 2026. This solo exhib
+ ition marks Mea Duke’s third solo show with Jessica Hagen’s gallery. D
+ reamliners assembles objects and images from the mid-twentieth century mom
+ ent when progress felt most like destiny: Pan Am flying boats\, LIFE magaz
+ ines\, lifejackets\, sunblock\, straw hats\, shipping containers\, endless
+  horizons. Together they form an archive of optimism\, sleek engineering\,
+  and the promise that the world was suddenly\, thrillingly within reach. T
+ he title borrows from Boeing's Dreamliner\, an aircraft whose name still t
+ rades on the same aspirational language the Pan Am era perfected. Duke's p
+ ractice has long lived in the space between painting an object and treatin
+ g the painting itself as an object\, an artifact with its own weight\, mat
+ eriality\, and history. Jessica Hagen states\, “Dreamliners is a smart\,
+  fun and beautifully executed show. Mea Duke is a highly skilled painter a
+ nd she is very clearly on top of her game\; treating us to paintings that 
+ are in her words\, created slowly by hand\, with clean deliberate precisio
+ n. Replete with iconic objects and imagery rendered as only Duke can\, thi
+ s show is not to be missed.” “Mea Duke: Dreamliners” closes August 3
+ 0\, 2026. Jessica Hagen Fine Art + Design was founded in 2005 and features
+  contemporary art including painting\, sculpture\, photography\, ceramics\
+ , textiles\, and jewelry. Located in the historic Point section of Newport
+ \, the gallery’s hours are Wednesday- Saturday 11:00 AM - 5:00 PM\, and 
+ Sunday 12:00 - 5:00 PM. The gallery is also open by appointment. Image Att
+ ached: Mea Duke Flying Boat I oil/canvas 40” x 64”\n\nSource: https://
+ www.visitrhodeisland.com/event/mea-duke%3a-dreamliners-exhibit/111171/
+LOCATION:Jessica Hagen Fine Art & Design\, 9A Bridge Street\, Newport\, RI
+  02840
+URL:https://www.visitrhodeisland.com/event/mea-duke%3a-dreamliners-exhibit
+ /111171/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:"Mea Duke: Dreamliners" Exhibit
+DTSTART;VALUE=DATE:20260820
+DTEND;VALUE=DATE:20260821
+DTSTAMP:20260814T112426Z
+UID:fd45365aae3a537d1c27b9f2f72c@visitri-calendar
 DESCRIPTION:Jessica Hagen Fine Art + Design is pleased to announce the exh
  ibit: "Mea Duke: Dreamliners" August 1 - August 30\, 2026. This solo exhib
  ition marks Mea Duke’s third solo show with Jessica Hagen’s gallery. D
@@ -960,7 +910,7 @@ BEGIN:VEVENT
 SUMMARY:General Stanton Inn Blues Music Festival
 DTSTART;VALUE=DATE:20260823
 DTEND;VALUE=DATE:20260824
-DTSTAMP:20260813T112541Z
+DTSTAMP:20260814T112426Z
 UID:d4af5e9754de8b7973ccbe936045@visitri-calendar
 DESCRIPTION:Top Rhode Island blues music artists perform under the Stanton
   tent\, bbq\, beer\, seafood\, bourbon and more. Bring a lawn chair.\n\nSo
@@ -975,7 +925,7 @@ SUMMARY:NIMFest: Groove Merchants w/ Olivia Nied | Live\, Outdoor Music at
   King Park
 DTSTART;VALUE=DATE:20260823
 DTEND;VALUE=DATE:20260824
-DTSTAMP:20260813T112541Z
+DTSTAMP:20260814T112426Z
 UID:e43d950bc7c5636c64f3187cf4d2@visitri-calendar
 DESCRIPTION:NIMFest (Newport Independent Music Festival) comes to you live
   from the King Park Gazebo at 125 Wellington Ave in Newport. This FREE\, w
@@ -994,7 +944,7 @@ BEGIN:VEVENT
 SUMMARY:Jacob Hackworth Live at Moonshine Alley!
 DTSTART;VALUE=DATE:20260825
 DTEND;VALUE=DATE:20260826
-DTSTAMP:20260813T112541Z
+DTSTAMP:20260814T112426Z
 UID:f35a8fe4166371ef1f7d3be66b07@visitri-calendar
 DESCRIPTION:ON SALE NOW Cat Country 98.1 presents Jacob Hackworth LIVE at 
  Moonshine Alley on Tuesday\, August 25th! MCA Records &amp\; Nashville sin
@@ -1016,7 +966,7 @@ BEGIN:VEVENT
 SUMMARY:Free Summer Concert Series at Ragged Island
 DTSTART;VALUE=DATE:20260826
 DTEND;VALUE=DATE:20260827
-DTSTAMP:20260813T112541Z
+DTSTAMP:20260814T112426Z
 UID:c34f298b13c81e8e626e59cb461a@visitri-calendar
 DESCRIPTION:Announcing Ragged Island's Free 2026 Summer Concert Series Rag
  ged Island has nine awesome bands lined up for Wednesday nights in July an
@@ -1048,7 +998,7 @@ BEGIN:VEVENT
 SUMMARY:Hope & Main Makers Markets: Summer Series
 DTSTART;VALUE=DATE:20260826
 DTEND;VALUE=DATE:20260827
-DTSTAMP:20260813T112541Z
+DTSTAMP:20260814T112426Z
 UID:508203d8ab48a0f5179cf6188b3b@visitri-calendar
 DESCRIPTION:Developed by the operators of Hope &amp\; Main in Warren\, the
   Schoolyard Market helps locally-based food and beverage businesses start 
@@ -1070,7 +1020,7 @@ BEGIN:VEVENT
 SUMMARY:Music at Sunset: Concert Series 2026
 DTSTART;VALUE=DATE:20260826
 DTEND;VALUE=DATE:20260827
-DTSTAMP:20260813T112541Z
+DTSTAMP:20260814T112426Z
 UID:f7374ee07909032aafe715f097f0@visitri-calendar
 DESCRIPTION:Music at Sunset: Concert Series 2026 Wednesdays | June 3 &#821
  1\; August 26 Music from 6:00 &#8211\; 8:00 PM\, Parking and Check-in open
@@ -1120,7 +1070,7 @@ BEGIN:VEVENT
 SUMMARY:Blithewold Annual Family Clambake
 DTSTART;VALUE=DATE:20260827
 DTEND;VALUE=DATE:20260828
-DTSTAMP:20260813T112541Z
+DTSTAMP:20260814T112426Z
 UID:527f3299a90d3c05a0676865fdb2@visitri-calendar
 DESCRIPTION:Blithewold Annual Family Clambake Thursday | August 27 5:00 &#
  8211\; 8:00 PM Location: Event Tent The Great Lawn has been the scene of f
@@ -1178,7 +1128,7 @@ BEGIN:VEVENT
 SUMMARY:Food Truck Concert Nights - Diamond Hill Park
 DTSTART;VALUE=DATE:20260827
 DTEND;VALUE=DATE:20260828
-DTSTAMP:20260813T112541Z
+DTSTAMP:20260814T112426Z
 UID:6f571d24d4473b04f931421aed68@visitri-calendar
 DESCRIPTION:We return to Diamond Hill Park in Cumberland for another serie
  s of memorable events in 2026. Attendance is free\, just pay for what you 
@@ -1206,7 +1156,7 @@ BEGIN:VEVENT
 SUMMARY:Brew at the Zoo
 DTSTART;VALUE=DATE:20260829
 DTEND;VALUE=DATE:20260830
-DTSTAMP:20260813T112541Z
+DTSTAMP:20260814T112426Z
 UID:2f2070c631904a407ca11ec8d953@visitri-calendar
 DESCRIPTION:Tap into your wild side at Brew at the Zoo on Saturday\, Augus
  t 29th\, an adults-only evening event\, and sample hundreds of beers\, har
@@ -1227,7 +1177,7 @@ BEGIN:VEVENT
 SUMMARY:Field of Artisans at the Beach
 DTSTART;VALUE=DATE:20260829
 DTEND;VALUE=DATE:20260830
-DTSTAMP:20260813T112541Z
+DTSTAMP:20260814T112426Z
 UID:ccb222ee4b8c9bc014c177518d7d@visitri-calendar
 DESCRIPTION:Join Field of Artisans on Saturdays this summer for the 11th y
  ear of bringing creativity to this beautiful location! Artists will displa
@@ -1244,7 +1194,7 @@ BEGIN:VEVENT
 SUMMARY:Live Music by Logan Vale
 DTSTART;VALUE=DATE:20260829
 DTEND;VALUE=DATE:20260830
-DTSTAMP:20260813T112541Z
+DTSTAMP:20260814T112426Z
 UID:51d81b6b9ac830a4dbc32c26efd3@visitri-calendar
 DESCRIPTION:The music of Logan Vale! Dinner reservations required either o
  nline or call 401.861.3850 x. 3\n\nSource: https://www.visitrhodeisland.co
@@ -1258,7 +1208,7 @@ BEGIN:VEVENT
 SUMMARY:Puerto Rican Festival
 DTSTART;VALUE=DATE:20260829
 DTEND;VALUE=DATE:20260830
-DTSTAMP:20260813T112541Z
+DTSTAMP:20260814T112426Z
 UID:cd67e316cf44f09e5ad6a29b3974@visitri-calendar
 DESCRIPTION:We are proud to announce the Puerto Rican Festival in Woonsock
  et\, a vibrant cultural celebration set to take place [August 29\, 2026] a
@@ -1293,7 +1243,7 @@ BEGIN:VEVENT
 SUMMARY:"Mea Duke: Dreamliners" Exhibit
 DTSTART;VALUE=DATE:20260830
 DTEND;VALUE=DATE:20260831
-DTSTAMP:20260813T112541Z
+DTSTAMP:20260814T112426Z
 UID:1ceb74b8635685237cf864c3942d@visitri-calendar
 DESCRIPTION:Jessica Hagen Fine Art + Design is pleased to announce the exh
  ibit: "Mea Duke: Dreamliners" August 1 - August 30\, 2026. This solo exhib
@@ -1329,7 +1279,7 @@ BEGIN:VEVENT
 SUMMARY:Rhode Island SeaFood Festival 2026
 DTSTART;VALUE=DATE:20260912
 DTEND;VALUE=DATE:20260913
-DTSTAMP:20260813T112541Z
+DTSTAMP:20260814T112426Z
 UID:7155b8a7bea276dc2235b2424899@visitri-calendar
 DESCRIPTION:Join us for the 16th annual Rhode Island Seafood Festival\, a 
  two-day extravaganza of the Ocean State’s best seafood\, live music and 
@@ -1368,7 +1318,7 @@ BEGIN:VEVENT
 SUMMARY:Rhode Island SeaFood Festival 2026
 DTSTART;VALUE=DATE:20260913
 DTEND;VALUE=DATE:20260914
-DTSTAMP:20260813T112541Z
+DTSTAMP:20260814T112426Z
 UID:724318b2396062bf2de4c6176658@visitri-calendar
 DESCRIPTION:Join us for the 16th annual Rhode Island Seafood Festival\, a 
  two-day extravaganza of the Ocean State’s best seafood\, live music and 
@@ -1407,7 +1357,7 @@ BEGIN:VEVENT
 SUMMARY:PVDFest 2026
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260919
-DTSTAMP:20260813T112541Z
+DTSTAMP:20260814T112426Z
 UID:2de49afd8f722627b9a1f5e00bb1@visitri-calendar
 DESCRIPTION:The People’s Festival for Arts\, Music\, and Culture Mayor B
  rett P. Smiley\, the City’s Department of Art\, Culture\, Tourism and Pr
@@ -1426,7 +1376,7 @@ BEGIN:VEVENT
 SUMMARY:Food Truck Concert Nights - Diamond Hill Park
 DTSTART;VALUE=DATE:20260919
 DTEND;VALUE=DATE:20260920
-DTSTAMP:20260813T112541Z
+DTSTAMP:20260814T112426Z
 UID:c61110f0d2ee251ab02333bed717@visitri-calendar
 DESCRIPTION:We return to Diamond Hill Park in Cumberland for another serie
  s of memorable events in 2026. Attendance is free\, just pay for what you 
@@ -1454,7 +1404,7 @@ BEGIN:VEVENT
 SUMMARY:PVDFest 2026
 DTSTART;VALUE=DATE:20260919
 DTEND;VALUE=DATE:20260920
-DTSTAMP:20260813T112541Z
+DTSTAMP:20260814T112426Z
 UID:553bda94539f69469073803099fb@visitri-calendar
 DESCRIPTION:The People’s Festival for Arts\, Music\, and Culture Mayor B
  rett P. Smiley\, the City’s Department of Art\, Culture\, Tourism and Pr
@@ -1473,7 +1423,7 @@ BEGIN:VEVENT
 SUMMARY:Live Music by Logan Vale
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261018
-DTSTAMP:20260813T112541Z
+DTSTAMP:20260814T112426Z
 UID:2241186137b505cf7c814cd90b60@visitri-calendar
 DESCRIPTION:The music of Logan Vale! Dinner reservations required either o
  nline or call 401.861.3850 x. 3\n\nSource: https://www.visitrhodeisland.co
@@ -1487,7 +1437,7 @@ BEGIN:VEVENT
 SUMMARY:Coastal Cruisers - The Golden Hour
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
-DTSTAMP:20260813T112541Z
+DTSTAMP:20260814T112426Z
 UID:a33f7731698b5451e05ba44e42fd@visitri-calendar
 DESCRIPTION:Experience the Island in our Coastal Cruisers\, Newport’s pr
  ivate chauffeured luxury tour\, dedicated to providing a sophisticated way
@@ -1517,7 +1467,7 @@ BEGIN:VEVENT
 SUMMARY:Beyond the Brewhouse Tour
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
-DTSTAMP:20260813T112541Z
+DTSTAMP:20260814T112426Z
 UID:c7b48636db9ede5f5acbbb263d31@visitri-calendar
 DESCRIPTION:Beyond the Brewhouse Where: Newport Craft Brewing and Distilli
  ng\, 293 JT Connell Road\, Newport 45 minutes: $20 per person Did you know
@@ -1531,34 +1481,5 @@ LOCATION:Newport Craft Brewing & Distilling Company\, 293 JT Connell Road\
  , Newport\, RI 02840 Time: 45 minutes: Tour start time varies by booking.
 URL:https://www.visitrhodeisland.com/event/beyond-the-brewhouse-tour/11015
  3/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Early Bird Museum Highlight Tour at Newport Car Museum
-DTSTART;VALUE=DATE:20261231
-DTEND;VALUE=DATE:20270101
-DTSTAMP:20260813T112541Z
-UID:2f06cece69080ebb1042b1f38a6b@visitri-calendar
-DESCRIPTION:Early Bird Highlight Tour For 90 minutes (8:30 &#8211\; 10:00 
- AM) prior to Museum opening. Call to book: +1 (401) 848-2277 Price $75.00 
- per person (minimum 2\, maximum 6 ppl) Offered Wednesday\, Thursday\, and 
- Saturday only April 1 - December 31\, 2026. General admission is included 
- with price. 72-hour advance notice is suggested. Only one group will be ho
- sted on any given morning. This is your chance to have the Newport Car Mus
- eum all to yourself with a private guide to share with you the not-to-miss
-  highlights in seven expansive galleries. With over 100 iconic\, rare and 
- exotic cars on display at one time\, this private collection is bursting w
- ith history\, provenance and color\, not to mention the breathtaking sculp
- tural beauty of automotive designs starting with the 1950s and finishing w
- ith new models from the 21 st Century. After 90 minutes with your private\
- , continue to explore at your own pace so that you can further examine you
- r favorites from the Ford/Shelby\, Corvette\, World Car\, Porsche\, Fin Ca
- r\, American Muscle and Mopar exhibits while enjoying immersive videos\, a
- rtwork and the Museum’s eclectic collection of Mid-Century Modern Furnit
- ure.\n\nSource: https://www.visitrhodeisland.com/event/early-bird-museum-h
- ighlight-tour-at-newport-car-museum/109638/
-LOCATION:Newport Car Museum\, Enter at Light 1947 West Main Road\, Portsmo
- uth\, RI 02871
-URL:https://www.visitrhodeisland.com/event/early-bird-museum-highlight-tou
- r-at-newport-car-museum/109638/
 END:VEVENT
 END:VCALENDAR
