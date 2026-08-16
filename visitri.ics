@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:$15 Moonshine Flights & Moonshine Tasting
 DTSTART;VALUE=DATE:20250615
 DTEND;VALUE=DATE:20250616
-DTSTAMP:20260815T105516Z
+DTSTAMP:20260816T105456Z
 UID:b6432d870f2c0958f26453a40d59@visitri-calendar
 DESCRIPTION:Try a Moonshine Flight tasting at Moonshine Alley! Moonshine F
  lights are available daily for just $15! We have over 13 flavors to choose
@@ -20,10 +20,40 @@ URL:https://www.visitrhodeisland.com/event/%2415-moonshine-flights-%26-moo
  nshine-tasting/105663/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Coastal Cruisers - The Golden Hour
+DTSTART;VALUE=DATE:20260501
+DTEND;VALUE=DATE:20260502
+DTSTAMP:20260816T105456Z
+UID:9f3864060ce7679e35293700f37c@visitri-calendar
+DESCRIPTION:Experience the Island in our Coastal Cruisers\, Newport’s pr
+ ivate chauffeured luxury tour\, dedicated to providing a sophisticated way
+  to experience our beloved island. We blend elegance\, fun &amp\; storytel
+ ling into a bespoke tour of Newport. For us\, it is about fostering experi
+ ences that create lasting memorable moments. From chasing golden sunsets t
+ o experiencing salty-breeze adventures\, Coastal Cruisers treats every tou
+ r as an opportunity to provide exceptional service &amp\; a personal conne
+ ction that lasts well beyond the journey. Offer 3 tour options and hourly 
+ bookings. Tour Option: The Golden Hour A private\, bespoke guided excursio
+ n designed to highlight Newport's most magnificent sunset vistas. This dis
+ tinctive experience is meticulously orchestrated\, ensuring optimal positi
+ oning at prime viewing locations for capturing striking photographs &amp\;
+  securing a truly memorable occasion. Your experienced guide will navigate
+  picturesque coastal thoroughfares and Newport's charming bridge view neig
+ hborhoods\, making stops at both lesser-known vantage points &amp\; renown
+ ed landmarks celebrated for their exceptional 'golden hour' illumination &
+ amp\; sweeping ocean panoramas. 7:00 PM Tour (75 minutes) $150 per person 
+ Available: Daily\, May 1 - December 31\, 2026 (Unavailable May 23 and May 
+ 31)\n\nSource: https://www.visitrhodeisland.com/event/coastal-cruisers-the
+ -golden-hour/109827/
+LOCATION:Coastal Cruisers\, 478 Thames Street\, Newport\, RI 02840
+URL:https://www.visitrhodeisland.com/event/coastal-cruisers-the-golden-hou
+ r/109827/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Beyond the Brewhouse Tour
 DTSTART;VALUE=DATE:20260515
 DTEND;VALUE=DATE:20260516
-DTSTAMP:20260815T105516Z
+DTSTAMP:20260816T105456Z
 UID:acc9d8e1d1bdab34c6766b602473@visitri-calendar
 DESCRIPTION:Beyond the Brewhouse Where: Newport Craft Brewing and Distilli
  ng\, 293 JT Connell Road\, Newport 45 minutes: $20 per person Did you know
@@ -39,10 +69,49 @@ URL:https://www.visitrhodeisland.com/event/beyond-the-brewhouse-tour/11015
  3/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Alger Mitchell at SALTwater Harborside Dining
+DTSTART;VALUE=DATE:20260524
+DTEND;VALUE=DATE:20260525
+DTSTAMP:20260816T105456Z
+UID:56651fdef385ddc5772b8f8d401e@visitri-calendar
+DESCRIPTION:Alger Mitchell at SALTwater Harborside Dining Sundays from 4:0
+ 0 to 7:00 PM Alger Mitchell is a dynamic song stylist\, songwriter\, and v
+ ocalist\, delivering captivating performances with guitar and harmonica. B
+ oasting a remarkable repertoire of approximately 250 songs performed entir
+ ely from memory\, Alger's music is 100% live\, free of electronic enhancem
+ ents. His versatile setlist spans the timeless classics of The Great Ameri
+ can Songbook\, from Broadway to Hollywood\, alongside beloved jazz and pop
+  standards\, classic country\, oldies\, and his own original compositions.
+  With infectious energy\, his live performances invite optional dancing\, 
+ making it nearly impossible to resist moving to the music! Keep a smile on
+  your face and a song in your heart!\n\nSource: https://www.visitrhodeisla
+ nd.com/event/alger-mitchell-at-saltwater-harborside-dining/110157/
+LOCATION:Saltwater at The Newport Harbor Hotel & Marina\, 49 America's Cup
+  Avenue\, Newport\, RI 02840 Time: 4:00 PM to 7:00 PM 49 America's Cup Ave
+ nue\, Newport\, RI 02840 OFFICIAL RHODE ISLAND TRAVEL GUIDE Get Guide Get 
+ news from Visit Rhode Island in your inbox. Industry Partner Leisure Trave
+ l Sign Up Ratings Powered by Press Industry Travel Trade Meetings & Conven
+ tions Contact Privacy Policy Sitemap Partner Portal SMS Privacy Policy SMS
+  Terms & Conditions UGC Terms and Conditions Wedding Planning Press Photos
+  Story Ideas Fun-Sized Rhode Island Rhode Island in the News Free Travel G
+ uide Contact Visit Rhode Island Industry Travel Trade Ideas & Itineraries 
+ Downton Abbey Lifestyle Rhode Island Foodways Hidden Gems Image Library Fr
+ ee Travel Guide Contact Visit Rhode Island Meetings & Conventions Contact 
+ Privacy Policy Sitemap Partner Portal SMS Privacy Policy SMS Terms & Condi
+ tions UGC Terms and Conditions Wedding Planning Weddings - Venues Wedding 
+ - Catering Wedding - Cakes Wedding - Attire Wedding - Florists Wedding - J
+ ewelers Wedding - Transportation © 2026 Rhode Island Commerce Corporation
+  Special Offers Offers Here Looking to plan your next visit to Rhode Islan
+ d\, check out some of the current special offers and enjoy savings\, extra
+  perks and more! Offers Here
+URL:https://www.visitrhodeisland.com/event/alger-mitchell-at-saltwater-har
+ borside-dining/110157/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Music at Sunset: Concert Series 2026
 DTSTART;VALUE=DATE:20260603
 DTEND;VALUE=DATE:20260604
-DTSTAMP:20260815T105516Z
+DTSTAMP:20260816T105456Z
 UID:87bda7b48d099d40defa3f7e711b@visitri-calendar
 DESCRIPTION:Music at Sunset: Concert Series 2026 Wednesdays | June 3 &#821
  1\; August 26 Music from 6:00 &#8211\; 8:00 PM\, Parking and Check-in open
@@ -89,10 +158,43 @@ URL:https://www.visitrhodeisland.com/event/music-at-sunset%3a-concert-seri
  es-2026/109486/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Chace-Cory House Tours
+DTSTART;VALUE=DATE:20260607
+DTEND;VALUE=DATE:20260608
+DTSTAMP:20260816T105456Z
+UID:da82b7ce9501a09fb9564885aab6@visitri-calendar
+DESCRIPTION:Chace-Cory House Tours Open Sundays\, June 7 - September 6\, 2
+ 026 from 2:00 to 4:30 PM Location: 3908 Main Road\, Tiverton\, RI 02878 Th
+ is season\, in honor of our country’s semiquincentennial\, we have a spe
+ cial exhibit in our c. 1730 house museum: a silk flag flown by George Wash
+ ington’s RI Regiment\, a rare Huntington engraving of the Declaration of
+  Independence\, a map of the 1778 Battle of RI showing redoubts and troop 
+ movements\, a surveyor’s chart of Narragansett Bay and environs of July 
+ 1776\, Civil War uniforms\, and more! Guided tours of the house are held S
+ undays during the hours of 2-4:30 pm from June 7th to September 6th. There
+  is a small preservation donation for THS non-members. Email: TivertonHist
+ oricalSocy@tivertonhistorical.org with any questions\, find more contact i
+ nformation here.\n\nSource: https://www.visitrhodeisland.com/event/chace-c
+ ory-house-tours/111034/
+LOCATION:3908 Main Road\, Tiverton\, RI 02878 This season\, in honor of ou
+ r country’s semiquincentennial\, we have a special exhibit in our c. 173
+ 0 house museum: a silk flag flown by George Washington’s RI Regiment\, a
+  rare Huntington engraving of the Declaration of Independence\, a map of t
+ he 1778 Battle of RI showing redoubts and troop movements\, a surveyor’s
+  chart of Narragansett Bay and environs of July 1776\, Civil War uniforms\
+ , and more! Guided tours of the house are held Sundays during the hours of
+  2-4:30 pm from June 7th to September 6th. There is a small preservation d
+ onation for THS non-members. Email: TivertonHistoricalSocy@tivertonhistori
+ cal.org with any questions\, find more contact information here. Show More
+  View Website | Email 1 / 1 Additional Information\, 3908 Main Road\, Tive
+ rton\, RI 02878 Time: 2:00 PM to 4:30 PM
+URL:https://www.visitrhodeisland.com/event/chace-cory-house-tours/111034/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Free Summer Concert Series at Ragged Island
 DTSTART;VALUE=DATE:20260624
 DTEND;VALUE=DATE:20260625
-DTSTAMP:20260815T105516Z
+DTSTAMP:20260816T105456Z
 UID:1c212ee8000d851f7b6e4ea8f143@visitri-calendar
 DESCRIPTION:Announcing Ragged Island's Free 2026 Summer Concert Series Rag
  ged Island has nine awesome bands lined up for Wednesday nights in July an
@@ -124,7 +226,7 @@ BEGIN:VEVENT
 SUMMARY:Hope & Main Makers Markets: Summer Series
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260702
-DTSTAMP:20260815T105516Z
+DTSTAMP:20260816T105456Z
 UID:a4c76656bb4dd2f560a21d25ca37@visitri-calendar
 DESCRIPTION:Developed by the operators of Hope &amp\; Main in Warren\, the
   Schoolyard Market helps locally-based food and beverage businesses start 
@@ -146,7 +248,7 @@ BEGIN:VEVENT
 SUMMARY:Field of Artisans at the Beach
 DTSTART;VALUE=DATE:20260711
 DTEND;VALUE=DATE:20260712
-DTSTAMP:20260815T105516Z
+DTSTAMP:20260816T105456Z
 UID:7ebe1a9998bbb563181c86657159@visitri-calendar
 DESCRIPTION:Join Field of Artisans on Saturdays this summer for the 11th y
  ear of bringing creativity to this beautiful location! Artists will displa
@@ -163,7 +265,7 @@ BEGIN:VEVENT
 SUMMARY:$15 Moonshine Flights & Moonshine Tasting
 DTSTART;VALUE=DATE:20260721
 DTEND;VALUE=DATE:20260722
-DTSTAMP:20260815T105516Z
+DTSTAMP:20260816T105456Z
 UID:6ac059c408c431eceb1c3c855c19@visitri-calendar
 DESCRIPTION:Try a Moonshine Flight tasting at Moonshine Alley! Moonshine F
  lights are available daily for just $15! We have over 13 flavors to choose
@@ -179,7 +281,7 @@ BEGIN:VEVENT
 SUMMARY:"Mea Duke: Dreamliners" Exhibit
 DTSTART;VALUE=DATE:20260801
 DTEND;VALUE=DATE:20260802
-DTSTAMP:20260815T105516Z
+DTSTAMP:20260816T105456Z
 UID:c06cfbf2bf6470118f0deef8d28e@visitri-calendar
 DESCRIPTION:Jessica Hagen Fine Art + Design is pleased to announce the exh
  ibit: "Mea Duke: Dreamliners" August 1 - August 30\, 2026. This solo exhib
@@ -215,7 +317,7 @@ BEGIN:VEVENT
 SUMMARY:Washington County Fair
 DTSTART;VALUE=DATE:20260812
 DTEND;VALUE=DATE:20260813
-DTSTAMP:20260815T105516Z
+DTSTAMP:20260816T105456Z
 UID:e9349cbadfa54061b73d240ec35b@visitri-calendar
 DESCRIPTION:The Fair is RI's largest agricultural event. Admission include
  s access to all daily concerts\, special acts and events\, the giant midwa
@@ -234,7 +336,7 @@ BEGIN:VEVENT
 SUMMARY:NecronomiCon Providence
 DTSTART;VALUE=DATE:20260813
 DTEND;VALUE=DATE:20260814
-DTSTAMP:20260815T105516Z
+DTSTAMP:20260816T105456Z
 UID:776adfcbf05b1e673cd80c848a7c@visitri-calendar
 DESCRIPTION:NecronomiCon Providence is an expansive exploration and celebr
  ation of all the greats of weird fiction\, old and new\, including predece
@@ -247,116 +349,10 @@ LOCATION:Various Venues \, Providence\, RI 02903 Time: see website
 URL:https://www.visitrhodeisland.com/event/necronomicon-providence/84602/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Willy Wonka Jr.
-DTSTART;VALUE=DATE:20260814
-DTEND;VALUE=DATE:20260815
-DTSTAMP:20260815T105516Z
-UID:a5e49a0a0720ec778da40a452ea2@visitri-calendar
-DESCRIPTION:Step into a world of pure imagination with Willy Wonka Jr. ! J
- oin Charlie Bucket as he embarks on a magical adventure through Willy Wonk
- a’s whimsical chocolate factory\, filled with quirky characters\, dazzli
- ng inventions\, and sweet surprises at every turn. This delightful musical
-  adaptation brings Roald Dahl’s beloved story to life with catchy songs\
- , colorful sets\, and a heartwarming tale of kindness\, courage\, and the 
- magic of believing in your dreams. Perfect for audiences of all ages!\n\nS
- ource: https://www.visitrhodeisland.com/event/willy-wonka-jr/108276/
-LOCATION:Granite Theatre\, 1 Granite Street\, Westerly\, RI 02891
-URL:https://www.visitrhodeisland.com/event/willy-wonka-jr/108276/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:"Mea Duke: Dreamliners" Exhibit
-DTSTART;VALUE=DATE:20260815
-DTEND;VALUE=DATE:20260816
-DTSTAMP:20260815T105516Z
-UID:85b2278e619d7497dada8fbd7634@visitri-calendar
-DESCRIPTION:Jessica Hagen Fine Art + Design is pleased to announce the exh
- ibit: "Mea Duke: Dreamliners" August 1 - August 30\, 2026. This solo exhib
- ition marks Mea Duke’s third solo show with Jessica Hagen’s gallery. D
- reamliners assembles objects and images from the mid-twentieth century mom
- ent when progress felt most like destiny: Pan Am flying boats\, LIFE magaz
- ines\, lifejackets\, sunblock\, straw hats\, shipping containers\, endless
-  horizons. Together they form an archive of optimism\, sleek engineering\,
-  and the promise that the world was suddenly\, thrillingly within reach. T
- he title borrows from Boeing's Dreamliner\, an aircraft whose name still t
- rades on the same aspirational language the Pan Am era perfected. Duke's p
- ractice has long lived in the space between painting an object and treatin
- g the painting itself as an object\, an artifact with its own weight\, mat
- eriality\, and history. Jessica Hagen states\, “Dreamliners is a smart\,
-  fun and beautifully executed show. Mea Duke is a highly skilled painter a
- nd she is very clearly on top of her game\; treating us to paintings that 
- are in her words\, created slowly by hand\, with clean deliberate precisio
- n. Replete with iconic objects and imagery rendered as only Duke can\, thi
- s show is not to be missed.” “Mea Duke: Dreamliners” closes August 3
- 0\, 2026. Jessica Hagen Fine Art + Design was founded in 2005 and features
-  contemporary art including painting\, sculpture\, photography\, ceramics\
- , textiles\, and jewelry. Located in the historic Point section of Newport
- \, the gallery’s hours are Wednesday- Saturday 11:00 AM - 5:00 PM\, and 
- Sunday 12:00 - 5:00 PM. The gallery is also open by appointment. Image Att
- ached: Mea Duke Flying Boat I oil/canvas 40” x 64”\n\nSource: https://
- www.visitrhodeisland.com/event/mea-duke%3a-dreamliners-exhibit/111171/
-LOCATION:Jessica Hagen Fine Art & Design\, 9A Bridge Street\, Newport\, RI
-  02840
-URL:https://www.visitrhodeisland.com/event/mea-duke%3a-dreamliners-exhibit
- /111171/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:"Paddles Up" Lager Launch
-DTSTART;VALUE=DATE:20260815
-DTEND;VALUE=DATE:20260816
-DTSTAMP:20260815T105516Z
-UID:3fc322b874981c2ebe5615d664c2@visitri-calendar
-DESCRIPTION:Join us as we raise a pint to tradition\, teamwork\, and 25 ye
- ars of dragon boat racing in RI's Blackstone Valley! Celebrate the officia
- l launch of this year's "Paddles Up" Lager\, a craft brew created by Phant
- om Farms Brewing to honor the spirit of the dragon boat community\, while 
- kicking off our 25th Anniversary season in style. This special anniversary
-  event brings together paddlers\, supporters\, and the local community to 
- celebrate a quarter century of racing\, friendship\, and cultural traditio
- n on the Pawtucket River. Enjoy the first pours of "Paddles Up" Lager\, co
- nnect with teammates past and present\, and toast the community partners w
- ho have helped make the Blackstone Valley a premier destination for dragon
-  boat racing. • Hang out with Dragon Boat team members • Bring photos 
- to display from previous races since 1999 • Family-friendly with food ve
- ndors\, photo opportunities\, music &amp\; more • Open to the public! FR
- EE ADMISSION! Whether you're a seasoned paddler\, a craft beer enthusiast\
- , or simply looking for a fun way to celebrate a unique Rhode Island tradi
- tion\, everyone is welcome. Come share stories\, make new memories\, and h
- elp launch another exciting season on the water. Cheers to 25 years—and 
- to many more. Paddles up!\n\nSource: https://www.visitrhodeisland.com/even
- t/paddles-up-lager-launch/111289/
-LOCATION:Phantom Farms Brewing\, 30 Martin Street\, Cumberland\, RI 02864
-URL:https://www.visitrhodeisland.com/event/paddles-up-lager-launch/111289/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:4th Annual Craft and Vendor Fair
-DTSTART;VALUE=DATE:20260815
-DTEND;VALUE=DATE:20260816
-DTSTAMP:20260815T105516Z
-UID:77e09337fda581155c34b1d7081b@visitri-calendar
-DESCRIPTION:At the 4th Annual Craft &amp\; Vendor Fair at Phantom Farms\, 
- you'll spend the day shopping\, exploring\, and supporting talented local 
- makers\, artisans\, and small businesses while enjoying the beautiful farm
-  atmosphere. What You'll Find: • Unique handmade crafts and gifts • Lo
- cal artisans and small businesses • Home décor\, jewelry\, bath &amp\; 
- body products\, specialty foods\, and more • Seasonal shopping opportuni
- ties • Farm-fresh products and garden center offerings • Family-friend
- ly atmosphere With over 40 vendors\, there is something for everyone. This
-  event has become a favorite summer tradition for our community. Whether y
- ou're searching for the perfect gift\, decorating your home\, or simply lo
- oking for a fun day out\, you'll find plenty to discover. Bring your frien
- ds and family and spend the day supporting local businesses while enjoying
-  everything Phantom Farms has to offer! Rain date is August 16\, 2026\n\nS
- ource: https://www.visitrhodeisland.com/event/4th-annual-craft-and-vendor-
- fair/111322/
-LOCATION:Phantom Farms\, 2920 Diamond Hill Road\, Cumberland\, RI 02864
-URL:https://www.visitrhodeisland.com/event/4th-annual-craft-and-vendor-fai
- r/111322/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Annual Langworthy Art Show on the Lawn
 DTSTART;VALUE=DATE:20260815
 DTEND;VALUE=DATE:20260816
-DTSTAMP:20260815T105516Z
+DTSTAMP:20260816T105456Z
 UID:93714f0a62db5504beb76cc49cdc@visitri-calendar
 DESCRIPTION:Browse artist booths featuring fine art\, woodworking\, New En
  gland photography\, jewelry\, and more while enjoying the beautiful ground
@@ -368,25 +364,68 @@ URL:https://www.visitrhodeisland.com/event/annual-langworthy-art-show-on-t
  he-lawn/111177/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Bead Doodling with Donna Tavares
+SUMMARY:Island Rhodes Music Festival
 DTSTART;VALUE=DATE:20260815
 DTEND;VALUE=DATE:20260816
-DTSTAMP:20260815T105516Z
-UID:c1db5744923c31a72c22f6b29b34@visitri-calendar
-DESCRIPTION:Make a bead embroidered bird. Let your creativity soar. Learn 
- basic bead embroidery stitches and play with beads. Doesn't get much bette
- r than this. Bring readers if you wear them.\n\nSource: https://www.visitr
- hodeisland.com/event/bead-doodling-with-donna-tavares/110783/
-LOCATION:The Craftery Studio\, 450 Main St\, Unit A\, Warren\, RI 02885
-URL:https://www.visitrhodeisland.com/event/bead-doodling-with-donna-tavare
- s/110783/
+DTSTAMP:20260816T105456Z
+UID:ace7c364f24262c067e163fb9b96@visitri-calendar
+DESCRIPTION:The Ocean State is welcoming a brand-new marquee music festiva
+ l this summer with the debut of Centreville Bank Stadium’s first-ever co
+ ncert event\, Island Rhodes Music Festival. Set to take place the weekend 
+ of August 15-16 at Centreville Bank Stadium in Pawtucket\, Rhode Island\, 
+ the two-day festival will transform the state-of-the-art waterfront venue 
+ into a vibrant celebration of live music\, culture\, and coastal energy. I
+ sland Rhodes Music Festival will feature two full days of top-tier nationa
+ l touring artists fans can’t see anywhere else in the region\, including
+  Sublime\, Slightly Stoopid\, Rebelution\, The Roots\, and more\, all perf
+ orming on a turntable stage throughout the weekend. Designed to reflect Rh
+ ode Island’s creative spirit and coastal roots\, the festival will offer
+  fans an immersive experience that goes beyond the music. Alongside perfor
+ mances from top current artists and genre-defining legends\, Island Rhodes
+  will feature a curated mix of standout food vendors — from regional fav
+ orites to elevated festival fare — plus premium VIP experiences designed
+  for fans who want to take the weekend up a level. TICKETS\n\nSource: http
+ s://www.visitrhodeisland.com/event/island-rhodes-music-festival/109333/
+LOCATION:Centreville Bank Stadium\, 11 Tidewater Street\, Pawtucket\, RI 0
+ 2860
+URL:https://www.visitrhodeisland.com/event/island-rhodes-music-festival/10
+ 9333/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Live Music by Logan Vale
+DTSTART;VALUE=DATE:20260815
+DTEND;VALUE=DATE:20260816
+DTSTAMP:20260816T105456Z
+UID:83f1c7264b84148bcd597ec3aec6@visitri-calendar
+DESCRIPTION:The music of Logan Vale! Dinner reservations required either o
+ nline or call 401.861.3850 x. 3\n\nSource: https://www.visitrhodeisland.co
+ m/event/live-music-by-logan-vale/110313/
+LOCATION:Luigi's Restaurant & Gourmet Express\, 1359 Hartford Avenue\, Joh
+ nston\, RI 02919
+URL:https://www.visitrhodeisland.com/event/live-music-by-logan-vale/110313
+ /
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Annual Langworthy Art Show on the Lawn
+DTSTART;VALUE=DATE:20260816
+DTEND;VALUE=DATE:20260817
+DTSTAMP:20260816T105456Z
+UID:abfac59f2e8dde1895fa0bcc73fe@visitri-calendar
+DESCRIPTION:Browse artist booths featuring fine art\, woodworking\, New En
+ gland photography\, jewelry\, and more while enjoying the beautiful ground
+ s of Langworthy Winery just a short mile from the beach!\n\nSource: https:
+ //www.visitrhodeisland.com/event/annual-langworthy-art-show-on-the-lawn/11
+ 1177/
+LOCATION:Langworthy Farm Winery\, 308 Shore Road\, Westerly\, RI 02891
+URL:https://www.visitrhodeisland.com/event/annual-langworthy-art-show-on-t
+ he-lawn/111177/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Blithewold Annual Family Clambake
-DTSTART;VALUE=DATE:20260815
-DTEND;VALUE=DATE:20260816
-DTSTAMP:20260815T105516Z
-UID:83ac4c807a6ea94ac3cc07bdfe39@visitri-calendar
+DTSTART;VALUE=DATE:20260816
+DTEND;VALUE=DATE:20260817
+DTSTAMP:20260816T105456Z
+UID:1e79811498a6018725cc9241e869@visitri-calendar
 DESCRIPTION:Blithewold Annual Family Clambake Thursday | August 27 5:00 &#
  8211\; 8:00 PM Location: Event Tent The Great Lawn has been the scene of f
  amily clambakes for over a century! Step back in time and stroll the garde
@@ -440,55 +479,11 @@ URL:https://www.visitrhodeisland.com/event/blithewold-annual-family-clamba
  ke/109496/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Blooming Highland - Painting Class
-DTSTART;VALUE=DATE:20260815
-DTEND;VALUE=DATE:20260816
-DTSTAMP:20260815T105516Z
-UID:3f07b1319f70b6536c2dcb986eba@visitri-calendar
-DESCRIPTION:🖌️ IN-STUDIO SESSION DETAILS Reserve your spot and enjoy 
- a complimentary beverage—choose from soda\, beer\, or wine (21+ with val
- id ID). Additional drinks will be available for purchase. Immerse yourself
-  in a fun and creative atmosphere while painting your own unique masterpie
- ce! Recommended for ages 14 and up. ⏰ ARRIVAL TIME Our studio opens 30 m
- inutes prior to class time. We recommend arriving 15&#8211\;30 minutes ear
- ly to find parking\, grab a drink\, and get settled. Please note: If you a
- rrive late\, the artist may not be able to fill you in on the steps you mi
- ssed\, as they will be focused on guiding the rest of the class. If you ar
- rive more than 20 minutes late\, we kindly ask that you do not join the se
- ssion. Late arrivals can be disruptive and may not have enough time to com
- plete the painting. Unfortunately\, we cannot offer refunds or reschedules
-  for late arrivals. 🚗 PARKING INFO Our studio is located at 150 Main St
- reet (rear entrance)\, Pawtucket\, Rhode Island\, and we have two FREE par
- king lots: 🚗 One directly attached to our entrance 🚗 A second lot ju
- st one building down on the same side of the street — clearly labeled 
- 🪑 WANT TO SIT WITH FRIENDS? If you purchased 2 or more tickets in one t
- ransaction\, we’ll automatically seat your group together. If you booked
-  separately but want to sit with someone\, please include their first and 
- last names in the “Additional Information / Order Notes” field during 
- checkout. 🔄 RESCHEDULING &amp\; CANCELLATION POLICY All reservations ar
- e non-refundable. However\, if you need to reschedule\, you may request a 
- reschedule voucher at least 48 hours before your session. You can do this 
- easily on our website — just [click here]. No-shows cannot be reschedule
- d. 🚨 CLASS CANCELLATION Classes may be canceled due to low attendance. 
- In this case\, we’ll notify you and issue a voucher for a future session
- . We appreciate your understanding and look forward to welcoming you to a 
- future class! ❄️ INCLEMENT WEATHER POLICY Because New England weather 
- can be unpredictable\, we typically wait until a few hours before class to
-  make final decisions. If we cancel due to snow or other severe weather\, 
- we’ll email you a voucher for a future session. Have more questions? Che
- ck out our [Frequently Asked Questions] page — just [click here].\n\nSou
- rce: https://www.visitrhodeisland.com/event/blooming-highland-painting-cla
- ss/110943/
-LOCATION:Paint and Vino\, 150 Main Street\, Pawtucket\, RI 02860
-URL:https://www.visitrhodeisland.com/event/blooming-highland-painting-clas
- s/110943/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Brew at the Zoo
-DTSTART;VALUE=DATE:20260815
-DTEND;VALUE=DATE:20260816
-DTSTAMP:20260815T105516Z
-UID:c6524051af96ce36c39b270d0f8a@visitri-calendar
+DTSTART;VALUE=DATE:20260816
+DTEND;VALUE=DATE:20260817
+DTSTAMP:20260816T105456Z
+UID:8f7217a75c90400c0889f9390076@visitri-calendar
 DESCRIPTION:Tap into your wild side at Brew at the Zoo on Saturday\, Augus
  t 29th\, an adults-only evening event\, and sample hundreds of beers\, har
  d seltzers\, wines and ready-to-drink cocktails from dozens of local\, reg
@@ -505,11 +500,55 @@ LOCATION:Roger Williams Park Zoo & Carousel Village\, 1000 Elmwood Avenue\
 URL:https://www.visitrhodeisland.com/event/brew-at-the-zoo/110973/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Food Truck Picnic in the Park
+DTSTART;VALUE=DATE:20260816
+DTEND;VALUE=DATE:20260817
+DTSTAMP:20260816T105456Z
+UID:a9b4ab64203d6ba574f5131a5336@visitri-calendar
+DESCRIPTION:It will be another amazing season of food trucks\, fun\, and c
+ ommunity in Capron Park in Attleboro. Event details and updates at https:/
+ /www.foodtrucksin.com/capronparkattleboro Attendance is free and tickets a
+ re not required\, just pay for what you eat and drink from over a dozen fo
+ od trucks accepting cash\, credit\, and debit cards. 💳💰 In addition 
+ to great food and fun vibes for all ages\, there will be live music from l
+ ocal bands at each event. 🎵🎵🎵 Make yourself at home on the lawn. 
+ Bring chairs\, and blankets. Create your perfect relaxation spot or bring 
+ lawn games for added fun and enjoy the evening with family and friends. Th
+ is event is made possible by The City of Attleboro and the Park Commission
+ \, The Samuel M. Stone and Ernest H. Augat Summer Concerts. Over a dozen F
+ ood trucks and live music in the flats of scenic Capron Park. 🚚🌮🍔
+  🚨Lot attendants will assist with parking. 🚫Smoking\, vaping and e-c
+ igarettes are prohibited.. 🚫Guests are not permitted to bring their own
+  coolers with alcohol. 🐾 Pets are not encouraged. 🌍 Let's care for o
+ ur environment together - please take recyclable items home with you.\n\nS
+ ource: https://www.visitrhodeisland.com/event/food-truck-picnic-in-the-par
+ k/110643/
+LOCATION:201 County St\, Attleboro\, MA 02703 Time: 4:00 PM to 8:00 PM 201
+  County St\, Attleboro\, MA 02703 OFFICIAL RHODE ISLAND TRAVEL GUIDE Get G
+ uide Get news from Visit Rhode Island in your inbox. Industry Partner Leis
+ ure Travel Sign Up Ratings Powered by Press Industry Travel Trade Meetings
+  & Conventions Contact Privacy Policy Sitemap Partner Portal SMS Privacy P
+ olicy SMS Terms & Conditions UGC Terms and Conditions Wedding Planning Pre
+ ss Photos Story Ideas Fun-Sized Rhode Island Rhode Island in the News Free
+  Travel Guide Contact Visit Rhode Island Industry Travel Trade Ideas & Iti
+ neraries Downton Abbey Lifestyle Rhode Island Foodways Hidden Gems Image L
+ ibrary Free Travel Guide Contact Visit Rhode Island Meetings & Conventions
+  Contact Privacy Policy Sitemap Partner Portal SMS Privacy Policy SMS Term
+ s & Conditions UGC Terms and Conditions Wedding Planning Weddings - Venues
+  Wedding - Catering Wedding - Cakes Wedding - Attire Wedding - Florists We
+ dding - Jewelers Wedding - Transportation © 2026 Rhode Island Commerce Co
+ rporation Special Offers Offers Here Looking to plan your next visit to Rh
+ ode Island\, check out some of the current special offers and enjoy saving
+ s\, extra perks and more! Offers Here
+URL:https://www.visitrhodeisland.com/event/food-truck-picnic-in-the-park/1
+ 10643/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:General Stanton Inn Blues Music Festival
-DTSTART;VALUE=DATE:20260815
-DTEND;VALUE=DATE:20260816
-DTSTAMP:20260815T105516Z
-UID:963d73cac56a538c9bfc465df848@visitri-calendar
+DTSTART;VALUE=DATE:20260816
+DTEND;VALUE=DATE:20260817
+DTSTAMP:20260816T105456Z
+UID:308021c08a502fde9858f55d0747@visitri-calendar
 DESCRIPTION:Top Rhode Island blues music artists perform under the Stanton
   tent\, bbq\, beer\, seafood\, bourbon and more. Bring a lawn chair.\n\nSo
  urce: https://www.visitrhodeisland.com/event/general-stanton-inn-blues-mus
@@ -520,10 +559,10 @@ URL:https://www.visitrhodeisland.com/event/general-stanton-inn-blues-music
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Island Rhodes Music Festival
-DTSTART;VALUE=DATE:20260815
-DTEND;VALUE=DATE:20260816
-DTSTAMP:20260815T105516Z
-UID:ace7c364f24262c067e163fb9b96@visitri-calendar
+DTSTART;VALUE=DATE:20260816
+DTEND;VALUE=DATE:20260817
+DTSTAMP:20260816T105456Z
+UID:93e5ea0aa328c3ced2b4563c7e32@visitri-calendar
 DESCRIPTION:The Ocean State is welcoming a brand-new marquee music festiva
  l this summer with the debut of Centreville Bank Stadium’s first-ever co
  ncert event\, Island Rhodes Music Festival. Set to take place the weekend 
@@ -548,10 +587,10 @@ URL:https://www.visitrhodeisland.com/event/island-rhodes-music-festival/10
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Jacob Hackworth Live at Moonshine Alley!
-DTSTART;VALUE=DATE:20260815
-DTEND;VALUE=DATE:20260816
-DTSTAMP:20260815T105516Z
-UID:535f64d8311e4a692ce67a54e0e9@visitri-calendar
+DTSTART;VALUE=DATE:20260816
+DTEND;VALUE=DATE:20260817
+DTSTAMP:20260816T105456Z
+UID:facd32f16f7659ebe4b207077580@visitri-calendar
 DESCRIPTION:ON SALE NOW Cat Country 98.1 presents Jacob Hackworth LIVE at 
  Moonshine Alley on Tuesday\, August 25th! MCA Records &amp\; Nashville sin
  ger and songwriter Jacob Hackworth is coming to Providence for one night o
@@ -569,26 +608,12 @@ URL:https://www.visitrhodeisland.com/event/jacob-hackworth-live-at-moonshi
  ne-alley!/111051/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Live Music by Logan Vale
-DTSTART;VALUE=DATE:20260815
-DTEND;VALUE=DATE:20260816
-DTSTAMP:20260815T105516Z
-UID:83f1c7264b84148bcd597ec3aec6@visitri-calendar
-DESCRIPTION:The music of Logan Vale! Dinner reservations required either o
- nline or call 401.861.3850 x. 3\n\nSource: https://www.visitrhodeisland.co
- m/event/live-music-by-logan-vale/110313/
-LOCATION:Luigi's Restaurant & Gourmet Express\, 1359 Hartford Avenue\, Joh
- nston\, RI 02919
-URL:https://www.visitrhodeisland.com/event/live-music-by-logan-vale/110313
- /
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:NIMFest: Groove Merchants w/ Olivia Nied | Live\, Outdoor Music at
   King Park
-DTSTART;VALUE=DATE:20260815
-DTEND;VALUE=DATE:20260816
-DTSTAMP:20260815T105516Z
-UID:047bd436199fac8c9f6aed0fb462@visitri-calendar
+DTSTART;VALUE=DATE:20260816
+DTEND;VALUE=DATE:20260817
+DTSTAMP:20260816T105456Z
+UID:e089938e7fafaf7e7726e9ba0033@visitri-calendar
 DESCRIPTION:NIMFest (Newport Independent Music Festival) comes to you live
   from the King Park Gazebo at 125 Wellington Ave in Newport. This FREE\, w
  eekly concert series runs every Sunday in July and August from 3:00-6:00PM
@@ -603,11 +628,27 @@ URL:https://www.visitrhodeisland.com/event/nimfest%3a-groove-merchants-w-o
  livia-nied-%7c-live-outdoor-music-at-king-park/109909/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:NecronomiCon Providence
+DTSTART;VALUE=DATE:20260816
+DTEND;VALUE=DATE:20260817
+DTSTAMP:20260816T105456Z
+UID:7a9739b6e6b1706884da0b261bdd@visitri-calendar
+DESCRIPTION:NecronomiCon Providence is an expansive exploration and celebr
+ ation of all the greats of weird fiction\, old and new\, including predece
+ ssors and contemporaries of Providence’s H.P. Lovecraft and the many aut
+ hors and artists who have forged their own paths of weird. Visit website f
+ or more information and updates for another incredible convention and fest
+ ival. Providence welcomes you all.\n\nSource: https://www.visitrhodeisland
+ .com/event/necronomicon-providence/84602/
+LOCATION:Various Venues \, Providence\, RI 02903 Time: see website
+URL:https://www.visitrhodeisland.com/event/necronomicon-providence/84602/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Puerto Rican Festival
-DTSTART;VALUE=DATE:20260815
-DTEND;VALUE=DATE:20260816
-DTSTAMP:20260815T105516Z
-UID:bd7b0f338e5737d4502db1a0e5c0@visitri-calendar
+DTSTART;VALUE=DATE:20260816
+DTEND;VALUE=DATE:20260817
+DTSTAMP:20260816T105456Z
+UID:d134710cbbc7acd8a9a50cb2fdf4@visitri-calendar
 DESCRIPTION:We are proud to announce the Puerto Rican Festival in Woonsock
  et\, a vibrant cultural celebration set to take place [August 29\, 2026] a
  t [River Island Park\, Woonsocket\, RI]. This landmark event will bring to
@@ -639,106 +680,9 @@ URL:https://www.visitrhodeisland.com/event/puerto-rican-festival/109367/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Teacher's Lounge
-DTSTART;VALUE=DATE:20260815
-DTEND;VALUE=DATE:20260816
-DTSTAMP:20260815T105516Z
-UID:efda56640b374d8b69940f73244b@visitri-calendar
-DESCRIPTION:Join three seasoned educators—Gaspare Randazzo (Netflix\, Th
- e Social Studies Podcast and @StandUpRandazzo on social media)\, Philip Li
- ndsay (Social Media Sensation @Mr_PhLindsay_Sped on IG\, The Today Show)\,
-  and Andrea Forcum (How To Survive The Classroom Podcast and @EducatorAndr
- ea on TikTok)—for a hilarious inside look at the unpredictable\, often a
- bsurd world of teaching in The Teacher’s Lounge. This live show is packe
- d with laugh-out-loud stories from the classroom\, outrageous Q&amp\;A ses
- sions\, and an unfiltered celebration of the highs and lows of the profess
- ion. Whether you're a teacher or just curious about what really happens at
-  school\, this show promises to entertain and offer a fresh perspective yo
- u won't want to miss!\n\nSource: https://www.visitrhodeisland.com/event/te
- achers-lounge/111067/
-LOCATION:Comedy Connection\, 39 Warren Avenue\, East Providence\, RI 02914
-URL:https://www.visitrhodeisland.com/event/teachers-lounge/111067/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Willy Wonka Jr.
-DTSTART;VALUE=DATE:20260815
-DTEND;VALUE=DATE:20260816
-DTSTAMP:20260815T105516Z
-UID:c446ddac28bb55719dccb612ecb1@visitri-calendar
-DESCRIPTION:Step into a world of pure imagination with Willy Wonka Jr. ! J
- oin Charlie Bucket as he embarks on a magical adventure through Willy Wonk
- a’s whimsical chocolate factory\, filled with quirky characters\, dazzli
- ng inventions\, and sweet surprises at every turn. This delightful musical
-  adaptation brings Roald Dahl’s beloved story to life with catchy songs\
- , colorful sets\, and a heartwarming tale of kindness\, courage\, and the 
- magic of believing in your dreams. Perfect for audiences of all ages!\n\nS
- ource: https://www.visitrhodeisland.com/event/willy-wonka-jr/108276/
-LOCATION:Granite Theatre\, 1 Granite Street\, Westerly\, RI 02891
-URL:https://www.visitrhodeisland.com/event/willy-wonka-jr/108276/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Annual Langworthy Art Show on the Lawn
 DTSTART;VALUE=DATE:20260816
 DTEND;VALUE=DATE:20260817
-DTSTAMP:20260815T105516Z
-UID:abfac59f2e8dde1895fa0bcc73fe@visitri-calendar
-DESCRIPTION:Browse artist booths featuring fine art\, woodworking\, New En
- gland photography\, jewelry\, and more while enjoying the beautiful ground
- s of Langworthy Winery just a short mile from the beach!\n\nSource: https:
- //www.visitrhodeisland.com/event/annual-langworthy-art-show-on-the-lawn/11
- 1177/
-LOCATION:Langworthy Farm Winery\, 308 Shore Road\, Westerly\, RI 02891
-URL:https://www.visitrhodeisland.com/event/annual-langworthy-art-show-on-t
- he-lawn/111177/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Island Rhodes Music Festival
-DTSTART;VALUE=DATE:20260816
-DTEND;VALUE=DATE:20260817
-DTSTAMP:20260815T105516Z
-UID:93e5ea0aa328c3ced2b4563c7e32@visitri-calendar
-DESCRIPTION:The Ocean State is welcoming a brand-new marquee music festiva
- l this summer with the debut of Centreville Bank Stadium’s first-ever co
- ncert event\, Island Rhodes Music Festival. Set to take place the weekend 
- of August 15-16 at Centreville Bank Stadium in Pawtucket\, Rhode Island\, 
- the two-day festival will transform the state-of-the-art waterfront venue 
- into a vibrant celebration of live music\, culture\, and coastal energy. I
- sland Rhodes Music Festival will feature two full days of top-tier nationa
- l touring artists fans can’t see anywhere else in the region\, including
-  Sublime\, Slightly Stoopid\, Rebelution\, The Roots\, and more\, all perf
- orming on a turntable stage throughout the weekend. Designed to reflect Rh
- ode Island’s creative spirit and coastal roots\, the festival will offer
-  fans an immersive experience that goes beyond the music. Alongside perfor
- mances from top current artists and genre-defining legends\, Island Rhodes
-  will feature a curated mix of standout food vendors — from regional fav
- orites to elevated festival fare — plus premium VIP experiences designed
-  for fans who want to take the weekend up a level. TICKETS\n\nSource: http
- s://www.visitrhodeisland.com/event/island-rhodes-music-festival/109333/
-LOCATION:Centreville Bank Stadium\, 11 Tidewater Street\, Pawtucket\, RI 0
- 2860
-URL:https://www.visitrhodeisland.com/event/island-rhodes-music-festival/10
- 9333/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NecronomiCon Providence
-DTSTART;VALUE=DATE:20260816
-DTEND;VALUE=DATE:20260817
-DTSTAMP:20260815T105516Z
-UID:7a9739b6e6b1706884da0b261bdd@visitri-calendar
-DESCRIPTION:NecronomiCon Providence is an expansive exploration and celebr
- ation of all the greats of weird fiction\, old and new\, including predece
- ssors and contemporaries of Providence’s H.P. Lovecraft and the many aut
- hors and artists who have forged their own paths of weird. Visit website f
- or more information and updates for another incredible convention and fest
- ival. Providence welcomes you all.\n\nSource: https://www.visitrhodeisland
- .com/event/necronomicon-providence/84602/
-LOCATION:Various Venues \, Providence\, RI 02903 Time: see website
-URL:https://www.visitrhodeisland.com/event/necronomicon-providence/84602/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Teacher's Lounge
-DTSTART;VALUE=DATE:20260816
-DTEND;VALUE=DATE:20260817
-DTSTAMP:20260815T105516Z
+DTSTAMP:20260816T105456Z
 UID:38916c245d764c09eb4e210e1dc3@visitri-calendar
 DESCRIPTION:Join three seasoned educators—Gaspare Randazzo (Netflix\, Th
  e Social Studies Podcast and @StandUpRandazzo on social media)\, Philip Li
@@ -759,7 +703,7 @@ BEGIN:VEVENT
 SUMMARY:Washington County Fair
 DTSTART;VALUE=DATE:20260816
 DTEND;VALUE=DATE:20260817
-DTSTAMP:20260815T105516Z
+DTSTAMP:20260816T105456Z
 UID:cad4ada55549b9d58f789c549cde@visitri-calendar
 DESCRIPTION:The Fair is RI's largest agricultural event. Admission include
  s access to all daily concerts\, special acts and events\, the giant midwa
@@ -778,7 +722,7 @@ BEGIN:VEVENT
 SUMMARY:"Mea Duke: Dreamliners" Exhibit
 DTSTART;VALUE=DATE:20260819
 DTEND;VALUE=DATE:20260820
-DTSTAMP:20260815T105516Z
+DTSTAMP:20260816T105456Z
 UID:19f2231bc057fa502163344f8a63@visitri-calendar
 DESCRIPTION:Jessica Hagen Fine Art + Design is pleased to announce the exh
  ibit: "Mea Duke: Dreamliners" August 1 - August 30\, 2026. This solo exhib
@@ -814,7 +758,7 @@ BEGIN:VEVENT
 SUMMARY:"Mea Duke: Dreamliners" Exhibit
 DTSTART;VALUE=DATE:20260820
 DTEND;VALUE=DATE:20260821
-DTSTAMP:20260815T105516Z
+DTSTAMP:20260816T105456Z
 UID:fd45365aae3a537d1c27b9f2f72c@visitri-calendar
 DESCRIPTION:Jessica Hagen Fine Art + Design is pleased to announce the exh
  ibit: "Mea Duke: Dreamliners" August 1 - August 30\, 2026. This solo exhib
@@ -850,8 +794,44 @@ BEGIN:VEVENT
 SUMMARY:"Mea Duke: Dreamliners" Exhibit
 DTSTART;VALUE=DATE:20260821
 DTEND;VALUE=DATE:20260822
-DTSTAMP:20260815T105516Z
+DTSTAMP:20260816T105456Z
 UID:7ca4274c989fb7cb165b968c5be2@visitri-calendar
+DESCRIPTION:Jessica Hagen Fine Art + Design is pleased to announce the exh
+ ibit: "Mea Duke: Dreamliners" August 1 - August 30\, 2026. This solo exhib
+ ition marks Mea Duke’s third solo show with Jessica Hagen’s gallery. D
+ reamliners assembles objects and images from the mid-twentieth century mom
+ ent when progress felt most like destiny: Pan Am flying boats\, LIFE magaz
+ ines\, lifejackets\, sunblock\, straw hats\, shipping containers\, endless
+  horizons. Together they form an archive of optimism\, sleek engineering\,
+  and the promise that the world was suddenly\, thrillingly within reach. T
+ he title borrows from Boeing's Dreamliner\, an aircraft whose name still t
+ rades on the same aspirational language the Pan Am era perfected. Duke's p
+ ractice has long lived in the space between painting an object and treatin
+ g the painting itself as an object\, an artifact with its own weight\, mat
+ eriality\, and history. Jessica Hagen states\, “Dreamliners is a smart\,
+  fun and beautifully executed show. Mea Duke is a highly skilled painter a
+ nd she is very clearly on top of her game\; treating us to paintings that 
+ are in her words\, created slowly by hand\, with clean deliberate precisio
+ n. Replete with iconic objects and imagery rendered as only Duke can\, thi
+ s show is not to be missed.” “Mea Duke: Dreamliners” closes August 3
+ 0\, 2026. Jessica Hagen Fine Art + Design was founded in 2005 and features
+  contemporary art including painting\, sculpture\, photography\, ceramics\
+ , textiles\, and jewelry. Located in the historic Point section of Newport
+ \, the gallery’s hours are Wednesday- Saturday 11:00 AM - 5:00 PM\, and 
+ Sunday 12:00 - 5:00 PM. The gallery is also open by appointment. Image Att
+ ached: Mea Duke Flying Boat I oil/canvas 40” x 64”\n\nSource: https://
+ www.visitrhodeisland.com/event/mea-duke%3a-dreamliners-exhibit/111171/
+LOCATION:Jessica Hagen Fine Art & Design\, 9A Bridge Street\, Newport\, RI
+  02840
+URL:https://www.visitrhodeisland.com/event/mea-duke%3a-dreamliners-exhibit
+ /111171/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:"Mea Duke: Dreamliners" Exhibit
+DTSTART;VALUE=DATE:20260822
+DTEND;VALUE=DATE:20260823
+DTSTAMP:20260816T105456Z
+UID:9e347a65e2305fa50f2cf7da9caa@visitri-calendar
 DESCRIPTION:Jessica Hagen Fine Art + Design is pleased to announce the exh
  ibit: "Mea Duke: Dreamliners" August 1 - August 30\, 2026. This solo exhib
  ition marks Mea Duke’s third solo show with Jessica Hagen’s gallery. D
@@ -886,7 +866,7 @@ BEGIN:VEVENT
 SUMMARY:General Stanton Inn Blues Music Festival
 DTSTART;VALUE=DATE:20260823
 DTEND;VALUE=DATE:20260824
-DTSTAMP:20260815T105516Z
+DTSTAMP:20260816T105456Z
 UID:d4af5e9754de8b7973ccbe936045@visitri-calendar
 DESCRIPTION:Top Rhode Island blues music artists perform under the Stanton
   tent\, bbq\, beer\, seafood\, bourbon and more. Bring a lawn chair.\n\nSo
@@ -901,7 +881,7 @@ SUMMARY:NIMFest: Groove Merchants w/ Olivia Nied | Live\, Outdoor Music at
   King Park
 DTSTART;VALUE=DATE:20260823
 DTEND;VALUE=DATE:20260824
-DTSTAMP:20260815T105516Z
+DTSTAMP:20260816T105456Z
 UID:e43d950bc7c5636c64f3187cf4d2@visitri-calendar
 DESCRIPTION:NIMFest (Newport Independent Music Festival) comes to you live
   from the King Park Gazebo at 125 Wellington Ave in Newport. This FREE\, w
@@ -920,7 +900,7 @@ BEGIN:VEVENT
 SUMMARY:Jacob Hackworth Live at Moonshine Alley!
 DTSTART;VALUE=DATE:20260825
 DTEND;VALUE=DATE:20260826
-DTSTAMP:20260815T105516Z
+DTSTAMP:20260816T105456Z
 UID:f35a8fe4166371ef1f7d3be66b07@visitri-calendar
 DESCRIPTION:ON SALE NOW Cat Country 98.1 presents Jacob Hackworth LIVE at 
  Moonshine Alley on Tuesday\, August 25th! MCA Records &amp\; Nashville sin
@@ -942,7 +922,7 @@ BEGIN:VEVENT
 SUMMARY:Free Summer Concert Series at Ragged Island
 DTSTART;VALUE=DATE:20260826
 DTEND;VALUE=DATE:20260827
-DTSTAMP:20260815T105516Z
+DTSTAMP:20260816T105456Z
 UID:c34f298b13c81e8e626e59cb461a@visitri-calendar
 DESCRIPTION:Announcing Ragged Island's Free 2026 Summer Concert Series Rag
  ged Island has nine awesome bands lined up for Wednesday nights in July an
@@ -974,7 +954,7 @@ BEGIN:VEVENT
 SUMMARY:Hope & Main Makers Markets: Summer Series
 DTSTART;VALUE=DATE:20260826
 DTEND;VALUE=DATE:20260827
-DTSTAMP:20260815T105516Z
+DTSTAMP:20260816T105456Z
 UID:508203d8ab48a0f5179cf6188b3b@visitri-calendar
 DESCRIPTION:Developed by the operators of Hope &amp\; Main in Warren\, the
   Schoolyard Market helps locally-based food and beverage businesses start 
@@ -996,7 +976,7 @@ BEGIN:VEVENT
 SUMMARY:Music at Sunset: Concert Series 2026
 DTSTART;VALUE=DATE:20260826
 DTEND;VALUE=DATE:20260827
-DTSTAMP:20260815T105516Z
+DTSTAMP:20260816T105456Z
 UID:f7374ee07909032aafe715f097f0@visitri-calendar
 DESCRIPTION:Music at Sunset: Concert Series 2026 Wednesdays | June 3 &#821
  1\; August 26 Music from 6:00 &#8211\; 8:00 PM\, Parking and Check-in open
@@ -1046,7 +1026,7 @@ BEGIN:VEVENT
 SUMMARY:Blithewold Annual Family Clambake
 DTSTART;VALUE=DATE:20260827
 DTEND;VALUE=DATE:20260828
-DTSTAMP:20260815T105516Z
+DTSTAMP:20260816T105456Z
 UID:527f3299a90d3c05a0676865fdb2@visitri-calendar
 DESCRIPTION:Blithewold Annual Family Clambake Thursday | August 27 5:00 &#
  8211\; 8:00 PM Location: Event Tent The Great Lawn has been the scene of f
@@ -1104,7 +1084,7 @@ BEGIN:VEVENT
 SUMMARY:Food Truck Concert Nights - Diamond Hill Park
 DTSTART;VALUE=DATE:20260827
 DTEND;VALUE=DATE:20260828
-DTSTAMP:20260815T105516Z
+DTSTAMP:20260816T105456Z
 UID:6f571d24d4473b04f931421aed68@visitri-calendar
 DESCRIPTION:We return to Diamond Hill Park in Cumberland for another serie
  s of memorable events in 2026. Attendance is free\, just pay for what you 
@@ -1132,7 +1112,7 @@ BEGIN:VEVENT
 SUMMARY:Brew at the Zoo
 DTSTART;VALUE=DATE:20260829
 DTEND;VALUE=DATE:20260830
-DTSTAMP:20260815T105516Z
+DTSTAMP:20260816T105456Z
 UID:2f2070c631904a407ca11ec8d953@visitri-calendar
 DESCRIPTION:Tap into your wild side at Brew at the Zoo on Saturday\, Augus
  t 29th\, an adults-only evening event\, and sample hundreds of beers\, har
@@ -1153,7 +1133,7 @@ BEGIN:VEVENT
 SUMMARY:Field of Artisans at the Beach
 DTSTART;VALUE=DATE:20260829
 DTEND;VALUE=DATE:20260830
-DTSTAMP:20260815T105516Z
+DTSTAMP:20260816T105456Z
 UID:ccb222ee4b8c9bc014c177518d7d@visitri-calendar
 DESCRIPTION:Join Field of Artisans on Saturdays this summer for the 11th y
  ear of bringing creativity to this beautiful location! Artists will displa
@@ -1170,7 +1150,7 @@ BEGIN:VEVENT
 SUMMARY:Live Music by Logan Vale
 DTSTART;VALUE=DATE:20260829
 DTEND;VALUE=DATE:20260830
-DTSTAMP:20260815T105516Z
+DTSTAMP:20260816T105456Z
 UID:51d81b6b9ac830a4dbc32c26efd3@visitri-calendar
 DESCRIPTION:The music of Logan Vale! Dinner reservations required either o
  nline or call 401.861.3850 x. 3\n\nSource: https://www.visitrhodeisland.co
@@ -1184,7 +1164,7 @@ BEGIN:VEVENT
 SUMMARY:Puerto Rican Festival
 DTSTART;VALUE=DATE:20260829
 DTEND;VALUE=DATE:20260830
-DTSTAMP:20260815T105516Z
+DTSTAMP:20260816T105456Z
 UID:cd67e316cf44f09e5ad6a29b3974@visitri-calendar
 DESCRIPTION:We are proud to announce the Puerto Rican Festival in Woonsock
  et\, a vibrant cultural celebration set to take place [August 29\, 2026] a
@@ -1219,7 +1199,7 @@ BEGIN:VEVENT
 SUMMARY:"Mea Duke: Dreamliners" Exhibit
 DTSTART;VALUE=DATE:20260830
 DTEND;VALUE=DATE:20260831
-DTSTAMP:20260815T105516Z
+DTSTAMP:20260816T105456Z
 UID:1ceb74b8635685237cf864c3942d@visitri-calendar
 DESCRIPTION:Jessica Hagen Fine Art + Design is pleased to announce the exh
  ibit: "Mea Duke: Dreamliners" August 1 - August 30\, 2026. This solo exhib
@@ -1252,10 +1232,43 @@ URL:https://www.visitrhodeisland.com/event/mea-duke%3a-dreamliners-exhibit
  /111171/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Chace-Cory House Tours
+DTSTART;VALUE=DATE:20260906
+DTEND;VALUE=DATE:20260907
+DTSTAMP:20260816T105456Z
+UID:4ae74b8f4adc19a54cabaf46aff7@visitri-calendar
+DESCRIPTION:Chace-Cory House Tours Open Sundays\, June 7 - September 6\, 2
+ 026 from 2:00 to 4:30 PM Location: 3908 Main Road\, Tiverton\, RI 02878 Th
+ is season\, in honor of our country’s semiquincentennial\, we have a spe
+ cial exhibit in our c. 1730 house museum: a silk flag flown by George Wash
+ ington’s RI Regiment\, a rare Huntington engraving of the Declaration of
+  Independence\, a map of the 1778 Battle of RI showing redoubts and troop 
+ movements\, a surveyor’s chart of Narragansett Bay and environs of July 
+ 1776\, Civil War uniforms\, and more! Guided tours of the house are held S
+ undays during the hours of 2-4:30 pm from June 7th to September 6th. There
+  is a small preservation donation for THS non-members. Email: TivertonHist
+ oricalSocy@tivertonhistorical.org with any questions\, find more contact i
+ nformation here.\n\nSource: https://www.visitrhodeisland.com/event/chace-c
+ ory-house-tours/111034/
+LOCATION:3908 Main Road\, Tiverton\, RI 02878 This season\, in honor of ou
+ r country’s semiquincentennial\, we have a special exhibit in our c. 173
+ 0 house museum: a silk flag flown by George Washington’s RI Regiment\, a
+  rare Huntington engraving of the Declaration of Independence\, a map of t
+ he 1778 Battle of RI showing redoubts and troop movements\, a surveyor’s
+  chart of Narragansett Bay and environs of July 1776\, Civil War uniforms\
+ , and more! Guided tours of the house are held Sundays during the hours of
+  2-4:30 pm from June 7th to September 6th. There is a small preservation d
+ onation for THS non-members. Email: TivertonHistoricalSocy@tivertonhistori
+ cal.org with any questions\, find more contact information here. Show More
+  View Website | Email 1 / 1 Additional Information\, 3908 Main Road\, Tive
+ rton\, RI 02878 Time: 2:00 PM to 4:30 PM
+URL:https://www.visitrhodeisland.com/event/chace-cory-house-tours/111034/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Rhode Island SeaFood Festival 2026
 DTSTART;VALUE=DATE:20260912
 DTEND;VALUE=DATE:20260913
-DTSTAMP:20260815T105516Z
+DTSTAMP:20260816T105456Z
 UID:7155b8a7bea276dc2235b2424899@visitri-calendar
 DESCRIPTION:Join us for the 16th annual Rhode Island Seafood Festival\, a 
  two-day extravaganza of the Ocean State’s best seafood\, live music and 
@@ -1294,7 +1307,7 @@ BEGIN:VEVENT
 SUMMARY:Rhode Island SeaFood Festival 2026
 DTSTART;VALUE=DATE:20260913
 DTEND;VALUE=DATE:20260914
-DTSTAMP:20260815T105516Z
+DTSTAMP:20260816T105456Z
 UID:724318b2396062bf2de4c6176658@visitri-calendar
 DESCRIPTION:Join us for the 16th annual Rhode Island Seafood Festival\, a 
  two-day extravaganza of the Ocean State’s best seafood\, live music and 
@@ -1333,7 +1346,7 @@ BEGIN:VEVENT
 SUMMARY:PVDFest 2026
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260919
-DTSTAMP:20260815T105516Z
+DTSTAMP:20260816T105456Z
 UID:2de49afd8f722627b9a1f5e00bb1@visitri-calendar
 DESCRIPTION:The People’s Festival for Arts\, Music\, and Culture Mayor B
  rett P. Smiley\, the City’s Department of Art\, Culture\, Tourism and Pr
@@ -1352,7 +1365,7 @@ BEGIN:VEVENT
 SUMMARY:Food Truck Concert Nights - Diamond Hill Park
 DTSTART;VALUE=DATE:20260919
 DTEND;VALUE=DATE:20260920
-DTSTAMP:20260815T105516Z
+DTSTAMP:20260816T105456Z
 UID:c61110f0d2ee251ab02333bed717@visitri-calendar
 DESCRIPTION:We return to Diamond Hill Park in Cumberland for another serie
  s of memorable events in 2026. Attendance is free\, just pay for what you 
@@ -1380,7 +1393,7 @@ BEGIN:VEVENT
 SUMMARY:PVDFest 2026
 DTSTART;VALUE=DATE:20260919
 DTEND;VALUE=DATE:20260920
-DTSTAMP:20260815T105516Z
+DTSTAMP:20260816T105456Z
 UID:553bda94539f69469073803099fb@visitri-calendar
 DESCRIPTION:The People’s Festival for Arts\, Music\, and Culture Mayor B
  rett P. Smiley\, the City’s Department of Art\, Culture\, Tourism and Pr
@@ -1396,10 +1409,54 @@ LOCATION:Downtown Providence\, Downtown Providence\, Providence\, RI 02903
 URL:https://www.visitrhodeisland.com/event/pvdfest-2026/104917/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Food Truck Picnic in the Park
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+DTSTAMP:20260816T105456Z
+UID:3641975894155e1b388121275066@visitri-calendar
+DESCRIPTION:It will be another amazing season of food trucks\, fun\, and c
+ ommunity in Capron Park in Attleboro. Event details and updates at https:/
+ /www.foodtrucksin.com/capronparkattleboro Attendance is free and tickets a
+ re not required\, just pay for what you eat and drink from over a dozen fo
+ od trucks accepting cash\, credit\, and debit cards. 💳💰 In addition 
+ to great food and fun vibes for all ages\, there will be live music from l
+ ocal bands at each event. 🎵🎵🎵 Make yourself at home on the lawn. 
+ Bring chairs\, and blankets. Create your perfect relaxation spot or bring 
+ lawn games for added fun and enjoy the evening with family and friends. Th
+ is event is made possible by The City of Attleboro and the Park Commission
+ \, The Samuel M. Stone and Ernest H. Augat Summer Concerts. Over a dozen F
+ ood trucks and live music in the flats of scenic Capron Park. 🚚🌮🍔
+  🚨Lot attendants will assist with parking. 🚫Smoking\, vaping and e-c
+ igarettes are prohibited.. 🚫Guests are not permitted to bring their own
+  coolers with alcohol. 🐾 Pets are not encouraged. 🌍 Let's care for o
+ ur environment together - please take recyclable items home with you.\n\nS
+ ource: https://www.visitrhodeisland.com/event/food-truck-picnic-in-the-par
+ k/110643/
+LOCATION:201 County St\, Attleboro\, MA 02703 Time: 4:00 PM to 8:00 PM 201
+  County St\, Attleboro\, MA 02703 OFFICIAL RHODE ISLAND TRAVEL GUIDE Get G
+ uide Get news from Visit Rhode Island in your inbox. Industry Partner Leis
+ ure Travel Sign Up Ratings Powered by Press Industry Travel Trade Meetings
+  & Conventions Contact Privacy Policy Sitemap Partner Portal SMS Privacy P
+ olicy SMS Terms & Conditions UGC Terms and Conditions Wedding Planning Pre
+ ss Photos Story Ideas Fun-Sized Rhode Island Rhode Island in the News Free
+  Travel Guide Contact Visit Rhode Island Industry Travel Trade Ideas & Iti
+ neraries Downton Abbey Lifestyle Rhode Island Foodways Hidden Gems Image L
+ ibrary Free Travel Guide Contact Visit Rhode Island Meetings & Conventions
+  Contact Privacy Policy Sitemap Partner Portal SMS Privacy Policy SMS Term
+ s & Conditions UGC Terms and Conditions Wedding Planning Weddings - Venues
+  Wedding - Catering Wedding - Cakes Wedding - Attire Wedding - Florists We
+ dding - Jewelers Wedding - Transportation © 2026 Rhode Island Commerce Co
+ rporation Special Offers Offers Here Looking to plan your next visit to Rh
+ ode Island\, check out some of the current special offers and enjoy saving
+ s\, extra perks and more! Offers Here
+URL:https://www.visitrhodeisland.com/event/food-truck-picnic-in-the-park/1
+ 10643/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Live Music by Logan Vale
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261018
-DTSTAMP:20260815T105516Z
+DTSTAMP:20260816T105456Z
 UID:2241186137b505cf7c814cd90b60@visitri-calendar
 DESCRIPTION:The music of Logan Vale! Dinner reservations required either o
  nline or call 401.861.3850 x. 3\n\nSource: https://www.visitrhodeisland.co
@@ -1410,10 +1467,79 @@ URL:https://www.visitrhodeisland.com/event/live-music-by-logan-vale/110313
  /
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Alger Mitchell at SALTwater Harborside Dining
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+DTSTAMP:20260816T105456Z
+UID:c8707a642277214ae36e5ea850d3@visitri-calendar
+DESCRIPTION:Alger Mitchell at SALTwater Harborside Dining Sundays from 4:0
+ 0 to 7:00 PM Alger Mitchell is a dynamic song stylist\, songwriter\, and v
+ ocalist\, delivering captivating performances with guitar and harmonica. B
+ oasting a remarkable repertoire of approximately 250 songs performed entir
+ ely from memory\, Alger's music is 100% live\, free of electronic enhancem
+ ents. His versatile setlist spans the timeless classics of The Great Ameri
+ can Songbook\, from Broadway to Hollywood\, alongside beloved jazz and pop
+  standards\, classic country\, oldies\, and his own original compositions.
+  With infectious energy\, his live performances invite optional dancing\, 
+ making it nearly impossible to resist moving to the music! Keep a smile on
+  your face and a song in your heart!\n\nSource: https://www.visitrhodeisla
+ nd.com/event/alger-mitchell-at-saltwater-harborside-dining/110157/
+LOCATION:Saltwater at The Newport Harbor Hotel & Marina\, 49 America's Cup
+  Avenue\, Newport\, RI 02840 Time: 4:00 PM to 7:00 PM 49 America's Cup Ave
+ nue\, Newport\, RI 02840 OFFICIAL RHODE ISLAND TRAVEL GUIDE Get Guide Get 
+ news from Visit Rhode Island in your inbox. Industry Partner Leisure Trave
+ l Sign Up Ratings Powered by Press Industry Travel Trade Meetings & Conven
+ tions Contact Privacy Policy Sitemap Partner Portal SMS Privacy Policy SMS
+  Terms & Conditions UGC Terms and Conditions Wedding Planning Press Photos
+  Story Ideas Fun-Sized Rhode Island Rhode Island in the News Free Travel G
+ uide Contact Visit Rhode Island Industry Travel Trade Ideas & Itineraries 
+ Downton Abbey Lifestyle Rhode Island Foodways Hidden Gems Image Library Fr
+ ee Travel Guide Contact Visit Rhode Island Meetings & Conventions Contact 
+ Privacy Policy Sitemap Partner Portal SMS Privacy Policy SMS Terms & Condi
+ tions UGC Terms and Conditions Wedding Planning Weddings - Venues Wedding 
+ - Catering Wedding - Cakes Wedding - Attire Wedding - Florists Wedding - J
+ ewelers Wedding - Transportation © 2026 Rhode Island Commerce Corporation
+  Special Offers Offers Here Looking to plan your next visit to Rhode Islan
+ d\, check out some of the current special offers and enjoy savings\, extra
+  perks and more! Offers Here
+URL:https://www.visitrhodeisland.com/event/alger-mitchell-at-saltwater-har
+ borside-dining/110157/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Coastal Cruisers - The Golden Hour
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+DTSTAMP:20260816T105456Z
+UID:a33f7731698b5451e05ba44e42fd@visitri-calendar
+DESCRIPTION:Experience the Island in our Coastal Cruisers\, Newport’s pr
+ ivate chauffeured luxury tour\, dedicated to providing a sophisticated way
+  to experience our beloved island. We blend elegance\, fun &amp\; storytel
+ ling into a bespoke tour of Newport. For us\, it is about fostering experi
+ ences that create lasting memorable moments. From chasing golden sunsets t
+ o experiencing salty-breeze adventures\, Coastal Cruisers treats every tou
+ r as an opportunity to provide exceptional service &amp\; a personal conne
+ ction that lasts well beyond the journey. Offer 3 tour options and hourly 
+ bookings. Tour Option: The Golden Hour A private\, bespoke guided excursio
+ n designed to highlight Newport's most magnificent sunset vistas. This dis
+ tinctive experience is meticulously orchestrated\, ensuring optimal positi
+ oning at prime viewing locations for capturing striking photographs &amp\;
+  securing a truly memorable occasion. Your experienced guide will navigate
+  picturesque coastal thoroughfares and Newport's charming bridge view neig
+ hborhoods\, making stops at both lesser-known vantage points &amp\; renown
+ ed landmarks celebrated for their exceptional 'golden hour' illumination &
+ amp\; sweeping ocean panoramas. 7:00 PM Tour (75 minutes) $150 per person 
+ Available: Daily\, May 1 - December 31\, 2026 (Unavailable May 23 and May 
+ 31)\n\nSource: https://www.visitrhodeisland.com/event/coastal-cruisers-the
+ -golden-hour/109827/
+LOCATION:Coastal Cruisers\, 478 Thames Street\, Newport\, RI 02840
+URL:https://www.visitrhodeisland.com/event/coastal-cruisers-the-golden-hou
+ r/109827/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Beyond the Brewhouse Tour
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
-DTSTAMP:20260815T105516Z
+DTSTAMP:20260816T105456Z
 UID:c7b48636db9ede5f5acbbb263d31@visitri-calendar
 DESCRIPTION:Beyond the Brewhouse Where: Newport Craft Brewing and Distilli
  ng\, 293 JT Connell Road\, Newport 45 minutes: $20 per person Did you know
