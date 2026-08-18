@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:$15 Moonshine Flights & Moonshine Tasting
 DTSTART;VALUE=DATE:20250615
 DTEND;VALUE=DATE:20250616
-DTSTAMP:20260817T110100Z
+DTSTAMP:20260818T110002Z
 UID:b6432d870f2c0958f26453a40d59@visitri-calendar
 DESCRIPTION:Try a Moonshine Flight tasting at Moonshine Alley! Moonshine F
  lights are available daily for just $15! We have over 13 flavors to choose
@@ -20,26 +20,37 @@ URL:https://www.visitrhodeisland.com/event/%2415-moonshine-flights-%26-moo
  nshine-tasting/105663/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Children's Weekly Storytime
-DTSTART;VALUE=DATE:20260330
-DTEND;VALUE=DATE:20260331
-DTSTAMP:20260817T110100Z
-UID:6a42c90422362e83701e98f899c2@visitri-calendar
-DESCRIPTION:Children's Storytime Join Elizabeth as she hosts storytime on 
- Monday mornings at 10:30 AM. Every Monday\, Elizabeth will chose a book co
- rrelating with the season or holiday. All children and their families are 
- welcome to join!\n\nSource: https://www.visitrhodeisland.com/event/childre
- ns-weekly-storytime/109524/
-LOCATION:Charter Books\, 8 Broadway\, Newport\, RI 02840 Time: 10:30 AM to
-  11:00 AM
-URL:https://www.visitrhodeisland.com/event/childrens-weekly-storytime/1095
- 24/
+SUMMARY:History Happy Hour
+DTSTART;VALUE=DATE:20260317
+DTEND;VALUE=DATE:20260318
+DTSTAMP:20260818T110002Z
+UID:011b69fdfdfcd28ebab85b638082@visitri-calendar
+DESCRIPTION:History Happy Hour with Newport Historical Society Every third
+  Tuesday of the Month | 4:00 to 7:00 PM Richard I. Burnham Resource Center
+  | 82 Touro Street\, Newport\, RI Free with any Donation Join us for an ev
+ ening at the NHS’ current exhibition\, “OCCUPIED! Newport and the Figh
+ t for Independence” History Happy Hour is Social Hour at the NHS\, bring
+  your friends\, family and all of your questions! Visit our new exhibit du
+ ring evening hours\, enjoy a drink\, and chat with other guests and staff 
+ about Newport’s role in the Revolutionary War. Extended evening hours oc
+ cur every third Tuesday of the month from 4:00 to 7:00 PM for guests to ex
+ plore the exhibition after normal business hours. ✨All guests who make a
+  $10.00 donation or more to the Newport Historical Society will receive a 
+ free drink✨ Sign up to attend at NewportHistoryTours.org/Calendar Histor
+ y Happy Hour Schedule: March 17th\, 2026 April 21st\, 2026 May 19th\, 2026
+  June 16th\, 2026 July 21st\, 2026 August 18th\, 2026 September 15th\, 202
+ 6 October 20th\, 2026 November 17th\, 2026 December 15th\, 2026 *All dates
+  are subject to change or cancellation.\n\nSource: https://www.visitrhodei
+ sland.com/event/history-happy-hour/109650/
+LOCATION:Richard I. Burnham Resource Center\, 82 Touro Street\, Newport\, 
+ RI 02840 Time: 4:00 PM to 7:00 PM
+URL:https://www.visitrhodeisland.com/event/history-happy-hour/109650/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Coastal Cruisers - The Golden Hour
 DTSTART;VALUE=DATE:20260501
 DTEND;VALUE=DATE:20260502
-DTSTAMP:20260817T110100Z
+DTSTAMP:20260818T110002Z
 UID:9f3864060ce7679e35293700f37c@visitri-calendar
 DESCRIPTION:Experience the Island in our Coastal Cruisers\, Newport’s pr
  ivate chauffeured luxury tour\, dedicated to providing a sophisticated way
@@ -69,7 +80,7 @@ BEGIN:VEVENT
 SUMMARY:Beyond the Brewhouse Tour
 DTSTART;VALUE=DATE:20260515
 DTEND;VALUE=DATE:20260516
-DTSTAMP:20260817T110100Z
+DTSTAMP:20260818T110002Z
 UID:acc9d8e1d1bdab34c6766b602473@visitri-calendar
 DESCRIPTION:Beyond the Brewhouse Where: Newport Craft Brewing and Distilli
  ng\, 293 JT Connell Road\, Newport 45 minutes: $20 per person Did you know
@@ -85,34 +96,47 @@ URL:https://www.visitrhodeisland.com/event/beyond-the-brewhouse-tour/11015
  3/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Bruce Jacques Show at One Pelham East
-DTSTART;VALUE=DATE:20260525
-DTEND;VALUE=DATE:20260526
-DTSTAMP:20260817T110100Z
-UID:1a094f507695de921be36457a8f9@visitri-calendar
-DESCRIPTION:Bruce Jacques Show at One Pelham East When: Every Monday from 
- 9:00 PM to 12:00 AM (May 25 - August 25\, 2026) Where: 1 Pelham East\, New
- port\, RI 02840 Bruce incorporates comedy spoofs of artists such as Queen\
- , Beyonce\, Guns and Roses\, Britney Spears\, Elvis\, and many more. His r
- epertoire is a mix of songs everyone knows by heart from the sixties to to
- day’s top hits. He also involves the audience with a six foot L.E.D. lig
- ht board that displays the words for sing-a-longs. Bruce's ability to conn
- ect with audiences of all ages and in all types of settings is something t
- hat comes only with years of experience. He also possesses the natural abi
- lity to make people feel comfortable - to make them laugh\, sing\, and dan
- ce. Bruce's experience includes over three decades of private parties\, co
- rporate functions\, colleges\, nightclubs and resorts. Bruce has several l
- ong-standing gigs including:\n\nSource: https://www.visitrhodeisland.com/e
- vent/bruce-jacques-show-at-one-pelham-east/110092/
-LOCATION:1 Pelham East\, 270 Thames Street\, Newport\, RI 02840
-URL:https://www.visitrhodeisland.com/event/bruce-jacques-show-at-one-pelha
- m-east/110092/
+SUMMARY:Craft on the Lawn at Newport Art Museum
+DTSTART;VALUE=DATE:20260602
+DTEND;VALUE=DATE:20260603
+DTSTAMP:20260818T110002Z
+UID:8b179e3791a824c644510af79c1a@visitri-calendar
+DESCRIPTION:Craft Club on the Lawn Location: Newport Art Museum\, 76 Belle
+ vue Avenue\, Newport When: Weekly on Tuesdays\, June 2 - September 29\, 20
+ 26 from 5:00 to 7:00 PM Cost: $10 per person Teaching Artist: Keelin Malon
+ ey Join The Nest and the Newport Art Museum for Craft Club on the Lawn- a 
+ weekly summer gathering for makers of all kinds. Bring your knitting\, ske
+ tchbook\, embroidery\, collage\, crochet\, or any creative project and spe
+ nd the evening crafting in community on the museum lawn. Meet fellow creat
+ ives\, soak up inspiration\, and create alongside others every Tuesday fro
+ m 5:00 to 7:00 PM all summer long. Hosted by fiber artist\, Keelin Maloney
+ . Sliding scale donation. All crafts welcome. Pay in person. Location and 
+ Parking Craft Club will be held on the Griswold Lawn at 76 Bellevue Avenue
+ . Please park in our Museum parking lots or along Liberty Street.\n\nSourc
+ e: https://www.visitrhodeisland.com/event/craft-on-the-lawn-at-newport-art
+ -museum/111285/
+LOCATION:Newport Art Museum\, 76 Bellevue Avenue\, Newport When: Weekly on
+  Tuesdays\, June 2 - September 29\, 2026 from 5:00 to 7:00 PM Cost: $10 pe
+ r person Teaching Artist: Keelin Maloney Join The Nest and the Newport Art
+  Museum for Craft Club on the Lawn- a weekly summer gathering for makers o
+ f all kinds. Bring your knitting\, sketchbook\, embroidery\, collage\, cro
+ chet\, or any creative project and spend the evening crafting in community
+  on the museum lawn. Meet fellow creatives\, soak up inspiration\, and cre
+ ate alongside others every Tuesday from 5:00 to 7:00 PM all summer long. H
+ osted by fiber artist\, Keelin Maloney . Sliding scale donation. All craft
+ s welcome. Pay in person. Location and Parking Craft Club will be held on 
+ the Griswold Lawn at 76 Bellevue Avenue. Please park in our Museum parking
+  lots or along Liberty Street. Show More View Website 1 / 1 Additional Inf
+ ormation\, 76 Bellevue Avenue\, Newport\, RI 02840 Time: 5:00 PM to 7:00 P
+ M
+URL:https://www.visitrhodeisland.com/event/craft-on-the-lawn-at-newport-ar
+ t-museum/111285/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Music at Sunset: Concert Series 2026
 DTSTART;VALUE=DATE:20260603
 DTEND;VALUE=DATE:20260604
-DTSTAMP:20260817T110100Z
+DTSTAMP:20260818T110002Z
 UID:87bda7b48d099d40defa3f7e711b@visitri-calendar
 DESCRIPTION:Music at Sunset: Concert Series 2026 Wednesdays | June 3 &#821
  1\; August 26 Music from 6:00 &#8211\; 8:00 PM\, Parking and Check-in open
@@ -162,7 +186,7 @@ BEGIN:VEVENT
 SUMMARY:Free Summer Concert Series at Ragged Island
 DTSTART;VALUE=DATE:20260624
 DTEND;VALUE=DATE:20260625
-DTSTAMP:20260817T110100Z
+DTSTAMP:20260818T110002Z
 UID:1c212ee8000d851f7b6e4ea8f143@visitri-calendar
 DESCRIPTION:Announcing Ragged Island's Free 2026 Summer Concert Series Rag
  ged Island has nine awesome bands lined up for Wednesday nights in July an
@@ -191,29 +215,10 @@ URL:https://www.visitrhodeisland.com/event/free-summer-concert-series-at-r
  agged-island/110447/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Live Music Mondays at Safari Room
-DTSTART;VALUE=DATE:20260629
-DTEND;VALUE=DATE:20260630
-DTSTAMP:20260817T110100Z
-UID:9594ab0ed491a84ea53684243e84@visitri-calendar
-DESCRIPTION:Music Mondays are here! Join us on the Safari Room patio and l
- awn every Monday all summer long for our Live Music Series. Settle into an
-  Adirondack chair\, enjoy a glass of wine\, and savor light bites as you t
- ake in coastal views\, great music\, and relaxed midweek vibes. Our featur
- ed rotation includes: Winelight: Playing the best of Jazz and Rhythm &amp\
- ; Blues\, starting Monday\, June 29th Brian Scott: Solo acoustic guitar pl
- aying classic and Modern Rock\, starting Monday\, July 6th\n\nSource: http
- s://www.visitrhodeisland.com/event/live-music-mondays-at-safari-room/11090
- 5/
-LOCATION:OceanCliff\, 65 Ridge Road\, Newport\, RI 02840
-URL:https://www.visitrhodeisland.com/event/live-music-mondays-at-safari-ro
- om/110905/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Hope & Main Makers Markets: Summer Series
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260702
-DTSTAMP:20260817T110100Z
+DTSTAMP:20260818T110002Z
 UID:a4c76656bb4dd2f560a21d25ca37@visitri-calendar
 DESCRIPTION:Developed by the operators of Hope &amp\; Main in Warren\, the
   Schoolyard Market helps locally-based food and beverage businesses start 
@@ -232,10 +237,46 @@ URL:https://www.visitrhodeisland.com/event/hope-%26-main-makers-markets%3a
  -summer-series/109931/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Food Truck Tuesdays & Taproom Music at Ragged Island Brewing
+DTSTART;VALUE=DATE:20260707
+DTEND;VALUE=DATE:20260708
+DTSTAMP:20260818T110002Z
+UID:08efa32677d1f6c0e8d3ffd568e4@visitri-calendar
+DESCRIPTION:Food Truck Tuesdays at Ragged Island Brewing What's better tha
+ n a week night full of good food and live music? 2026 Schedule July 7: Foo
+ d Truck Tuesday Newport Sushi Co\, W’s Wood Fire Pizza\, California Taco
+  Truck\, Little Fish\, Tolia\, Rhode Rage\, and Mad Good Cookie 4:00 &#821
+ 1\; 8:00 PM Live Music in the taproom: Dave Alves 5:00 &#8211\; 8:00 PM Ju
+ ly 14: Food Truck Tuesday Newport Sushi Co.\, Farm to Sandwich\, W’s Woo
+ d Fire Pizza\, California Taco Truck\, Little Fish\, Hometown Poke\, Rhode
+  Rage\, Mad Good Cookies 4:00 &#8211\; 8:00 PM Live Music in the taproom: 
+ Steve Demers 5:00 &#8211\; 8:00 PM July 21: Food Truck Tuesday Newport Sus
+ hi Co.\, Farm to Sandwich\, W’s Wood Fired Pizza\, California Taco Truck
+ \, Mad Good Cookies 4:00 &#8211\; 8:00 PM Live Music in the taproom: Bob T
+ omassone 5:00 &#8211\; 8:00 PM July 28: Food Truck Tuesday W’s Wood Fire
+  Pizza\, California Taco Truck\, Tolia\, Mad Good Cookies 4:00 &#8211\; 8:
+ 00 PM Live Music in the taproom: Lauren King 5:00 &#8211\; 8:00 PM August 
+ 4: Food Truck Tuesday Newport Sushi Co\, Teddi’s\, Farm to Sandwich\, W
+ ’s Pizza\, Cali Taco\, Tolia\, Rhode Rage\, Mad Good Cookies 4:00 &#8211
+ \; 8:00 PM Live Music in the taproom: Ian Botha 5:00 &#8211\; 8:00 PM Augu
+ st 11: Food Truck Tuesday W’s Pizza\, Cali Taco\, Hometown Poke\, Mad Go
+ od Cookies 4:00 &#8211\; 8:00 PM Live Music in the taproom: Chris &amp\; D
+ iane Myers 5:00 &#8211\; 8:00 PM August 18: Food Truck Tuesday Newport Sus
+ hi Co\,Teddi’s\, Farm to Sandwich\, W’s Pizza\, California Taco Truck\
+ , Little Fish\, Tolia\, Rhode Rage\, Mad Good Cookies 4:00 &#8211\; 8:00 P
+ M Live Music in the taproom: Steve Demers 5:00 &#8211\; 8:00 PM\n\nSource:
+  https://www.visitrhodeisland.com/event/food-truck-tuesdays-%26-taproom-mu
+ sic-at-ragged-island-brewing/110449/
+LOCATION:Ragged Island Brewing Company\, 54 Bristol Ferry Road\, Portsmout
+ h\, RI 02871 Time: 4:00 PM to 8:00 PM
+URL:https://www.visitrhodeisland.com/event/food-truck-tuesdays-%26-taproom
+ -music-at-ragged-island-brewing/110449/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Field of Artisans at the Beach
 DTSTART;VALUE=DATE:20260711
 DTEND;VALUE=DATE:20260712
-DTSTAMP:20260817T110100Z
+DTSTAMP:20260818T110002Z
 UID:7ebe1a9998bbb563181c86657159@visitri-calendar
 DESCRIPTION:Join Field of Artisans on Saturdays this summer for the 11th y
  ear of bringing creativity to this beautiful location! Artists will displa
@@ -252,7 +293,7 @@ BEGIN:VEVENT
 SUMMARY:$15 Moonshine Flights & Moonshine Tasting
 DTSTART;VALUE=DATE:20260721
 DTEND;VALUE=DATE:20260722
-DTSTAMP:20260817T110100Z
+DTSTAMP:20260818T110002Z
 UID:6ac059c408c431eceb1c3c855c19@visitri-calendar
 DESCRIPTION:Try a Moonshine Flight tasting at Moonshine Alley! Moonshine F
  lights are available daily for just $15! We have over 13 flavors to choose
@@ -268,7 +309,7 @@ BEGIN:VEVENT
 SUMMARY:Half Price Tacos and House Margs at Yellow Door Taqueria!
 DTSTART;VALUE=DATE:20260731
 DTEND;VALUE=DATE:20260801
-DTSTAMP:20260817T110100Z
+DTSTAMP:20260818T110002Z
 UID:e0d95b06c7be4290562a81ad7ad5@visitri-calendar
 DESCRIPTION:Join us EVERY DAY at Yellow Door Taqueria from 3-6 PM at the b
  ar for half price select tacos and house margaritas! It's the perfect way 
@@ -283,35 +324,10 @@ URL:https://www.visitrhodeisland.com/event/half-price-tacos-and-house-marg
  s-at-yellow-door-taqueria!/111221/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Life on the Avenue: Immigration\, Protest\, and Triumph on Federal
-  Hill
-DTSTART;VALUE=DATE:20260807
-DTEND;VALUE=DATE:20260808
-DTSTAMP:20260817T110100Z
-UID:72f32ec3c7ddaf31a0c995ce585b@visitri-calendar
-DESCRIPTION:Life on the Avenue: Immigration\, Protest\, and Triumph on Fed
- eral Hill is a powerful\, story-driven walking tour that goes beyond the n
- eighborhood’s celebrated food scene to uncover the journey for belonging
-  that shaped it. As you explore one of Providence’s most iconic district
- s\, you’ll trace the journeys of Indigenous communities\, Irish and Ital
- ian immigrants\, and modern newcomers—each group navigating hardship\, d
- iscrimination\, and resilience in their fight to call this place home. Alo
- ng the way\, you’ll stand where protests erupted\, revolutions nearly ig
- nited\, and everyday people carved out lives against the odds. Blending ri
- ch storytelling with local flavor and insider food recommendations\, this 
- experience reveals Federal Hill not just as a destination—but as a battl
- eground where identity\, power\, and community have been contested for gen
- erations.\n\nSource: https://www.visitrhodeisland.com/event/life-on-the-av
- enue%3a-immigration-protest-and-triumph-on-federal-hill/111313/
-LOCATION:Garibaldi Square\, 99 Atwells Avenue\, Providence\, RI 02903
-URL:https://www.visitrhodeisland.com/event/life-on-the-avenue%3a-immigrati
- on-protest-and-triumph-on-federal-hill/111313/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Live Music by Logan Vale
 DTSTART;VALUE=DATE:20260815
 DTEND;VALUE=DATE:20260816
-DTSTAMP:20260817T110100Z
+DTSTAMP:20260818T110002Z
 UID:83f1c7264b84148bcd597ec3aec6@visitri-calendar
 DESCRIPTION:The music of Logan Vale! Dinner reservations required either o
  nline or call 401.861.3850 x. 3\n\nSource: https://www.visitrhodeisland.co
@@ -322,11 +338,49 @@ URL:https://www.visitrhodeisland.com/event/live-music-by-logan-vale/110313
  /
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:A Taste of North Kingstown
+DTSTART;VALUE=DATE:20260818
+DTEND;VALUE=DATE:20260819
+DTSTAMP:20260818T110002Z
+UID:8040e45b3ab60650cfe56ff8a28c@visitri-calendar
+DESCRIPTION:This signature celebration brings together North Kingstown's f
+ inest restaurants\, caterers\, bakeries\, beverage providers\, food artisa
+ ns\, and culinary businesses for an evening dedicated to great food\, loca
+ l business\, and community engagement. Guests will have the opportunity to
+  sample a wide variety of flavors\, discover new favorites\, and connect w
+ ith the people and businesses that make North Kingstown a vibrant place to
+  live\, work\, and visit. Taste of NK is more than a food event—it's a g
+ athering of residents\, business leaders\, community partners\, elected of
+ ficials\, and visitors from throughout the region. It serves as a platform
+  for local businesses to showcase their offerings\, build meaningful relat
+ ionships\, and strengthen their presence within the community.\n\nSource: 
+ https://www.visitrhodeisland.com/event/a-taste-of-north-kingstown/111357/
+LOCATION:Quidnesset Country Club\, 950 North Quidnesset Road\, North Kings
+ town\, RI 02852 950 North Quidnesset Road\, North Kingstown\, RI 02852 OFF
+ ICIAL RHODE ISLAND TRAVEL GUIDE Get Guide Get news from Visit Rhode Island
+  in your inbox. Industry Partner Leisure Travel Sign Up Ratings Powered by
+  Press Industry Travel Trade Meetings & Conventions Contact Privacy Policy
+  Sitemap Partner Portal SMS Privacy Policy SMS Terms & Conditions UGC Term
+ s and Conditions Wedding Planning Press Photos Story Ideas Fun-Sized Rhode
+  Island Rhode Island in the News Free Travel Guide Contact Visit Rhode Isl
+ and Industry Travel Trade Ideas & Itineraries Downton Abbey Lifestyle Rhod
+ e Island Foodways Hidden Gems Image Library Free Travel Guide Contact Visi
+ t Rhode Island Meetings & Conventions Contact Privacy Policy Sitemap Partn
+ er Portal SMS Privacy Policy SMS Terms & Conditions UGC Terms and Conditio
+ ns Wedding Planning Weddings - Venues Wedding - Catering Wedding - Cakes W
+ edding - Attire Wedding - Florists Wedding - Jewelers Wedding - Transporta
+ tion © 2026 Rhode Island Commerce Corporation Special Offers Offers Here 
+ Looking to plan your next visit to Rhode Island\, check out some of the cu
+ rrent special offers and enjoy savings\, extra perks and more! Offers Here
+URL:https://www.visitrhodeisland.com/event/a-taste-of-north-kingstown/1113
+ 57/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Blithewold Annual Family Clambake
-DTSTART;VALUE=DATE:20260817
-DTEND;VALUE=DATE:20260818
-DTSTAMP:20260817T110100Z
-UID:da97ce737b29fc719edb7fa20e49@visitri-calendar
+DTSTART;VALUE=DATE:20260818
+DTEND;VALUE=DATE:20260819
+DTSTAMP:20260818T110002Z
+UID:e3e8e77cdc6a43d2ff90d59e58e4@visitri-calendar
 DESCRIPTION:Blithewold Annual Family Clambake Thursday | August 27 5:00 &#
  8211\; 8:00 PM Location: Event Tent The Great Lawn has been the scene of f
  amily clambakes for over a century! Step back in time and stroll the garde
@@ -381,10 +435,10 @@ URL:https://www.visitrhodeisland.com/event/blithewold-annual-family-clamba
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Brew at the Zoo
-DTSTART;VALUE=DATE:20260817
-DTEND;VALUE=DATE:20260818
-DTSTAMP:20260817T110100Z
-UID:3f79674d3f7eab516b92065d3b8c@visitri-calendar
+DTSTART;VALUE=DATE:20260818
+DTEND;VALUE=DATE:20260819
+DTSTAMP:20260818T110002Z
+UID:b6e56d197dfdacd060af969696a7@visitri-calendar
 DESCRIPTION:Tap into your wild side at Brew at the Zoo on Saturday\, Augus
  t 29th\, an adults-only evening event\, and sample hundreds of beers\, har
  d seltzers\, wines and ready-to-drink cocktails from dozens of local\, reg
@@ -401,25 +455,96 @@ LOCATION:Roger Williams Park Zoo & Carousel Village\, 1000 Elmwood Avenue\
 URL:https://www.visitrhodeisland.com/event/brew-at-the-zoo/110973/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Evening Cruise with the band "To Be Continued"
+DTSTART;VALUE=DATE:20260818
+DTEND;VALUE=DATE:20260819
+DTSTAMP:20260818T110002Z
+UID:49e396a12ad4663182c294e3a147@visitri-calendar
+DESCRIPTION:Enjoy an evening cruise aboard the Coastal Queen featuring the
+  To Be Continued Band. The band performs a mix of country\, country rock\,
+  folk\, and Americana music—ranging from original songs to traditional t
+ unes and well-loved covers. Sit back\, relax\, and sip a summer beverage f
+ rom the Coastal Queen’s bar while taking in scenic views of the Jamestow
+ n coastline and Newport Harbor. This 90-minute cruise departs at 6:30 PM f
+ rom 1 East Ferry Wharf in Jamestown.\n\nSource: https://www.visitrhodeisla
+ nd.com/event/evening-cruise-with-the-band-to-be-continued/110441/
+LOCATION:Coastal Queen Cruises\, Events From Jamestown\, 1 East Ferry Whar
+ f\, Jamestown\, RI 02835
+URL:https://www.visitrhodeisland.com/event/evening-cruise-with-the-band-to
+ -be-continued/110441/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Food Truck Tuesdays & Taproom Music at Ragged Island Brewing
+DTSTART;VALUE=DATE:20260818
+DTEND;VALUE=DATE:20260819
+DTSTAMP:20260818T110002Z
+UID:6e38843b84dc3cc904a918dd0a05@visitri-calendar
+DESCRIPTION:Food Truck Tuesdays at Ragged Island Brewing What's better tha
+ n a week night full of good food and live music? 2026 Schedule July 7: Foo
+ d Truck Tuesday Newport Sushi Co\, W’s Wood Fire Pizza\, California Taco
+  Truck\, Little Fish\, Tolia\, Rhode Rage\, and Mad Good Cookie 4:00 &#821
+ 1\; 8:00 PM Live Music in the taproom: Dave Alves 5:00 &#8211\; 8:00 PM Ju
+ ly 14: Food Truck Tuesday Newport Sushi Co.\, Farm to Sandwich\, W’s Woo
+ d Fire Pizza\, California Taco Truck\, Little Fish\, Hometown Poke\, Rhode
+  Rage\, Mad Good Cookies 4:00 &#8211\; 8:00 PM Live Music in the taproom: 
+ Steve Demers 5:00 &#8211\; 8:00 PM July 21: Food Truck Tuesday Newport Sus
+ hi Co.\, Farm to Sandwich\, W’s Wood Fired Pizza\, California Taco Truck
+ \, Mad Good Cookies 4:00 &#8211\; 8:00 PM Live Music in the taproom: Bob T
+ omassone 5:00 &#8211\; 8:00 PM July 28: Food Truck Tuesday W’s Wood Fire
+  Pizza\, California Taco Truck\, Tolia\, Mad Good Cookies 4:00 &#8211\; 8:
+ 00 PM Live Music in the taproom: Lauren King 5:00 &#8211\; 8:00 PM August 
+ 4: Food Truck Tuesday Newport Sushi Co\, Teddi’s\, Farm to Sandwich\, W
+ ’s Pizza\, Cali Taco\, Tolia\, Rhode Rage\, Mad Good Cookies 4:00 &#8211
+ \; 8:00 PM Live Music in the taproom: Ian Botha 5:00 &#8211\; 8:00 PM Augu
+ st 11: Food Truck Tuesday W’s Pizza\, Cali Taco\, Hometown Poke\, Mad Go
+ od Cookies 4:00 &#8211\; 8:00 PM Live Music in the taproom: Chris &amp\; D
+ iane Myers 5:00 &#8211\; 8:00 PM August 18: Food Truck Tuesday Newport Sus
+ hi Co\,Teddi’s\, Farm to Sandwich\, W’s Pizza\, California Taco Truck\
+ , Little Fish\, Tolia\, Rhode Rage\, Mad Good Cookies 4:00 &#8211\; 8:00 P
+ M Live Music in the taproom: Steve Demers 5:00 &#8211\; 8:00 PM\n\nSource:
+  https://www.visitrhodeisland.com/event/food-truck-tuesdays-%26-taproom-mu
+ sic-at-ragged-island-brewing/110449/
+LOCATION:Ragged Island Brewing Company\, 54 Bristol Ferry Road\, Portsmout
+ h\, RI 02871 Time: 4:00 PM to 8:00 PM
+URL:https://www.visitrhodeisland.com/event/food-truck-tuesdays-%26-taproom
+ -music-at-ragged-island-brewing/110449/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:General Stanton Inn Blues Music Festival
-DTSTART;VALUE=DATE:20260817
-DTEND;VALUE=DATE:20260818
-DTSTAMP:20260817T110100Z
-UID:e41a67a76f0d1a7db17a540ec6ff@visitri-calendar
+DTSTART;VALUE=DATE:20260818
+DTEND;VALUE=DATE:20260819
+DTSTAMP:20260818T110002Z
+UID:327762ec167791db79711d551577@visitri-calendar
 DESCRIPTION:Top Rhode Island blues music artists perform under the Stanton
   tent\, bbq\, beer\, seafood\, bourbon and more. Bring a lawn chair.\n\nSo
  urce: https://www.visitrhodeisland.com/event/general-stanton-inn-blues-mus
  ic-festival/109332/
 LOCATION:General Stanton Inn\, 4115 Old Post Road\, Charlestown\, RI 02813
+  4115 Old Post Road\, Charlestown\, RI 02813 OFFICIAL RHODE ISLAND TRAVEL 
+ GUIDE Get Guide Get news from Visit Rhode Island in your inbox. Industry P
+ artner Leisure Travel Sign Up Ratings Powered by Press Industry Travel Tra
+ de Meetings & Conventions Contact Privacy Policy Sitemap Partner Portal SM
+ S Privacy Policy SMS Terms & Conditions UGC Terms and Conditions Wedding P
+ lanning Press Photos Story Ideas Fun-Sized Rhode Island Rhode Island in th
+ e News Free Travel Guide Contact Visit Rhode Island Industry Travel Trade 
+ Ideas & Itineraries Downton Abbey Lifestyle Rhode Island Foodways Hidden G
+ ems Image Library Free Travel Guide Contact Visit Rhode Island Meetings & 
+ Conventions Contact Privacy Policy Sitemap Partner Portal SMS Privacy Poli
+ cy SMS Terms & Conditions UGC Terms and Conditions Wedding Planning Weddin
+ gs - Venues Wedding - Catering Wedding - Cakes Wedding - Attire Wedding - 
+ Florists Wedding - Jewelers Wedding - Transportation © 2026 Rhode Island 
+ Commerce Corporation Special Offers Offers Here Looking to plan your next 
+ visit to Rhode Island\, check out some of the current special offers and e
+ njoy savings\, extra perks and more! Offers Here
 URL:https://www.visitrhodeisland.com/event/general-stanton-inn-blues-music
  -festival/109332/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Jacob Hackworth Live at Moonshine Alley!
-DTSTART;VALUE=DATE:20260817
-DTEND;VALUE=DATE:20260818
-DTSTAMP:20260817T110100Z
-UID:807ba620aeb1afad35e46ef5523f@visitri-calendar
+DTSTART;VALUE=DATE:20260818
+DTEND;VALUE=DATE:20260819
+DTSTAMP:20260818T110002Z
+UID:eab1edc6c708b8fd0c094e5a460d@visitri-calendar
 DESCRIPTION:ON SALE NOW Cat Country 98.1 presents Jacob Hackworth LIVE at 
  Moonshine Alley on Tuesday\, August 25th! MCA Records &amp\; Nashville sin
  ger and songwriter Jacob Hackworth is coming to Providence for one night o
@@ -437,12 +562,29 @@ URL:https://www.visitrhodeisland.com/event/jacob-hackworth-live-at-moonshi
  ne-alley!/111051/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Music at the Museum
+DTSTART;VALUE=DATE:20260818
+DTEND;VALUE=DATE:20260819
+DTSTAMP:20260818T110002Z
+UID:53b876e6dc2296c8c156cc799311@visitri-calendar
+DESCRIPTION:Music at the Museum is returning to South County Museum! Enjoy
+  live music from Rhode to Bali and Bee and the Boys! The museum will be op
+ en to tour\, so come visit the craft barns and Metz exhibition hall! This 
+ is a picnic-style family event\, so bring some food\, chairs\, and a picni
+ c blanket. Beer and wine will be available for purchase. All purchases and
+  tickets will directly support museum programming.\n\nSource: https://www.
+ visitrhodeisland.com/event/music-at-the-museum/111317/
+LOCATION:South County Museum\, 115 Strathmore Street\, Narragansett\, RI 0
+ 2882 Time: 5:00 PM to 8:00 PM
+URL:https://www.visitrhodeisland.com/event/music-at-the-museum/111317/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:NIMFest: Groove Merchants w/ Olivia Nied | Live\, Outdoor Music at
   King Park
-DTSTART;VALUE=DATE:20260817
-DTEND;VALUE=DATE:20260818
-DTSTAMP:20260817T110100Z
-UID:72882626ab294c3a2660403fc8ef@visitri-calendar
+DTSTART;VALUE=DATE:20260818
+DTEND;VALUE=DATE:20260819
+DTSTAMP:20260818T110002Z
+UID:93d0d4e1ef1f1a5d19edd82e545a@visitri-calendar
 DESCRIPTION:NIMFest (Newport Independent Music Festival) comes to you live
   from the King Park Gazebo at 125 Wellington Ave in Newport. This FREE\, w
  eekly concert series runs every Sunday in July and August from 3:00-6:00PM
@@ -457,51 +599,87 @@ URL:https://www.visitrhodeisland.com/event/nimfest%3a-groove-merchants-w-o
  livia-nied-%7c-live-outdoor-music-at-king-park/109909/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Puerto Rican Festival
-DTSTART;VALUE=DATE:20260817
-DTEND;VALUE=DATE:20260818
-DTSTAMP:20260817T110100Z
-UID:4eec624256634a677d976e68b65e@visitri-calendar
-DESCRIPTION:We are proud to announce the Puerto Rican Festival in Woonsock
- et\, a vibrant cultural celebration set to take place [August 29\, 2026] a
- t [River Island Park\, Woonsocket\, RI]. This landmark event will bring to
- gether families\, community leaders\, local businesses\, and visitors from
-  across Rhode Island and beyond for a day filled with music\, dance\, auth
- entic cuisine\, and cultural pride. Our mission is to redefine the bakery 
- experience in Woonsocket by bringing traditional Puerto Rican Sweets and D
- esserts.\n\nSource: https://www.visitrhodeisland.com/event/puerto-rican-fe
- stival/109367/
-LOCATION:River Island Art Park\, River Island Art Park\, 57 Bernon St\, Wo
- onsocket\, RI 02895 Time: 12:00 PM to 5:00 PM River Island Art Park\, 57 B
- ernon St\, Woonsocket\, RI 02895 OFFICIAL RHODE ISLAND TRAVEL GUIDE Get Gu
- ide Get news from Visit Rhode Island in your inbox. Industry Partner Leisu
- re Travel Sign Up Ratings Powered by Press Industry Travel Trade Meetings 
- & Conventions Contact Privacy Policy Sitemap Partner Portal SMS Privacy Po
- licy SMS Terms & Conditions UGC Terms and Conditions Wedding Planning Pres
- s Photos Story Ideas Fun-Sized Rhode Island Rhode Island in the News Free 
- Travel Guide Contact Visit Rhode Island Industry Travel Trade Ideas & Itin
- eraries Downton Abbey Lifestyle Rhode Island Foodways Hidden Gems Image Li
- brary Free Travel Guide Contact Visit Rhode Island Meetings & Conventions 
- Contact Privacy Policy Sitemap Partner Portal SMS Privacy Policy SMS Terms
-  & Conditions UGC Terms and Conditions Wedding Planning Weddings - Venues 
- Wedding - Catering Wedding - Cakes Wedding - Attire Wedding - Florists Wed
- ding - Jewelers Wedding - Transportation © 2026 Rhode Island Commerce Cor
- poration Special Offers Offers Here Looking to plan your next visit to Rho
- de Island\, check out some of the current special offers and enjoy savings
- \, extra perks and more! Offers Here
-URL:https://www.visitrhodeisland.com/event/puerto-rican-festival/109367/
+SUMMARY:Music at the Museum
+DTSTART;VALUE=DATE:20260819
+DTEND;VALUE=DATE:20260820
+DTSTAMP:20260818T110002Z
+UID:513542dde43e302098c58fdccc21@visitri-calendar
+DESCRIPTION:Music at the Museum is returning to South County Museum! Enjoy
+  live music from Rhode to Bali and Bee and the Boys! The museum will be op
+ en to tour\, so come visit the craft barns and Metz exhibition hall! This 
+ is a picnic-style family event\, so bring some food\, chairs\, and a picni
+ c blanket. Beer and wine will be available for purchase. All purchases and
+  tickets will directly support museum programming.\n\nSource: https://www.
+ visitrhodeisland.com/event/music-at-the-museum/111317/
+LOCATION:South County Museum\, 115 Strathmore Street\, Narragansett\, RI 0
+ 2882 Time: 5:00 PM to 8:00 PM
+URL:https://www.visitrhodeisland.com/event/music-at-the-museum/111317/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Taste of North Kingstown
+DTSTART;VALUE=DATE:20260820
+DTEND;VALUE=DATE:20260821
+DTSTAMP:20260818T110002Z
+UID:3d03bcf41d01b012c3074b5e030a@visitri-calendar
+DESCRIPTION:This signature celebration brings together North Kingstown's f
+ inest restaurants\, caterers\, bakeries\, beverage providers\, food artisa
+ ns\, and culinary businesses for an evening dedicated to great food\, loca
+ l business\, and community engagement. Guests will have the opportunity to
+  sample a wide variety of flavors\, discover new favorites\, and connect w
+ ith the people and businesses that make North Kingstown a vibrant place to
+  live\, work\, and visit. Taste of NK is more than a food event—it's a g
+ athering of residents\, business leaders\, community partners\, elected of
+ ficials\, and visitors from throughout the region. It serves as a platform
+  for local businesses to showcase their offerings\, build meaningful relat
+ ionships\, and strengthen their presence within the community.\n\nSource: 
+ https://www.visitrhodeisland.com/event/a-taste-of-north-kingstown/111357/
+LOCATION:Quidnesset Country Club\, 950 North Quidnesset Road\, North Kings
+ town\, RI 02852 950 North Quidnesset Road\, North Kingstown\, RI 02852 OFF
+ ICIAL RHODE ISLAND TRAVEL GUIDE Get Guide Get news from Visit Rhode Island
+  in your inbox. Industry Partner Leisure Travel Sign Up Ratings Powered by
+  Press Industry Travel Trade Meetings & Conventions Contact Privacy Policy
+  Sitemap Partner Portal SMS Privacy Policy SMS Terms & Conditions UGC Term
+ s and Conditions Wedding Planning Press Photos Story Ideas Fun-Sized Rhode
+  Island Rhode Island in the News Free Travel Guide Contact Visit Rhode Isl
+ and Industry Travel Trade Ideas & Itineraries Downton Abbey Lifestyle Rhod
+ e Island Foodways Hidden Gems Image Library Free Travel Guide Contact Visi
+ t Rhode Island Meetings & Conventions Contact Privacy Policy Sitemap Partn
+ er Portal SMS Privacy Policy SMS Terms & Conditions UGC Terms and Conditio
+ ns Wedding Planning Weddings - Venues Wedding - Catering Wedding - Cakes W
+ edding - Attire Wedding - Florists Wedding - Jewelers Wedding - Transporta
+ tion © 2026 Rhode Island Commerce Corporation Special Offers Offers Here 
+ Looking to plan your next visit to Rhode Island\, check out some of the cu
+ rrent special offers and enjoy savings\, extra perks and more! Offers Here
+URL:https://www.visitrhodeisland.com/event/a-taste-of-north-kingstown/1113
+ 57/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:General Stanton Inn Blues Music Festival
 DTSTART;VALUE=DATE:20260823
 DTEND;VALUE=DATE:20260824
-DTSTAMP:20260817T110100Z
+DTSTAMP:20260818T110002Z
 UID:d4af5e9754de8b7973ccbe936045@visitri-calendar
 DESCRIPTION:Top Rhode Island blues music artists perform under the Stanton
   tent\, bbq\, beer\, seafood\, bourbon and more. Bring a lawn chair.\n\nSo
  urce: https://www.visitrhodeisland.com/event/general-stanton-inn-blues-mus
  ic-festival/109332/
 LOCATION:General Stanton Inn\, 4115 Old Post Road\, Charlestown\, RI 02813
+  4115 Old Post Road\, Charlestown\, RI 02813 OFFICIAL RHODE ISLAND TRAVEL 
+ GUIDE Get Guide Get news from Visit Rhode Island in your inbox. Industry P
+ artner Leisure Travel Sign Up Ratings Powered by Press Industry Travel Tra
+ de Meetings & Conventions Contact Privacy Policy Sitemap Partner Portal SM
+ S Privacy Policy SMS Terms & Conditions UGC Terms and Conditions Wedding P
+ lanning Press Photos Story Ideas Fun-Sized Rhode Island Rhode Island in th
+ e News Free Travel Guide Contact Visit Rhode Island Industry Travel Trade 
+ Ideas & Itineraries Downton Abbey Lifestyle Rhode Island Foodways Hidden G
+ ems Image Library Free Travel Guide Contact Visit Rhode Island Meetings & 
+ Conventions Contact Privacy Policy Sitemap Partner Portal SMS Privacy Poli
+ cy SMS Terms & Conditions UGC Terms and Conditions Wedding Planning Weddin
+ gs - Venues Wedding - Catering Wedding - Cakes Wedding - Attire Wedding - 
+ Florists Wedding - Jewelers Wedding - Transportation © 2026 Rhode Island 
+ Commerce Corporation Special Offers Offers Here Looking to plan your next 
+ visit to Rhode Island\, check out some of the current special offers and e
+ njoy savings\, extra perks and more! Offers Here
 URL:https://www.visitrhodeisland.com/event/general-stanton-inn-blues-music
  -festival/109332/
 END:VEVENT
@@ -510,7 +688,7 @@ SUMMARY:NIMFest: Groove Merchants w/ Olivia Nied | Live\, Outdoor Music at
   King Park
 DTSTART;VALUE=DATE:20260823
 DTEND;VALUE=DATE:20260824
-DTSTAMP:20260817T110100Z
+DTSTAMP:20260818T110002Z
 UID:e43d950bc7c5636c64f3187cf4d2@visitri-calendar
 DESCRIPTION:NIMFest (Newport Independent Music Festival) comes to you live
   from the King Park Gazebo at 125 Wellington Ave in Newport. This FREE\, w
@@ -529,7 +707,7 @@ BEGIN:VEVENT
 SUMMARY:Jacob Hackworth Live at Moonshine Alley!
 DTSTART;VALUE=DATE:20260825
 DTEND;VALUE=DATE:20260826
-DTSTAMP:20260817T110100Z
+DTSTAMP:20260818T110002Z
 UID:f35a8fe4166371ef1f7d3be66b07@visitri-calendar
 DESCRIPTION:ON SALE NOW Cat Country 98.1 presents Jacob Hackworth LIVE at 
  Moonshine Alley on Tuesday\, August 25th! MCA Records &amp\; Nashville sin
@@ -551,7 +729,7 @@ BEGIN:VEVENT
 SUMMARY:Free Summer Concert Series at Ragged Island
 DTSTART;VALUE=DATE:20260826
 DTEND;VALUE=DATE:20260827
-DTSTAMP:20260817T110100Z
+DTSTAMP:20260818T110002Z
 UID:c34f298b13c81e8e626e59cb461a@visitri-calendar
 DESCRIPTION:Announcing Ragged Island's Free 2026 Summer Concert Series Rag
  ged Island has nine awesome bands lined up for Wednesday nights in July an
@@ -583,7 +761,7 @@ BEGIN:VEVENT
 SUMMARY:Hope & Main Makers Markets: Summer Series
 DTSTART;VALUE=DATE:20260826
 DTEND;VALUE=DATE:20260827
-DTSTAMP:20260817T110100Z
+DTSTAMP:20260818T110002Z
 UID:508203d8ab48a0f5179cf6188b3b@visitri-calendar
 DESCRIPTION:Developed by the operators of Hope &amp\; Main in Warren\, the
   Schoolyard Market helps locally-based food and beverage businesses start 
@@ -605,7 +783,7 @@ BEGIN:VEVENT
 SUMMARY:Music at Sunset: Concert Series 2026
 DTSTART;VALUE=DATE:20260826
 DTEND;VALUE=DATE:20260827
-DTSTAMP:20260817T110100Z
+DTSTAMP:20260818T110002Z
 UID:f7374ee07909032aafe715f097f0@visitri-calendar
 DESCRIPTION:Music at Sunset: Concert Series 2026 Wednesdays | June 3 &#821
  1\; August 26 Music from 6:00 &#8211\; 8:00 PM\, Parking and Check-in open
@@ -655,7 +833,7 @@ BEGIN:VEVENT
 SUMMARY:Blithewold Annual Family Clambake
 DTSTART;VALUE=DATE:20260827
 DTEND;VALUE=DATE:20260828
-DTSTAMP:20260817T110100Z
+DTSTAMP:20260818T110002Z
 UID:527f3299a90d3c05a0676865fdb2@visitri-calendar
 DESCRIPTION:Blithewold Annual Family Clambake Thursday | August 27 5:00 &#
  8211\; 8:00 PM Location: Event Tent The Great Lawn has been the scene of f
@@ -713,7 +891,7 @@ BEGIN:VEVENT
 SUMMARY:Food Truck Concert Nights - Diamond Hill Park
 DTSTART;VALUE=DATE:20260827
 DTEND;VALUE=DATE:20260828
-DTSTAMP:20260817T110100Z
+DTSTAMP:20260818T110002Z
 UID:6f571d24d4473b04f931421aed68@visitri-calendar
 DESCRIPTION:We return to Diamond Hill Park in Cumberland for another serie
  s of memorable events in 2026. Attendance is free\, just pay for what you 
@@ -741,7 +919,7 @@ BEGIN:VEVENT
 SUMMARY:Brew at the Zoo
 DTSTART;VALUE=DATE:20260829
 DTEND;VALUE=DATE:20260830
-DTSTAMP:20260817T110100Z
+DTSTAMP:20260818T110002Z
 UID:2f2070c631904a407ca11ec8d953@visitri-calendar
 DESCRIPTION:Tap into your wild side at Brew at the Zoo on Saturday\, Augus
  t 29th\, an adults-only evening event\, and sample hundreds of beers\, har
@@ -762,7 +940,7 @@ BEGIN:VEVENT
 SUMMARY:Field of Artisans at the Beach
 DTSTART;VALUE=DATE:20260829
 DTEND;VALUE=DATE:20260830
-DTSTAMP:20260817T110100Z
+DTSTAMP:20260818T110002Z
 UID:ccb222ee4b8c9bc014c177518d7d@visitri-calendar
 DESCRIPTION:Join Field of Artisans on Saturdays this summer for the 11th y
  ear of bringing creativity to this beautiful location! Artists will displa
@@ -779,7 +957,7 @@ BEGIN:VEVENT
 SUMMARY:Live Music by Logan Vale
 DTSTART;VALUE=DATE:20260829
 DTEND;VALUE=DATE:20260830
-DTSTAMP:20260817T110100Z
+DTSTAMP:20260818T110002Z
 UID:51d81b6b9ac830a4dbc32c26efd3@visitri-calendar
 DESCRIPTION:The music of Logan Vale! Dinner reservations required either o
  nline or call 401.861.3850 x. 3\n\nSource: https://www.visitrhodeisland.co
@@ -790,69 +968,10 @@ URL:https://www.visitrhodeisland.com/event/live-music-by-logan-vale/110313
  /
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Puerto Rican Festival
-DTSTART;VALUE=DATE:20260829
-DTEND;VALUE=DATE:20260830
-DTSTAMP:20260817T110100Z
-UID:cd67e316cf44f09e5ad6a29b3974@visitri-calendar
-DESCRIPTION:We are proud to announce the Puerto Rican Festival in Woonsock
- et\, a vibrant cultural celebration set to take place [August 29\, 2026] a
- t [River Island Park\, Woonsocket\, RI]. This landmark event will bring to
- gether families\, community leaders\, local businesses\, and visitors from
-  across Rhode Island and beyond for a day filled with music\, dance\, auth
- entic cuisine\, and cultural pride. Our mission is to redefine the bakery 
- experience in Woonsocket by bringing traditional Puerto Rican Sweets and D
- esserts.\n\nSource: https://www.visitrhodeisland.com/event/puerto-rican-fe
- stival/109367/
-LOCATION:River Island Art Park\, River Island Art Park\, 57 Bernon St\, Wo
- onsocket\, RI 02895 Time: 12:00 PM to 5:00 PM River Island Art Park\, 57 B
- ernon St\, Woonsocket\, RI 02895 OFFICIAL RHODE ISLAND TRAVEL GUIDE Get Gu
- ide Get news from Visit Rhode Island in your inbox. Industry Partner Leisu
- re Travel Sign Up Ratings Powered by Press Industry Travel Trade Meetings 
- & Conventions Contact Privacy Policy Sitemap Partner Portal SMS Privacy Po
- licy SMS Terms & Conditions UGC Terms and Conditions Wedding Planning Pres
- s Photos Story Ideas Fun-Sized Rhode Island Rhode Island in the News Free 
- Travel Guide Contact Visit Rhode Island Industry Travel Trade Ideas & Itin
- eraries Downton Abbey Lifestyle Rhode Island Foodways Hidden Gems Image Li
- brary Free Travel Guide Contact Visit Rhode Island Meetings & Conventions 
- Contact Privacy Policy Sitemap Partner Portal SMS Privacy Policy SMS Terms
-  & Conditions UGC Terms and Conditions Wedding Planning Weddings - Venues 
- Wedding - Catering Wedding - Cakes Wedding - Attire Wedding - Florists Wed
- ding - Jewelers Wedding - Transportation © 2026 Rhode Island Commerce Cor
- poration Special Offers Offers Here Looking to plan your next visit to Rho
- de Island\, check out some of the current special offers and enjoy savings
- \, extra perks and more! Offers Here
-URL:https://www.visitrhodeisland.com/event/puerto-rican-festival/109367/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bruce Jacques Show at One Pelham East
-DTSTART;VALUE=DATE:20260831
-DTEND;VALUE=DATE:20260901
-DTSTAMP:20260817T110100Z
-UID:571ee8f608107624e8eb6fbb1a47@visitri-calendar
-DESCRIPTION:Bruce Jacques Show at One Pelham East When: Every Monday from 
- 9:00 PM to 12:00 AM (May 25 - August 25\, 2026) Where: 1 Pelham East\, New
- port\, RI 02840 Bruce incorporates comedy spoofs of artists such as Queen\
- , Beyonce\, Guns and Roses\, Britney Spears\, Elvis\, and many more. His r
- epertoire is a mix of songs everyone knows by heart from the sixties to to
- day’s top hits. He also involves the audience with a six foot L.E.D. lig
- ht board that displays the words for sing-a-longs. Bruce's ability to conn
- ect with audiences of all ages and in all types of settings is something t
- hat comes only with years of experience. He also possesses the natural abi
- lity to make people feel comfortable - to make them laugh\, sing\, and dan
- ce. Bruce's experience includes over three decades of private parties\, co
- rporate functions\, colleges\, nightclubs and resorts. Bruce has several l
- ong-standing gigs including:\n\nSource: https://www.visitrhodeisland.com/e
- vent/bruce-jacques-show-at-one-pelham-east/110092/
-LOCATION:1 Pelham East\, 270 Thames Street\, Newport\, RI 02840
-URL:https://www.visitrhodeisland.com/event/bruce-jacques-show-at-one-pelha
- m-east/110092/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Rhode Island SeaFood Festival 2026
 DTSTART;VALUE=DATE:20260912
 DTEND;VALUE=DATE:20260913
-DTSTAMP:20260817T110100Z
+DTSTAMP:20260818T110002Z
 UID:7155b8a7bea276dc2235b2424899@visitri-calendar
 DESCRIPTION:Join us for the 16th annual Rhode Island Seafood Festival\, a 
  two-day extravaganza of the Ocean State’s best seafood\, live music and 
@@ -891,7 +1010,7 @@ BEGIN:VEVENT
 SUMMARY:Rhode Island SeaFood Festival 2026
 DTSTART;VALUE=DATE:20260913
 DTEND;VALUE=DATE:20260914
-DTSTAMP:20260817T110100Z
+DTSTAMP:20260818T110002Z
 UID:724318b2396062bf2de4c6176658@visitri-calendar
 DESCRIPTION:Join us for the 16th annual Rhode Island Seafood Festival\, a 
  two-day extravaganza of the Ocean State’s best seafood\, live music and 
@@ -927,29 +1046,10 @@ URL:https://www.visitrhodeisland.com/event/rhode-island-seafood-festival-2
  026/111348/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Live Music Mondays at Safari Room
-DTSTART;VALUE=DATE:20260914
-DTEND;VALUE=DATE:20260915
-DTSTAMP:20260817T110100Z
-UID:f75e53fa0abf0269754685a1635a@visitri-calendar
-DESCRIPTION:Music Mondays are here! Join us on the Safari Room patio and l
- awn every Monday all summer long for our Live Music Series. Settle into an
-  Adirondack chair\, enjoy a glass of wine\, and savor light bites as you t
- ake in coastal views\, great music\, and relaxed midweek vibes. Our featur
- ed rotation includes: Winelight: Playing the best of Jazz and Rhythm &amp\
- ; Blues\, starting Monday\, June 29th Brian Scott: Solo acoustic guitar pl
- aying classic and Modern Rock\, starting Monday\, July 6th\n\nSource: http
- s://www.visitrhodeisland.com/event/live-music-mondays-at-safari-room/11090
- 5/
-LOCATION:OceanCliff\, 65 Ridge Road\, Newport\, RI 02840
-URL:https://www.visitrhodeisland.com/event/live-music-mondays-at-safari-ro
- om/110905/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:PVDFest 2026
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260919
-DTSTAMP:20260817T110100Z
+DTSTAMP:20260818T110002Z
 UID:2de49afd8f722627b9a1f5e00bb1@visitri-calendar
 DESCRIPTION:The People’s Festival for Arts\, Music\, and Culture Mayor B
  rett P. Smiley\, the City’s Department of Art\, Culture\, Tourism and Pr
@@ -968,7 +1068,7 @@ BEGIN:VEVENT
 SUMMARY:Food Truck Concert Nights - Diamond Hill Park
 DTSTART;VALUE=DATE:20260919
 DTEND;VALUE=DATE:20260920
-DTSTAMP:20260817T110100Z
+DTSTAMP:20260818T110002Z
 UID:c61110f0d2ee251ab02333bed717@visitri-calendar
 DESCRIPTION:We return to Diamond Hill Park in Cumberland for another serie
  s of memorable events in 2026. Attendance is free\, just pay for what you 
@@ -996,7 +1096,7 @@ BEGIN:VEVENT
 SUMMARY:PVDFest 2026
 DTSTART;VALUE=DATE:20260919
 DTEND;VALUE=DATE:20260920
-DTSTAMP:20260817T110100Z
+DTSTAMP:20260818T110002Z
 UID:553bda94539f69469073803099fb@visitri-calendar
 DESCRIPTION:The People’s Festival for Arts\, Music\, and Culture Mayor B
  rett P. Smiley\, the City’s Department of Art\, Culture\, Tourism and Pr
@@ -1012,10 +1112,47 @@ LOCATION:Downtown Providence\, Downtown Providence\, Providence\, RI 02903
 URL:https://www.visitrhodeisland.com/event/pvdfest-2026/104917/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Craft on the Lawn at Newport Art Museum
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20260930
+DTSTAMP:20260818T110002Z
+UID:a5d9459ae6d4a0240f9c257a3670@visitri-calendar
+DESCRIPTION:Craft Club on the Lawn Location: Newport Art Museum\, 76 Belle
+ vue Avenue\, Newport When: Weekly on Tuesdays\, June 2 - September 29\, 20
+ 26 from 5:00 to 7:00 PM Cost: $10 per person Teaching Artist: Keelin Malon
+ ey Join The Nest and the Newport Art Museum for Craft Club on the Lawn- a 
+ weekly summer gathering for makers of all kinds. Bring your knitting\, ske
+ tchbook\, embroidery\, collage\, crochet\, or any creative project and spe
+ nd the evening crafting in community on the museum lawn. Meet fellow creat
+ ives\, soak up inspiration\, and create alongside others every Tuesday fro
+ m 5:00 to 7:00 PM all summer long. Hosted by fiber artist\, Keelin Maloney
+ . Sliding scale donation. All crafts welcome. Pay in person. Location and 
+ Parking Craft Club will be held on the Griswold Lawn at 76 Bellevue Avenue
+ . Please park in our Museum parking lots or along Liberty Street.\n\nSourc
+ e: https://www.visitrhodeisland.com/event/craft-on-the-lawn-at-newport-art
+ -museum/111285/
+LOCATION:Newport Art Museum\, 76 Bellevue Avenue\, Newport When: Weekly on
+  Tuesdays\, June 2 - September 29\, 2026 from 5:00 to 7:00 PM Cost: $10 pe
+ r person Teaching Artist: Keelin Maloney Join The Nest and the Newport Art
+  Museum for Craft Club on the Lawn- a weekly summer gathering for makers o
+ f all kinds. Bring your knitting\, sketchbook\, embroidery\, collage\, cro
+ chet\, or any creative project and spend the evening crafting in community
+  on the museum lawn. Meet fellow creatives\, soak up inspiration\, and cre
+ ate alongside others every Tuesday from 5:00 to 7:00 PM all summer long. H
+ osted by fiber artist\, Keelin Maloney . Sliding scale donation. All craft
+ s welcome. Pay in person. Location and Parking Craft Club will be held on 
+ the Griswold Lawn at 76 Bellevue Avenue. Please park in our Museum parking
+  lots or along Liberty Street. Show More View Website 1 / 1 Additional Inf
+ ormation\, 76 Bellevue Avenue\, Newport\, RI 02840 Time: 5:00 PM to 7:00 P
+ M
+URL:https://www.visitrhodeisland.com/event/craft-on-the-lawn-at-newport-ar
+ t-museum/111285/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Live Music by Logan Vale
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261018
-DTSTAMP:20260817T110100Z
+DTSTAMP:20260818T110002Z
 UID:2241186137b505cf7c814cd90b60@visitri-calendar
 DESCRIPTION:The music of Logan Vale! Dinner reservations required either o
  nline or call 401.861.3850 x. 3\n\nSource: https://www.visitrhodeisland.co
@@ -1029,7 +1166,7 @@ BEGIN:VEVENT
 SUMMARY:Coastal Cruisers - The Golden Hour
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
-DTSTAMP:20260817T110100Z
+DTSTAMP:20260818T110002Z
 UID:a33f7731698b5451e05ba44e42fd@visitri-calendar
 DESCRIPTION:Experience the Island in our Coastal Cruisers\, Newport’s pr
  ivate chauffeured luxury tour\, dedicated to providing a sophisticated way
@@ -1059,7 +1196,7 @@ BEGIN:VEVENT
 SUMMARY:Half Price Tacos and House Margs at Yellow Door Taqueria!
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
-DTSTAMP:20260817T110100Z
+DTSTAMP:20260818T110002Z
 UID:9e3061f0648341ee71e7158e4b15@visitri-calendar
 DESCRIPTION:Join us EVERY DAY at Yellow Door Taqueria from 3-6 PM at the b
  ar for half price select tacos and house margaritas! It's the perfect way 
@@ -1074,51 +1211,37 @@ URL:https://www.visitrhodeisland.com/event/half-price-tacos-and-house-marg
  s-at-yellow-door-taqueria!/111221/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Children's Weekly Storytime
-DTSTART;VALUE=DATE:20261221
-DTEND;VALUE=DATE:20261222
-DTSTAMP:20260817T110100Z
-UID:505c13cc68dfd1161c6032fdf540@visitri-calendar
-DESCRIPTION:Children's Storytime Join Elizabeth as she hosts storytime on 
- Monday mornings at 10:30 AM. Every Monday\, Elizabeth will chose a book co
- rrelating with the season or holiday. All children and their families are 
- welcome to join!\n\nSource: https://www.visitrhodeisland.com/event/childre
- ns-weekly-storytime/109524/
-LOCATION:Charter Books\, 8 Broadway\, Newport\, RI 02840 Time: 10:30 AM to
-  11:00 AM
-URL:https://www.visitrhodeisland.com/event/childrens-weekly-storytime/1095
- 24/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Life on the Avenue: Immigration\, Protest\, and Triumph on Federal
-  Hill
-DTSTART;VALUE=DATE:20261224
-DTEND;VALUE=DATE:20261225
-DTSTAMP:20260817T110100Z
-UID:b647795e53ce8e44e67b534819a6@visitri-calendar
-DESCRIPTION:Life on the Avenue: Immigration\, Protest\, and Triumph on Fed
- eral Hill is a powerful\, story-driven walking tour that goes beyond the n
- eighborhood’s celebrated food scene to uncover the journey for belonging
-  that shaped it. As you explore one of Providence’s most iconic district
- s\, you’ll trace the journeys of Indigenous communities\, Irish and Ital
- ian immigrants\, and modern newcomers—each group navigating hardship\, d
- iscrimination\, and resilience in their fight to call this place home. Alo
- ng the way\, you’ll stand where protests erupted\, revolutions nearly ig
- nited\, and everyday people carved out lives against the odds. Blending ri
- ch storytelling with local flavor and insider food recommendations\, this 
- experience reveals Federal Hill not just as a destination—but as a battl
- eground where identity\, power\, and community have been contested for gen
- erations.\n\nSource: https://www.visitrhodeisland.com/event/life-on-the-av
- enue%3a-immigration-protest-and-triumph-on-federal-hill/111313/
-LOCATION:Garibaldi Square\, 99 Atwells Avenue\, Providence\, RI 02903
-URL:https://www.visitrhodeisland.com/event/life-on-the-avenue%3a-immigrati
- on-protest-and-triumph-on-federal-hill/111313/
+SUMMARY:History Happy Hour
+DTSTART;VALUE=DATE:20261215
+DTEND;VALUE=DATE:20261216
+DTSTAMP:20260818T110002Z
+UID:bd68f2defddd466faa9b9abae094@visitri-calendar
+DESCRIPTION:History Happy Hour with Newport Historical Society Every third
+  Tuesday of the Month | 4:00 to 7:00 PM Richard I. Burnham Resource Center
+  | 82 Touro Street\, Newport\, RI Free with any Donation Join us for an ev
+ ening at the NHS’ current exhibition\, “OCCUPIED! Newport and the Figh
+ t for Independence” History Happy Hour is Social Hour at the NHS\, bring
+  your friends\, family and all of your questions! Visit our new exhibit du
+ ring evening hours\, enjoy a drink\, and chat with other guests and staff 
+ about Newport’s role in the Revolutionary War. Extended evening hours oc
+ cur every third Tuesday of the month from 4:00 to 7:00 PM for guests to ex
+ plore the exhibition after normal business hours. ✨All guests who make a
+  $10.00 donation or more to the Newport Historical Society will receive a 
+ free drink✨ Sign up to attend at NewportHistoryTours.org/Calendar Histor
+ y Happy Hour Schedule: March 17th\, 2026 April 21st\, 2026 May 19th\, 2026
+  June 16th\, 2026 July 21st\, 2026 August 18th\, 2026 September 15th\, 202
+ 6 October 20th\, 2026 November 17th\, 2026 December 15th\, 2026 *All dates
+  are subject to change or cancellation.\n\nSource: https://www.visitrhodei
+ sland.com/event/history-happy-hour/109650/
+LOCATION:Richard I. Burnham Resource Center\, 82 Touro Street\, Newport\, 
+ RI 02840 Time: 4:00 PM to 7:00 PM
+URL:https://www.visitrhodeisland.com/event/history-happy-hour/109650/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Beyond the Brewhouse Tour
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
-DTSTAMP:20260817T110100Z
+DTSTAMP:20260818T110002Z
 UID:c7b48636db9ede5f5acbbb263d31@visitri-calendar
 DESCRIPTION:Beyond the Brewhouse Where: Newport Craft Brewing and Distilli
  ng\, 293 JT Connell Road\, Newport 45 minutes: $20 per person Did you know
