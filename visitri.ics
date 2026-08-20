@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:$15 Moonshine Flights & Moonshine Tasting
 DTSTART;VALUE=DATE:20250615
 DTEND;VALUE=DATE:20250616
-DTSTAMP:20260819T105927Z
+DTSTAMP:20260820T110130Z
 UID:b6432d870f2c0958f26453a40d59@visitri-calendar
 DESCRIPTION:Try a Moonshine Flight tasting at Moonshine Alley! Moonshine F
  lights are available daily for just $15! We have over 13 flavors to choose
@@ -20,39 +20,10 @@ URL:https://www.visitrhodeisland.com/event/%2415-moonshine-flights-%26-moo
  nshine-tasting/105663/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Early Bird Museum Highlight Tour at Newport Car Museum
-DTSTART;VALUE=DATE:20260401
-DTEND;VALUE=DATE:20260402
-DTSTAMP:20260819T105927Z
-UID:75253880a8c565d95c2d97a759c9@visitri-calendar
-DESCRIPTION:Early Bird Highlight Tour For 90 minutes (8:30 &#8211\; 10:00 
- AM) prior to Museum opening. Call to book: +1 (401) 848-2277 Price $75.00 
- per person (minimum 2\, maximum 6 ppl) Offered Wednesday\, Thursday\, and 
- Saturday only April 1 - December 31\, 2026. General admission is included 
- with price. 72-hour advance notice is suggested. Only one group will be ho
- sted on any given morning. This is your chance to have the Newport Car Mus
- eum all to yourself with a private guide to share with you the not-to-miss
-  highlights in seven expansive galleries. With over 100 iconic\, rare and 
- exotic cars on display at one time\, this private collection is bursting w
- ith history\, provenance and color\, not to mention the breathtaking sculp
- tural beauty of automotive designs starting with the 1950s and finishing w
- ith new models from the 21 st Century. After 90 minutes with your private\
- , continue to explore at your own pace so that you can further examine you
- r favorites from the Ford/Shelby\, Corvette\, World Car\, Porsche\, Fin Ca
- r\, American Muscle and Mopar exhibits while enjoying immersive videos\, a
- rtwork and the Museum’s eclectic collection of Mid-Century Modern Furnit
- ure.\n\nSource: https://www.visitrhodeisland.com/event/early-bird-museum-h
- ighlight-tour-at-newport-car-museum/109638/
-LOCATION:Newport Car Museum\, Enter at Light 1947 West Main Road\, Portsmo
- uth\, RI 02871
-URL:https://www.visitrhodeisland.com/event/early-bird-museum-highlight-tou
- r-at-newport-car-museum/109638/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Coastal Cruisers - The Golden Hour
 DTSTART;VALUE=DATE:20260501
 DTEND;VALUE=DATE:20260502
-DTSTAMP:20260819T105927Z
+DTSTAMP:20260820T110130Z
 UID:9f3864060ce7679e35293700f37c@visitri-calendar
 DESCRIPTION:Experience the Island in our Coastal Cruisers\, Newport’s pr
  ivate chauffeured luxury tour\, dedicated to providing a sophisticated way
@@ -82,7 +53,7 @@ BEGIN:VEVENT
 SUMMARY:Beyond the Brewhouse Tour
 DTSTART;VALUE=DATE:20260515
 DTEND;VALUE=DATE:20260516
-DTSTAMP:20260819T105927Z
+DTSTAMP:20260820T110130Z
 UID:acc9d8e1d1bdab34c6766b602473@visitri-calendar
 DESCRIPTION:Beyond the Brewhouse Where: Newport Craft Brewing and Distilli
  ng\, 293 JT Connell Road\, Newport 45 minutes: $20 per person Did you know
@@ -92,8 +63,8 @@ DESCRIPTION:Beyond the Brewhouse Where: Newport Craft Brewing and Distilli
  nd walk through our distillery. Conclude the tour with a brew and spirit f
  light for a complete palate experience. Ages 21+\n\nSource: https://www.vi
  sitrhodeisland.com/event/beyond-the-brewhouse-tour/110153/
-LOCATION:Newport Craft Brewing & Distilling Company\, 293 JT Connell Road\
- , Newport\, RI 02840 Time: 45 minutes: Tour start time varies by booking.
+LOCATION:Newport Craft Brewing & Distilling Company\, 293 JT Connell Road
+ \, Newport\, RI 02840 Time: 45 minutes: Tour start time varies by booking.
 URL:https://www.visitrhodeisland.com/event/beyond-the-brewhouse-tour/11015
  3/
 END:VEVENT
@@ -101,7 +72,7 @@ BEGIN:VEVENT
 SUMMARY:Music at Sunset: Concert Series 2026
 DTSTART;VALUE=DATE:20260603
 DTEND;VALUE=DATE:20260604
-DTSTAMP:20260819T105927Z
+DTSTAMP:20260820T110130Z
 UID:87bda7b48d099d40defa3f7e711b@visitri-calendar
 DESCRIPTION:Music at Sunset: Concert Series 2026 Wednesdays | June 3 &#821
  1\; August 26 Music from 6:00 &#8211\; 8:00 PM\, Parking and Check-in open
@@ -151,7 +122,7 @@ BEGIN:VEVENT
 SUMMARY:Free Summer Concert Series at Ragged Island
 DTSTART;VALUE=DATE:20260624
 DTEND;VALUE=DATE:20260625
-DTSTAMP:20260819T105927Z
+DTSTAMP:20260820T110130Z
 UID:1c212ee8000d851f7b6e4ea8f143@visitri-calendar
 DESCRIPTION:Announcing Ragged Island's Free 2026 Summer Concert Series Rag
  ged Island has nine awesome bands lined up for Wednesday nights in July an
@@ -183,7 +154,7 @@ BEGIN:VEVENT
 SUMMARY:Hope & Main Makers Markets: Summer Series
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260702
-DTSTAMP:20260819T105927Z
+DTSTAMP:20260820T110130Z
 UID:a4c76656bb4dd2f560a21d25ca37@visitri-calendar
 DESCRIPTION:Developed by the operators of Hope &amp\; Main in Warren\, the
   Schoolyard Market helps locally-based food and beverage businesses start 
@@ -205,7 +176,7 @@ BEGIN:VEVENT
 SUMMARY:Field of Artisans at the Beach
 DTSTART;VALUE=DATE:20260711
 DTEND;VALUE=DATE:20260712
-DTSTAMP:20260819T105927Z
+DTSTAMP:20260820T110130Z
 UID:7ebe1a9998bbb563181c86657159@visitri-calendar
 DESCRIPTION:Join Field of Artisans on Saturdays this summer for the 11th y
  ear of bringing creativity to this beautiful location! Artists will displa
@@ -222,7 +193,7 @@ BEGIN:VEVENT
 SUMMARY:$15 Moonshine Flights & Moonshine Tasting
 DTSTART;VALUE=DATE:20260721
 DTEND;VALUE=DATE:20260722
-DTSTAMP:20260819T105927Z
+DTSTAMP:20260820T110130Z
 UID:6ac059c408c431eceb1c3c855c19@visitri-calendar
 DESCRIPTION:Try a Moonshine Flight tasting at Moonshine Alley! Moonshine F
  lights are available daily for just $15! We have over 13 flavors to choose
@@ -238,7 +209,7 @@ BEGIN:VEVENT
 SUMMARY:Live Music by Logan Vale
 DTSTART;VALUE=DATE:20260815
 DTEND;VALUE=DATE:20260816
-DTSTAMP:20260819T105927Z
+DTSTAMP:20260820T110130Z
 UID:83f1c7264b84148bcd597ec3aec6@visitri-calendar
 DESCRIPTION:The music of Logan Vale! Dinner reservations required either o
  nline or call 401.861.3850 x. 3\n\nSource: https://www.visitrhodeisland.co
@@ -249,45 +220,83 @@ URL:https://www.visitrhodeisland.com/event/live-music-by-logan-vale/110313
  /
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Deja Vieux Vintage Shopping Bus Tour Adventure - October 4th
-DTSTART;VALUE=DATE:20260817
-DTEND;VALUE=DATE:20260818
-DTSTAMP:20260819T105927Z
-UID:912e503a9012deae13b33d1d0a85@visitri-calendar
-DESCRIPTION:⭐Hop Aboard Rhode Island’s First - Ever Vintage Shops Bus 
- Tour!⭐ We invite you to join us at Deja Vieux Vintage for a uniquely cur
- ated shopping adventure! On Sunday\, October 4th\, from 10:30 AM to 4:00 P
- M\, we are hitting the road for a premier 5-hour vintage bus tour down Rou
- te 6 and Route 44. The tour features exclusive discounts at 8 to 12 of our
-  favorite local antique and vintage shops\, making it the perfect day out 
- for collectors and vintage lovers alike. The Ultimate Vintage &amp\; Antiq
- ue Bus Tour Host: Deja Vieux Vintage Date &amp\; Time: Sunday\, October 4t
- h | 10:30 AM &#8211\; 4:00 PM Ticket Information: • Single Ticket: $37.5
- 0 • Bring a Friend Bundle: Two for $70 Every ticket comes packed with va
- lue! You get your bus boarding pass\, event shopping bag\, coupon booklet\
- , complimentary snacks and water\, plus a chance to win prizes. Departure 
- &amp\; Logistics Details: To ensure a smooth departure\, please arrive at 
- Deja Vieux Vintage on Sunday\, October 4th\, before 10:30 AM. Our storefro
- nt will be open early so you can enjoy your very first shopping experience
-  of the day! Parking is completely free. Our bus leaves promptly at 11:00 
- AM. We will be traveling on a chartered yellow school bus from Ocean State
-  Transit\; please note that this vehicle is unfortunately not handicap acc
- essible. Single ticket holders may need to share seats\, while our friends
-  bundles ticket holders guarantee seating together. Complimentary snacks a
- nd water will be provided on board\, and you are welcome to bring your own
-  allergen-free lunch. Tickets are non-refundable but are transferable.\n\n
- Source: https://www.visitrhodeisland.com/event/deja-vieux-vintage-shopping
- -bus-tour-adventure-october-4th/111403/
-LOCATION:Deja Vieux Vintage\, 20 Cedar Swamp Rd.\, Smithfield\, 02917
-URL:https://www.visitrhodeisland.com/event/deja-vieux-vintage-shopping-bus
- -tour-adventure-october-4th/111403/
+SUMMARY:'Museum Reads' Book Club at Newport Art Museum
+DTSTART;VALUE=DATE:20260820
+DTEND;VALUE=DATE:20260821
+DTSTAMP:20260820T110130Z
+UID:239fbc54aa52999f6e8040e9ceb5@visitri-calendar
+DESCRIPTION:Welcome to Museum Reads\, the Newport Art Museum’s Art-Theme
+ d book group for adults! Are you looking to learn more about art and artis
+ ts\, or enjoy digging into some of the issues present in our current exhib
+ itions? Then this friendly discussion group is for you. We meet monthly on
+  the third Thursday at 12:00 PM\, in person and virtually. Join us virtual
+ ly from the office for an invigorating lunch break or enjoy an hour of ins
+ piration during a wee one’s nap time or find us in the gallery for in-pe
+ rson conversation. Upcoming Dates: April 16 - Stand and Gus: Art\, Ardor\,
+  and the Friendship That Built the Gilded Age May 14 - Murder at Arleigh J
+ une 18 - Surreal: The Extraordinary Life of Gala Dali July 16 - Jamestown:
+  Architecture\, Landscape\, and the Making of a Rhode Paradise August 20 -
+  A Month in Siena September 17 - Mary Cassatt between Paris and New York: 
+ The Making of a Transatlantic Legacy October 15 - Winslow Homer: American 
+ Passage Museum Reads is free for Members\, and $5 for yet-to-be Members. B
+ e sure to register online to receive email updates and Zoom links. For las
+ t minute registrations\, please call the front desk for the Zoom link at 4
+ 01-848-8200.\n\nSource: https://www.visitrhodeisland.com/event/museum-read
+ s-book-club-at-newport-art-museum/109609/
+LOCATION:Newport Art Museum\, 76 Bellevue Avenue\, Newport\, RI 02840
+URL:https://www.visitrhodeisland.com/event/museum-reads-book-club-at-newpo
+ rt-art-museum/109609/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Newport National Security Dinner
+DTSTART;VALUE=DATE:20260820
+DTEND;VALUE=DATE:20260821
+DTSTAMP:20260820T110130Z
+UID:9dcc9dcbecc14177d7c6b210e746@visitri-calendar
+DESCRIPTION:2026 Newport National Security Dinner When: Thursday\, August 
+ 20th from 6:00 to 10:00 PM Where: Gardiner House\, 24 Lee's Wharf\, Newpor
+ t Join the Naval War College Foundation for the Newport National Security 
+ Dinner\, presented by Peter and Jennifer Scanlon\, on Thursday\, August 20
+ \, the eve of the Newport National Security Symposium. This exclusive even
+ ing brings together senior military leaders\, national security experts\, 
+ business executives\, policymakers\, and supporters of the Naval War Colle
+ ge Foundation and the U.S. Naval War College for meaningful conversation a
+ nd connection. Set against the backdrop of Newport Harbor at the award-win
+ ning Gardiner House\, guests will enjoy a cocktail reception and seated di
+ nner while engaging with leaders shaping the future of global security and
+  strategic leadership. As the premier networking event surrounding the Sym
+ posium\, the Dinner offers a unique opportunity to build relationships and
+  exchange ideas before the Newport National Security Symposium convenes on
+  Friday\, August 21\, at the U.S. Naval War College. Learn more\, explore 
+ sponsorship opportunities\, and register at https://nwcfoundation.org/nnsd
+ inner.\n\nSource: https://www.visitrhodeisland.com/event/2026-newport-nati
+ onal-security-dinner/111303/
+LOCATION:Gardiner House\, 24 Lee's Wharf\, Newport\, RI 02840 Time: 6:00 P
+ M to 10:00 PM 24 Lee's Wharf\, Newport\, RI 02840 OFFICIAL RHODE ISLAND TR
+ AVEL GUIDE Get Guide Get news from Visit Rhode Island in your inbox. Indus
+ try Partner Leisure Travel Sign Up Ratings Powered by Press Industry Trave
+ l Trade Meetings & Conventions Contact Privacy Policy Sitemap Partner Port
+ al SMS Privacy Policy SMS Terms & Conditions UGC Terms and Conditions Wedd
+ ing Planning Press Photos Story Ideas Fun-Sized Rhode Island Rhode Island 
+ in the News Free Travel Guide Contact Visit Rhode Island Industry Travel T
+ rade Ideas & Itineraries Downton Abbey Lifestyle Rhode Island Foodways Hid
+ den Gems Image Library Free Travel Guide Contact Visit Rhode Island Meetin
+ gs & Conventions Contact Privacy Policy Sitemap Partner Portal SMS Privacy
+  Policy SMS Terms & Conditions UGC Terms and Conditions Wedding Planning W
+ eddings - Venues Wedding - Catering Wedding - Cakes Wedding - Attire Weddi
+ ng - Florists Wedding - Jewelers Wedding - Transportation © 2026 Rhode Is
+ land Commerce Corporation Special Offers Offers Here Looking to plan your 
+ next visit to Rhode Island\, check out some of the current special offers 
+ and enjoy savings\, extra perks and more! Offers Here
+URL:https://www.visitrhodeisland.com/event/2026-newport-national-security-
+ dinner/111303/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:A Taste of North Kingstown
-DTSTART;VALUE=DATE:20260819
-DTEND;VALUE=DATE:20260820
-DTSTAMP:20260819T105927Z
-UID:7a77ffe4db1c25cf7926e6637e77@visitri-calendar
+DTSTART;VALUE=DATE:20260820
+DTEND;VALUE=DATE:20260821
+DTSTAMP:20260820T110130Z
+UID:3d03bcf41d01b012c3074b5e030a@visitri-calendar
 DESCRIPTION:This signature celebration brings together North Kingstown's f
  inest restaurants\, caterers\, bakeries\, beverage providers\, food artisa
  ns\, and culinary businesses for an evening dedicated to great food\, loca
@@ -321,39 +330,35 @@ URL:https://www.visitrhodeisland.com/event/a-taste-of-north-kingstown/1113
  57/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Arnez J
-DTSTART;VALUE=DATE:20260819
-DTEND;VALUE=DATE:20260820
-DTSTAMP:20260819T105927Z
-UID:2ad6bfda59d88e9f878563946982@visitri-calendar
-DESCRIPTION:Arnez J is a dynamic comic known for his infectious energy\, p
- hysical storytelling\, and ability to leave crowds in tears of laughter. I
- n April 2025\, he released his first comedy special in 10 years\, "Not Gon
- na Stop"\, on YouTube\, where it racked up over 1 million views in the fir
- st 10 days and over 4 million views to date\, proving once again that he's
-  a fan favorite who never missed a beat. From early beginnings as a flight
-  attendant to turning down a pro baseball career to pursue comedy\, Arnez 
- quickly rose through the ranks. After making waves as host of BET’s Comi
- c View for two seasons\, his career exploded with numerous TV appearances\
- , including The Keenan Ivory Wayans Show\, Louie Anderson’s Comedy Showc
- ase\, Comedy Central’s Make Me Laugh\, NBC’s Friday Night Videos\, The
-  Mo’Nique Show\, Russell Simmons’ Def Comedy Jam\, his own Comic View 
- Grandstand Hour Special\, and Comedy Central Presents: Arnez J. He was mos
- t recently seen headlining Showtime’s Shaquille O'Neal Presents: All Sta
- r Comedy Jam. His hit special "Racially Motivated\," originally released o
- n Netflix\, is now streaming on Amazon &amp\; Tubi\, introducing new fans 
- to the comedic force that is Arnez J. Still touring\, still evolving\, and
-  still bringing the funny—Arnez J is back\, and he’s not gonna stop.\n
- \nSource: https://www.visitrhodeisland.com/event/arnez-j/111068/
-LOCATION:Comedy Connection\, 39 Warren Avenue\, East Providence\, RI 02914
-URL:https://www.visitrhodeisland.com/event/arnez-j/111068/
+SUMMARY:Behind the Hedges with Will Vogt
+DTSTART;VALUE=DATE:20260820
+DTEND;VALUE=DATE:20260821
+DTSTAMP:20260820T110130Z
+UID:71ef8e704cd3c64419adcf971902@visitri-calendar
+DESCRIPTION:Behind the Hedges follows the sensational success of Will Vogt
+ ’s debut monograph\, "These Americans". In this book\, the excesses of y
+ outh have given way to the refined cadence of tradition. Vogt’s images d
+ raw power from their tension between proximity and distance\, functioning 
+ as portraits of a class oriented toward preservation within a nation other
+ wise defined by reinvention. They depict a community adept at weathering c
+ hange while maintaining its habit of self‑reproduction. Will Vogt is a p
+ hotographer whose work chronicles the lives and activities of his social c
+ ircle. His work has been exhibited nationally and published in Wallpaper\,
+  Interview\, AnOther\, Collector Daily\, and New York Magazine. Vogt divid
+ es his time between his home in Corpus Christi\, his South Texas ranch\, a
+ nd Watch Hill\, Rhode Island.\n\nSource: https://www.visitrhodeisland.com/
+ event/behind-the-hedges-with-will-vogt/111324/
+LOCATION:Redwood Library & Athenæum\, 50 Bellevue Avenue\, Newport\, 0284
+ 0
+URL:https://www.visitrhodeisland.com/event/behind-the-hedges-with-will-vog
+ t/111324/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Blithewold Annual Family Clambake
-DTSTART;VALUE=DATE:20260819
-DTEND;VALUE=DATE:20260820
-DTSTAMP:20260819T105927Z
-UID:9d9b6976144b2bb0c5cff8be5cbb@visitri-calendar
+DTSTART;VALUE=DATE:20260820
+DTEND;VALUE=DATE:20260821
+DTSTAMP:20260820T110130Z
+UID:eb76f19842e24bcfd6e8b35946fa@visitri-calendar
 DESCRIPTION:Blithewold Annual Family Clambake Thursday | August 27 5:00 &#
  8211\; 8:00 PM Location: Event Tent The Great Lawn has been the scene of f
  amily clambakes for over a century! Step back in time and stroll the garde
@@ -408,10 +413,10 @@ URL:https://www.visitrhodeisland.com/event/blithewold-annual-family-clamba
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Brew at the Zoo
-DTSTART;VALUE=DATE:20260819
-DTEND;VALUE=DATE:20260820
-DTSTAMP:20260819T105927Z
-UID:84efda5498aecc8a3ca78c6a939a@visitri-calendar
+DTSTART;VALUE=DATE:20260820
+DTEND;VALUE=DATE:20260821
+DTSTAMP:20260820T110130Z
+UID:0b5b71baa2c8fa8cc6ec434dbdc2@visitri-calendar
 DESCRIPTION:Tap into your wild side at Brew at the Zoo on Saturday\, Augus
  t 29th\, an adults-only evening event\, and sample hundreds of beers\, har
  d seltzers\, wines and ready-to-drink cocktails from dozens of local\, reg
@@ -423,31 +428,30 @@ DESCRIPTION:Tap into your wild side at Brew at the Zoo on Saturday\, Augus
  s). All attendees are required to show a valid ID. Rain or shine\, tickets
   are non-refundable.\n\nSource: https://www.visitrhodeisland.com/event/bre
  w-at-the-zoo/110973/
-LOCATION:Roger Williams Park Zoo & Carousel Village\, 1000 Elmwood Avenue\
- , Providence\, 02907
+LOCATION:Roger Williams Park Zoo & Carousel Village\, 1000 Elmwood Avenue
+ \, Providence\, 02907
 URL:https://www.visitrhodeisland.com/event/brew-at-the-zoo/110973/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Dancing at The Towers featuring Roger Ceresi and the Allstars
-DTSTART;VALUE=DATE:20260819
-DTEND;VALUE=DATE:20260820
-DTSTAMP:20260819T105927Z
-UID:f7b03f4923a6a30bbf91afe0b0a1@visitri-calendar
-DESCRIPTION:Dancing at The Towers featuring Roger Ceresi and the Allstars 
- Wednesday\, August 19\, 2026 7:00 pm - 10:00 pm Enjoy a nine-piece rhythm 
- and blues band!\n\nSource: https://www.visitrhodeisland.com/event/dancing-
- at-the-towers-featuring-roger-ceresi-and-the-allstars/110686/
-LOCATION:The Towers of Narragansett\, 35 Ocean Road\, Narragansett\, RI 02
- 882
-URL:https://www.visitrhodeisland.com/event/dancing-at-the-towers-featuring
- -roger-ceresi-and-the-allstars/110686/
+SUMMARY:Concerts in the Park 2026
+DTSTART;VALUE=DATE:20260820
+DTEND;VALUE=DATE:20260821
+DTSTAMP:20260820T110130Z
+UID:a9c778f04a9e6ab31cda4b6d4387@visitri-calendar
+DESCRIPTION:The August 20 concert features Kelly &amp\; The Poor Boys\, pe
+ rforming a Creedence Clearwater Revival tribute. All performances are weat
+ her permitting.\n\nSource: https://www.visitrhodeisland.com/event/concerts
+ -in-the-park-2026/109939/
+LOCATION:Crescent Park\, 701 Bullocks Point Avenue\, Riverside\, RI 02915
+URL:https://www.visitrhodeisland.com/event/concerts-in-the-park-2026/10993
+ 9/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:General Stanton Inn Blues Music Festival
-DTSTART;VALUE=DATE:20260819
-DTEND;VALUE=DATE:20260820
-DTSTAMP:20260819T105927Z
-UID:6d015886d05255a431e77e968114@visitri-calendar
+DTSTART;VALUE=DATE:20260820
+DTEND;VALUE=DATE:20260821
+DTSTAMP:20260820T110130Z
+UID:807fcaf9ee679928f7cfe0a6cf57@visitri-calendar
 DESCRIPTION:Top Rhode Island blues music artists perform under the Stanton
   tent\, bbq\, beer\, seafood\, bourbon and more. Bring a lawn chair.\n\nSo
  urce: https://www.visitrhodeisland.com/event/general-stanton-inn-blues-mus
@@ -474,10 +478,10 @@ URL:https://www.visitrhodeisland.com/event/general-stanton-inn-blues-music
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Jacob Hackworth Live at Moonshine Alley!
-DTSTART;VALUE=DATE:20260819
-DTEND;VALUE=DATE:20260820
-DTSTAMP:20260819T105927Z
-UID:58aae00fa61247430254b98738aa@visitri-calendar
+DTSTART;VALUE=DATE:20260820
+DTEND;VALUE=DATE:20260821
+DTSTAMP:20260820T110130Z
+UID:b06752179166c918b55af75be5c9@visitri-calendar
 DESCRIPTION:ON SALE NOW Cat Country 98.1 presents Jacob Hackworth LIVE at 
  Moonshine Alley on Tuesday\, August 25th! MCA Records &amp\; Nashville sin
  ger and songwriter Jacob Hackworth is coming to Providence for one night o
@@ -495,29 +499,12 @@ URL:https://www.visitrhodeisland.com/event/jacob-hackworth-live-at-moonshi
  ne-alley!/111051/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Music at the Museum
-DTSTART;VALUE=DATE:20260819
-DTEND;VALUE=DATE:20260820
-DTSTAMP:20260819T105927Z
-UID:513542dde43e302098c58fdccc21@visitri-calendar
-DESCRIPTION:Music at the Museum is returning to South County Museum! Enjoy
-  live music from Rhode to Bali and Bee and the Boys! The museum will be op
- en to tour\, so come visit the craft barns and Metz exhibition hall! This 
- is a picnic-style family event\, so bring some food\, chairs\, and a picni
- c blanket. Beer and wine will be available for purchase. All purchases and
-  tickets will directly support museum programming.\n\nSource: https://www.
- visitrhodeisland.com/event/music-at-the-museum/111317/
-LOCATION:South County Museum\, 115 Strathmore Street\, Narragansett\, RI 0
- 2882 Time: 5:00 PM to 8:00 PM
-URL:https://www.visitrhodeisland.com/event/music-at-the-museum/111317/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:NIMFest: Groove Merchants w/ Olivia Nied | Live\, Outdoor Music at
   King Park
-DTSTART;VALUE=DATE:20260819
-DTEND;VALUE=DATE:20260820
-DTSTAMP:20260819T105927Z
-UID:93a79a7e8fe3c38cd5fe532d5152@visitri-calendar
+DTSTART;VALUE=DATE:20260820
+DTEND;VALUE=DATE:20260821
+DTSTAMP:20260820T110130Z
+UID:222597533c93c37c6bc6d17113aa@visitri-calendar
 DESCRIPTION:NIMFest (Newport Independent Music Festival) comes to you live
   from the King Park Gazebo at 125 Wellington Ave in Newport. This FREE\, w
  eekly concert series runs every Sunday in July and August from 3:00-6:00PM
@@ -532,106 +519,10 @@ URL:https://www.visitrhodeisland.com/event/nimfest%3a-groove-merchants-w-o
  livia-nied-%7c-live-outdoor-music-at-king-park/109909/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:A Taste of North Kingstown
-DTSTART;VALUE=DATE:20260820
-DTEND;VALUE=DATE:20260821
-DTSTAMP:20260819T105927Z
-UID:3d03bcf41d01b012c3074b5e030a@visitri-calendar
-DESCRIPTION:This signature celebration brings together North Kingstown's f
- inest restaurants\, caterers\, bakeries\, beverage providers\, food artisa
- ns\, and culinary businesses for an evening dedicated to great food\, loca
- l business\, and community engagement. Guests will have the opportunity to
-  sample a wide variety of flavors\, discover new favorites\, and connect w
- ith the people and businesses that make North Kingstown a vibrant place to
-  live\, work\, and visit. Taste of NK is more than a food event—it's a g
- athering of residents\, business leaders\, community partners\, elected of
- ficials\, and visitors from throughout the region. It serves as a platform
-  for local businesses to showcase their offerings\, build meaningful relat
- ionships\, and strengthen their presence within the community.\n\nSource: 
- https://www.visitrhodeisland.com/event/a-taste-of-north-kingstown/111357/
-LOCATION:Quidnesset Country Club\, 950 North Quidnesset Road\, North Kings
- town\, RI 02852 950 North Quidnesset Road\, North Kingstown\, RI 02852 OFF
- ICIAL RHODE ISLAND TRAVEL GUIDE Get Guide Get news from Visit Rhode Island
-  in your inbox. Industry Partner Leisure Travel Sign Up Ratings Powered by
-  Press Industry Travel Trade Meetings & Conventions Contact Privacy Policy
-  Sitemap Partner Portal SMS Privacy Policy SMS Terms & Conditions UGC Term
- s and Conditions Wedding Planning Press Photos Story Ideas Fun-Sized Rhode
-  Island Rhode Island in the News Free Travel Guide Contact Visit Rhode Isl
- and Industry Travel Trade Ideas & Itineraries Downton Abbey Lifestyle Rhod
- e Island Foodways Hidden Gems Image Library Free Travel Guide Contact Visi
- t Rhode Island Meetings & Conventions Contact Privacy Policy Sitemap Partn
- er Portal SMS Privacy Policy SMS Terms & Conditions UGC Terms and Conditio
- ns Wedding Planning Weddings - Venues Wedding - Catering Wedding - Cakes W
- edding - Attire Wedding - Florists Wedding - Jewelers Wedding - Transporta
- tion © 2026 Rhode Island Commerce Corporation Special Offers Offers Here 
- Looking to plan your next visit to Rhode Island\, check out some of the cu
- rrent special offers and enjoy savings\, extra perks and more! Offers Here
-URL:https://www.visitrhodeisland.com/event/a-taste-of-north-kingstown/1113
- 57/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Early Bird Museum Highlight Tour at Newport Car Museum
-DTSTART;VALUE=DATE:20260820
-DTEND;VALUE=DATE:20260821
-DTSTAMP:20260819T105927Z
-UID:c236c9eaeca89853a62519e9ab25@visitri-calendar
-DESCRIPTION:Early Bird Highlight Tour For 90 minutes (8:30 &#8211\; 10:00 
- AM) prior to Museum opening. Call to book: +1 (401) 848-2277 Price $75.00 
- per person (minimum 2\, maximum 6 ppl) Offered Wednesday\, Thursday\, and 
- Saturday only April 1 - December 31\, 2026. General admission is included 
- with price. 72-hour advance notice is suggested. Only one group will be ho
- sted on any given morning. This is your chance to have the Newport Car Mus
- eum all to yourself with a private guide to share with you the not-to-miss
-  highlights in seven expansive galleries. With over 100 iconic\, rare and 
- exotic cars on display at one time\, this private collection is bursting w
- ith history\, provenance and color\, not to mention the breathtaking sculp
- tural beauty of automotive designs starting with the 1950s and finishing w
- ith new models from the 21 st Century. After 90 minutes with your private\
- , continue to explore at your own pace so that you can further examine you
- r favorites from the Ford/Shelby\, Corvette\, World Car\, Porsche\, Fin Ca
- r\, American Muscle and Mopar exhibits while enjoying immersive videos\, a
- rtwork and the Museum’s eclectic collection of Mid-Century Modern Furnit
- ure.\n\nSource: https://www.visitrhodeisland.com/event/early-bird-museum-h
- ighlight-tour-at-newport-car-museum/109638/
-LOCATION:Newport Car Museum\, Enter at Light 1947 West Main Road\, Portsmo
- uth\, RI 02871
-URL:https://www.visitrhodeisland.com/event/early-bird-museum-highlight-tou
- r-at-newport-car-museum/109638/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Early Bird Museum Highlight Tour at Newport Car Museum
-DTSTART;VALUE=DATE:20260822
-DTEND;VALUE=DATE:20260823
-DTSTAMP:20260819T105927Z
-UID:f0f0b08c623cb2dd61c5ee36bf53@visitri-calendar
-DESCRIPTION:Early Bird Highlight Tour For 90 minutes (8:30 &#8211\; 10:00 
- AM) prior to Museum opening. Call to book: +1 (401) 848-2277 Price $75.00 
- per person (minimum 2\, maximum 6 ppl) Offered Wednesday\, Thursday\, and 
- Saturday only April 1 - December 31\, 2026. General admission is included 
- with price. 72-hour advance notice is suggested. Only one group will be ho
- sted on any given morning. This is your chance to have the Newport Car Mus
- eum all to yourself with a private guide to share with you the not-to-miss
-  highlights in seven expansive galleries. With over 100 iconic\, rare and 
- exotic cars on display at one time\, this private collection is bursting w
- ith history\, provenance and color\, not to mention the breathtaking sculp
- tural beauty of automotive designs starting with the 1950s and finishing w
- ith new models from the 21 st Century. After 90 minutes with your private\
- , continue to explore at your own pace so that you can further examine you
- r favorites from the Ford/Shelby\, Corvette\, World Car\, Porsche\, Fin Ca
- r\, American Muscle and Mopar exhibits while enjoying immersive videos\, a
- rtwork and the Museum’s eclectic collection of Mid-Century Modern Furnit
- ure.\n\nSource: https://www.visitrhodeisland.com/event/early-bird-museum-h
- ighlight-tour-at-newport-car-museum/109638/
-LOCATION:Newport Car Museum\, Enter at Light 1947 West Main Road\, Portsmo
- uth\, RI 02871
-URL:https://www.visitrhodeisland.com/event/early-bird-museum-highlight-tou
- r-at-newport-car-museum/109638/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:General Stanton Inn Blues Music Festival
 DTSTART;VALUE=DATE:20260823
 DTEND;VALUE=DATE:20260824
-DTSTAMP:20260819T105927Z
+DTSTAMP:20260820T110130Z
 UID:d4af5e9754de8b7973ccbe936045@visitri-calendar
 DESCRIPTION:Top Rhode Island blues music artists perform under the Stanton
   tent\, bbq\, beer\, seafood\, bourbon and more. Bring a lawn chair.\n\nSo
@@ -662,7 +553,7 @@ SUMMARY:NIMFest: Groove Merchants w/ Olivia Nied | Live\, Outdoor Music at
   King Park
 DTSTART;VALUE=DATE:20260823
 DTEND;VALUE=DATE:20260824
-DTSTAMP:20260819T105927Z
+DTSTAMP:20260820T110130Z
 UID:e43d950bc7c5636c64f3187cf4d2@visitri-calendar
 DESCRIPTION:NIMFest (Newport Independent Music Festival) comes to you live
   from the King Park Gazebo at 125 Wellington Ave in Newport. This FREE\, w
@@ -681,7 +572,7 @@ BEGIN:VEVENT
 SUMMARY:Jacob Hackworth Live at Moonshine Alley!
 DTSTART;VALUE=DATE:20260825
 DTEND;VALUE=DATE:20260826
-DTSTAMP:20260819T105927Z
+DTSTAMP:20260820T110130Z
 UID:f35a8fe4166371ef1f7d3be66b07@visitri-calendar
 DESCRIPTION:ON SALE NOW Cat Country 98.1 presents Jacob Hackworth LIVE at 
  Moonshine Alley on Tuesday\, August 25th! MCA Records &amp\; Nashville sin
@@ -703,7 +594,7 @@ BEGIN:VEVENT
 SUMMARY:Free Summer Concert Series at Ragged Island
 DTSTART;VALUE=DATE:20260826
 DTEND;VALUE=DATE:20260827
-DTSTAMP:20260819T105927Z
+DTSTAMP:20260820T110130Z
 UID:c34f298b13c81e8e626e59cb461a@visitri-calendar
 DESCRIPTION:Announcing Ragged Island's Free 2026 Summer Concert Series Rag
  ged Island has nine awesome bands lined up for Wednesday nights in July an
@@ -735,7 +626,7 @@ BEGIN:VEVENT
 SUMMARY:Hope & Main Makers Markets: Summer Series
 DTSTART;VALUE=DATE:20260826
 DTEND;VALUE=DATE:20260827
-DTSTAMP:20260819T105927Z
+DTSTAMP:20260820T110130Z
 UID:508203d8ab48a0f5179cf6188b3b@visitri-calendar
 DESCRIPTION:Developed by the operators of Hope &amp\; Main in Warren\, the
   Schoolyard Market helps locally-based food and beverage businesses start 
@@ -757,7 +648,7 @@ BEGIN:VEVENT
 SUMMARY:Music at Sunset: Concert Series 2026
 DTSTART;VALUE=DATE:20260826
 DTEND;VALUE=DATE:20260827
-DTSTAMP:20260819T105927Z
+DTSTAMP:20260820T110130Z
 UID:f7374ee07909032aafe715f097f0@visitri-calendar
 DESCRIPTION:Music at Sunset: Concert Series 2026 Wednesdays | June 3 &#821
  1\; August 26 Music from 6:00 &#8211\; 8:00 PM\, Parking and Check-in open
@@ -807,7 +698,7 @@ BEGIN:VEVENT
 SUMMARY:Blithewold Annual Family Clambake
 DTSTART;VALUE=DATE:20260827
 DTEND;VALUE=DATE:20260828
-DTSTAMP:20260819T105927Z
+DTSTAMP:20260820T110130Z
 UID:527f3299a90d3c05a0676865fdb2@visitri-calendar
 DESCRIPTION:Blithewold Annual Family Clambake Thursday | August 27 5:00 &#
  8211\; 8:00 PM Location: Event Tent The Great Lawn has been the scene of f
@@ -865,7 +756,7 @@ BEGIN:VEVENT
 SUMMARY:Food Truck Concert Nights - Diamond Hill Park
 DTSTART;VALUE=DATE:20260827
 DTEND;VALUE=DATE:20260828
-DTSTAMP:20260819T105927Z
+DTSTAMP:20260820T110130Z
 UID:6f571d24d4473b04f931421aed68@visitri-calendar
 DESCRIPTION:We return to Diamond Hill Park in Cumberland for another serie
  s of memorable events in 2026. Attendance is free\, just pay for what you 
@@ -893,7 +784,7 @@ BEGIN:VEVENT
 SUMMARY:Brew at the Zoo
 DTSTART;VALUE=DATE:20260829
 DTEND;VALUE=DATE:20260830
-DTSTAMP:20260819T105927Z
+DTSTAMP:20260820T110130Z
 UID:2f2070c631904a407ca11ec8d953@visitri-calendar
 DESCRIPTION:Tap into your wild side at Brew at the Zoo on Saturday\, Augus
  t 29th\, an adults-only evening event\, and sample hundreds of beers\, har
@@ -906,15 +797,15 @@ DESCRIPTION:Tap into your wild side at Brew at the Zoo on Saturday\, Augus
  s). All attendees are required to show a valid ID. Rain or shine\, tickets
   are non-refundable.\n\nSource: https://www.visitrhodeisland.com/event/bre
  w-at-the-zoo/110973/
-LOCATION:Roger Williams Park Zoo & Carousel Village\, 1000 Elmwood Avenue\
- , Providence\, 02907
+LOCATION:Roger Williams Park Zoo & Carousel Village\, 1000 Elmwood Avenue
+ \, Providence\, 02907
 URL:https://www.visitrhodeisland.com/event/brew-at-the-zoo/110973/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Field of Artisans at the Beach
 DTSTART;VALUE=DATE:20260829
 DTEND;VALUE=DATE:20260830
-DTSTAMP:20260819T105927Z
+DTSTAMP:20260820T110130Z
 UID:ccb222ee4b8c9bc014c177518d7d@visitri-calendar
 DESCRIPTION:Join Field of Artisans on Saturdays this summer for the 11th y
  ear of bringing creativity to this beautiful location! Artists will displa
@@ -931,7 +822,7 @@ BEGIN:VEVENT
 SUMMARY:Live Music by Logan Vale
 DTSTART;VALUE=DATE:20260829
 DTEND;VALUE=DATE:20260830
-DTSTAMP:20260819T105927Z
+DTSTAMP:20260820T110130Z
 UID:51d81b6b9ac830a4dbc32c26efd3@visitri-calendar
 DESCRIPTION:The music of Logan Vale! Dinner reservations required either o
  nline or call 401.861.3850 x. 3\n\nSource: https://www.visitrhodeisland.co
@@ -945,7 +836,7 @@ BEGIN:VEVENT
 SUMMARY:Rhode Island SeaFood Festival 2026
 DTSTART;VALUE=DATE:20260912
 DTEND;VALUE=DATE:20260913
-DTSTAMP:20260819T105927Z
+DTSTAMP:20260820T110130Z
 UID:7155b8a7bea276dc2235b2424899@visitri-calendar
 DESCRIPTION:Join us for the 16th annual Rhode Island Seafood Festival\, a 
  two-day extravaganza of the Ocean State’s best seafood\, live music and 
@@ -984,7 +875,7 @@ BEGIN:VEVENT
 SUMMARY:Rhode Island SeaFood Festival 2026
 DTSTART;VALUE=DATE:20260913
 DTEND;VALUE=DATE:20260914
-DTSTAMP:20260819T105927Z
+DTSTAMP:20260820T110130Z
 UID:724318b2396062bf2de4c6176658@visitri-calendar
 DESCRIPTION:Join us for the 16th annual Rhode Island Seafood Festival\, a 
  two-day extravaganza of the Ocean State’s best seafood\, live music and 
@@ -1020,10 +911,38 @@ URL:https://www.visitrhodeisland.com/event/rhode-island-seafood-festival-2
  026/111348/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:'Museum Reads' Book Club at Newport Art Museum
+DTSTART;VALUE=DATE:20260917
+DTEND;VALUE=DATE:20260918
+DTSTAMP:20260820T110130Z
+UID:cfcc48277024643de786644f6ed3@visitri-calendar
+DESCRIPTION:Welcome to Museum Reads\, the Newport Art Museum’s Art-Theme
+ d book group for adults! Are you looking to learn more about art and artis
+ ts\, or enjoy digging into some of the issues present in our current exhib
+ itions? Then this friendly discussion group is for you. We meet monthly on
+  the third Thursday at 12:00 PM\, in person and virtually. Join us virtual
+ ly from the office for an invigorating lunch break or enjoy an hour of ins
+ piration during a wee one’s nap time or find us in the gallery for in-pe
+ rson conversation. Upcoming Dates: April 16 - Stand and Gus: Art\, Ardor\,
+  and the Friendship That Built the Gilded Age May 14 - Murder at Arleigh J
+ une 18 - Surreal: The Extraordinary Life of Gala Dali July 16 - Jamestown:
+  Architecture\, Landscape\, and the Making of a Rhode Paradise August 20 -
+  A Month in Siena September 17 - Mary Cassatt between Paris and New York: 
+ The Making of a Transatlantic Legacy October 15 - Winslow Homer: American 
+ Passage Museum Reads is free for Members\, and $5 for yet-to-be Members. B
+ e sure to register online to receive email updates and Zoom links. For las
+ t minute registrations\, please call the front desk for the Zoom link at 4
+ 01-848-8200.\n\nSource: https://www.visitrhodeisland.com/event/museum-read
+ s-book-club-at-newport-art-museum/109609/
+LOCATION:Newport Art Museum\, 76 Bellevue Avenue\, Newport\, RI 02840
+URL:https://www.visitrhodeisland.com/event/museum-reads-book-club-at-newpo
+ rt-art-museum/109609/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:PVDFest 2026
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260919
-DTSTAMP:20260819T105927Z
+DTSTAMP:20260820T110130Z
 UID:2de49afd8f722627b9a1f5e00bb1@visitri-calendar
 DESCRIPTION:The People’s Festival for Arts\, Music\, and Culture Mayor B
  rett P. Smiley\, the City’s Department of Art\, Culture\, Tourism and Pr
@@ -1042,7 +961,7 @@ BEGIN:VEVENT
 SUMMARY:Food Truck Concert Nights - Diamond Hill Park
 DTSTART;VALUE=DATE:20260919
 DTEND;VALUE=DATE:20260920
-DTSTAMP:20260819T105927Z
+DTSTAMP:20260820T110130Z
 UID:c61110f0d2ee251ab02333bed717@visitri-calendar
 DESCRIPTION:We return to Diamond Hill Park in Cumberland for another serie
  s of memorable events in 2026. Attendance is free\, just pay for what you 
@@ -1070,7 +989,7 @@ BEGIN:VEVENT
 SUMMARY:PVDFest 2026
 DTSTART;VALUE=DATE:20260919
 DTEND;VALUE=DATE:20260920
-DTSTAMP:20260819T105927Z
+DTSTAMP:20260820T110130Z
 UID:553bda94539f69469073803099fb@visitri-calendar
 DESCRIPTION:The People’s Festival for Arts\, Music\, and Culture Mayor B
  rett P. Smiley\, the City’s Department of Art\, Culture\, Tourism and Pr
@@ -1086,44 +1005,38 @@ LOCATION:Downtown Providence\, Downtown Providence\, Providence\, RI 02903
 URL:https://www.visitrhodeisland.com/event/pvdfest-2026/104917/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Deja Vieux Vintage Shopping Bus Tour Adventure - October 4th
-DTSTART;VALUE=DATE:20261005
-DTEND;VALUE=DATE:20261006
-DTSTAMP:20260819T105927Z
-UID:5fe8cdac575b282879f35adb305f@visitri-calendar
-DESCRIPTION:⭐Hop Aboard Rhode Island’s First - Ever Vintage Shops Bus 
- Tour!⭐ We invite you to join us at Deja Vieux Vintage for a uniquely cur
- ated shopping adventure! On Sunday\, October 4th\, from 10:30 AM to 4:00 P
- M\, we are hitting the road for a premier 5-hour vintage bus tour down Rou
- te 6 and Route 44. The tour features exclusive discounts at 8 to 12 of our
-  favorite local antique and vintage shops\, making it the perfect day out 
- for collectors and vintage lovers alike. The Ultimate Vintage &amp\; Antiq
- ue Bus Tour Host: Deja Vieux Vintage Date &amp\; Time: Sunday\, October 4t
- h | 10:30 AM &#8211\; 4:00 PM Ticket Information: • Single Ticket: $37.5
- 0 • Bring a Friend Bundle: Two for $70 Every ticket comes packed with va
- lue! You get your bus boarding pass\, event shopping bag\, coupon booklet\
- , complimentary snacks and water\, plus a chance to win prizes. Departure 
- &amp\; Logistics Details: To ensure a smooth departure\, please arrive at 
- Deja Vieux Vintage on Sunday\, October 4th\, before 10:30 AM. Our storefro
- nt will be open early so you can enjoy your very first shopping experience
-  of the day! Parking is completely free. Our bus leaves promptly at 11:00 
- AM. We will be traveling on a chartered yellow school bus from Ocean State
-  Transit\; please note that this vehicle is unfortunately not handicap acc
- essible. Single ticket holders may need to share seats\, while our friends
-  bundles ticket holders guarantee seating together. Complimentary snacks a
- nd water will be provided on board\, and you are welcome to bring your own
-  allergen-free lunch. Tickets are non-refundable but are transferable.\n\n
- Source: https://www.visitrhodeisland.com/event/deja-vieux-vintage-shopping
- -bus-tour-adventure-october-4th/111403/
-LOCATION:Deja Vieux Vintage\, 20 Cedar Swamp Rd.\, Smithfield\, 02917
-URL:https://www.visitrhodeisland.com/event/deja-vieux-vintage-shopping-bus
- -tour-adventure-october-4th/111403/
+SUMMARY:'Museum Reads' Book Club at Newport Art Museum
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+DTSTAMP:20260820T110130Z
+UID:0e112d8566996b49aa9ede1c1065@visitri-calendar
+DESCRIPTION:Welcome to Museum Reads\, the Newport Art Museum’s Art-Theme
+ d book group for adults! Are you looking to learn more about art and artis
+ ts\, or enjoy digging into some of the issues present in our current exhib
+ itions? Then this friendly discussion group is for you. We meet monthly on
+  the third Thursday at 12:00 PM\, in person and virtually. Join us virtual
+ ly from the office for an invigorating lunch break or enjoy an hour of ins
+ piration during a wee one’s nap time or find us in the gallery for in-pe
+ rson conversation. Upcoming Dates: April 16 - Stand and Gus: Art\, Ardor\,
+  and the Friendship That Built the Gilded Age May 14 - Murder at Arleigh J
+ une 18 - Surreal: The Extraordinary Life of Gala Dali July 16 - Jamestown:
+  Architecture\, Landscape\, and the Making of a Rhode Paradise August 20 -
+  A Month in Siena September 17 - Mary Cassatt between Paris and New York: 
+ The Making of a Transatlantic Legacy October 15 - Winslow Homer: American 
+ Passage Museum Reads is free for Members\, and $5 for yet-to-be Members. B
+ e sure to register online to receive email updates and Zoom links. For las
+ t minute registrations\, please call the front desk for the Zoom link at 4
+ 01-848-8200.\n\nSource: https://www.visitrhodeisland.com/event/museum-read
+ s-book-club-at-newport-art-museum/109609/
+LOCATION:Newport Art Museum\, 76 Bellevue Avenue\, Newport\, RI 02840
+URL:https://www.visitrhodeisland.com/event/museum-reads-book-club-at-newpo
+ rt-art-museum/109609/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Live Music by Logan Vale
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261018
-DTSTAMP:20260819T105927Z
+DTSTAMP:20260820T110130Z
 UID:2241186137b505cf7c814cd90b60@visitri-calendar
 DESCRIPTION:The music of Logan Vale! Dinner reservations required either o
  nline or call 401.861.3850 x. 3\n\nSource: https://www.visitrhodeisland.co
@@ -1137,7 +1050,7 @@ BEGIN:VEVENT
 SUMMARY:Coastal Cruisers - The Golden Hour
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
-DTSTAMP:20260819T105927Z
+DTSTAMP:20260820T110130Z
 UID:a33f7731698b5451e05ba44e42fd@visitri-calendar
 DESCRIPTION:Experience the Island in our Coastal Cruisers\, Newport’s pr
  ivate chauffeured luxury tour\, dedicated to providing a sophisticated way
@@ -1167,7 +1080,7 @@ BEGIN:VEVENT
 SUMMARY:Beyond the Brewhouse Tour
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
-DTSTAMP:20260819T105927Z
+DTSTAMP:20260820T110130Z
 UID:c7b48636db9ede5f5acbbb263d31@visitri-calendar
 DESCRIPTION:Beyond the Brewhouse Where: Newport Craft Brewing and Distilli
  ng\, 293 JT Connell Road\, Newport 45 minutes: $20 per person Did you know
@@ -1177,38 +1090,9 @@ DESCRIPTION:Beyond the Brewhouse Where: Newport Craft Brewing and Distilli
  nd walk through our distillery. Conclude the tour with a brew and spirit f
  light for a complete palate experience. Ages 21+\n\nSource: https://www.vi
  sitrhodeisland.com/event/beyond-the-brewhouse-tour/110153/
-LOCATION:Newport Craft Brewing & Distilling Company\, 293 JT Connell Road\
- , Newport\, RI 02840 Time: 45 minutes: Tour start time varies by booking.
+LOCATION:Newport Craft Brewing & Distilling Company\, 293 JT Connell Road
+ \, Newport\, RI 02840 Time: 45 minutes: Tour start time varies by booking.
 URL:https://www.visitrhodeisland.com/event/beyond-the-brewhouse-tour/11015
  3/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Early Bird Museum Highlight Tour at Newport Car Museum
-DTSTART;VALUE=DATE:20261231
-DTEND;VALUE=DATE:20270101
-DTSTAMP:20260819T105927Z
-UID:2f06cece69080ebb1042b1f38a6b@visitri-calendar
-DESCRIPTION:Early Bird Highlight Tour For 90 minutes (8:30 &#8211\; 10:00 
- AM) prior to Museum opening. Call to book: +1 (401) 848-2277 Price $75.00 
- per person (minimum 2\, maximum 6 ppl) Offered Wednesday\, Thursday\, and 
- Saturday only April 1 - December 31\, 2026. General admission is included 
- with price. 72-hour advance notice is suggested. Only one group will be ho
- sted on any given morning. This is your chance to have the Newport Car Mus
- eum all to yourself with a private guide to share with you the not-to-miss
-  highlights in seven expansive galleries. With over 100 iconic\, rare and 
- exotic cars on display at one time\, this private collection is bursting w
- ith history\, provenance and color\, not to mention the breathtaking sculp
- tural beauty of automotive designs starting with the 1950s and finishing w
- ith new models from the 21 st Century. After 90 minutes with your private\
- , continue to explore at your own pace so that you can further examine you
- r favorites from the Ford/Shelby\, Corvette\, World Car\, Porsche\, Fin Ca
- r\, American Muscle and Mopar exhibits while enjoying immersive videos\, a
- rtwork and the Museum’s eclectic collection of Mid-Century Modern Furnit
- ure.\n\nSource: https://www.visitrhodeisland.com/event/early-bird-museum-h
- ighlight-tour-at-newport-car-museum/109638/
-LOCATION:Newport Car Museum\, Enter at Light 1947 West Main Road\, Portsmo
- uth\, RI 02871
-URL:https://www.visitrhodeisland.com/event/early-bird-museum-highlight-tou
- r-at-newport-car-museum/109638/
 END:VEVENT
 END:VCALENDAR
