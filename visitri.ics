@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:$15 Moonshine Flights & Moonshine Tasting
 DTSTART;VALUE=DATE:20250615
 DTEND;VALUE=DATE:20250616
-DTSTAMP:20260821T110147Z
+DTSTAMP:20260822T105517Z
 UID:b6432d870f2c0958f26453a40d59@visitri-calendar
 DESCRIPTION:Try a Moonshine Flight tasting at Moonshine Alley! Moonshine F
  lights are available daily for just $15! We have over 13 flavors to choose
@@ -23,7 +23,7 @@ BEGIN:VEVENT
 SUMMARY:Coastal Cruisers - The Golden Hour
 DTSTART;VALUE=DATE:20260501
 DTEND;VALUE=DATE:20260502
-DTSTAMP:20260821T110147Z
+DTSTAMP:20260822T105517Z
 UID:9f3864060ce7679e35293700f37c@visitri-calendar
 DESCRIPTION:Experience the Island in our Coastal Cruisers\, Newport’s pr
  ivate chauffeured luxury tour\, dedicated to providing a sophisticated way
@@ -53,7 +53,7 @@ BEGIN:VEVENT
 SUMMARY:Dueling Pianos at the Top of Pelham
 DTSTART;VALUE=DATE:20260501
 DTEND;VALUE=DATE:20260502
-DTSTAMP:20260821T110147Z
+DTSTAMP:20260822T105517Z
 UID:60db075f3503c7ed2d6aa2d4f46a@visitri-calendar
 DESCRIPTION:Dueling Pianos at the Top of Pelham Please check your dates an
  d times — show start times vary. For more dates and showtimes\, check ou
@@ -81,7 +81,7 @@ BEGIN:VEVENT
 SUMMARY:Beyond the Brewhouse Tour
 DTSTART;VALUE=DATE:20260515
 DTEND;VALUE=DATE:20260516
-DTSTAMP:20260821T110147Z
+DTSTAMP:20260822T105517Z
 UID:acc9d8e1d1bdab34c6766b602473@visitri-calendar
 DESCRIPTION:Beyond the Brewhouse Where: Newport Craft Brewing and Distilli
  ng\, 293 JT Connell Road\, Newport 45 minutes: $20 per person Did you know
@@ -100,7 +100,7 @@ BEGIN:VEVENT
 SUMMARY:Music at Sunset: Concert Series 2026
 DTSTART;VALUE=DATE:20260603
 DTEND;VALUE=DATE:20260604
-DTSTAMP:20260821T110147Z
+DTSTAMP:20260822T105517Z
 UID:87bda7b48d099d40defa3f7e711b@visitri-calendar
 DESCRIPTION:Music at Sunset: Concert Series 2026 Wednesdays | June 3 &#821
  1\; August 26 Music from 6:00 &#8211\; 8:00 PM\, Parking and Check-in open
@@ -150,7 +150,7 @@ BEGIN:VEVENT
 SUMMARY:Free Summer Concert Series at Ragged Island
 DTSTART;VALUE=DATE:20260624
 DTEND;VALUE=DATE:20260625
-DTSTAMP:20260821T110147Z
+DTSTAMP:20260822T105517Z
 UID:1c212ee8000d851f7b6e4ea8f143@visitri-calendar
 DESCRIPTION:Announcing Ragged Island's Free 2026 Summer Concert Series Rag
  ged Island has nine awesome bands lined up for Wednesday nights in July an
@@ -182,7 +182,7 @@ BEGIN:VEVENT
 SUMMARY:Hope & Main Makers Markets: Summer Series
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260702
-DTSTAMP:20260821T110147Z
+DTSTAMP:20260822T105517Z
 UID:a4c76656bb4dd2f560a21d25ca37@visitri-calendar
 DESCRIPTION:Developed by the operators of Hope &amp\; Main in Warren\, the
   Schoolyard Market helps locally-based food and beverage businesses start 
@@ -204,7 +204,7 @@ BEGIN:VEVENT
 SUMMARY:Field of Artisans at the Beach
 DTSTART;VALUE=DATE:20260711
 DTEND;VALUE=DATE:20260712
-DTSTAMP:20260821T110147Z
+DTSTAMP:20260822T105517Z
 UID:7ebe1a9998bbb563181c86657159@visitri-calendar
 DESCRIPTION:Join Field of Artisans on Saturdays this summer for the 11th y
  ear of bringing creativity to this beautiful location! Artists will displa
@@ -221,7 +221,7 @@ BEGIN:VEVENT
 SUMMARY:$15 Moonshine Flights & Moonshine Tasting
 DTSTART;VALUE=DATE:20260721
 DTEND;VALUE=DATE:20260722
-DTSTAMP:20260821T110147Z
+DTSTAMP:20260822T105517Z
 UID:6ac059c408c431eceb1c3c855c19@visitri-calendar
 DESCRIPTION:Try a Moonshine Flight tasting at Moonshine Alley! Moonshine F
  lights are available daily for just $15! We have over 13 flavors to choose
@@ -237,7 +237,7 @@ BEGIN:VEVENT
 SUMMARY:Live Music by Logan Vale
 DTSTART;VALUE=DATE:20260815
 DTEND;VALUE=DATE:20260816
-DTSTAMP:20260821T110147Z
+DTSTAMP:20260822T105517Z
 UID:83f1c7264b84148bcd597ec3aec6@visitri-calendar
 DESCRIPTION:The music of Logan Vale! Dinner reservations required either o
  nline or call 401.861.3850 x. 3\n\nSource: https://www.visitrhodeisland.co
@@ -251,7 +251,7 @@ BEGIN:VEVENT
 SUMMARY:Deja Vieux Vintage Shopping Bus Tour Adventure - October 4th
 DTSTART;VALUE=DATE:20260817
 DTEND;VALUE=DATE:20260818
-DTSTAMP:20260821T110147Z
+DTSTAMP:20260822T105517Z
 UID:912e503a9012deae13b33d1d0a85@visitri-calendar
 DESCRIPTION:⭐Hop Aboard Rhode Island’s First - Ever Vintage Shops Bus 
  Tour!⭐ We invite you to join us at Deja Vieux Vintage for a uniquely cur
@@ -285,7 +285,7 @@ BEGIN:VEVENT
 SUMMARY:99th Annual Greek Festival
 DTSTART;VALUE=DATE:20260821
 DTEND;VALUE=DATE:20260822
-DTSTAMP:20260821T110147Z
+DTSTAMP:20260822T105517Z
 UID:19375ae28da8bebad77ad85efa22@visitri-calendar
 DESCRIPTION:Join us for a weekend of traditional Greek food\, music\, and 
  dance at the 99th annual Greek Festival\, August 21 - 23 at the Assumption
@@ -302,28 +302,31 @@ URL:https://www.visitrhodeisland.com/event/99th-annual-greek-festival/1113
  82/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:All Your Friends
-DTSTART;VALUE=DATE:20260821
-DTEND;VALUE=DATE:20260822
-DTSTAMP:20260821T110147Z
-UID:8391e328d0bea132b85c8546f479@visitri-calendar
-DESCRIPTION:All Your Friends is the indie sleaze DJ dance party remixing a
- ll your favorite 2010s indie hits from Passion Pit\, Grouplove\, and LCD S
- oundsystem and more! Join the modern underground where bloghouse\, post-pu
- nk revival\, and internet-era club music collide. Grab your digital camera
-  and relive the Tumblr and MySpace era where every night felt like a house
-  show turned afterparty\, soundtracked by The 1975\, Phoenix\, The Strokes
- \, Tame Impala and more.\n\nSource: https://www.visitrhodeisland.com/event
- /all-your-friends/111005/
-LOCATION:Alchemy\, 171 Chestnut Street\, Providence\, RI 02903
-URL:https://www.visitrhodeisland.com/event/all-your-friends/111005/
+SUMMARY:99th Annual Greek Festival
+DTSTART;VALUE=DATE:20260822
+DTEND;VALUE=DATE:20260823
+DTSTAMP:20260822T105517Z
+UID:5db9e36fd09986135577c68808d6@visitri-calendar
+DESCRIPTION:Join us for a weekend of traditional Greek food\, music\, and 
+ dance at the 99th annual Greek Festival\, August 21 - 23 at the Assumption
+  of the Virgin Mary Greek Orthodox Church\, 97 Walcott Street in Pawtucket
+ . Featuring your favorite Greek dishes\, desserts\, spirits\, and coffees
+ \, and dance performances\, baking demonstrations\, Church tours\, and Gre
+ ek Imports marketplace all weekend long. Free admission\, Rain or Shine\, 
+ Free parking with shuttle service across from Pawtucket City Hall. Details
+  and schedule of events at www.greekfestivalRI.com OPA!\n\nSource: https:/
+ /www.visitrhodeisland.com/event/99th-annual-greek-festival/111382/
+LOCATION:Assumption of the Virgin Mary Greek Orthodox Church\, 97 Walcott 
+ Street\, Pawtucket\, 02860
+URL:https://www.visitrhodeisland.com/event/99th-annual-greek-festival/1113
+ 82/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Blithewold Annual Family Clambake
-DTSTART;VALUE=DATE:20260821
-DTEND;VALUE=DATE:20260822
-DTSTAMP:20260821T110147Z
-UID:df9e8b057be2fe0786f5e04fdba1@visitri-calendar
+DTSTART;VALUE=DATE:20260822
+DTEND;VALUE=DATE:20260823
+DTSTAMP:20260822T105517Z
+UID:8770af156ee3e35e899b0af6baae@visitri-calendar
 DESCRIPTION:Blithewold Annual Family Clambake Thursday | August 27 5:00 &#
  8211\; 8:00 PM Location: Event Tent The Great Lawn has been the scene of f
  amily clambakes for over a century! Step back in time and stroll the garde
@@ -377,39 +380,33 @@ URL:https://www.visitrhodeisland.com/event/blithewold-annual-family-clamba
  ke/109496/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Blooms\, Burgers & Brews
-DTSTART;VALUE=DATE:20260821
-DTEND;VALUE=DATE:20260822
-DTSTAMP:20260821T110147Z
-UID:b00595cd75da741b4e88cc1d99ee@visitri-calendar
-DESCRIPTION:Enjoy a summer evening at Butterfly Farm featuring live music 
- by Michelle Saylors\, farm-fresh burgers\, cold drinks from EZ Bar\, hayri
- des\, lawn games\, and access to the beautiful sunflower field. Grab a dri
- nk\, stroll through the sunflowers\, enjoy a delicious burger\, and relax 
- with friends while taking in the sights and sounds of the farm. Your ticke
- t includes: -One farm-fresh burger cooked to your liking -One bag of chips
-  and sides of your choosing -One alcoholic beverage (adult tickets) -A hay
- ride around the farm -Access to the sunflower field -Live music by Michell
- e Saylors -A souvenir Butterfly Farm wine glass or pint glass to take home
-  Children’s tickets include everything except the alcoholic beverage. If
-  you haven’t tried our farm-raised\, grass-fed beef yet\, this is the pe
- rfect opportunity! All of our beef is raised right here on the farm and pr
- ocessed at a USDA-certified facility. Additional burgers\, chips\, and bev
- erages will be available for purchase throughout the evening. Well-behaved
- \, leashed dogs are welcome. Bring your friends\, grab a cold drink\, wand
- er through the sunflowers\, and enjoy a relaxing summer evening filled wit
- h great food\, live music\, and beautiful farm views. TICKETS\n\nSource: h
- ttps://www.visitrhodeisland.com/event/blooms-burgers-%26-brews/111270/
-LOCATION:Butterfly Farm\, 679 Great Road\, Lincoln\, RI 02865
-URL:https://www.visitrhodeisland.com/event/blooms-burgers-%26-brews/111270
- /
+SUMMARY:Booked With Book Around
+DTSTART;VALUE=DATE:20260822
+DTEND;VALUE=DATE:20260823
+DTSTAMP:20260822T105517Z
+UID:46dd23c96e3c08708cca32c11123@visitri-calendar
+DESCRIPTION:It's a night of soccer and books! (Don’t worry: you can focu
+ s on the soccer if books aren’t for you\, or you can focus on the books 
+ if soccer isn’t your thing) If you enjoy books\, meeting authors\, socce
+ r\, hanging out with other readers\, or all of the above\, this event is f
+ or you! Attendees will be seated together for a bookish hangout during the
+  game WITH the authors! Featured book: Wicked Wanted Widows - the third in
+  an 80s thriller series (that can be read as standalones) Register and rec
+ eive: 1 ticket to the game 1 signed copy of Wicked Wanted Widows (3 days b
+ efore its official release!) 1 Book Around × RIFC soccer bookmark 1 Wicke
+ d Wanted Widows bookmark Photo opportunities with the authors! Learn more 
+ and grab your tickets here: TICKETS\n\nSource: https://www.visitrhodeislan
+ d.com/event/booked-with-book-around/111424/
+LOCATION:Centreville Bank Stadium\, 11 Tidewater Street\, Pawtucket\, RI 0
+ 2860
+URL:https://www.visitrhodeisland.com/event/booked-with-book-around/111424/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Brew at the Zoo
-DTSTART;VALUE=DATE:20260821
-DTEND;VALUE=DATE:20260822
-DTSTAMP:20260821T110147Z
-UID:15c42fa4d7fe026fc5bfb1e7875a@visitri-calendar
+DTSTART;VALUE=DATE:20260822
+DTEND;VALUE=DATE:20260823
+DTSTAMP:20260822T105517Z
+UID:b8c79c4369ff0dc77f30910836e0@visitri-calendar
 DESCRIPTION:Tap into your wild side at Brew at the Zoo on Saturday\, Augus
  t 29th\, an adults-only evening event\, and sample hundreds of beers\, har
  d seltzers\, wines and ready-to-drink cocktails from dozens of local\, reg
@@ -426,11 +423,65 @@ LOCATION:Roger Williams Park Zoo & Carousel Village\, 1000 Elmwood Avenue
 URL:https://www.visitrhodeisland.com/event/brew-at-the-zoo/110973/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Creedence Clearwater Revival Tribute
+DTSTART;VALUE=DATE:20260822
+DTEND;VALUE=DATE:20260823
+DTSTAMP:20260822T105517Z
+UID:2a81325fd5652bfcf21e41d5b1e9@visitri-calendar
+DESCRIPTION:Creedence Revived has rapidly become one of the most highly so
+ ught after tribute bands in the world. Playing all over the globe for crow
+ ds upwards of 30\,000\, and with a track-record of selling out shows every
+ where they go\, this group is the real deal. The group is made up of four 
+ of Chicago’s &amp\; LA’s most talented and eclectic musicians &#8211\;
+  consisting of an award winning vocalist nicknamed “the chameleon” in 
+ the industry for his unique ability to shift his vocal to match the style 
+ of any vocalist\, a world-renowned blues guitarist who attracts blues fans
+  from around the world\, a studio bassist who has a appeared on many top c
+ harting albums\, and a drummer who sells out theaters on his own based sol
+ ely on his unique playing style. Representing America across the globe\, C
+ reedence Revived has toured Europe and Malaysia. Talent buyers and event c
+ oordinators often boast about their results and the group frequently gets 
+ re-hired year after year to return to the same events with fans walking aw
+ ay in awe of the group’s performance.\n\nSource: https://www.visitrhodei
+ sland.com/event/creedence-clearwater-revival-tribute/111161/
+LOCATION:Stadium Theatre\, 28 Monument Square\, Woonsocket\, RI 02895
+URL:https://www.visitrhodeisland.com/event/creedence-clearwater-revival-tr
+ ibute/111161/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dueling Pianos at the Top of Pelham
+DTSTART;VALUE=DATE:20260822
+DTEND;VALUE=DATE:20260823
+DTSTAMP:20260822T105517Z
+UID:39e50c0e194b38a2ef5afc477f02@visitri-calendar
+DESCRIPTION:Dueling Pianos at the Top of Pelham Please check your dates an
+ d times — show start times vary. For more dates and showtimes\, check ou
+ t Eventbrite. Located directly above One Pelham East\, the Top Of Pelham i
+ s proud to be the only venue in Newport\, Rhode Island\, hosting a live Du
+ eling Pianos Show! Situated across from Bowen’s Wharf on historic Thames
+  Street\, The Top delivers exceptional live entertainment featuring nation
+ ally known performers\, with a stunning view of the world-famous Newport H
+ arbor. Every weekend\, our stage is filled with two grand pianos as entert
+ ainers perform audience requests from every genre and era imaginable. Thro
+ ughout the show\, audience members are invited on stage for toasts and spe
+ cial dedication songs\, creating an unforgettable evening. This live music
+  experience is ideal for a night out in town\, bachelorette parties\, birt
+ hday celebrations\, and corporate events. No matter the occasion\, a great
+  time is guaranteed! Please note\, all events are strictly for individuals
+  aged 21 and over. Disclaimer: Due to rare last-minute scheduling conflict
+ s\, piano players are subject to change.\n\nSource: https://www.visitrhode
+ island.com/event/dueling-pianos-at-the-top-of-pelham/109832/
+LOCATION:Dueling Pianos at the Top of Pelham\, 3 Pelham Street\, Newport\,
+  RI 02840
+URL:https://www.visitrhodeisland.com/event/dueling-pianos-at-the-top-of-pe
+ lham/109832/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:General Stanton Inn Blues Music Festival
-DTSTART;VALUE=DATE:20260821
-DTEND;VALUE=DATE:20260822
-DTSTAMP:20260821T110147Z
-UID:1744ee81589e45a35f292323ce3e@visitri-calendar
+DTSTART;VALUE=DATE:20260822
+DTEND;VALUE=DATE:20260823
+DTSTAMP:20260822T105517Z
+UID:28e5acb8c2920635b2c38b1c2797@visitri-calendar
 DESCRIPTION:Top Rhode Island blues music artists perform under the Stanton
   tent\, bbq\, beer\, seafood\, bourbon and more. Bring a lawn chair.\n\nSo
  urce: https://www.visitrhodeisland.com/event/general-stanton-inn-blues-mus
@@ -457,10 +508,10 @@ URL:https://www.visitrhodeisland.com/event/general-stanton-inn-blues-music
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Jacob Hackworth Live at Moonshine Alley!
-DTSTART;VALUE=DATE:20260821
-DTEND;VALUE=DATE:20260822
-DTSTAMP:20260821T110147Z
-UID:7cec8ec88de44fab7fcd78a32bc2@visitri-calendar
+DTSTART;VALUE=DATE:20260822
+DTEND;VALUE=DATE:20260823
+DTSTAMP:20260822T105517Z
+UID:524b353637524e9b166d1c0f646e@visitri-calendar
 DESCRIPTION:ON SALE NOW Cat Country 98.1 presents Jacob Hackworth LIVE at 
  Moonshine Alley on Tuesday\, August 25th! MCA Records &amp\; Nashville sin
  ger and songwriter Jacob Hackworth is coming to Providence for one night o
@@ -480,10 +531,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:NIMFest: Groove Merchants w/ Olivia Nied | Live\, Outdoor Music at
   King Park
-DTSTART;VALUE=DATE:20260821
-DTEND;VALUE=DATE:20260822
-DTSTAMP:20260821T110147Z
-UID:c1556b36a07760bb7b7d397d13dd@visitri-calendar
+DTSTART;VALUE=DATE:20260822
+DTEND;VALUE=DATE:20260823
+DTSTAMP:20260822T105517Z
+UID:c5d8cdcc41e6043f871593b6754d@visitri-calendar
 DESCRIPTION:NIMFest (Newport Independent Music Festival) comes to you live
   from the King Park Gazebo at 125 Wellington Ave in Newport. This FREE\, w
  eekly concert series runs every Sunday in July and August from 3:00-6:00PM
@@ -499,57 +550,9 @@ URL:https://www.visitrhodeisland.com/event/nimfest%3a-groove-merchants-w-o
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:99th Annual Greek Festival
-DTSTART;VALUE=DATE:20260822
-DTEND;VALUE=DATE:20260823
-DTSTAMP:20260821T110147Z
-UID:5db9e36fd09986135577c68808d6@visitri-calendar
-DESCRIPTION:Join us for a weekend of traditional Greek food\, music\, and 
- dance at the 99th annual Greek Festival\, August 21 - 23 at the Assumption
-  of the Virgin Mary Greek Orthodox Church\, 97 Walcott Street in Pawtucket
- . Featuring your favorite Greek dishes\, desserts\, spirits\, and coffees
- \, and dance performances\, baking demonstrations\, Church tours\, and Gre
- ek Imports marketplace all weekend long. Free admission\, Rain or Shine\, 
- Free parking with shuttle service across from Pawtucket City Hall. Details
-  and schedule of events at www.greekfestivalRI.com OPA!\n\nSource: https:/
- /www.visitrhodeisland.com/event/99th-annual-greek-festival/111382/
-LOCATION:Assumption of the Virgin Mary Greek Orthodox Church\, 97 Walcott 
- Street\, Pawtucket\, 02860
-URL:https://www.visitrhodeisland.com/event/99th-annual-greek-festival/1113
- 82/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dueling Pianos at the Top of Pelham
-DTSTART;VALUE=DATE:20260822
-DTEND;VALUE=DATE:20260823
-DTSTAMP:20260821T110147Z
-UID:39e50c0e194b38a2ef5afc477f02@visitri-calendar
-DESCRIPTION:Dueling Pianos at the Top of Pelham Please check your dates an
- d times — show start times vary. For more dates and showtimes\, check ou
- t Eventbrite. Located directly above One Pelham East\, the Top Of Pelham i
- s proud to be the only venue in Newport\, Rhode Island\, hosting a live Du
- eling Pianos Show! Situated across from Bowen’s Wharf on historic Thames
-  Street\, The Top delivers exceptional live entertainment featuring nation
- ally known performers\, with a stunning view of the world-famous Newport H
- arbor. Every weekend\, our stage is filled with two grand pianos as entert
- ainers perform audience requests from every genre and era imaginable. Thro
- ughout the show\, audience members are invited on stage for toasts and spe
- cial dedication songs\, creating an unforgettable evening. This live music
-  experience is ideal for a night out in town\, bachelorette parties\, birt
- hday celebrations\, and corporate events. No matter the occasion\, a great
-  time is guaranteed! Please note\, all events are strictly for individuals
-  aged 21 and over. Disclaimer: Due to rare last-minute scheduling conflict
- s\, piano players are subject to change.\n\nSource: https://www.visitrhode
- island.com/event/dueling-pianos-at-the-top-of-pelham/109832/
-LOCATION:Dueling Pianos at the Top of Pelham\, 3 Pelham Street\, Newport\,
-  RI 02840
-URL:https://www.visitrhodeisland.com/event/dueling-pianos-at-the-top-of-pe
- lham/109832/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:99th Annual Greek Festival
 DTSTART;VALUE=DATE:20260823
 DTEND;VALUE=DATE:20260824
-DTSTAMP:20260821T110147Z
+DTSTAMP:20260822T105517Z
 UID:336714ed75d31c16d1e9f9b5520a@visitri-calendar
 DESCRIPTION:Join us for a weekend of traditional Greek food\, music\, and 
  dance at the 99th annual Greek Festival\, August 21 - 23 at the Assumption
@@ -569,7 +572,7 @@ BEGIN:VEVENT
 SUMMARY:General Stanton Inn Blues Music Festival
 DTSTART;VALUE=DATE:20260823
 DTEND;VALUE=DATE:20260824
-DTSTAMP:20260821T110147Z
+DTSTAMP:20260822T105517Z
 UID:d4af5e9754de8b7973ccbe936045@visitri-calendar
 DESCRIPTION:Top Rhode Island blues music artists perform under the Stanton
   tent\, bbq\, beer\, seafood\, bourbon and more. Bring a lawn chair.\n\nSo
@@ -600,7 +603,7 @@ SUMMARY:NIMFest: Groove Merchants w/ Olivia Nied | Live\, Outdoor Music at
   King Park
 DTSTART;VALUE=DATE:20260823
 DTEND;VALUE=DATE:20260824
-DTSTAMP:20260821T110147Z
+DTSTAMP:20260822T105517Z
 UID:e43d950bc7c5636c64f3187cf4d2@visitri-calendar
 DESCRIPTION:NIMFest (Newport Independent Music Festival) comes to you live
   from the King Park Gazebo at 125 Wellington Ave in Newport. This FREE\, w
@@ -619,7 +622,7 @@ BEGIN:VEVENT
 SUMMARY:Jacob Hackworth Live at Moonshine Alley!
 DTSTART;VALUE=DATE:20260825
 DTEND;VALUE=DATE:20260826
-DTSTAMP:20260821T110147Z
+DTSTAMP:20260822T105517Z
 UID:f35a8fe4166371ef1f7d3be66b07@visitri-calendar
 DESCRIPTION:ON SALE NOW Cat Country 98.1 presents Jacob Hackworth LIVE at 
  Moonshine Alley on Tuesday\, August 25th! MCA Records &amp\; Nashville sin
@@ -641,7 +644,7 @@ BEGIN:VEVENT
 SUMMARY:Free Summer Concert Series at Ragged Island
 DTSTART;VALUE=DATE:20260826
 DTEND;VALUE=DATE:20260827
-DTSTAMP:20260821T110147Z
+DTSTAMP:20260822T105517Z
 UID:c34f298b13c81e8e626e59cb461a@visitri-calendar
 DESCRIPTION:Announcing Ragged Island's Free 2026 Summer Concert Series Rag
  ged Island has nine awesome bands lined up for Wednesday nights in July an
@@ -673,7 +676,7 @@ BEGIN:VEVENT
 SUMMARY:Hope & Main Makers Markets: Summer Series
 DTSTART;VALUE=DATE:20260826
 DTEND;VALUE=DATE:20260827
-DTSTAMP:20260821T110147Z
+DTSTAMP:20260822T105517Z
 UID:508203d8ab48a0f5179cf6188b3b@visitri-calendar
 DESCRIPTION:Developed by the operators of Hope &amp\; Main in Warren\, the
   Schoolyard Market helps locally-based food and beverage businesses start 
@@ -695,7 +698,7 @@ BEGIN:VEVENT
 SUMMARY:Music at Sunset: Concert Series 2026
 DTSTART;VALUE=DATE:20260826
 DTEND;VALUE=DATE:20260827
-DTSTAMP:20260821T110147Z
+DTSTAMP:20260822T105517Z
 UID:f7374ee07909032aafe715f097f0@visitri-calendar
 DESCRIPTION:Music at Sunset: Concert Series 2026 Wednesdays | June 3 &#821
  1\; August 26 Music from 6:00 &#8211\; 8:00 PM\, Parking and Check-in open
@@ -745,7 +748,7 @@ BEGIN:VEVENT
 SUMMARY:Blithewold Annual Family Clambake
 DTSTART;VALUE=DATE:20260827
 DTEND;VALUE=DATE:20260828
-DTSTAMP:20260821T110147Z
+DTSTAMP:20260822T105517Z
 UID:527f3299a90d3c05a0676865fdb2@visitri-calendar
 DESCRIPTION:Blithewold Annual Family Clambake Thursday | August 27 5:00 &#
  8211\; 8:00 PM Location: Event Tent The Great Lawn has been the scene of f
@@ -803,7 +806,7 @@ BEGIN:VEVENT
 SUMMARY:Food Truck Concert Nights - Diamond Hill Park
 DTSTART;VALUE=DATE:20260827
 DTEND;VALUE=DATE:20260828
-DTSTAMP:20260821T110147Z
+DTSTAMP:20260822T105517Z
 UID:6f571d24d4473b04f931421aed68@visitri-calendar
 DESCRIPTION:We return to Diamond Hill Park in Cumberland for another serie
  s of memorable events in 2026. Attendance is free\, just pay for what you 
@@ -831,7 +834,7 @@ BEGIN:VEVENT
 SUMMARY:Brew at the Zoo
 DTSTART;VALUE=DATE:20260829
 DTEND;VALUE=DATE:20260830
-DTSTAMP:20260821T110147Z
+DTSTAMP:20260822T105517Z
 UID:2f2070c631904a407ca11ec8d953@visitri-calendar
 DESCRIPTION:Tap into your wild side at Brew at the Zoo on Saturday\, Augus
  t 29th\, an adults-only evening event\, and sample hundreds of beers\, har
@@ -852,7 +855,7 @@ BEGIN:VEVENT
 SUMMARY:Field of Artisans at the Beach
 DTSTART;VALUE=DATE:20260829
 DTEND;VALUE=DATE:20260830
-DTSTAMP:20260821T110147Z
+DTSTAMP:20260822T105517Z
 UID:ccb222ee4b8c9bc014c177518d7d@visitri-calendar
 DESCRIPTION:Join Field of Artisans on Saturdays this summer for the 11th y
  ear of bringing creativity to this beautiful location! Artists will displa
@@ -869,7 +872,7 @@ BEGIN:VEVENT
 SUMMARY:Live Music by Logan Vale
 DTSTART;VALUE=DATE:20260829
 DTEND;VALUE=DATE:20260830
-DTSTAMP:20260821T110147Z
+DTSTAMP:20260822T105517Z
 UID:51d81b6b9ac830a4dbc32c26efd3@visitri-calendar
 DESCRIPTION:The music of Logan Vale! Dinner reservations required either o
  nline or call 401.861.3850 x. 3\n\nSource: https://www.visitrhodeisland.co
@@ -883,7 +886,7 @@ BEGIN:VEVENT
 SUMMARY:Rhode Island SeaFood Festival 2026
 DTSTART;VALUE=DATE:20260912
 DTEND;VALUE=DATE:20260913
-DTSTAMP:20260821T110147Z
+DTSTAMP:20260822T105517Z
 UID:7155b8a7bea276dc2235b2424899@visitri-calendar
 DESCRIPTION:Join us for the 16th annual Rhode Island Seafood Festival\, a 
  two-day extravaganza of the Ocean State’s best seafood\, live music and 
@@ -922,7 +925,7 @@ BEGIN:VEVENT
 SUMMARY:Rhode Island SeaFood Festival 2026
 DTSTART;VALUE=DATE:20260913
 DTEND;VALUE=DATE:20260914
-DTSTAMP:20260821T110147Z
+DTSTAMP:20260822T105517Z
 UID:724318b2396062bf2de4c6176658@visitri-calendar
 DESCRIPTION:Join us for the 16th annual Rhode Island Seafood Festival\, a 
  two-day extravaganza of the Ocean State’s best seafood\, live music and 
@@ -961,7 +964,7 @@ BEGIN:VEVENT
 SUMMARY:PVDFest 2026
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260919
-DTSTAMP:20260821T110147Z
+DTSTAMP:20260822T105517Z
 UID:2de49afd8f722627b9a1f5e00bb1@visitri-calendar
 DESCRIPTION:The People’s Festival for Arts\, Music\, and Culture Mayor B
  rett P. Smiley\, the City’s Department of Art\, Culture\, Tourism and Pr
@@ -980,7 +983,7 @@ BEGIN:VEVENT
 SUMMARY:Food Truck Concert Nights - Diamond Hill Park
 DTSTART;VALUE=DATE:20260919
 DTEND;VALUE=DATE:20260920
-DTSTAMP:20260821T110147Z
+DTSTAMP:20260822T105517Z
 UID:c61110f0d2ee251ab02333bed717@visitri-calendar
 DESCRIPTION:We return to Diamond Hill Park in Cumberland for another serie
  s of memorable events in 2026. Attendance is free\, just pay for what you 
@@ -1008,7 +1011,7 @@ BEGIN:VEVENT
 SUMMARY:PVDFest 2026
 DTSTART;VALUE=DATE:20260919
 DTEND;VALUE=DATE:20260920
-DTSTAMP:20260821T110147Z
+DTSTAMP:20260822T105517Z
 UID:553bda94539f69469073803099fb@visitri-calendar
 DESCRIPTION:The People’s Festival for Arts\, Music\, and Culture Mayor B
  rett P. Smiley\, the City’s Department of Art\, Culture\, Tourism and Pr
@@ -1027,7 +1030,7 @@ BEGIN:VEVENT
 SUMMARY:Jack-O-Lantern Spectacular
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
-DTSTAMP:20260821T110147Z
+DTSTAMP:20260822T105517Z
 UID:a11cb847b167f6db3762e7d7aba4@visitri-calendar
 DESCRIPTION:Jack-O-Lantern Spectacular: The Great Pun-Kin Trail\, presente
  d by Citizens\, returns October 1 &#8211\; November 1 with an all-new trai
@@ -1052,7 +1055,7 @@ BEGIN:VEVENT
 SUMMARY:Deja Vieux Vintage Shopping Bus Tour Adventure - October 4th
 DTSTART;VALUE=DATE:20261005
 DTEND;VALUE=DATE:20261006
-DTSTAMP:20260821T110147Z
+DTSTAMP:20260822T105517Z
 UID:5fe8cdac575b282879f35adb305f@visitri-calendar
 DESCRIPTION:⭐Hop Aboard Rhode Island’s First - Ever Vintage Shops Bus 
  Tour!⭐ We invite you to join us at Deja Vieux Vintage for a uniquely cur
@@ -1086,7 +1089,7 @@ BEGIN:VEVENT
 SUMMARY:Live Music by Logan Vale
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261018
-DTSTAMP:20260821T110147Z
+DTSTAMP:20260822T105517Z
 UID:2241186137b505cf7c814cd90b60@visitri-calendar
 DESCRIPTION:The music of Logan Vale! Dinner reservations required either o
  nline or call 401.861.3850 x. 3\n\nSource: https://www.visitrhodeisland.co
@@ -1100,7 +1103,7 @@ BEGIN:VEVENT
 SUMMARY:Coastal Cruisers - The Golden Hour
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
-DTSTAMP:20260821T110147Z
+DTSTAMP:20260822T105517Z
 UID:a33f7731698b5451e05ba44e42fd@visitri-calendar
 DESCRIPTION:Experience the Island in our Coastal Cruisers\, Newport’s pr
  ivate chauffeured luxury tour\, dedicated to providing a sophisticated way
@@ -1130,7 +1133,7 @@ BEGIN:VEVENT
 SUMMARY:Jack-O-Lantern Spectacular
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
-DTSTAMP:20260821T110147Z
+DTSTAMP:20260822T105517Z
 UID:ddc52d2e1f830141a3c1c36cbc2b@visitri-calendar
 DESCRIPTION:Jack-O-Lantern Spectacular: The Great Pun-Kin Trail\, presente
  d by Citizens\, returns October 1 &#8211\; November 1 with an all-new trai
@@ -1155,7 +1158,7 @@ BEGIN:VEVENT
 SUMMARY:Dueling Pianos at the Top of Pelham
 DTSTART;VALUE=DATE:20261219
 DTEND;VALUE=DATE:20261220
-DTSTAMP:20260821T110147Z
+DTSTAMP:20260822T105517Z
 UID:0cba8ebd768886603d449b31b8c5@visitri-calendar
 DESCRIPTION:Dueling Pianos at the Top of Pelham Please check your dates an
  d times — show start times vary. For more dates and showtimes\, check ou
@@ -1183,7 +1186,7 @@ BEGIN:VEVENT
 SUMMARY:Beyond the Brewhouse Tour
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
-DTSTAMP:20260821T110147Z
+DTSTAMP:20260822T105517Z
 UID:c7b48636db9ede5f5acbbb263d31@visitri-calendar
 DESCRIPTION:Beyond the Brewhouse Where: Newport Craft Brewing and Distilli
  ng\, 293 JT Connell Road\, Newport 45 minutes: $20 per person Did you know
