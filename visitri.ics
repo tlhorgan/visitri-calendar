@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:$15 Moonshine Flights & Moonshine Tasting
 DTSTART;VALUE=DATE:20250615
 DTEND;VALUE=DATE:20250616
-DTSTAMP:20260823T105559Z
+DTSTAMP:20260824T110525Z
 UID:b6432d870f2c0958f26453a40d59@visitri-calendar
 DESCRIPTION:Try a Moonshine Flight tasting at Moonshine Alley! Moonshine F
  lights are available daily for just $15! We have over 13 flavors to choose
@@ -20,10 +20,26 @@ URL:https://www.visitrhodeisland.com/event/%2415-moonshine-flights-%26-moo
  nshine-tasting/105663/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Children's Weekly Storytime
+DTSTART;VALUE=DATE:20260330
+DTEND;VALUE=DATE:20260331
+DTSTAMP:20260824T110525Z
+UID:6a42c90422362e83701e98f899c2@visitri-calendar
+DESCRIPTION:Children's Storytime Join Elizabeth as she hosts storytime on 
+ Monday mornings at 10:30 AM. Every Monday\, Elizabeth will chose a book co
+ rrelating with the season or holiday. All children and their families are 
+ welcome to join!\n\nSource: https://www.visitrhodeisland.com/event/childre
+ ns-weekly-storytime/109524/
+LOCATION:Charter Books\, 8 Broadway\, Newport\, RI 02840 Time: 10:30 AM to
+  11:00 AM
+URL:https://www.visitrhodeisland.com/event/childrens-weekly-storytime/1095
+ 24/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Coastal Cruisers - The Golden Hour
 DTSTART;VALUE=DATE:20260501
 DTEND;VALUE=DATE:20260502
-DTSTAMP:20260823T105559Z
+DTSTAMP:20260824T110525Z
 UID:9f3864060ce7679e35293700f37c@visitri-calendar
 DESCRIPTION:Experience the Island in our Coastal Cruisers\, Newport’s pr
  ivate chauffeured luxury tour\, dedicated to providing a sophisticated way
@@ -53,7 +69,7 @@ BEGIN:VEVENT
 SUMMARY:Beyond the Brewhouse Tour
 DTSTART;VALUE=DATE:20260515
 DTEND;VALUE=DATE:20260516
-DTSTAMP:20260823T105559Z
+DTSTAMP:20260824T110525Z
 UID:acc9d8e1d1bdab34c6766b602473@visitri-calendar
 DESCRIPTION:Beyond the Brewhouse Where: Newport Craft Brewing and Distilli
  ng\, 293 JT Connell Road\, Newport 45 minutes: $20 per person Did you know
@@ -69,49 +85,34 @@ URL:https://www.visitrhodeisland.com/event/beyond-the-brewhouse-tour/11015
  3/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Alger Mitchell at SALTwater Harborside Dining
-DTSTART;VALUE=DATE:20260524
-DTEND;VALUE=DATE:20260525
-DTSTAMP:20260823T105559Z
-UID:56651fdef385ddc5772b8f8d401e@visitri-calendar
-DESCRIPTION:Alger Mitchell at SALTwater Harborside Dining Sundays from 4:0
- 0 to 7:00 PM Alger Mitchell is a dynamic song stylist\, songwriter\, and v
- ocalist\, delivering captivating performances with guitar and harmonica. B
- oasting a remarkable repertoire of approximately 250 songs performed entir
- ely from memory\, Alger's music is 100% live\, free of electronic enhancem
- ents. His versatile setlist spans the timeless classics of The Great Ameri
- can Songbook\, from Broadway to Hollywood\, alongside beloved jazz and pop
-  standards\, classic country\, oldies\, and his own original compositions.
-  With infectious energy\, his live performances invite optional dancing\, 
- making it nearly impossible to resist moving to the music! Keep a smile on
-  your face and a song in your heart!\n\nSource: https://www.visitrhodeisla
- nd.com/event/alger-mitchell-at-saltwater-harborside-dining/110157/
-LOCATION:Saltwater at The Newport Harbor Hotel & Marina\, 49 America's Cup
-  Avenue\, Newport\, RI 02840 Time: 4:00 PM to 7:00 PM 49 America's Cup Ave
- nue\, Newport\, RI 02840 OFFICIAL RHODE ISLAND TRAVEL GUIDE Get Guide Get 
- news from Visit Rhode Island in your inbox. Industry Partner Leisure Trave
- l Sign Up Ratings Powered by Press Industry Travel Trade Meetings & Conven
- tions Contact Privacy Policy Sitemap Partner Portal SMS Privacy Policy SMS
-  Terms & Conditions UGC Terms and Conditions Wedding Planning Press Photos
-  Story Ideas Fun-Sized Rhode Island Rhode Island in the News Free Travel G
- uide Contact Visit Rhode Island Industry Travel Trade Ideas & Itineraries 
- Downton Abbey Lifestyle Rhode Island Foodways Hidden Gems Image Library Fr
- ee Travel Guide Contact Visit Rhode Island Meetings & Conventions Contact 
- Privacy Policy Sitemap Partner Portal SMS Privacy Policy SMS Terms & Condi
- tions UGC Terms and Conditions Wedding Planning Weddings - Venues Wedding 
- - Catering Wedding - Cakes Wedding - Attire Wedding - Florists Wedding - J
- ewelers Wedding - Transportation © 2026 Rhode Island Commerce Corporation
-  Special Offers Offers Here Looking to plan your next visit to Rhode Islan
- d\, check out some of the current special offers and enjoy savings\, extra
-  perks and more! Offers Here
-URL:https://www.visitrhodeisland.com/event/alger-mitchell-at-saltwater-har
- borside-dining/110157/
+SUMMARY:Bruce Jacques Show at One Pelham East
+DTSTART;VALUE=DATE:20260525
+DTEND;VALUE=DATE:20260526
+DTSTAMP:20260824T110525Z
+UID:1a094f507695de921be36457a8f9@visitri-calendar
+DESCRIPTION:Bruce Jacques Show at One Pelham East When: Every Monday from 
+ 9:00 PM to 12:00 AM (May 25 - August 25\, 2026) Where: 1 Pelham East\, New
+ port\, RI 02840 Bruce incorporates comedy spoofs of artists such as Queen
+ \, Beyonce\, Guns and Roses\, Britney Spears\, Elvis\, and many more. His 
+ repertoire is a mix of songs everyone knows by heart from the sixties to t
+ oday’s top hits. He also involves the audience with a six foot L.E.D. li
+ ght board that displays the words for sing-a-longs. Bruce's ability to con
+ nect with audiences of all ages and in all types of settings is something 
+ that comes only with years of experience. He also possesses the natural ab
+ ility to make people feel comfortable - to make them laugh\, sing\, and da
+ nce. Bruce's experience includes over three decades of private parties\, c
+ orporate functions\, colleges\, nightclubs and resorts. Bruce has several 
+ long-standing gigs including:\n\nSource: https://www.visitrhodeisland.com/
+ event/bruce-jacques-show-at-one-pelham-east/110092/
+LOCATION:1 Pelham East\, 270 Thames Street\, Newport\, RI 02840
+URL:https://www.visitrhodeisland.com/event/bruce-jacques-show-at-one-pelha
+ m-east/110092/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Music at Sunset: Concert Series 2026
 DTSTART;VALUE=DATE:20260603
 DTEND;VALUE=DATE:20260604
-DTSTAMP:20260823T105559Z
+DTSTAMP:20260824T110525Z
 UID:87bda7b48d099d40defa3f7e711b@visitri-calendar
 DESCRIPTION:Music at Sunset: Concert Series 2026 Wednesdays | June 3 &#821
  1\; August 26 Music from 6:00 &#8211\; 8:00 PM\, Parking and Check-in open
@@ -158,43 +159,10 @@ URL:https://www.visitrhodeisland.com/event/music-at-sunset%3a-concert-seri
  es-2026/109486/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Chace-Cory House Tours
-DTSTART;VALUE=DATE:20260607
-DTEND;VALUE=DATE:20260608
-DTSTAMP:20260823T105559Z
-UID:da82b7ce9501a09fb9564885aab6@visitri-calendar
-DESCRIPTION:Chace-Cory House Tours Open Sundays\, June 7 - September 6\, 2
- 026 from 2:00 to 4:30 PM Location: 3908 Main Road\, Tiverton\, RI 02878 Th
- is season\, in honor of our country’s semiquincentennial\, we have a spe
- cial exhibit in our c. 1730 house museum: a silk flag flown by George Wash
- ington’s RI Regiment\, a rare Huntington engraving of the Declaration of
-  Independence\, a map of the 1778 Battle of RI showing redoubts and troop 
- movements\, a surveyor’s chart of Narragansett Bay and environs of July 
- 1776\, Civil War uniforms\, and more! Guided tours of the house are held S
- undays during the hours of 2-4:30 pm from June 7th to September 6th. There
-  is a small preservation donation for THS non-members. Email: TivertonHist
- oricalSocy@tivertonhistorical.org with any questions\, find more contact i
- nformation here.\n\nSource: https://www.visitrhodeisland.com/event/chace-c
- ory-house-tours/111034/
-LOCATION:3908 Main Road\, Tiverton\, RI 02878 This season\, in honor of ou
- r country’s semiquincentennial\, we have a special exhibit in our c. 173
- 0 house museum: a silk flag flown by George Washington’s RI Regiment\, a
-  rare Huntington engraving of the Declaration of Independence\, a map of t
- he 1778 Battle of RI showing redoubts and troop movements\, a surveyor’s
-  chart of Narragansett Bay and environs of July 1776\, Civil War uniforms
- \, and more! Guided tours of the house are held Sundays during the hours o
- f 2-4:30 pm from June 7th to September 6th. There is a small preservation 
- donation for THS non-members. Email: TivertonHistoricalSocy@tivertonhistor
- ical.org with any questions\, find more contact information here. Show Mor
- e View Website | Email 1 / 1 Additional Information\, 3908 Main Road\, Tiv
- erton\, RI 02878 Time: 2:00 PM to 4:30 PM
-URL:https://www.visitrhodeisland.com/event/chace-cory-house-tours/111034/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Free Summer Concert Series at Ragged Island
 DTSTART;VALUE=DATE:20260624
 DTEND;VALUE=DATE:20260625
-DTSTAMP:20260823T105559Z
+DTSTAMP:20260824T110525Z
 UID:1c212ee8000d851f7b6e4ea8f143@visitri-calendar
 DESCRIPTION:Announcing Ragged Island's Free 2026 Summer Concert Series Rag
  ged Island has nine awesome bands lined up for Wednesday nights in July an
@@ -226,7 +194,7 @@ BEGIN:VEVENT
 SUMMARY:Hope & Main Makers Markets: Summer Series
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260702
-DTSTAMP:20260823T105559Z
+DTSTAMP:20260824T110525Z
 UID:a4c76656bb4dd2f560a21d25ca37@visitri-calendar
 DESCRIPTION:Developed by the operators of Hope &amp\; Main in Warren\, the
   Schoolyard Market helps locally-based food and beverage businesses start 
@@ -248,7 +216,7 @@ BEGIN:VEVENT
 SUMMARY:Field of Artisans at the Beach
 DTSTART;VALUE=DATE:20260711
 DTEND;VALUE=DATE:20260712
-DTSTAMP:20260823T105559Z
+DTSTAMP:20260824T110525Z
 UID:7ebe1a9998bbb563181c86657159@visitri-calendar
 DESCRIPTION:Join Field of Artisans on Saturdays this summer for the 11th y
  ear of bringing creativity to this beautiful location! Artists will displa
@@ -265,7 +233,7 @@ BEGIN:VEVENT
 SUMMARY:$15 Moonshine Flights & Moonshine Tasting
 DTSTART;VALUE=DATE:20260721
 DTEND;VALUE=DATE:20260722
-DTSTAMP:20260823T105559Z
+DTSTAMP:20260824T110525Z
 UID:6ac059c408c431eceb1c3c855c19@visitri-calendar
 DESCRIPTION:Try a Moonshine Flight tasting at Moonshine Alley! Moonshine F
  lights are available daily for just $15! We have over 13 flavors to choose
@@ -278,112 +246,108 @@ URL:https://www.visitrhodeisland.com/event/%2415-moonshine-flights-%26-moo
  nshine-tasting/105663/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:99th Annual Greek Festival
-DTSTART;VALUE=DATE:20260821
-DTEND;VALUE=DATE:20260822
-DTSTAMP:20260823T105559Z
-UID:19375ae28da8bebad77ad85efa22@visitri-calendar
-DESCRIPTION:Join us for a weekend of traditional Greek food\, music\, and 
- dance at the 99th annual Greek Festival\, August 21 - 23 at the Assumption
-  of the Virgin Mary Greek Orthodox Church\, 97 Walcott Street in Pawtucket
- . Featuring your favorite Greek dishes\, desserts\, spirits\, and coffees
- \, and dance performances\, baking demonstrations\, Church tours\, and Gre
- ek Imports marketplace all weekend long. Free admission\, Rain or Shine\, 
- Free parking with shuttle service across from Pawtucket City Hall. Details
-  and schedule of events at www.greekfestivalRI.com OPA!\n\nSource: https:/
- /www.visitrhodeisland.com/event/99th-annual-greek-festival/111382/
-LOCATION:Assumption of the Virgin Mary Greek Orthodox Church\, 97 Walcott 
- Street\, Pawtucket\, 02860
-URL:https://www.visitrhodeisland.com/event/99th-annual-greek-festival/1113
- 82/
+SUMMARY:Half Price Tacos and House Margs at Yellow Door Taqueria!
+DTSTART;VALUE=DATE:20260731
+DTEND;VALUE=DATE:20260801
+DTSTAMP:20260824T110525Z
+UID:e0d95b06c7be4290562a81ad7ad5@visitri-calendar
+DESCRIPTION:Join us EVERY DAY at Yellow Door Taqueria from 3-6 PM at the b
+ ar for half price select tacos and house margaritas! It's the perfect way 
+ to wrap up your work day or grab a drink with friends! Choose from any of 
+ our scratch-made house margarita flavors and six of our favorite tacos! *D
+ ine in only\, select items only from 3-6 PM every day. Bar seating only*\n
+ \nSource: https://www.visitrhodeisland.com/event/half-price-tacos-and-hous
+ e-margs-at-yellow-door-taqueria!/111221/
+LOCATION:Yellow Door Taqueria\, 191 Dorrance Street\, Providence\, RI 0290
+ 3
+URL:https://www.visitrhodeisland.com/event/half-price-tacos-and-house-marg
+ s-at-yellow-door-taqueria!/111221/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:99th Annual Greek Festival
-DTSTART;VALUE=DATE:20260822
-DTEND;VALUE=DATE:20260823
-DTSTAMP:20260823T105559Z
-UID:5db9e36fd09986135577c68808d6@visitri-calendar
-DESCRIPTION:Join us for a weekend of traditional Greek food\, music\, and 
- dance at the 99th annual Greek Festival\, August 21 - 23 at the Assumption
-  of the Virgin Mary Greek Orthodox Church\, 97 Walcott Street in Pawtucket
- . Featuring your favorite Greek dishes\, desserts\, spirits\, and coffees
- \, and dance performances\, baking demonstrations\, Church tours\, and Gre
- ek Imports marketplace all weekend long. Free admission\, Rain or Shine\, 
- Free parking with shuttle service across from Pawtucket City Hall. Details
-  and schedule of events at www.greekfestivalRI.com OPA!\n\nSource: https:/
- /www.visitrhodeisland.com/event/99th-annual-greek-festival/111382/
-LOCATION:Assumption of the Virgin Mary Greek Orthodox Church\, 97 Walcott 
- Street\, Pawtucket\, 02860
-URL:https://www.visitrhodeisland.com/event/99th-annual-greek-festival/1113
- 82/
+SUMMARY:Deja Vieux Vintage Shopping Bus Tour Adventure - October 4th
+DTSTART;VALUE=DATE:20260817
+DTEND;VALUE=DATE:20260818
+DTSTAMP:20260824T110525Z
+UID:912e503a9012deae13b33d1d0a85@visitri-calendar
+DESCRIPTION:⭐Hop Aboard Rhode Island’s First - Ever Vintage Shops Bus 
+ Tour!⭐ We invite you to join us at Deja Vieux Vintage for a uniquely cur
+ ated shopping adventure! On Sunday\, October 4th\, from 10:30 AM to 4:00 P
+ M\, we are hitting the road for a premier 5-hour vintage bus tour down Rou
+ te 6 and Route 44. The tour features exclusive discounts at 8 to 12 of our
+  favorite local antique and vintage shops\, making it the perfect day out 
+ for collectors and vintage lovers alike. The Ultimate Vintage &amp\; Antiq
+ ue Bus Tour Host: Deja Vieux Vintage Date &amp\; Time: Sunday\, October 4t
+ h | 10:30 AM &#8211\; 4:00 PM Ticket Information: • Single Ticket: $37.5
+ 0 • Bring a Friend Bundle: Two for $70 Every ticket comes packed with va
+ lue! You get your bus boarding pass\, event shopping bag\, coupon booklet
+ \, complimentary snacks and water\, plus a chance to win prizes. Departure
+  &amp\; Logistics Details: To ensure a smooth departure\, please arrive at
+  Deja Vieux Vintage on Sunday\, October 4th\, before 10:30 AM. Our storefr
+ ont will be open early so you can enjoy your very first shopping experienc
+ e of the day! Parking is completely free. Our bus leaves promptly at 11:00
+  AM. We will be traveling on a chartered yellow school bus from Ocean Stat
+ e Transit\; please note that this vehicle is unfortunately not handicap ac
+ cessible. Single ticket holders may need to share seats\, while our friend
+ s bundles ticket holders guarantee seating together. Complimentary snacks 
+ and water will be provided on board\, and you are welcome to bring your ow
+ n allergen-free lunch. Tickets are non-refundable but are transferable.\n
+ \nSource: https://www.visitrhodeisland.com/event/deja-vieux-vintage-shoppi
+ ng-bus-tour-adventure-october-4th/111403/
+LOCATION:Deja Vieux Vintage\, 20 Cedar Swamp Rd.\, Smithfield\, 02917
+URL:https://www.visitrhodeisland.com/event/deja-vieux-vintage-shopping-bus
+ -tour-adventure-october-4th/111403/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:99th Annual Greek Festival
-DTSTART;VALUE=DATE:20260823
-DTEND;VALUE=DATE:20260824
-DTSTAMP:20260823T105559Z
-UID:336714ed75d31c16d1e9f9b5520a@visitri-calendar
-DESCRIPTION:Join us for a weekend of traditional Greek food\, music\, and 
- dance at the 99th annual Greek Festival\, August 21 - 23 at the Assumption
-  of the Virgin Mary Greek Orthodox Church\, 97 Walcott Street in Pawtucket
- . Featuring your favorite Greek dishes\, desserts\, spirits\, and coffees
- \, and dance performances\, baking demonstrations\, Church tours\, and Gre
- ek Imports marketplace all weekend long. Free admission\, Rain or Shine\, 
- Free parking with shuttle service across from Pawtucket City Hall. Details
-  and schedule of events at www.greekfestivalRI.com OPA!\n\nSource: https:/
- /www.visitrhodeisland.com/event/99th-annual-greek-festival/111382/
-LOCATION:Assumption of the Virgin Mary Greek Orthodox Church\, 97 Walcott 
- Street\, Pawtucket\, 02860
-URL:https://www.visitrhodeisland.com/event/99th-annual-greek-festival/1113
- 82/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ashley Jordan live at Ballard’s
-DTSTART;VALUE=DATE:20260823
-DTEND;VALUE=DATE:20260824
-DTSTAMP:20260823T105559Z
-UID:64965b53b00af74bad97003d63c3@visitri-calendar
-DESCRIPTION:Ashley Jordan live at Ballard’s brings powerhouse vocals and
-  honest storytelling to Block Island for a show that fits perfectly with a
- n oceanfront summer crowd. From the first song\, Ashley pulls you in with 
- a sound that blends modern country and Americana with a soulful edge\, cre
- ating the kind of set that feels personal\, high energy\, and made for a t
- rue Block Island beach day. Ashley Jordan’s story is as compelling as he
- r music. She started performing as a teenager on Boston street corners and
-  grew into an award winning artist known for fearless lyrics and a voice t
- hat can quiet a room and then lift it right back up. Her roots run from Ne
- w England to formative summers in the Ozark Mountains\, and you can hear t
- hat mix of grit and heart in every chorus. Expect a performance that moves
-  between crowd favorites\, emotional moments\, and big singalong hooks tha
- t land especially well in an open air beach setting.\n\nSource: https://ww
- w.visitrhodeisland.com/event/ashley-jordan-live-at-ballard%e2%80%99s/11050
- 5/
-LOCATION:Ballard's Beach Resort\, 42 Water Street\, Block Island\, RI 0280
- 7 42 Water Street\, Block Island\, RI 02807 OFFICIAL RHODE ISLAND TRAVEL G
- UIDE Get Guide Get news from Visit Rhode Island in your inbox. Industry Pa
- rtner Leisure Travel Sign Up Ratings Powered by Press Industry Travel Trad
- e Meetings & Conventions Contact Privacy Policy Sitemap Partner Portal SMS
-  Privacy Policy SMS Terms & Conditions UGC Terms and Conditions Wedding Pl
- anning Press Photos Story Ideas Fun-Sized Rhode Island Rhode Island in the
-  News Free Travel Guide Contact Visit Rhode Island Industry Travel Trade I
- deas & Itineraries Downton Abbey Lifestyle Rhode Island Foodways Hidden Ge
- ms Image Library Free Travel Guide Contact Visit Rhode Island Meetings & C
- onventions Contact Privacy Policy Sitemap Partner Portal SMS Privacy Polic
- y SMS Terms & Conditions UGC Terms and Conditions Wedding Planning Wedding
- s - Venues Wedding - Catering Wedding - Cakes Wedding - Attire Wedding - F
- lorists Wedding - Jewelers Wedding - Transportation © 2026 Rhode Island C
- ommerce Corporation Special Offers Offers Here Looking to plan your next v
- isit to Rhode Island\, check out some of the current special offers and en
- joy savings\, extra perks and more! Offers Here
-URL:https://www.visitrhodeisland.com/event/ashley-jordan-live-at-ballard%e
- 2%80%99s/110505/
+SUMMARY:Beach Escape Resin Tray - Painting Class
+DTSTART;VALUE=DATE:20260824
+DTEND;VALUE=DATE:20260825
+DTSTAMP:20260824T110525Z
+UID:287f07005b4fff490bdcea79db52@visitri-calendar
+DESCRIPTION:🖌️ IN-STUDIO SESSION DETAILS Reserve your spot and enjoy 
+ a complimentary beverage—choose from soda\, beer\, or wine (21+ with val
+ id ID). Additional drinks will be available for purchase. Immerse yourself
+  in a fun and creative atmosphere while painting your own unique masterpie
+ ce! Recommended for ages 14 and up. ⏰ ARRIVAL TIME Our studio opens 30 m
+ inutes prior to class time. We recommend arriving 15&#8211\;30 minutes ear
+ ly to find parking\, grab a drink\, and get settled. Please note: If you a
+ rrive late\, the artist may not be able to fill you in on the steps you mi
+ ssed\, as they will be focused on guiding the rest of the class. If you ar
+ rive more than 20 minutes late\, we kindly ask that you do not join the se
+ ssion. Late arrivals can be disruptive and may not have enough time to com
+ plete the painting. Unfortunately\, we cannot offer refunds or reschedules
+  for late arrivals. 🚗 PARKING INFO Our studio is located at 150 Main St
+ reet (rear entrance)\, Pawtucket\, Rhode Island\, and we have two FREE par
+ king lots: 🚗 One directly attached to our entrance 🚗 A second lot ju
+ st one building down on the same side of the street — clearly labeled 
+ 🪑 WANT TO SIT WITH FRIENDS? If you purchased 2 or more tickets in one t
+ ransaction\, we’ll automatically seat your group together. If you booked
+  separately but want to sit with someone\, please include their first and 
+ last names in the “Additional Information / Order Notes” field during 
+ checkout. 🔄 RESCHEDULING &amp\; CANCELLATION POLICY All reservations ar
+ e non-refundable. However\, if you need to reschedule\, you may request a 
+ reschedule voucher at least 48 hours before your session. You can do this 
+ easily on our website — just [click here]. No-shows cannot be reschedule
+ d. 🚨 CLASS CANCELLATION Classes may be canceled due to low attendance. 
+ In this case\, we’ll notify you and issue a voucher for a future session
+ . We appreciate your understanding and look forward to welcoming you to a 
+ future class! ❄️ INCLEMENT WEATHER POLICY Because New England weather 
+ can be unpredictable\, we typically wait until a few hours before class to
+  make final decisions. If we cancel due to snow or other severe weather\, 
+ we’ll email you a voucher for a future session. Have more questions? Che
+ ck out our [Frequently Asked Questions] page — just [click here].\n\nSou
+ rce: https://www.visitrhodeisland.com/event/beach-escape-resin-tray-painti
+ ng-class/110936/
+LOCATION:Paint & Vino\, 150 Main Street\, Pawtucket\, 02860 Time: 7:00 PM 
+ to 9:30 PM
+URL:https://www.visitrhodeisland.com/event/beach-escape-resin-tray-paintin
+ g-class/110936/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Blithewold Annual Family Clambake
-DTSTART;VALUE=DATE:20260823
-DTEND;VALUE=DATE:20260824
-DTSTAMP:20260823T105559Z
-UID:100e7a3034ea5e280974b806895a@visitri-calendar
+DTSTART;VALUE=DATE:20260824
+DTEND;VALUE=DATE:20260825
+DTSTAMP:20260824T110525Z
+UID:29564f9fc523265e91e547712af0@visitri-calendar
 DESCRIPTION:Blithewold Annual Family Clambake Thursday | August 27 5:00 &#
  8211\; 8:00 PM Location: Event Tent The Great Lawn has been the scene of f
  amily clambakes for over a century! Step back in time and stroll the garde
@@ -438,10 +402,10 @@ URL:https://www.visitrhodeisland.com/event/blithewold-annual-family-clamba
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Brew at the Zoo
-DTSTART;VALUE=DATE:20260823
-DTEND;VALUE=DATE:20260824
-DTSTAMP:20260823T105559Z
-UID:c7d0894d5331dc1eae97f0bfad2b@visitri-calendar
+DTSTART;VALUE=DATE:20260824
+DTEND;VALUE=DATE:20260825
+DTSTAMP:20260824T110525Z
+UID:2edb940cad13eb0749328bedab99@visitri-calendar
 DESCRIPTION:Tap into your wild side at Brew at the Zoo on Saturday\, Augus
  t 29th\, an adults-only evening event\, and sample hundreds of beers\, har
  d seltzers\, wines and ready-to-drink cocktails from dozens of local\, reg
@@ -458,74 +422,11 @@ LOCATION:Roger Williams Park Zoo & Carousel Village\, 1000 Elmwood Avenue
 URL:https://www.visitrhodeisland.com/event/brew-at-the-zoo/110973/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Creative Survival: God's Little Acre Walking Tour
-DTSTART;VALUE=DATE:20260823
-DTEND;VALUE=DATE:20260824
-DTSTAMP:20260823T105559Z
-UID:c710d738f821011b5c711dbf21c2@visitri-calendar
-DESCRIPTION:Tour God's Little Acre with Rhode Island State Historian Laure
- ate Keith Stokes and explore Newport's African heritage and legacy. Experi
- ence the rich history and enduring legacy of Newport's African heritage co
- mmunity through a guided tour of God's Little Acre\, the nation's oldest k
- nown and continuously preserved burial ground for people of African descen
- t. Please Note: Children under 12 are free. This tour explores the lives o
- f both enslaved and free people of African heritage who helped shape Newpo
- rt's social\, cultural\, and economic landscape. As you walk through this 
- sacred historic site\, you'll discover stories of resilience\, community\,
-  and achievement while learning about the traditions\, symbolism\, and ind
- ividuals memorialized within the cemetery. Gain a deeper appreciation for 
- the contributions of African Americans to Newport's history and the lastin
- g impact their lives continue to have on the city today. What to Expect A 
- guided walking tour led by knowledgeable interpreters Stories highlighting
-  the lives of Newport's African heritage community Historical insights int
- o the significance of God's Little Acre An opportunity to reflect on the p
- eople and events that helped shape Rhode Island's history Please wear comf
- ortable walking shoes\, as the tour takes place outdoors on historic terra
- in. We look forward to sharing this meaningful journey through one of Newp
- ort's most important cultural landmarks.\n\nSource: https://www.visitrhode
- island.com/event/creative-survival%3a-gods-little-acre-walking-tour/111432
- /
-LOCATION:Gods Little Acre\, Farewell FS\, America's Cup Ave\, Newport\, 02
- 840
-URL:https://www.visitrhodeisland.com/event/creative-survival%3a-gods-littl
- e-acre-walking-tour/111432/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:General Stanton Inn Blues Music Festival
-DTSTART;VALUE=DATE:20260823
-DTEND;VALUE=DATE:20260824
-DTSTAMP:20260823T105559Z
-UID:d4af5e9754de8b7973ccbe936045@visitri-calendar
-DESCRIPTION:Top Rhode Island blues music artists perform under the Stanton
-  tent\, bbq\, beer\, seafood\, bourbon and more. Bring a lawn chair.\n\nSo
- urce: https://www.visitrhodeisland.com/event/general-stanton-inn-blues-mus
- ic-festival/109332/
-LOCATION:General Stanton Inn\, 4115 Old Post Road\, Charlestown\, RI 02813
-  4115 Old Post Road\, Charlestown\, RI 02813 OFFICIAL RHODE ISLAND TRAVEL 
- GUIDE Get Guide Get news from Visit Rhode Island in your inbox. Industry P
- artner Leisure Travel Sign Up Ratings Powered by Press Industry Travel Tra
- de Meetings & Conventions Contact Privacy Policy Sitemap Partner Portal SM
- S Privacy Policy SMS Terms & Conditions UGC Terms and Conditions Wedding P
- lanning Press Photos Story Ideas Fun-Sized Rhode Island Rhode Island in th
- e News Free Travel Guide Contact Visit Rhode Island Industry Travel Trade 
- Ideas & Itineraries Downton Abbey Lifestyle Rhode Island Foodways Hidden G
- ems Image Library Free Travel Guide Contact Visit Rhode Island Meetings & 
- Conventions Contact Privacy Policy Sitemap Partner Portal SMS Privacy Poli
- cy SMS Terms & Conditions UGC Terms and Conditions Wedding Planning Weddin
- gs - Venues Wedding - Catering Wedding - Cakes Wedding - Attire Wedding - 
- Florists Wedding - Jewelers Wedding - Transportation © 2026 Rhode Island 
- Commerce Corporation Special Offers Offers Here Looking to plan your next 
- visit to Rhode Island\, check out some of the current special offers and e
- njoy savings\, extra perks and more! Offers Here
-URL:https://www.visitrhodeisland.com/event/general-stanton-inn-blues-music
- -festival/109332/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Jacob Hackworth Live at Moonshine Alley!
-DTSTART;VALUE=DATE:20260823
-DTEND;VALUE=DATE:20260824
-DTSTAMP:20260823T105559Z
-UID:62988fbba411e927c99f21c7393a@visitri-calendar
+DTSTART;VALUE=DATE:20260824
+DTEND;VALUE=DATE:20260825
+DTSTAMP:20260824T110525Z
+UID:71d92cb32c944b692616fe2312f9@visitri-calendar
 DESCRIPTION:ON SALE NOW Cat Country 98.1 presents Jacob Hackworth LIVE at 
  Moonshine Alley on Tuesday\, August 25th! MCA Records &amp\; Nashville sin
  ger and songwriter Jacob Hackworth is coming to Providence for one night o
@@ -543,30 +444,10 @@ URL:https://www.visitrhodeisland.com/event/jacob-hackworth-live-at-moonshi
  ne-alley!/111051/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:NIMFest: Groove Merchants w/ Olivia Nied | Live\, Outdoor Music at
-  King Park
-DTSTART;VALUE=DATE:20260823
-DTEND;VALUE=DATE:20260824
-DTSTAMP:20260823T105559Z
-UID:e43d950bc7c5636c64f3187cf4d2@visitri-calendar
-DESCRIPTION:NIMFest (Newport Independent Music Festival) comes to you live
-  from the King Park Gazebo at 125 Wellington Ave in Newport. This FREE\, w
- eekly concert series runs every Sunday in July and August from 3:00-6:00PM
-  and is brought to you by the Hamilton Family Foundation\, the City of New
- port\, and the New England Music Organization. July 5th's show features lo
- cal legends\, The Groove Merchants\, with Olivia Nied opening.\n\nSource: 
- https://www.visitrhodeisland.com/event/nimfest%3a-groove-merchants-w-olivi
- a-nied-%7c-live-outdoor-music-at-king-park/109909/
-LOCATION:King Park\, 125 Wellington Avenue\, Newport\, RI 02840 Time: 3:00
-  PM to 6:00 PM
-URL:https://www.visitrhodeisland.com/event/nimfest%3a-groove-merchants-w-o
- livia-nied-%7c-live-outdoor-music-at-king-park/109909/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Jacob Hackworth Live at Moonshine Alley!
 DTSTART;VALUE=DATE:20260825
 DTEND;VALUE=DATE:20260826
-DTSTAMP:20260823T105559Z
+DTSTAMP:20260824T110525Z
 UID:f35a8fe4166371ef1f7d3be66b07@visitri-calendar
 DESCRIPTION:ON SALE NOW Cat Country 98.1 presents Jacob Hackworth LIVE at 
  Moonshine Alley on Tuesday\, August 25th! MCA Records &amp\; Nashville sin
@@ -588,7 +469,7 @@ BEGIN:VEVENT
 SUMMARY:Free Summer Concert Series at Ragged Island
 DTSTART;VALUE=DATE:20260826
 DTEND;VALUE=DATE:20260827
-DTSTAMP:20260823T105559Z
+DTSTAMP:20260824T110525Z
 UID:c34f298b13c81e8e626e59cb461a@visitri-calendar
 DESCRIPTION:Announcing Ragged Island's Free 2026 Summer Concert Series Rag
  ged Island has nine awesome bands lined up for Wednesday nights in July an
@@ -620,7 +501,7 @@ BEGIN:VEVENT
 SUMMARY:Hope & Main Makers Markets: Summer Series
 DTSTART;VALUE=DATE:20260826
 DTEND;VALUE=DATE:20260827
-DTSTAMP:20260823T105559Z
+DTSTAMP:20260824T110525Z
 UID:508203d8ab48a0f5179cf6188b3b@visitri-calendar
 DESCRIPTION:Developed by the operators of Hope &amp\; Main in Warren\, the
   Schoolyard Market helps locally-based food and beverage businesses start 
@@ -642,7 +523,7 @@ BEGIN:VEVENT
 SUMMARY:Music at Sunset: Concert Series 2026
 DTSTART;VALUE=DATE:20260826
 DTEND;VALUE=DATE:20260827
-DTSTAMP:20260823T105559Z
+DTSTAMP:20260824T110525Z
 UID:f7374ee07909032aafe715f097f0@visitri-calendar
 DESCRIPTION:Music at Sunset: Concert Series 2026 Wednesdays | June 3 &#821
  1\; August 26 Music from 6:00 &#8211\; 8:00 PM\, Parking and Check-in open
@@ -692,7 +573,7 @@ BEGIN:VEVENT
 SUMMARY:Blithewold Annual Family Clambake
 DTSTART;VALUE=DATE:20260827
 DTEND;VALUE=DATE:20260828
-DTSTAMP:20260823T105559Z
+DTSTAMP:20260824T110525Z
 UID:527f3299a90d3c05a0676865fdb2@visitri-calendar
 DESCRIPTION:Blithewold Annual Family Clambake Thursday | August 27 5:00 &#
  8211\; 8:00 PM Location: Event Tent The Great Lawn has been the scene of f
@@ -750,7 +631,7 @@ BEGIN:VEVENT
 SUMMARY:Food Truck Concert Nights - Diamond Hill Park
 DTSTART;VALUE=DATE:20260827
 DTEND;VALUE=DATE:20260828
-DTSTAMP:20260823T105559Z
+DTSTAMP:20260824T110525Z
 UID:6f571d24d4473b04f931421aed68@visitri-calendar
 DESCRIPTION:We return to Diamond Hill Park in Cumberland for another serie
  s of memorable events in 2026. Attendance is free\, just pay for what you 
@@ -778,7 +659,7 @@ BEGIN:VEVENT
 SUMMARY:Brew at the Zoo
 DTSTART;VALUE=DATE:20260829
 DTEND;VALUE=DATE:20260830
-DTSTAMP:20260823T105559Z
+DTSTAMP:20260824T110525Z
 UID:2f2070c631904a407ca11ec8d953@visitri-calendar
 DESCRIPTION:Tap into your wild side at Brew at the Zoo on Saturday\, Augus
  t 29th\, an adults-only evening event\, and sample hundreds of beers\, har
@@ -799,7 +680,7 @@ BEGIN:VEVENT
 SUMMARY:Field of Artisans at the Beach
 DTSTART;VALUE=DATE:20260829
 DTEND;VALUE=DATE:20260830
-DTSTAMP:20260823T105559Z
+DTSTAMP:20260824T110525Z
 UID:ccb222ee4b8c9bc014c177518d7d@visitri-calendar
 DESCRIPTION:Join Field of Artisans on Saturdays this summer for the 11th y
  ear of bringing creativity to this beautiful location! Artists will displa
@@ -816,7 +697,7 @@ BEGIN:VEVENT
 SUMMARY:Live Music by Logan Vale
 DTSTART;VALUE=DATE:20260829
 DTEND;VALUE=DATE:20260830
-DTSTAMP:20260823T105559Z
+DTSTAMP:20260824T110525Z
 UID:51d81b6b9ac830a4dbc32c26efd3@visitri-calendar
 DESCRIPTION:The music of Logan Vale! Dinner reservations required either o
  nline or call 401.861.3850 x. 3\n\nSource: https://www.visitrhodeisland.co
@@ -827,76 +708,34 @@ URL:https://www.visitrhodeisland.com/event/live-music-by-logan-vale/110313
  /
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Creative Survival: God's Little Acre Walking Tour
-DTSTART;VALUE=DATE:20260830
-DTEND;VALUE=DATE:20260831
-DTSTAMP:20260823T105559Z
-UID:625419fef5d8d23cd7b322e185bd@visitri-calendar
-DESCRIPTION:Tour God's Little Acre with Rhode Island State Historian Laure
- ate Keith Stokes and explore Newport's African heritage and legacy. Experi
- ence the rich history and enduring legacy of Newport's African heritage co
- mmunity through a guided tour of God's Little Acre\, the nation's oldest k
- nown and continuously preserved burial ground for people of African descen
- t. Please Note: Children under 12 are free. This tour explores the lives o
- f both enslaved and free people of African heritage who helped shape Newpo
- rt's social\, cultural\, and economic landscape. As you walk through this 
- sacred historic site\, you'll discover stories of resilience\, community\,
-  and achievement while learning about the traditions\, symbolism\, and ind
- ividuals memorialized within the cemetery. Gain a deeper appreciation for 
- the contributions of African Americans to Newport's history and the lastin
- g impact their lives continue to have on the city today. What to Expect A 
- guided walking tour led by knowledgeable interpreters Stories highlighting
-  the lives of Newport's African heritage community Historical insights int
- o the significance of God's Little Acre An opportunity to reflect on the p
- eople and events that helped shape Rhode Island's history Please wear comf
- ortable walking shoes\, as the tour takes place outdoors on historic terra
- in. We look forward to sharing this meaningful journey through one of Newp
- ort's most important cultural landmarks.\n\nSource: https://www.visitrhode
- island.com/event/creative-survival%3a-gods-little-acre-walking-tour/111432
- /
-LOCATION:Gods Little Acre\, Farewell FS\, America's Cup Ave\, Newport\, 02
- 840
-URL:https://www.visitrhodeisland.com/event/creative-survival%3a-gods-littl
- e-acre-walking-tour/111432/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Chace-Cory House Tours
-DTSTART;VALUE=DATE:20260906
-DTEND;VALUE=DATE:20260907
-DTSTAMP:20260823T105559Z
-UID:4ae74b8f4adc19a54cabaf46aff7@visitri-calendar
-DESCRIPTION:Chace-Cory House Tours Open Sundays\, June 7 - September 6\, 2
- 026 from 2:00 to 4:30 PM Location: 3908 Main Road\, Tiverton\, RI 02878 Th
- is season\, in honor of our country’s semiquincentennial\, we have a spe
- cial exhibit in our c. 1730 house museum: a silk flag flown by George Wash
- ington’s RI Regiment\, a rare Huntington engraving of the Declaration of
-  Independence\, a map of the 1778 Battle of RI showing redoubts and troop 
- movements\, a surveyor’s chart of Narragansett Bay and environs of July 
- 1776\, Civil War uniforms\, and more! Guided tours of the house are held S
- undays during the hours of 2-4:30 pm from June 7th to September 6th. There
-  is a small preservation donation for THS non-members. Email: TivertonHist
- oricalSocy@tivertonhistorical.org with any questions\, find more contact i
- nformation here.\n\nSource: https://www.visitrhodeisland.com/event/chace-c
- ory-house-tours/111034/
-LOCATION:3908 Main Road\, Tiverton\, RI 02878 This season\, in honor of ou
- r country’s semiquincentennial\, we have a special exhibit in our c. 173
- 0 house museum: a silk flag flown by George Washington’s RI Regiment\, a
-  rare Huntington engraving of the Declaration of Independence\, a map of t
- he 1778 Battle of RI showing redoubts and troop movements\, a surveyor’s
-  chart of Narragansett Bay and environs of July 1776\, Civil War uniforms
- \, and more! Guided tours of the house are held Sundays during the hours o
- f 2-4:30 pm from June 7th to September 6th. There is a small preservation 
- donation for THS non-members. Email: TivertonHistoricalSocy@tivertonhistor
- ical.org with any questions\, find more contact information here. Show Mor
- e View Website | Email 1 / 1 Additional Information\, 3908 Main Road\, Tiv
- erton\, RI 02878 Time: 2:00 PM to 4:30 PM
-URL:https://www.visitrhodeisland.com/event/chace-cory-house-tours/111034/
+SUMMARY:Bruce Jacques Show at One Pelham East
+DTSTART;VALUE=DATE:20260831
+DTEND;VALUE=DATE:20260901
+DTSTAMP:20260824T110525Z
+UID:571ee8f608107624e8eb6fbb1a47@visitri-calendar
+DESCRIPTION:Bruce Jacques Show at One Pelham East When: Every Monday from 
+ 9:00 PM to 12:00 AM (May 25 - August 25\, 2026) Where: 1 Pelham East\, New
+ port\, RI 02840 Bruce incorporates comedy spoofs of artists such as Queen
+ \, Beyonce\, Guns and Roses\, Britney Spears\, Elvis\, and many more. His 
+ repertoire is a mix of songs everyone knows by heart from the sixties to t
+ oday’s top hits. He also involves the audience with a six foot L.E.D. li
+ ght board that displays the words for sing-a-longs. Bruce's ability to con
+ nect with audiences of all ages and in all types of settings is something 
+ that comes only with years of experience. He also possesses the natural ab
+ ility to make people feel comfortable - to make them laugh\, sing\, and da
+ nce. Bruce's experience includes over three decades of private parties\, c
+ orporate functions\, colleges\, nightclubs and resorts. Bruce has several 
+ long-standing gigs including:\n\nSource: https://www.visitrhodeisland.com/
+ event/bruce-jacques-show-at-one-pelham-east/110092/
+LOCATION:1 Pelham East\, 270 Thames Street\, Newport\, RI 02840
+URL:https://www.visitrhodeisland.com/event/bruce-jacques-show-at-one-pelha
+ m-east/110092/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Rhode Island SeaFood Festival 2026
 DTSTART;VALUE=DATE:20260912
 DTEND;VALUE=DATE:20260913
-DTSTAMP:20260823T105559Z
+DTSTAMP:20260824T110525Z
 UID:7155b8a7bea276dc2235b2424899@visitri-calendar
 DESCRIPTION:Join us for the 16th annual Rhode Island Seafood Festival\, a 
  two-day extravaganza of the Ocean State’s best seafood\, live music and 
@@ -932,43 +771,10 @@ URL:https://www.visitrhodeisland.com/event/rhode-island-seafood-festival-2
  026/111348/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Creative Survival: God's Little Acre Walking Tour
-DTSTART;VALUE=DATE:20260913
-DTEND;VALUE=DATE:20260914
-DTSTAMP:20260823T105559Z
-UID:cb0a20191ca248dbfb6392eb4bc2@visitri-calendar
-DESCRIPTION:Tour God's Little Acre with Rhode Island State Historian Laure
- ate Keith Stokes and explore Newport's African heritage and legacy. Experi
- ence the rich history and enduring legacy of Newport's African heritage co
- mmunity through a guided tour of God's Little Acre\, the nation's oldest k
- nown and continuously preserved burial ground for people of African descen
- t. Please Note: Children under 12 are free. This tour explores the lives o
- f both enslaved and free people of African heritage who helped shape Newpo
- rt's social\, cultural\, and economic landscape. As you walk through this 
- sacred historic site\, you'll discover stories of resilience\, community\,
-  and achievement while learning about the traditions\, symbolism\, and ind
- ividuals memorialized within the cemetery. Gain a deeper appreciation for 
- the contributions of African Americans to Newport's history and the lastin
- g impact their lives continue to have on the city today. What to Expect A 
- guided walking tour led by knowledgeable interpreters Stories highlighting
-  the lives of Newport's African heritage community Historical insights int
- o the significance of God's Little Acre An opportunity to reflect on the p
- eople and events that helped shape Rhode Island's history Please wear comf
- ortable walking shoes\, as the tour takes place outdoors on historic terra
- in. We look forward to sharing this meaningful journey through one of Newp
- ort's most important cultural landmarks.\n\nSource: https://www.visitrhode
- island.com/event/creative-survival%3a-gods-little-acre-walking-tour/111432
- /
-LOCATION:Gods Little Acre\, Farewell FS\, America's Cup Ave\, Newport\, 02
- 840
-URL:https://www.visitrhodeisland.com/event/creative-survival%3a-gods-littl
- e-acre-walking-tour/111432/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Rhode Island SeaFood Festival 2026
 DTSTART;VALUE=DATE:20260913
 DTEND;VALUE=DATE:20260914
-DTSTAMP:20260823T105559Z
+DTSTAMP:20260824T110525Z
 UID:724318b2396062bf2de4c6176658@visitri-calendar
 DESCRIPTION:Join us for the 16th annual Rhode Island Seafood Festival\, a 
  two-day extravaganza of the Ocean State’s best seafood\, live music and 
@@ -1007,7 +813,7 @@ BEGIN:VEVENT
 SUMMARY:PVDFest 2026
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260919
-DTSTAMP:20260823T105559Z
+DTSTAMP:20260824T110525Z
 UID:2de49afd8f722627b9a1f5e00bb1@visitri-calendar
 DESCRIPTION:The People’s Festival for Arts\, Music\, and Culture Mayor B
  rett P. Smiley\, the City’s Department of Art\, Culture\, Tourism and Pr
@@ -1026,7 +832,7 @@ BEGIN:VEVENT
 SUMMARY:Food Truck Concert Nights - Diamond Hill Park
 DTSTART;VALUE=DATE:20260919
 DTEND;VALUE=DATE:20260920
-DTSTAMP:20260823T105559Z
+DTSTAMP:20260824T110525Z
 UID:c61110f0d2ee251ab02333bed717@visitri-calendar
 DESCRIPTION:We return to Diamond Hill Park in Cumberland for another serie
  s of memorable events in 2026. Attendance is free\, just pay for what you 
@@ -1054,7 +860,7 @@ BEGIN:VEVENT
 SUMMARY:PVDFest 2026
 DTSTART;VALUE=DATE:20260919
 DTEND;VALUE=DATE:20260920
-DTSTAMP:20260823T105559Z
+DTSTAMP:20260824T110525Z
 UID:553bda94539f69469073803099fb@visitri-calendar
 DESCRIPTION:The People’s Festival for Arts\, Music\, and Culture Mayor B
  rett P. Smiley\, the City’s Department of Art\, Culture\, Tourism and Pr
@@ -1070,43 +876,10 @@ LOCATION:Downtown Providence\, Downtown Providence\, Providence\, RI 02903
 URL:https://www.visitrhodeisland.com/event/pvdfest-2026/104917/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Creative Survival: God's Little Acre Walking Tour
-DTSTART;VALUE=DATE:20260920
-DTEND;VALUE=DATE:20260921
-DTSTAMP:20260823T105559Z
-UID:73e18c58337a8fbc2c2b9f478bfc@visitri-calendar
-DESCRIPTION:Tour God's Little Acre with Rhode Island State Historian Laure
- ate Keith Stokes and explore Newport's African heritage and legacy. Experi
- ence the rich history and enduring legacy of Newport's African heritage co
- mmunity through a guided tour of God's Little Acre\, the nation's oldest k
- nown and continuously preserved burial ground for people of African descen
- t. Please Note: Children under 12 are free. This tour explores the lives o
- f both enslaved and free people of African heritage who helped shape Newpo
- rt's social\, cultural\, and economic landscape. As you walk through this 
- sacred historic site\, you'll discover stories of resilience\, community\,
-  and achievement while learning about the traditions\, symbolism\, and ind
- ividuals memorialized within the cemetery. Gain a deeper appreciation for 
- the contributions of African Americans to Newport's history and the lastin
- g impact their lives continue to have on the city today. What to Expect A 
- guided walking tour led by knowledgeable interpreters Stories highlighting
-  the lives of Newport's African heritage community Historical insights int
- o the significance of God's Little Acre An opportunity to reflect on the p
- eople and events that helped shape Rhode Island's history Please wear comf
- ortable walking shoes\, as the tour takes place outdoors on historic terra
- in. We look forward to sharing this meaningful journey through one of Newp
- ort's most important cultural landmarks.\n\nSource: https://www.visitrhode
- island.com/event/creative-survival%3a-gods-little-acre-walking-tour/111432
- /
-LOCATION:Gods Little Acre\, Farewell FS\, America's Cup Ave\, Newport\, 02
- 840
-URL:https://www.visitrhodeisland.com/event/creative-survival%3a-gods-littl
- e-acre-walking-tour/111432/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Jack-O-Lantern Spectacular
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
-DTSTAMP:20260823T105559Z
+DTSTAMP:20260824T110525Z
 UID:a11cb847b167f6db3762e7d7aba4@visitri-calendar
 DESCRIPTION:Jack-O-Lantern Spectacular: The Great Pun-Kin Trail\, presente
  d by Citizens\, returns October 1 &#8211\; November 1 with an all-new trai
@@ -1128,10 +901,44 @@ URL:https://www.visitrhodeisland.com/event/jack-o-lantern-spectacular/9207
  1/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Deja Vieux Vintage Shopping Bus Tour Adventure - October 4th
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+DTSTAMP:20260824T110525Z
+UID:5fe8cdac575b282879f35adb305f@visitri-calendar
+DESCRIPTION:⭐Hop Aboard Rhode Island’s First - Ever Vintage Shops Bus 
+ Tour!⭐ We invite you to join us at Deja Vieux Vintage for a uniquely cur
+ ated shopping adventure! On Sunday\, October 4th\, from 10:30 AM to 4:00 P
+ M\, we are hitting the road for a premier 5-hour vintage bus tour down Rou
+ te 6 and Route 44. The tour features exclusive discounts at 8 to 12 of our
+  favorite local antique and vintage shops\, making it the perfect day out 
+ for collectors and vintage lovers alike. The Ultimate Vintage &amp\; Antiq
+ ue Bus Tour Host: Deja Vieux Vintage Date &amp\; Time: Sunday\, October 4t
+ h | 10:30 AM &#8211\; 4:00 PM Ticket Information: • Single Ticket: $37.5
+ 0 • Bring a Friend Bundle: Two for $70 Every ticket comes packed with va
+ lue! You get your bus boarding pass\, event shopping bag\, coupon booklet
+ \, complimentary snacks and water\, plus a chance to win prizes. Departure
+  &amp\; Logistics Details: To ensure a smooth departure\, please arrive at
+  Deja Vieux Vintage on Sunday\, October 4th\, before 10:30 AM. Our storefr
+ ont will be open early so you can enjoy your very first shopping experienc
+ e of the day! Parking is completely free. Our bus leaves promptly at 11:00
+  AM. We will be traveling on a chartered yellow school bus from Ocean Stat
+ e Transit\; please note that this vehicle is unfortunately not handicap ac
+ cessible. Single ticket holders may need to share seats\, while our friend
+ s bundles ticket holders guarantee seating together. Complimentary snacks 
+ and water will be provided on board\, and you are welcome to bring your ow
+ n allergen-free lunch. Tickets are non-refundable but are transferable.\n
+ \nSource: https://www.visitrhodeisland.com/event/deja-vieux-vintage-shoppi
+ ng-bus-tour-adventure-october-4th/111403/
+LOCATION:Deja Vieux Vintage\, 20 Cedar Swamp Rd.\, Smithfield\, 02917
+URL:https://www.visitrhodeisland.com/event/deja-vieux-vintage-shopping-bus
+ -tour-adventure-october-4th/111403/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Live Music by Logan Vale
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261018
-DTSTAMP:20260823T105559Z
+DTSTAMP:20260824T110525Z
 UID:2241186137b505cf7c814cd90b60@visitri-calendar
 DESCRIPTION:The music of Logan Vale! Dinner reservations required either o
  nline or call 401.861.3850 x. 3\n\nSource: https://www.visitrhodeisland.co
@@ -1142,49 +949,10 @@ URL:https://www.visitrhodeisland.com/event/live-music-by-logan-vale/110313
  /
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Alger Mitchell at SALTwater Harborside Dining
-DTSTART;VALUE=DATE:20261025
-DTEND;VALUE=DATE:20261026
-DTSTAMP:20260823T105559Z
-UID:c8707a642277214ae36e5ea850d3@visitri-calendar
-DESCRIPTION:Alger Mitchell at SALTwater Harborside Dining Sundays from 4:0
- 0 to 7:00 PM Alger Mitchell is a dynamic song stylist\, songwriter\, and v
- ocalist\, delivering captivating performances with guitar and harmonica. B
- oasting a remarkable repertoire of approximately 250 songs performed entir
- ely from memory\, Alger's music is 100% live\, free of electronic enhancem
- ents. His versatile setlist spans the timeless classics of The Great Ameri
- can Songbook\, from Broadway to Hollywood\, alongside beloved jazz and pop
-  standards\, classic country\, oldies\, and his own original compositions.
-  With infectious energy\, his live performances invite optional dancing\, 
- making it nearly impossible to resist moving to the music! Keep a smile on
-  your face and a song in your heart!\n\nSource: https://www.visitrhodeisla
- nd.com/event/alger-mitchell-at-saltwater-harborside-dining/110157/
-LOCATION:Saltwater at The Newport Harbor Hotel & Marina\, 49 America's Cup
-  Avenue\, Newport\, RI 02840 Time: 4:00 PM to 7:00 PM 49 America's Cup Ave
- nue\, Newport\, RI 02840 OFFICIAL RHODE ISLAND TRAVEL GUIDE Get Guide Get 
- news from Visit Rhode Island in your inbox. Industry Partner Leisure Trave
- l Sign Up Ratings Powered by Press Industry Travel Trade Meetings & Conven
- tions Contact Privacy Policy Sitemap Partner Portal SMS Privacy Policy SMS
-  Terms & Conditions UGC Terms and Conditions Wedding Planning Press Photos
-  Story Ideas Fun-Sized Rhode Island Rhode Island in the News Free Travel G
- uide Contact Visit Rhode Island Industry Travel Trade Ideas & Itineraries 
- Downton Abbey Lifestyle Rhode Island Foodways Hidden Gems Image Library Fr
- ee Travel Guide Contact Visit Rhode Island Meetings & Conventions Contact 
- Privacy Policy Sitemap Partner Portal SMS Privacy Policy SMS Terms & Condi
- tions UGC Terms and Conditions Wedding Planning Weddings - Venues Wedding 
- - Catering Wedding - Cakes Wedding - Attire Wedding - Florists Wedding - J
- ewelers Wedding - Transportation © 2026 Rhode Island Commerce Corporation
-  Special Offers Offers Here Looking to plan your next visit to Rhode Islan
- d\, check out some of the current special offers and enjoy savings\, extra
-  perks and more! Offers Here
-URL:https://www.visitrhodeisland.com/event/alger-mitchell-at-saltwater-har
- borside-dining/110157/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Coastal Cruisers - The Golden Hour
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
-DTSTAMP:20260823T105559Z
+DTSTAMP:20260824T110525Z
 UID:a33f7731698b5451e05ba44e42fd@visitri-calendar
 DESCRIPTION:Experience the Island in our Coastal Cruisers\, Newport’s pr
  ivate chauffeured luxury tour\, dedicated to providing a sophisticated way
@@ -1211,10 +979,28 @@ URL:https://www.visitrhodeisland.com/event/coastal-cruisers-the-golden-hou
  r/109827/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Half Price Tacos and House Margs at Yellow Door Taqueria!
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+DTSTAMP:20260824T110525Z
+UID:9e3061f0648341ee71e7158e4b15@visitri-calendar
+DESCRIPTION:Join us EVERY DAY at Yellow Door Taqueria from 3-6 PM at the b
+ ar for half price select tacos and house margaritas! It's the perfect way 
+ to wrap up your work day or grab a drink with friends! Choose from any of 
+ our scratch-made house margarita flavors and six of our favorite tacos! *D
+ ine in only\, select items only from 3-6 PM every day. Bar seating only*\n
+ \nSource: https://www.visitrhodeisland.com/event/half-price-tacos-and-hous
+ e-margs-at-yellow-door-taqueria!/111221/
+LOCATION:Yellow Door Taqueria\, 191 Dorrance Street\, Providence\, RI 0290
+ 3
+URL:https://www.visitrhodeisland.com/event/half-price-tacos-and-house-marg
+ s-at-yellow-door-taqueria!/111221/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Jack-O-Lantern Spectacular
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
-DTSTAMP:20260823T105559Z
+DTSTAMP:20260824T110525Z
 UID:ddc52d2e1f830141a3c1c36cbc2b@visitri-calendar
 DESCRIPTION:Jack-O-Lantern Spectacular: The Great Pun-Kin Trail\, presente
  d by Citizens\, returns October 1 &#8211\; November 1 with an all-new trai
@@ -1236,10 +1022,26 @@ URL:https://www.visitrhodeisland.com/event/jack-o-lantern-spectacular/9207
  1/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Children's Weekly Storytime
+DTSTART;VALUE=DATE:20261221
+DTEND;VALUE=DATE:20261222
+DTSTAMP:20260824T110525Z
+UID:505c13cc68dfd1161c6032fdf540@visitri-calendar
+DESCRIPTION:Children's Storytime Join Elizabeth as she hosts storytime on 
+ Monday mornings at 10:30 AM. Every Monday\, Elizabeth will chose a book co
+ rrelating with the season or holiday. All children and their families are 
+ welcome to join!\n\nSource: https://www.visitrhodeisland.com/event/childre
+ ns-weekly-storytime/109524/
+LOCATION:Charter Books\, 8 Broadway\, Newport\, RI 02840 Time: 10:30 AM to
+  11:00 AM
+URL:https://www.visitrhodeisland.com/event/childrens-weekly-storytime/1095
+ 24/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Beyond the Brewhouse Tour
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
-DTSTAMP:20260823T105559Z
+DTSTAMP:20260824T110525Z
 UID:c7b48636db9ede5f5acbbb263d31@visitri-calendar
 DESCRIPTION:Beyond the Brewhouse Where: Newport Craft Brewing and Distilli
  ng\, 293 JT Connell Road\, Newport 45 minutes: $20 per person Did you know
