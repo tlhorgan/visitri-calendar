@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:$15 Moonshine Flights & Moonshine Tasting
 DTSTART;VALUE=DATE:20250615
 DTEND;VALUE=DATE:20250616
-DTSTAMP:20260824T110525Z
+DTSTAMP:20260825T110353Z
 UID:b6432d870f2c0958f26453a40d59@visitri-calendar
 DESCRIPTION:Try a Moonshine Flight tasting at Moonshine Alley! Moonshine F
  lights are available daily for just $15! We have over 13 flavors to choose
@@ -20,26 +20,10 @@ URL:https://www.visitrhodeisland.com/event/%2415-moonshine-flights-%26-moo
  nshine-tasting/105663/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Children's Weekly Storytime
-DTSTART;VALUE=DATE:20260330
-DTEND;VALUE=DATE:20260331
-DTSTAMP:20260824T110525Z
-UID:6a42c90422362e83701e98f899c2@visitri-calendar
-DESCRIPTION:Children's Storytime Join Elizabeth as she hosts storytime on 
- Monday mornings at 10:30 AM. Every Monday\, Elizabeth will chose a book co
- rrelating with the season or holiday. All children and their families are 
- welcome to join!\n\nSource: https://www.visitrhodeisland.com/event/childre
- ns-weekly-storytime/109524/
-LOCATION:Charter Books\, 8 Broadway\, Newport\, RI 02840 Time: 10:30 AM to
-  11:00 AM
-URL:https://www.visitrhodeisland.com/event/childrens-weekly-storytime/1095
- 24/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Coastal Cruisers - The Golden Hour
 DTSTART;VALUE=DATE:20260501
 DTEND;VALUE=DATE:20260502
-DTSTAMP:20260824T110525Z
+DTSTAMP:20260825T110353Z
 UID:9f3864060ce7679e35293700f37c@visitri-calendar
 DESCRIPTION:Experience the Island in our Coastal Cruisers\, Newport’s pr
  ivate chauffeured luxury tour\, dedicated to providing a sophisticated way
@@ -69,7 +53,7 @@ BEGIN:VEVENT
 SUMMARY:Beyond the Brewhouse Tour
 DTSTART;VALUE=DATE:20260515
 DTEND;VALUE=DATE:20260516
-DTSTAMP:20260824T110525Z
+DTSTAMP:20260825T110353Z
 UID:acc9d8e1d1bdab34c6766b602473@visitri-calendar
 DESCRIPTION:Beyond the Brewhouse Where: Newport Craft Brewing and Distilli
  ng\, 293 JT Connell Road\, Newport 45 minutes: $20 per person Did you know
@@ -85,34 +69,52 @@ URL:https://www.visitrhodeisland.com/event/beyond-the-brewhouse-tour/11015
  3/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Bruce Jacques Show at One Pelham East
-DTSTART;VALUE=DATE:20260525
-DTEND;VALUE=DATE:20260526
-DTSTAMP:20260824T110525Z
-UID:1a094f507695de921be36457a8f9@visitri-calendar
-DESCRIPTION:Bruce Jacques Show at One Pelham East When: Every Monday from 
- 9:00 PM to 12:00 AM (May 25 - August 25\, 2026) Where: 1 Pelham East\, New
- port\, RI 02840 Bruce incorporates comedy spoofs of artists such as Queen
- \, Beyonce\, Guns and Roses\, Britney Spears\, Elvis\, and many more. His 
- repertoire is a mix of songs everyone knows by heart from the sixties to t
- oday’s top hits. He also involves the audience with a six foot L.E.D. li
- ght board that displays the words for sing-a-longs. Bruce's ability to con
- nect with audiences of all ages and in all types of settings is something 
- that comes only with years of experience. He also possesses the natural ab
- ility to make people feel comfortable - to make them laugh\, sing\, and da
- nce. Bruce's experience includes over three decades of private parties\, c
- orporate functions\, colleges\, nightclubs and resorts. Bruce has several 
- long-standing gigs including:\n\nSource: https://www.visitrhodeisland.com/
- event/bruce-jacques-show-at-one-pelham-east/110092/
-LOCATION:1 Pelham East\, 270 Thames Street\, Newport\, RI 02840
-URL:https://www.visitrhodeisland.com/event/bruce-jacques-show-at-one-pelha
- m-east/110092/
+SUMMARY:Ca' del Bosco Wine Garden
+DTSTART;VALUE=DATE:20260522
+DTEND;VALUE=DATE:20260523
+DTSTAMP:20260825T110353Z
+UID:ec504bb30a685e605b7475ceee57@visitri-calendar
+DESCRIPTION:Ca' del Bosco Wine Garden Location: The Chanler at Cliff Walk 
+ May 22 - September 7\, 2026 1:00 PM - 8:00 PM This season\, settle into a 
+ cozy Adirondack chair beneath the dappled shade of umbrellas and enjoy a g
+ lass of Franciacorta or a refreshing Spritzer at the Ca'del Bosco Wine Gar
+ den. From your seat\, take in the tranquil views of Easton's Bay\, coastal
+  beauty without the hassle of the beach or the crowds. Whether you've been
+  exploring Newport's iconic Cliff Walk or simply seeking a peaceful escape
+ \, the Ca'del Bosco Wine Garden offers the perfect retreat. Relax\, savor 
+ exceptional wine\, and let the gentle sea breeze remind you of Newport's t
+ imeless charm. Please Note: No reservations are required\, and complimenta
+ ry parking is available. Adirondack chairs are offered on a first-come\, f
+ irst-served basis with a 90-minute seating limit. A $30 per person food an
+ d beverage minimum applies. For additional details\, please refer to our f
+ ull list of frequently asked questions here. Open weather permitting and c
+ losed for private events on select dates. View the full calendar here.\n\n
+ Source: https://www.visitrhodeisland.com/event/ca-del-bosco-wine-garden/10
+ 9874/
+LOCATION:The Chanler at Cliff Walk May 22 - September 7\, 2026 1:00 PM - 8
+ :00 PM This season\, settle into a cozy Adirondack chair beneath the dappl
+ ed shade of umbrellas and enjoy a glass of Franciacorta or a refreshing Sp
+ ritzer at the Ca'del Bosco Wine Garden. From your seat\, take in the tranq
+ uil views of Easton's Bay\, coastal beauty without the hassle of the beach
+  or the crowds. Whether you've been exploring Newport's iconic Cliff Walk 
+ or simply seeking a peaceful escape\, the Ca'del Bosco Wine Garden offers 
+ the perfect retreat. Relax\, savor exceptional wine\, and let the gentle s
+ ea breeze remind you of Newport's timeless charm. Please Note: No reservat
+ ions are required\, and complimentary parking is available. Adirondack cha
+ irs are offered on a first-come\, first-served basis with a 90-minute seat
+ ing limit. A $30 per person food and beverage minimum applies. For additio
+ nal details\, please refer to our full list of frequently asked questions 
+ here. Open weather permitting and closed for private events on select date
+ s. View the full calendar here. Show More View Website | Email 1 / 1 Addit
+ ional Information\, 117 Memorial Boulevard\, Newport\, RI 02840
+URL:https://www.visitrhodeisland.com/event/ca-del-bosco-wine-garden/109874
+ /
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Music at Sunset: Concert Series 2026
 DTSTART;VALUE=DATE:20260603
 DTEND;VALUE=DATE:20260604
-DTSTAMP:20260824T110525Z
+DTSTAMP:20260825T110353Z
 UID:87bda7b48d099d40defa3f7e711b@visitri-calendar
 DESCRIPTION:Music at Sunset: Concert Series 2026 Wednesdays | June 3 &#821
  1\; August 26 Music from 6:00 &#8211\; 8:00 PM\, Parking and Check-in open
@@ -162,7 +164,7 @@ BEGIN:VEVENT
 SUMMARY:Free Summer Concert Series at Ragged Island
 DTSTART;VALUE=DATE:20260624
 DTEND;VALUE=DATE:20260625
-DTSTAMP:20260824T110525Z
+DTSTAMP:20260825T110353Z
 UID:1c212ee8000d851f7b6e4ea8f143@visitri-calendar
 DESCRIPTION:Announcing Ragged Island's Free 2026 Summer Concert Series Rag
  ged Island has nine awesome bands lined up for Wednesday nights in July an
@@ -194,7 +196,7 @@ BEGIN:VEVENT
 SUMMARY:Hope & Main Makers Markets: Summer Series
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260702
-DTSTAMP:20260824T110525Z
+DTSTAMP:20260825T110353Z
 UID:a4c76656bb4dd2f560a21d25ca37@visitri-calendar
 DESCRIPTION:Developed by the operators of Hope &amp\; Main in Warren\, the
   Schoolyard Market helps locally-based food and beverage businesses start 
@@ -216,7 +218,7 @@ BEGIN:VEVENT
 SUMMARY:Field of Artisans at the Beach
 DTSTART;VALUE=DATE:20260711
 DTEND;VALUE=DATE:20260712
-DTSTAMP:20260824T110525Z
+DTSTAMP:20260825T110353Z
 UID:7ebe1a9998bbb563181c86657159@visitri-calendar
 DESCRIPTION:Join Field of Artisans on Saturdays this summer for the 11th y
  ear of bringing creativity to this beautiful location! Artists will displa
@@ -233,7 +235,7 @@ BEGIN:VEVENT
 SUMMARY:$15 Moonshine Flights & Moonshine Tasting
 DTSTART;VALUE=DATE:20260721
 DTEND;VALUE=DATE:20260722
-DTSTAMP:20260824T110525Z
+DTSTAMP:20260825T110353Z
 UID:6ac059c408c431eceb1c3c855c19@visitri-calendar
 DESCRIPTION:Try a Moonshine Flight tasting at Moonshine Alley! Moonshine F
  lights are available daily for just $15! We have over 13 flavors to choose
@@ -249,7 +251,7 @@ BEGIN:VEVENT
 SUMMARY:Half Price Tacos and House Margs at Yellow Door Taqueria!
 DTSTART;VALUE=DATE:20260731
 DTEND;VALUE=DATE:20260801
-DTSTAMP:20260824T110525Z
+DTSTAMP:20260825T110353Z
 UID:e0d95b06c7be4290562a81ad7ad5@visitri-calendar
 DESCRIPTION:Join us EVERY DAY at Yellow Door Taqueria from 3-6 PM at the b
  ar for half price select tacos and house margaritas! It's the perfect way 
@@ -267,7 +269,7 @@ BEGIN:VEVENT
 SUMMARY:Deja Vieux Vintage Shopping Bus Tour Adventure - October 4th
 DTSTART;VALUE=DATE:20260817
 DTEND;VALUE=DATE:20260818
-DTSTAMP:20260824T110525Z
+DTSTAMP:20260825T110353Z
 UID:912e503a9012deae13b33d1d0a85@visitri-calendar
 DESCRIPTION:⭐Hop Aboard Rhode Island’s First - Ever Vintage Shops Bus 
  Tour!⭐ We invite you to join us at Deja Vieux Vintage for a uniquely cur
@@ -298,11 +300,39 @@ URL:https://www.visitrhodeisland.com/event/deja-vieux-vintage-shopping-bus
  -tour-adventure-october-4th/111403/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Beach Escape Resin Tray - Painting Class
-DTSTART;VALUE=DATE:20260824
-DTEND;VALUE=DATE:20260825
-DTSTAMP:20260824T110525Z
-UID:287f07005b4fff490bdcea79db52@visitri-calendar
+SUMMARY:A Taste of Cranston - Honoring the Past - Celebrating the Present
+DTSTART;VALUE=DATE:20260825
+DTEND;VALUE=DATE:20260826
+DTSTAMP:20260825T110353Z
+UID:8400553c5451b661b49e24f2b9c7@visitri-calendar
+DESCRIPTION:Aug. 25\, 5 to 7pm. The Cranston Historical Society invites yo
+ u to enjoy an early evening of delightful food samplings --- A Taste of Cr
+ anston --- A Fundraising Event --- on the grounds of the Governor Sprague 
+ Mansion. Some of Cranston's finest restaurants &amp\; businesses will shar
+ e their delicious offerings with guests. Cost: $30.00 per person\, payable
+  to Cranston Historical Society\, 1351 Cranston St.\, Cranston 02920 by Au
+ gust 21. Limited seating. Must Register\, call 944-9226. You can also purc
+ hase tickets through VENMO -- go to www.cranstonhistory.org. Parking in ba
+ ck of Sprague Mansion. Enter at 1351 Cranston St.\, across from McShawn's 
+ Pub. Here are some of the fabulous establishments participating this year:
+  MakMak Eatery\; Twin Oak\; Narragansett Brewery\; Catanzaro\; Del's Lemon
+ ade\; Bitter Sweet Dessert Truck\; Texas Road House\; Seven Stars Bakery\;
+  Cake Me Happy\; LaEskina\; Macera\; Nino's\; Marchetti's\; Avvio\; Nelva'
+ s . . . Plein Air Painting demonstrations conducted by Wells Goetzman\, ar
+ tist/educator. We will look for you on Aug. 25!\n\nSource: https://www.vis
+ itrhodeisland.com/event/a-taste-of-cranston-honoring-the-past-celebrating-
+ the-present/111104/
+LOCATION:Governor Sprague Mansion\, 1351 Cranston St.\, Cranston 02920\, 1
+ 351 Cranston Street\, Cranston\, 02920
+URL:https://www.visitrhodeisland.com/event/a-taste-of-cranston-honoring-th
+ e-past-celebrating-the-present/111104/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bee Happy Blooms – Stemless Glasses (Set of 2) - Painting Class
+DTSTART;VALUE=DATE:20260825
+DTEND;VALUE=DATE:20260826
+DTSTAMP:20260825T110353Z
+UID:2cefd1877c3d69455c401740d8f9@visitri-calendar
 DESCRIPTION:🖌️ IN-STUDIO SESSION DETAILS Reserve your spot and enjoy 
  a complimentary beverage—choose from soda\, beer\, or wine (21+ with val
  id ID). Additional drinks will be available for purchase. Immerse yourself
@@ -335,19 +365,18 @@ DESCRIPTION:🖌️ IN-STUDIO SESSION DETAILS Reserve your spot and enjoy
   make final decisions. If we cancel due to snow or other severe weather\, 
  we’ll email you a voucher for a future session. Have more questions? Che
  ck out our [Frequently Asked Questions] page — just [click here].\n\nSou
- rce: https://www.visitrhodeisland.com/event/beach-escape-resin-tray-painti
- ng-class/110936/
-LOCATION:Paint & Vino\, 150 Main Street\, Pawtucket\, 02860 Time: 7:00 PM 
- to 9:30 PM
-URL:https://www.visitrhodeisland.com/event/beach-escape-resin-tray-paintin
- g-class/110936/
+ rce: https://www.visitrhodeisland.com/event/bee-happy-blooms-%26%238211%3b
+ -stemless-glasses-(set-of-2)-painting-class/110950/
+LOCATION:Paint and Vino\, 150 Main Street\, Pawtucket\, RI 02860
+URL:https://www.visitrhodeisland.com/event/bee-happy-blooms-%26%238211%3b-
+ stemless-glasses-(set-of-2)-painting-class/110950/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Blithewold Annual Family Clambake
-DTSTART;VALUE=DATE:20260824
-DTEND;VALUE=DATE:20260825
-DTSTAMP:20260824T110525Z
-UID:29564f9fc523265e91e547712af0@visitri-calendar
+DTSTART;VALUE=DATE:20260825
+DTEND;VALUE=DATE:20260826
+DTSTAMP:20260825T110353Z
+UID:3da0f5706b0d8a2ec3d98d632097@visitri-calendar
 DESCRIPTION:Blithewold Annual Family Clambake Thursday | August 27 5:00 &#
  8211\; 8:00 PM Location: Event Tent The Great Lawn has been the scene of f
  amily clambakes for over a century! Step back in time and stroll the garde
@@ -402,10 +431,10 @@ URL:https://www.visitrhodeisland.com/event/blithewold-annual-family-clamba
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Brew at the Zoo
-DTSTART;VALUE=DATE:20260824
-DTEND;VALUE=DATE:20260825
-DTSTAMP:20260824T110525Z
-UID:2edb940cad13eb0749328bedab99@visitri-calendar
+DTSTART;VALUE=DATE:20260825
+DTEND;VALUE=DATE:20260826
+DTSTAMP:20260825T110353Z
+UID:f6ec9f62c703988dab214019f23a@visitri-calendar
 DESCRIPTION:Tap into your wild side at Brew at the Zoo on Saturday\, Augus
  t 29th\, an adults-only evening event\, and sample hundreds of beers\, har
  d seltzers\, wines and ready-to-drink cocktails from dozens of local\, reg
@@ -422,32 +451,33 @@ LOCATION:Roger Williams Park Zoo & Carousel Village\, 1000 Elmwood Avenue
 URL:https://www.visitrhodeisland.com/event/brew-at-the-zoo/110973/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Jacob Hackworth Live at Moonshine Alley!
-DTSTART;VALUE=DATE:20260824
-DTEND;VALUE=DATE:20260825
-DTSTAMP:20260824T110525Z
-UID:71d92cb32c944b692616fe2312f9@visitri-calendar
-DESCRIPTION:ON SALE NOW Cat Country 98.1 presents Jacob Hackworth LIVE at 
- Moonshine Alley on Tuesday\, August 25th! MCA Records &amp\; Nashville sin
- ger and songwriter Jacob Hackworth is coming to Providence for one night o
- nly! Jacob is one of country music’s fastest-rising talents\, from his s
- ongwriting success (including Tucker Wetmore’s career-launching smash 
- “Wine Into Whiskey\,” and many more) to his debut country radio single
-  as a recording artist\, “What Took You So Long.” Don’t miss his ama
- zing writing and live show at Moonshine Alley for one unforgettable night 
- Moonshine Alley - 52 Pine Street\, Providence\, RI Doors Open: 6:00 PM Sho
- w Starts with Pat Lowell: 7:00 PM Moonshine Alley will offer a limited men
- u during the show. This is a 21+ event!\n\nSource: https://www.visitrhodei
- sland.com/event/jacob-hackworth-live-at-moonshine-alley!/111051/
-LOCATION:Moonshine Alley\, 52 Pine St\, Providence\, RI 02903
-URL:https://www.visitrhodeisland.com/event/jacob-hackworth-live-at-moonshi
- ne-alley!/111051/
+SUMMARY:Evening Wine Tasting with Sakonnet Vineyards
+DTSTART;VALUE=DATE:20260825
+DTEND;VALUE=DATE:20260826
+DTSTAMP:20260825T110353Z
+UID:768fc7f3d43e6da80f3c76bee2e5@visitri-calendar
+DESCRIPTION:Evening Wine Tasting with Sakonnet Vineyards When: Tuesday\, A
+ ugust 25th from 6:30 to 8:00 PM Where: Departs from 1 East Ferry Wharf\, J
+ amestown Cost: $52 per person (Adults 21+) Join us aboard the Coastal Quee
+ n for a scenic cruise featuring Sakonnet Vineyards. Sip and savor curated 
+ wine samples as you glide past iconic coastal landmarks like Fort Adams\, 
+ Hammersmith Farm\, Castle Hill\, and the beautiful Jamestown shoreline. Ex
+ perience the perfect blend of tradition and innovation from Sakonnet Viney
+ ards - where every glass reflects the unique character of the land. Enjoy 
+ panoramic views from every seat while you cruise on this 90-minute trip. T
+ he boat departs from Jamestown Village at 6:30 PM. Seating is limited.\n\n
+ Source: https://www.visitrhodeisland.com/event/evening-wine-tasting-with-s
+ akonnet-vineyards/111438/
+LOCATION:Coastal Queen Cruises\, Events From Jamestown\, 1 East Ferry Whar
+ f\, Jamestown\, RI 02835 Time: 6:30 PM to 8:00 PM
+URL:https://www.visitrhodeisland.com/event/evening-wine-tasting-with-sakon
+ net-vineyards/111438/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Jacob Hackworth Live at Moonshine Alley!
 DTSTART;VALUE=DATE:20260825
 DTEND;VALUE=DATE:20260826
-DTSTAMP:20260824T110525Z
+DTSTAMP:20260825T110353Z
 UID:f35a8fe4166371ef1f7d3be66b07@visitri-calendar
 DESCRIPTION:ON SALE NOW Cat Country 98.1 presents Jacob Hackworth LIVE at 
  Moonshine Alley on Tuesday\, August 25th! MCA Records &amp\; Nashville sin
@@ -469,7 +499,7 @@ BEGIN:VEVENT
 SUMMARY:Free Summer Concert Series at Ragged Island
 DTSTART;VALUE=DATE:20260826
 DTEND;VALUE=DATE:20260827
-DTSTAMP:20260824T110525Z
+DTSTAMP:20260825T110353Z
 UID:c34f298b13c81e8e626e59cb461a@visitri-calendar
 DESCRIPTION:Announcing Ragged Island's Free 2026 Summer Concert Series Rag
  ged Island has nine awesome bands lined up for Wednesday nights in July an
@@ -501,7 +531,7 @@ BEGIN:VEVENT
 SUMMARY:Hope & Main Makers Markets: Summer Series
 DTSTART;VALUE=DATE:20260826
 DTEND;VALUE=DATE:20260827
-DTSTAMP:20260824T110525Z
+DTSTAMP:20260825T110353Z
 UID:508203d8ab48a0f5179cf6188b3b@visitri-calendar
 DESCRIPTION:Developed by the operators of Hope &amp\; Main in Warren\, the
   Schoolyard Market helps locally-based food and beverage businesses start 
@@ -523,7 +553,7 @@ BEGIN:VEVENT
 SUMMARY:Music at Sunset: Concert Series 2026
 DTSTART;VALUE=DATE:20260826
 DTEND;VALUE=DATE:20260827
-DTSTAMP:20260824T110525Z
+DTSTAMP:20260825T110353Z
 UID:f7374ee07909032aafe715f097f0@visitri-calendar
 DESCRIPTION:Music at Sunset: Concert Series 2026 Wednesdays | June 3 &#821
  1\; August 26 Music from 6:00 &#8211\; 8:00 PM\, Parking and Check-in open
@@ -573,7 +603,7 @@ BEGIN:VEVENT
 SUMMARY:Blithewold Annual Family Clambake
 DTSTART;VALUE=DATE:20260827
 DTEND;VALUE=DATE:20260828
-DTSTAMP:20260824T110525Z
+DTSTAMP:20260825T110353Z
 UID:527f3299a90d3c05a0676865fdb2@visitri-calendar
 DESCRIPTION:Blithewold Annual Family Clambake Thursday | August 27 5:00 &#
  8211\; 8:00 PM Location: Event Tent The Great Lawn has been the scene of f
@@ -631,7 +661,7 @@ BEGIN:VEVENT
 SUMMARY:Food Truck Concert Nights - Diamond Hill Park
 DTSTART;VALUE=DATE:20260827
 DTEND;VALUE=DATE:20260828
-DTSTAMP:20260824T110525Z
+DTSTAMP:20260825T110353Z
 UID:6f571d24d4473b04f931421aed68@visitri-calendar
 DESCRIPTION:We return to Diamond Hill Park in Cumberland for another serie
  s of memorable events in 2026. Attendance is free\, just pay for what you 
@@ -659,7 +689,7 @@ BEGIN:VEVENT
 SUMMARY:Brew at the Zoo
 DTSTART;VALUE=DATE:20260829
 DTEND;VALUE=DATE:20260830
-DTSTAMP:20260824T110525Z
+DTSTAMP:20260825T110353Z
 UID:2f2070c631904a407ca11ec8d953@visitri-calendar
 DESCRIPTION:Tap into your wild side at Brew at the Zoo on Saturday\, Augus
  t 29th\, an adults-only evening event\, and sample hundreds of beers\, har
@@ -680,7 +710,7 @@ BEGIN:VEVENT
 SUMMARY:Field of Artisans at the Beach
 DTSTART;VALUE=DATE:20260829
 DTEND;VALUE=DATE:20260830
-DTSTAMP:20260824T110525Z
+DTSTAMP:20260825T110353Z
 UID:ccb222ee4b8c9bc014c177518d7d@visitri-calendar
 DESCRIPTION:Join Field of Artisans on Saturdays this summer for the 11th y
  ear of bringing creativity to this beautiful location! Artists will displa
@@ -697,7 +727,7 @@ BEGIN:VEVENT
 SUMMARY:Live Music by Logan Vale
 DTSTART;VALUE=DATE:20260829
 DTEND;VALUE=DATE:20260830
-DTSTAMP:20260824T110525Z
+DTSTAMP:20260825T110353Z
 UID:51d81b6b9ac830a4dbc32c26efd3@visitri-calendar
 DESCRIPTION:The music of Logan Vale! Dinner reservations required either o
  nline or call 401.861.3850 x. 3\n\nSource: https://www.visitrhodeisland.co
@@ -708,34 +738,52 @@ URL:https://www.visitrhodeisland.com/event/live-music-by-logan-vale/110313
  /
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Bruce Jacques Show at One Pelham East
-DTSTART;VALUE=DATE:20260831
-DTEND;VALUE=DATE:20260901
-DTSTAMP:20260824T110525Z
-UID:571ee8f608107624e8eb6fbb1a47@visitri-calendar
-DESCRIPTION:Bruce Jacques Show at One Pelham East When: Every Monday from 
- 9:00 PM to 12:00 AM (May 25 - August 25\, 2026) Where: 1 Pelham East\, New
- port\, RI 02840 Bruce incorporates comedy spoofs of artists such as Queen
- \, Beyonce\, Guns and Roses\, Britney Spears\, Elvis\, and many more. His 
- repertoire is a mix of songs everyone knows by heart from the sixties to t
- oday’s top hits. He also involves the audience with a six foot L.E.D. li
- ght board that displays the words for sing-a-longs. Bruce's ability to con
- nect with audiences of all ages and in all types of settings is something 
- that comes only with years of experience. He also possesses the natural ab
- ility to make people feel comfortable - to make them laugh\, sing\, and da
- nce. Bruce's experience includes over three decades of private parties\, c
- orporate functions\, colleges\, nightclubs and resorts. Bruce has several 
- long-standing gigs including:\n\nSource: https://www.visitrhodeisland.com/
- event/bruce-jacques-show-at-one-pelham-east/110092/
-LOCATION:1 Pelham East\, 270 Thames Street\, Newport\, RI 02840
-URL:https://www.visitrhodeisland.com/event/bruce-jacques-show-at-one-pelha
- m-east/110092/
+SUMMARY:Ca' del Bosco Wine Garden
+DTSTART;VALUE=DATE:20260907
+DTEND;VALUE=DATE:20260908
+DTSTAMP:20260825T110353Z
+UID:77236e14d72acf829ec51c761fec@visitri-calendar
+DESCRIPTION:Ca' del Bosco Wine Garden Location: The Chanler at Cliff Walk 
+ May 22 - September 7\, 2026 1:00 PM - 8:00 PM This season\, settle into a 
+ cozy Adirondack chair beneath the dappled shade of umbrellas and enjoy a g
+ lass of Franciacorta or a refreshing Spritzer at the Ca'del Bosco Wine Gar
+ den. From your seat\, take in the tranquil views of Easton's Bay\, coastal
+  beauty without the hassle of the beach or the crowds. Whether you've been
+  exploring Newport's iconic Cliff Walk or simply seeking a peaceful escape
+ \, the Ca'del Bosco Wine Garden offers the perfect retreat. Relax\, savor 
+ exceptional wine\, and let the gentle sea breeze remind you of Newport's t
+ imeless charm. Please Note: No reservations are required\, and complimenta
+ ry parking is available. Adirondack chairs are offered on a first-come\, f
+ irst-served basis with a 90-minute seating limit. A $30 per person food an
+ d beverage minimum applies. For additional details\, please refer to our f
+ ull list of frequently asked questions here. Open weather permitting and c
+ losed for private events on select dates. View the full calendar here.\n\n
+ Source: https://www.visitrhodeisland.com/event/ca-del-bosco-wine-garden/10
+ 9874/
+LOCATION:The Chanler at Cliff Walk May 22 - September 7\, 2026 1:00 PM - 8
+ :00 PM This season\, settle into a cozy Adirondack chair beneath the dappl
+ ed shade of umbrellas and enjoy a glass of Franciacorta or a refreshing Sp
+ ritzer at the Ca'del Bosco Wine Garden. From your seat\, take in the tranq
+ uil views of Easton's Bay\, coastal beauty without the hassle of the beach
+  or the crowds. Whether you've been exploring Newport's iconic Cliff Walk 
+ or simply seeking a peaceful escape\, the Ca'del Bosco Wine Garden offers 
+ the perfect retreat. Relax\, savor exceptional wine\, and let the gentle s
+ ea breeze remind you of Newport's timeless charm. Please Note: No reservat
+ ions are required\, and complimentary parking is available. Adirondack cha
+ irs are offered on a first-come\, first-served basis with a 90-minute seat
+ ing limit. A $30 per person food and beverage minimum applies. For additio
+ nal details\, please refer to our full list of frequently asked questions 
+ here. Open weather permitting and closed for private events on select date
+ s. View the full calendar here. Show More View Website | Email 1 / 1 Addit
+ ional Information\, 117 Memorial Boulevard\, Newport\, RI 02840
+URL:https://www.visitrhodeisland.com/event/ca-del-bosco-wine-garden/109874
+ /
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Rhode Island SeaFood Festival 2026
 DTSTART;VALUE=DATE:20260912
 DTEND;VALUE=DATE:20260913
-DTSTAMP:20260824T110525Z
+DTSTAMP:20260825T110353Z
 UID:7155b8a7bea276dc2235b2424899@visitri-calendar
 DESCRIPTION:Join us for the 16th annual Rhode Island Seafood Festival\, a 
  two-day extravaganza of the Ocean State’s best seafood\, live music and 
@@ -774,7 +822,7 @@ BEGIN:VEVENT
 SUMMARY:Rhode Island SeaFood Festival 2026
 DTSTART;VALUE=DATE:20260913
 DTEND;VALUE=DATE:20260914
-DTSTAMP:20260824T110525Z
+DTSTAMP:20260825T110353Z
 UID:724318b2396062bf2de4c6176658@visitri-calendar
 DESCRIPTION:Join us for the 16th annual Rhode Island Seafood Festival\, a 
  two-day extravaganza of the Ocean State’s best seafood\, live music and 
@@ -813,7 +861,7 @@ BEGIN:VEVENT
 SUMMARY:PVDFest 2026
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260919
-DTSTAMP:20260824T110525Z
+DTSTAMP:20260825T110353Z
 UID:2de49afd8f722627b9a1f5e00bb1@visitri-calendar
 DESCRIPTION:The People’s Festival for Arts\, Music\, and Culture Mayor B
  rett P. Smiley\, the City’s Department of Art\, Culture\, Tourism and Pr
@@ -832,7 +880,7 @@ BEGIN:VEVENT
 SUMMARY:Food Truck Concert Nights - Diamond Hill Park
 DTSTART;VALUE=DATE:20260919
 DTEND;VALUE=DATE:20260920
-DTSTAMP:20260824T110525Z
+DTSTAMP:20260825T110353Z
 UID:c61110f0d2ee251ab02333bed717@visitri-calendar
 DESCRIPTION:We return to Diamond Hill Park in Cumberland for another serie
  s of memorable events in 2026. Attendance is free\, just pay for what you 
@@ -860,7 +908,7 @@ BEGIN:VEVENT
 SUMMARY:PVDFest 2026
 DTSTART;VALUE=DATE:20260919
 DTEND;VALUE=DATE:20260920
-DTSTAMP:20260824T110525Z
+DTSTAMP:20260825T110353Z
 UID:553bda94539f69469073803099fb@visitri-calendar
 DESCRIPTION:The People’s Festival for Arts\, Music\, and Culture Mayor B
  rett P. Smiley\, the City’s Department of Art\, Culture\, Tourism and Pr
@@ -879,7 +927,7 @@ BEGIN:VEVENT
 SUMMARY:Jack-O-Lantern Spectacular
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
-DTSTAMP:20260824T110525Z
+DTSTAMP:20260825T110353Z
 UID:a11cb847b167f6db3762e7d7aba4@visitri-calendar
 DESCRIPTION:Jack-O-Lantern Spectacular: The Great Pun-Kin Trail\, presente
  d by Citizens\, returns October 1 &#8211\; November 1 with an all-new trai
@@ -904,7 +952,7 @@ BEGIN:VEVENT
 SUMMARY:Deja Vieux Vintage Shopping Bus Tour Adventure - October 4th
 DTSTART;VALUE=DATE:20261005
 DTEND;VALUE=DATE:20261006
-DTSTAMP:20260824T110525Z
+DTSTAMP:20260825T110353Z
 UID:5fe8cdac575b282879f35adb305f@visitri-calendar
 DESCRIPTION:⭐Hop Aboard Rhode Island’s First - Ever Vintage Shops Bus 
  Tour!⭐ We invite you to join us at Deja Vieux Vintage for a uniquely cur
@@ -938,7 +986,7 @@ BEGIN:VEVENT
 SUMMARY:Live Music by Logan Vale
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261018
-DTSTAMP:20260824T110525Z
+DTSTAMP:20260825T110353Z
 UID:2241186137b505cf7c814cd90b60@visitri-calendar
 DESCRIPTION:The music of Logan Vale! Dinner reservations required either o
  nline or call 401.861.3850 x. 3\n\nSource: https://www.visitrhodeisland.co
@@ -952,7 +1000,7 @@ BEGIN:VEVENT
 SUMMARY:Coastal Cruisers - The Golden Hour
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
-DTSTAMP:20260824T110525Z
+DTSTAMP:20260825T110353Z
 UID:a33f7731698b5451e05ba44e42fd@visitri-calendar
 DESCRIPTION:Experience the Island in our Coastal Cruisers\, Newport’s pr
  ivate chauffeured luxury tour\, dedicated to providing a sophisticated way
@@ -982,7 +1030,7 @@ BEGIN:VEVENT
 SUMMARY:Half Price Tacos and House Margs at Yellow Door Taqueria!
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
-DTSTAMP:20260824T110525Z
+DTSTAMP:20260825T110353Z
 UID:9e3061f0648341ee71e7158e4b15@visitri-calendar
 DESCRIPTION:Join us EVERY DAY at Yellow Door Taqueria from 3-6 PM at the b
  ar for half price select tacos and house margaritas! It's the perfect way 
@@ -1000,7 +1048,7 @@ BEGIN:VEVENT
 SUMMARY:Jack-O-Lantern Spectacular
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
-DTSTAMP:20260824T110525Z
+DTSTAMP:20260825T110353Z
 UID:ddc52d2e1f830141a3c1c36cbc2b@visitri-calendar
 DESCRIPTION:Jack-O-Lantern Spectacular: The Great Pun-Kin Trail\, presente
  d by Citizens\, returns October 1 &#8211\; November 1 with an all-new trai
@@ -1022,26 +1070,10 @@ URL:https://www.visitrhodeisland.com/event/jack-o-lantern-spectacular/9207
  1/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Children's Weekly Storytime
-DTSTART;VALUE=DATE:20261221
-DTEND;VALUE=DATE:20261222
-DTSTAMP:20260824T110525Z
-UID:505c13cc68dfd1161c6032fdf540@visitri-calendar
-DESCRIPTION:Children's Storytime Join Elizabeth as she hosts storytime on 
- Monday mornings at 10:30 AM. Every Monday\, Elizabeth will chose a book co
- rrelating with the season or holiday. All children and their families are 
- welcome to join!\n\nSource: https://www.visitrhodeisland.com/event/childre
- ns-weekly-storytime/109524/
-LOCATION:Charter Books\, 8 Broadway\, Newport\, RI 02840 Time: 10:30 AM to
-  11:00 AM
-URL:https://www.visitrhodeisland.com/event/childrens-weekly-storytime/1095
- 24/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Beyond the Brewhouse Tour
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
-DTSTAMP:20260824T110525Z
+DTSTAMP:20260825T110353Z
 UID:c7b48636db9ede5f5acbbb263d31@visitri-calendar
 DESCRIPTION:Beyond the Brewhouse Where: Newport Craft Brewing and Distilli
  ng\, 293 JT Connell Road\, Newport 45 minutes: $20 per person Did you know
