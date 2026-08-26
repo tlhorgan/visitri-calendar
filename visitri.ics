@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:$15 Moonshine Flights & Moonshine Tasting
 DTSTART;VALUE=DATE:20250615
 DTEND;VALUE=DATE:20250616
-DTSTAMP:20260825T110353Z
+DTSTAMP:20260826T110531Z
 UID:b6432d870f2c0958f26453a40d59@visitri-calendar
 DESCRIPTION:Try a Moonshine Flight tasting at Moonshine Alley! Moonshine F
  lights are available daily for just $15! We have over 13 flavors to choose
@@ -20,10 +20,39 @@ URL:https://www.visitrhodeisland.com/event/%2415-moonshine-flights-%26-moo
  nshine-tasting/105663/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Early Bird Museum Highlight Tour at Newport Car Museum
+DTSTART;VALUE=DATE:20260401
+DTEND;VALUE=DATE:20260402
+DTSTAMP:20260826T110531Z
+UID:75253880a8c565d95c2d97a759c9@visitri-calendar
+DESCRIPTION:Early Bird Highlight Tour For 90 minutes (8:30 &#8211\; 10:00 
+ AM) prior to Museum opening. Call to book: +1 (401) 848-2277 Price $75.00 
+ per person (minimum 2\, maximum 6 ppl) Offered Wednesday\, Thursday\, and 
+ Saturday only April 1 - December 31\, 2026. General admission is included 
+ with price. 72-hour advance notice is suggested. Only one group will be ho
+ sted on any given morning. This is your chance to have the Newport Car Mus
+ eum all to yourself with a private guide to share with you the not-to-miss
+  highlights in seven expansive galleries. With over 100 iconic\, rare and 
+ exotic cars on display at one time\, this private collection is bursting w
+ ith history\, provenance and color\, not to mention the breathtaking sculp
+ tural beauty of automotive designs starting with the 1950s and finishing w
+ ith new models from the 21 st Century. After 90 minutes with your private
+ \, continue to explore at your own pace so that you can further examine yo
+ ur favorites from the Ford/Shelby\, Corvette\, World Car\, Porsche\, Fin C
+ ar\, American Muscle and Mopar exhibits while enjoying immersive videos\, 
+ artwork and the Museum’s eclectic collection of Mid-Century Modern Furni
+ ture.\n\nSource: https://www.visitrhodeisland.com/event/early-bird-museum-
+ highlight-tour-at-newport-car-museum/109638/
+LOCATION:Newport Car Museum\, Enter at Light 1947 West Main Road\, Portsmo
+ uth\, RI 02871
+URL:https://www.visitrhodeisland.com/event/early-bird-museum-highlight-tou
+ r-at-newport-car-museum/109638/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Coastal Cruisers - The Golden Hour
 DTSTART;VALUE=DATE:20260501
 DTEND;VALUE=DATE:20260502
-DTSTAMP:20260825T110353Z
+DTSTAMP:20260826T110531Z
 UID:9f3864060ce7679e35293700f37c@visitri-calendar
 DESCRIPTION:Experience the Island in our Coastal Cruisers\, Newport’s pr
  ivate chauffeured luxury tour\, dedicated to providing a sophisticated way
@@ -53,7 +82,7 @@ BEGIN:VEVENT
 SUMMARY:Beyond the Brewhouse Tour
 DTSTART;VALUE=DATE:20260515
 DTEND;VALUE=DATE:20260516
-DTSTAMP:20260825T110353Z
+DTSTAMP:20260826T110531Z
 UID:acc9d8e1d1bdab34c6766b602473@visitri-calendar
 DESCRIPTION:Beyond the Brewhouse Where: Newport Craft Brewing and Distilli
  ng\, 293 JT Connell Road\, Newport 45 minutes: $20 per person Did you know
@@ -72,7 +101,7 @@ BEGIN:VEVENT
 SUMMARY:Ca' del Bosco Wine Garden
 DTSTART;VALUE=DATE:20260522
 DTEND;VALUE=DATE:20260523
-DTSTAMP:20260825T110353Z
+DTSTAMP:20260826T110531Z
 UID:ec504bb30a685e605b7475ceee57@visitri-calendar
 DESCRIPTION:Ca' del Bosco Wine Garden Location: The Chanler at Cliff Walk 
  May 22 - September 7\, 2026 1:00 PM - 8:00 PM This season\, settle into a 
@@ -114,7 +143,7 @@ BEGIN:VEVENT
 SUMMARY:Music at Sunset: Concert Series 2026
 DTSTART;VALUE=DATE:20260603
 DTEND;VALUE=DATE:20260604
-DTSTAMP:20260825T110353Z
+DTSTAMP:20260826T110531Z
 UID:87bda7b48d099d40defa3f7e711b@visitri-calendar
 DESCRIPTION:Music at Sunset: Concert Series 2026 Wednesdays | June 3 &#821
  1\; August 26 Music from 6:00 &#8211\; 8:00 PM\, Parking and Check-in open
@@ -164,7 +193,7 @@ BEGIN:VEVENT
 SUMMARY:Free Summer Concert Series at Ragged Island
 DTSTART;VALUE=DATE:20260624
 DTEND;VALUE=DATE:20260625
-DTSTAMP:20260825T110353Z
+DTSTAMP:20260826T110531Z
 UID:1c212ee8000d851f7b6e4ea8f143@visitri-calendar
 DESCRIPTION:Announcing Ragged Island's Free 2026 Summer Concert Series Rag
  ged Island has nine awesome bands lined up for Wednesday nights in July an
@@ -196,7 +225,7 @@ BEGIN:VEVENT
 SUMMARY:Hope & Main Makers Markets: Summer Series
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260702
-DTSTAMP:20260825T110353Z
+DTSTAMP:20260826T110531Z
 UID:a4c76656bb4dd2f560a21d25ca37@visitri-calendar
 DESCRIPTION:Developed by the operators of Hope &amp\; Main in Warren\, the
   Schoolyard Market helps locally-based food and beverage businesses start 
@@ -218,7 +247,7 @@ BEGIN:VEVENT
 SUMMARY:Field of Artisans at the Beach
 DTSTART;VALUE=DATE:20260711
 DTEND;VALUE=DATE:20260712
-DTSTAMP:20260825T110353Z
+DTSTAMP:20260826T110531Z
 UID:7ebe1a9998bbb563181c86657159@visitri-calendar
 DESCRIPTION:Join Field of Artisans on Saturdays this summer for the 11th y
  ear of bringing creativity to this beautiful location! Artists will displa
@@ -235,7 +264,7 @@ BEGIN:VEVENT
 SUMMARY:$15 Moonshine Flights & Moonshine Tasting
 DTSTART;VALUE=DATE:20260721
 DTEND;VALUE=DATE:20260722
-DTSTAMP:20260825T110353Z
+DTSTAMP:20260826T110531Z
 UID:6ac059c408c431eceb1c3c855c19@visitri-calendar
 DESCRIPTION:Try a Moonshine Flight tasting at Moonshine Alley! Moonshine F
  lights are available daily for just $15! We have over 13 flavors to choose
@@ -248,28 +277,10 @@ URL:https://www.visitrhodeisland.com/event/%2415-moonshine-flights-%26-moo
  nshine-tasting/105663/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Half Price Tacos and House Margs at Yellow Door Taqueria!
-DTSTART;VALUE=DATE:20260731
-DTEND;VALUE=DATE:20260801
-DTSTAMP:20260825T110353Z
-UID:e0d95b06c7be4290562a81ad7ad5@visitri-calendar
-DESCRIPTION:Join us EVERY DAY at Yellow Door Taqueria from 3-6 PM at the b
- ar for half price select tacos and house margaritas! It's the perfect way 
- to wrap up your work day or grab a drink with friends! Choose from any of 
- our scratch-made house margarita flavors and six of our favorite tacos! *D
- ine in only\, select items only from 3-6 PM every day. Bar seating only*\n
- \nSource: https://www.visitrhodeisland.com/event/half-price-tacos-and-hous
- e-margs-at-yellow-door-taqueria!/111221/
-LOCATION:Yellow Door Taqueria\, 191 Dorrance Street\, Providence\, RI 0290
- 3
-URL:https://www.visitrhodeisland.com/event/half-price-tacos-and-house-marg
- s-at-yellow-door-taqueria!/111221/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Deja Vieux Vintage Shopping Bus Tour Adventure - October 4th
 DTSTART;VALUE=DATE:20260817
 DTEND;VALUE=DATE:20260818
-DTSTAMP:20260825T110353Z
+DTSTAMP:20260826T110531Z
 UID:912e503a9012deae13b33d1d0a85@visitri-calendar
 DESCRIPTION:⭐Hop Aboard Rhode Island’s First - Ever Vintage Shops Bus 
  Tour!⭐ We invite you to join us at Deja Vieux Vintage for a uniquely cur
@@ -300,83 +311,11 @@ URL:https://www.visitrhodeisland.com/event/deja-vieux-vintage-shopping-bus
  -tour-adventure-october-4th/111403/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:A Taste of Cranston - Honoring the Past - Celebrating the Present
-DTSTART;VALUE=DATE:20260825
-DTEND;VALUE=DATE:20260826
-DTSTAMP:20260825T110353Z
-UID:8400553c5451b661b49e24f2b9c7@visitri-calendar
-DESCRIPTION:Aug. 25\, 5 to 7pm. The Cranston Historical Society invites yo
- u to enjoy an early evening of delightful food samplings --- A Taste of Cr
- anston --- A Fundraising Event --- on the grounds of the Governor Sprague 
- Mansion. Some of Cranston's finest restaurants &amp\; businesses will shar
- e their delicious offerings with guests. Cost: $30.00 per person\, payable
-  to Cranston Historical Society\, 1351 Cranston St.\, Cranston 02920 by Au
- gust 21. Limited seating. Must Register\, call 944-9226. You can also purc
- hase tickets through VENMO -- go to www.cranstonhistory.org. Parking in ba
- ck of Sprague Mansion. Enter at 1351 Cranston St.\, across from McShawn's 
- Pub. Here are some of the fabulous establishments participating this year:
-  MakMak Eatery\; Twin Oak\; Narragansett Brewery\; Catanzaro\; Del's Lemon
- ade\; Bitter Sweet Dessert Truck\; Texas Road House\; Seven Stars Bakery\;
-  Cake Me Happy\; LaEskina\; Macera\; Nino's\; Marchetti's\; Avvio\; Nelva'
- s . . . Plein Air Painting demonstrations conducted by Wells Goetzman\, ar
- tist/educator. We will look for you on Aug. 25!\n\nSource: https://www.vis
- itrhodeisland.com/event/a-taste-of-cranston-honoring-the-past-celebrating-
- the-present/111104/
-LOCATION:Governor Sprague Mansion\, 1351 Cranston St.\, Cranston 02920\, 1
- 351 Cranston Street\, Cranston\, 02920
-URL:https://www.visitrhodeisland.com/event/a-taste-of-cranston-honoring-th
- e-past-celebrating-the-present/111104/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bee Happy Blooms – Stemless Glasses (Set of 2) - Painting Class
-DTSTART;VALUE=DATE:20260825
-DTEND;VALUE=DATE:20260826
-DTSTAMP:20260825T110353Z
-UID:2cefd1877c3d69455c401740d8f9@visitri-calendar
-DESCRIPTION:🖌️ IN-STUDIO SESSION DETAILS Reserve your spot and enjoy 
- a complimentary beverage—choose from soda\, beer\, or wine (21+ with val
- id ID). Additional drinks will be available for purchase. Immerse yourself
-  in a fun and creative atmosphere while painting your own unique masterpie
- ce! Recommended for ages 14 and up. ⏰ ARRIVAL TIME Our studio opens 30 m
- inutes prior to class time. We recommend arriving 15&#8211\;30 minutes ear
- ly to find parking\, grab a drink\, and get settled. Please note: If you a
- rrive late\, the artist may not be able to fill you in on the steps you mi
- ssed\, as they will be focused on guiding the rest of the class. If you ar
- rive more than 20 minutes late\, we kindly ask that you do not join the se
- ssion. Late arrivals can be disruptive and may not have enough time to com
- plete the painting. Unfortunately\, we cannot offer refunds or reschedules
-  for late arrivals. 🚗 PARKING INFO Our studio is located at 150 Main St
- reet (rear entrance)\, Pawtucket\, Rhode Island\, and we have two FREE par
- king lots: 🚗 One directly attached to our entrance 🚗 A second lot ju
- st one building down on the same side of the street — clearly labeled 
- 🪑 WANT TO SIT WITH FRIENDS? If you purchased 2 or more tickets in one t
- ransaction\, we’ll automatically seat your group together. If you booked
-  separately but want to sit with someone\, please include their first and 
- last names in the “Additional Information / Order Notes” field during 
- checkout. 🔄 RESCHEDULING &amp\; CANCELLATION POLICY All reservations ar
- e non-refundable. However\, if you need to reschedule\, you may request a 
- reschedule voucher at least 48 hours before your session. You can do this 
- easily on our website — just [click here]. No-shows cannot be reschedule
- d. 🚨 CLASS CANCELLATION Classes may be canceled due to low attendance. 
- In this case\, we’ll notify you and issue a voucher for a future session
- . We appreciate your understanding and look forward to welcoming you to a 
- future class! ❄️ INCLEMENT WEATHER POLICY Because New England weather 
- can be unpredictable\, we typically wait until a few hours before class to
-  make final decisions. If we cancel due to snow or other severe weather\, 
- we’ll email you a voucher for a future session. Have more questions? Che
- ck out our [Frequently Asked Questions] page — just [click here].\n\nSou
- rce: https://www.visitrhodeisland.com/event/bee-happy-blooms-%26%238211%3b
- -stemless-glasses-(set-of-2)-painting-class/110950/
-LOCATION:Paint and Vino\, 150 Main Street\, Pawtucket\, RI 02860
-URL:https://www.visitrhodeisland.com/event/bee-happy-blooms-%26%238211%3b-
- stemless-glasses-(set-of-2)-painting-class/110950/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Blithewold Annual Family Clambake
-DTSTART;VALUE=DATE:20260825
-DTEND;VALUE=DATE:20260826
-DTSTAMP:20260825T110353Z
-UID:3da0f5706b0d8a2ec3d98d632097@visitri-calendar
+DTSTART;VALUE=DATE:20260826
+DTEND;VALUE=DATE:20260827
+DTSTAMP:20260826T110531Z
+UID:68ae6ed68b5b69cfc2990d211c7c@visitri-calendar
 DESCRIPTION:Blithewold Annual Family Clambake Thursday | August 27 5:00 &#
  8211\; 8:00 PM Location: Event Tent The Great Lawn has been the scene of f
  amily clambakes for over a century! Step back in time and stroll the garde
@@ -431,10 +370,10 @@ URL:https://www.visitrhodeisland.com/event/blithewold-annual-family-clamba
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Brew at the Zoo
-DTSTART;VALUE=DATE:20260825
-DTEND;VALUE=DATE:20260826
-DTSTAMP:20260825T110353Z
-UID:f6ec9f62c703988dab214019f23a@visitri-calendar
+DTSTART;VALUE=DATE:20260826
+DTEND;VALUE=DATE:20260827
+DTSTAMP:20260826T110531Z
+UID:b25ed004a7eefba9300cc07cd74b@visitri-calendar
 DESCRIPTION:Tap into your wild side at Brew at the Zoo on Saturday\, Augus
  t 29th\, an adults-only evening event\, and sample hundreds of beers\, har
  d seltzers\, wines and ready-to-drink cocktails from dozens of local\, reg
@@ -451,55 +390,67 @@ LOCATION:Roger Williams Park Zoo & Carousel Village\, 1000 Elmwood Avenue
 URL:https://www.visitrhodeisland.com/event/brew-at-the-zoo/110973/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Evening Wine Tasting with Sakonnet Vineyards
-DTSTART;VALUE=DATE:20260825
-DTEND;VALUE=DATE:20260826
-DTSTAMP:20260825T110353Z
-UID:768fc7f3d43e6da80f3c76bee2e5@visitri-calendar
-DESCRIPTION:Evening Wine Tasting with Sakonnet Vineyards When: Tuesday\, A
- ugust 25th from 6:30 to 8:00 PM Where: Departs from 1 East Ferry Wharf\, J
- amestown Cost: $52 per person (Adults 21+) Join us aboard the Coastal Quee
- n for a scenic cruise featuring Sakonnet Vineyards. Sip and savor curated 
- wine samples as you glide past iconic coastal landmarks like Fort Adams\, 
- Hammersmith Farm\, Castle Hill\, and the beautiful Jamestown shoreline. Ex
- perience the perfect blend of tradition and innovation from Sakonnet Viney
- ards - where every glass reflects the unique character of the land. Enjoy 
- panoramic views from every seat while you cruise on this 90-minute trip. T
- he boat departs from Jamestown Village at 6:30 PM. Seating is limited.\n\n
- Source: https://www.visitrhodeisland.com/event/evening-wine-tasting-with-s
- akonnet-vineyards/111438/
-LOCATION:Coastal Queen Cruises\, Events From Jamestown\, 1 East Ferry Whar
- f\, Jamestown\, RI 02835 Time: 6:30 PM to 8:00 PM
-URL:https://www.visitrhodeisland.com/event/evening-wine-tasting-with-sakon
- net-vineyards/111438/
+SUMMARY:Epic Yellowstone: Down the River Wild Documentary Screening
+DTSTART;VALUE=DATE:20260826
+DTEND;VALUE=DATE:20260827
+DTSTAMP:20260826T110531Z
+UID:7b65de635af3db141f837c91340b@visitri-calendar
+DESCRIPTION:Join the Rhode Island Historical Society and the National Park
+  Service on Wednesday\, August 26th at 7:30 pm for a screening of the Smit
+ hsonian Channel documentary Epic Yellowstone: Down the River Wild at Old S
+ later Mill in Pawtucket. This screening is presented in collaboration with
+  Smithsonian Affiliations. Explore the Yellowstone River and the many crea
+ tures that call it home. Hosted by Bill Pullman\, Yellowstone River is the
+  longest undammed river in the contiguous 48 states\, flowing with a wildn
+ ess that is both violent and vital to the creatures that are drawn to its 
+ banks. From Yellowstone Lake\, North America’s largest high-elevation bo
+ dy of water\, to the Missouri River\, follow its nearly 700-mile journey o
+ ver falls and through canyons into America’s heartland. See how Yellowst
+ one’s bison\, otters\, coyotes\, and thrill-seekers adapt to&#8211\;and 
+ thrive in&#8211\;these wild\, untamed waters. This program will be hosted 
+ on the lawn of the Old Slater Mill National Historic Landmark (OSM)\, weat
+ her permitting. Guests are encouraged to bring their own lawn chairs. Food
+  and drink are welcome\, but alcohol is not allowed. In the event of incle
+ ment weather\, the program will be moved inside of the OSM site. This even
+ t is presented as a part of National Park Week. Guests can register for fr
+ ee here.\n\nSource: https://www.visitrhodeisland.com/event/epic-yellowston
+ e%3a-down-the-river-wild-documentary-screening/111214/
+LOCATION:Rhode Island Historical Society\, Pawtucket\, RI Time: 7:30 PM to
+  8:30 PM
+URL:https://www.visitrhodeisland.com/event/epic-yellowstone%3a-down-the-ri
+ ver-wild-documentary-screening/111214/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Jacob Hackworth Live at Moonshine Alley!
-DTSTART;VALUE=DATE:20260825
-DTEND;VALUE=DATE:20260826
-DTSTAMP:20260825T110353Z
-UID:f35a8fe4166371ef1f7d3be66b07@visitri-calendar
-DESCRIPTION:ON SALE NOW Cat Country 98.1 presents Jacob Hackworth LIVE at 
- Moonshine Alley on Tuesday\, August 25th! MCA Records &amp\; Nashville sin
- ger and songwriter Jacob Hackworth is coming to Providence for one night o
- nly! Jacob is one of country music’s fastest-rising talents\, from his s
- ongwriting success (including Tucker Wetmore’s career-launching smash 
- “Wine Into Whiskey\,” and many more) to his debut country radio single
-  as a recording artist\, “What Took You So Long.” Don’t miss his ama
- zing writing and live show at Moonshine Alley for one unforgettable night 
- Moonshine Alley - 52 Pine Street\, Providence\, RI Doors Open: 6:00 PM Sho
- w Starts with Pat Lowell: 7:00 PM Moonshine Alley will offer a limited men
- u during the show. This is a 21+ event!\n\nSource: https://www.visitrhodei
- sland.com/event/jacob-hackworth-live-at-moonshine-alley!/111051/
-LOCATION:Moonshine Alley\, 52 Pine St\, Providence\, RI 02903
-URL:https://www.visitrhodeisland.com/event/jacob-hackworth-live-at-moonshi
- ne-alley!/111051/
+SUMMARY:Family Movie Night: The Jungle Book
+DTSTART;VALUE=DATE:20260826
+DTEND;VALUE=DATE:20260827
+DTSTAMP:20260826T110531Z
+UID:a531e5b17e4f335ec5edf5b5c893@visitri-calendar
+DESCRIPTION:Join us for a memorable evening by the ocean at Ocean House Be
+ ach\, featuring a delicious family-friendly meal and an outdoor screening 
+ of The Jungle Book. Dine under the stars with the sound of the ocean in th
+ e background\, creating the perfect setting for a relaxed and enjoyable ni
+ ght with loved ones. Guests will enjoy a tasty buffet that includes fresh 
+ salads\, pizza\, and burgers\, along with classic movie accompaniments suc
+ h as popcorn and an ice cream bar. A variety of beverages will be availabl
+ e\, including soft drinks\, beer\, house wine\, and a specialty cocktail. 
+ Dinner service begins at 7:00 p.m.\, allowing guests to savor their meals 
+ in a picturesque beachside setting. As night falls\, the movie screening w
+ ill begin around 7:45\, offering an immersive cinematic experience under t
+ he open sky. Please note: Tickets for this event are non-refundable\, exce
+ pt in the case of inclement weather\, as determined by the hotel.\n\nSourc
+ e: https://www.visitrhodeisland.com/event/family-movie-night%3a-the-jungle
+ -book/111119/
+LOCATION:Ocean House\, 1 Bluff Avenue\, Westerly\, 02891 Time: 7:00 PM to 
+ 11:59 PM
+URL:https://www.visitrhodeisland.com/event/family-movie-night%3a-the-jungl
+ e-book/111119/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Free Summer Concert Series at Ragged Island
 DTSTART;VALUE=DATE:20260826
 DTEND;VALUE=DATE:20260827
-DTSTAMP:20260825T110353Z
+DTSTAMP:20260826T110531Z
 UID:c34f298b13c81e8e626e59cb461a@visitri-calendar
 DESCRIPTION:Announcing Ragged Island's Free 2026 Summer Concert Series Rag
  ged Island has nine awesome bands lined up for Wednesday nights in July an
@@ -531,7 +482,7 @@ BEGIN:VEVENT
 SUMMARY:Hope & Main Makers Markets: Summer Series
 DTSTART;VALUE=DATE:20260826
 DTEND;VALUE=DATE:20260827
-DTSTAMP:20260825T110353Z
+DTSTAMP:20260826T110531Z
 UID:508203d8ab48a0f5179cf6188b3b@visitri-calendar
 DESCRIPTION:Developed by the operators of Hope &amp\; Main in Warren\, the
   Schoolyard Market helps locally-based food and beverage businesses start 
@@ -553,7 +504,7 @@ BEGIN:VEVENT
 SUMMARY:Music at Sunset: Concert Series 2026
 DTSTART;VALUE=DATE:20260826
 DTEND;VALUE=DATE:20260827
-DTSTAMP:20260825T110353Z
+DTSTAMP:20260826T110531Z
 UID:f7374ee07909032aafe715f097f0@visitri-calendar
 DESCRIPTION:Music at Sunset: Concert Series 2026 Wednesdays | June 3 &#821
  1\; August 26 Music from 6:00 &#8211\; 8:00 PM\, Parking and Check-in open
@@ -603,7 +554,7 @@ BEGIN:VEVENT
 SUMMARY:Blithewold Annual Family Clambake
 DTSTART;VALUE=DATE:20260827
 DTEND;VALUE=DATE:20260828
-DTSTAMP:20260825T110353Z
+DTSTAMP:20260826T110531Z
 UID:527f3299a90d3c05a0676865fdb2@visitri-calendar
 DESCRIPTION:Blithewold Annual Family Clambake Thursday | August 27 5:00 &#
  8211\; 8:00 PM Location: Event Tent The Great Lawn has been the scene of f
@@ -658,10 +609,39 @@ URL:https://www.visitrhodeisland.com/event/blithewold-annual-family-clamba
  ke/109496/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Early Bird Museum Highlight Tour at Newport Car Museum
+DTSTART;VALUE=DATE:20260827
+DTEND;VALUE=DATE:20260828
+DTSTAMP:20260826T110531Z
+UID:5873910697fa33b1c2d9e24743f4@visitri-calendar
+DESCRIPTION:Early Bird Highlight Tour For 90 minutes (8:30 &#8211\; 10:00 
+ AM) prior to Museum opening. Call to book: +1 (401) 848-2277 Price $75.00 
+ per person (minimum 2\, maximum 6 ppl) Offered Wednesday\, Thursday\, and 
+ Saturday only April 1 - December 31\, 2026. General admission is included 
+ with price. 72-hour advance notice is suggested. Only one group will be ho
+ sted on any given morning. This is your chance to have the Newport Car Mus
+ eum all to yourself with a private guide to share with you the not-to-miss
+  highlights in seven expansive galleries. With over 100 iconic\, rare and 
+ exotic cars on display at one time\, this private collection is bursting w
+ ith history\, provenance and color\, not to mention the breathtaking sculp
+ tural beauty of automotive designs starting with the 1950s and finishing w
+ ith new models from the 21 st Century. After 90 minutes with your private
+ \, continue to explore at your own pace so that you can further examine yo
+ ur favorites from the Ford/Shelby\, Corvette\, World Car\, Porsche\, Fin C
+ ar\, American Muscle and Mopar exhibits while enjoying immersive videos\, 
+ artwork and the Museum’s eclectic collection of Mid-Century Modern Furni
+ ture.\n\nSource: https://www.visitrhodeisland.com/event/early-bird-museum-
+ highlight-tour-at-newport-car-museum/109638/
+LOCATION:Newport Car Museum\, Enter at Light 1947 West Main Road\, Portsmo
+ uth\, RI 02871
+URL:https://www.visitrhodeisland.com/event/early-bird-museum-highlight-tou
+ r-at-newport-car-museum/109638/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Food Truck Concert Nights - Diamond Hill Park
 DTSTART;VALUE=DATE:20260827
 DTEND;VALUE=DATE:20260828
-DTSTAMP:20260825T110353Z
+DTSTAMP:20260826T110531Z
 UID:6f571d24d4473b04f931421aed68@visitri-calendar
 DESCRIPTION:We return to Diamond Hill Park in Cumberland for another serie
  s of memorable events in 2026. Attendance is free\, just pay for what you 
@@ -689,7 +669,7 @@ BEGIN:VEVENT
 SUMMARY:Brew at the Zoo
 DTSTART;VALUE=DATE:20260829
 DTEND;VALUE=DATE:20260830
-DTSTAMP:20260825T110353Z
+DTSTAMP:20260826T110531Z
 UID:2f2070c631904a407ca11ec8d953@visitri-calendar
 DESCRIPTION:Tap into your wild side at Brew at the Zoo on Saturday\, Augus
  t 29th\, an adults-only evening event\, and sample hundreds of beers\, har
@@ -707,10 +687,39 @@ LOCATION:Roger Williams Park Zoo & Carousel Village\, 1000 Elmwood Avenue
 URL:https://www.visitrhodeisland.com/event/brew-at-the-zoo/110973/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Early Bird Museum Highlight Tour at Newport Car Museum
+DTSTART;VALUE=DATE:20260829
+DTEND;VALUE=DATE:20260830
+DTSTAMP:20260826T110531Z
+UID:7d45b82903f0561b490f593fbedd@visitri-calendar
+DESCRIPTION:Early Bird Highlight Tour For 90 minutes (8:30 &#8211\; 10:00 
+ AM) prior to Museum opening. Call to book: +1 (401) 848-2277 Price $75.00 
+ per person (minimum 2\, maximum 6 ppl) Offered Wednesday\, Thursday\, and 
+ Saturday only April 1 - December 31\, 2026. General admission is included 
+ with price. 72-hour advance notice is suggested. Only one group will be ho
+ sted on any given morning. This is your chance to have the Newport Car Mus
+ eum all to yourself with a private guide to share with you the not-to-miss
+  highlights in seven expansive galleries. With over 100 iconic\, rare and 
+ exotic cars on display at one time\, this private collection is bursting w
+ ith history\, provenance and color\, not to mention the breathtaking sculp
+ tural beauty of automotive designs starting with the 1950s and finishing w
+ ith new models from the 21 st Century. After 90 minutes with your private
+ \, continue to explore at your own pace so that you can further examine yo
+ ur favorites from the Ford/Shelby\, Corvette\, World Car\, Porsche\, Fin C
+ ar\, American Muscle and Mopar exhibits while enjoying immersive videos\, 
+ artwork and the Museum’s eclectic collection of Mid-Century Modern Furni
+ ture.\n\nSource: https://www.visitrhodeisland.com/event/early-bird-museum-
+ highlight-tour-at-newport-car-museum/109638/
+LOCATION:Newport Car Museum\, Enter at Light 1947 West Main Road\, Portsmo
+ uth\, RI 02871
+URL:https://www.visitrhodeisland.com/event/early-bird-museum-highlight-tou
+ r-at-newport-car-museum/109638/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Field of Artisans at the Beach
 DTSTART;VALUE=DATE:20260829
 DTEND;VALUE=DATE:20260830
-DTSTAMP:20260825T110353Z
+DTSTAMP:20260826T110531Z
 UID:ccb222ee4b8c9bc014c177518d7d@visitri-calendar
 DESCRIPTION:Join Field of Artisans on Saturdays this summer for the 11th y
  ear of bringing creativity to this beautiful location! Artists will displa
@@ -727,7 +736,7 @@ BEGIN:VEVENT
 SUMMARY:Live Music by Logan Vale
 DTSTART;VALUE=DATE:20260829
 DTEND;VALUE=DATE:20260830
-DTSTAMP:20260825T110353Z
+DTSTAMP:20260826T110531Z
 UID:51d81b6b9ac830a4dbc32c26efd3@visitri-calendar
 DESCRIPTION:The music of Logan Vale! Dinner reservations required either o
  nline or call 401.861.3850 x. 3\n\nSource: https://www.visitrhodeisland.co
@@ -741,7 +750,7 @@ BEGIN:VEVENT
 SUMMARY:Ca' del Bosco Wine Garden
 DTSTART;VALUE=DATE:20260907
 DTEND;VALUE=DATE:20260908
-DTSTAMP:20260825T110353Z
+DTSTAMP:20260826T110531Z
 UID:77236e14d72acf829ec51c761fec@visitri-calendar
 DESCRIPTION:Ca' del Bosco Wine Garden Location: The Chanler at Cliff Walk 
  May 22 - September 7\, 2026 1:00 PM - 8:00 PM This season\, settle into a 
@@ -783,7 +792,7 @@ BEGIN:VEVENT
 SUMMARY:Rhode Island SeaFood Festival 2026
 DTSTART;VALUE=DATE:20260912
 DTEND;VALUE=DATE:20260913
-DTSTAMP:20260825T110353Z
+DTSTAMP:20260826T110531Z
 UID:7155b8a7bea276dc2235b2424899@visitri-calendar
 DESCRIPTION:Join us for the 16th annual Rhode Island Seafood Festival\, a 
  two-day extravaganza of the Ocean State’s best seafood\, live music and 
@@ -822,7 +831,7 @@ BEGIN:VEVENT
 SUMMARY:Rhode Island SeaFood Festival 2026
 DTSTART;VALUE=DATE:20260913
 DTEND;VALUE=DATE:20260914
-DTSTAMP:20260825T110353Z
+DTSTAMP:20260826T110531Z
 UID:724318b2396062bf2de4c6176658@visitri-calendar
 DESCRIPTION:Join us for the 16th annual Rhode Island Seafood Festival\, a 
  two-day extravaganza of the Ocean State’s best seafood\, live music and 
@@ -861,7 +870,7 @@ BEGIN:VEVENT
 SUMMARY:PVDFest 2026
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260919
-DTSTAMP:20260825T110353Z
+DTSTAMP:20260826T110531Z
 UID:2de49afd8f722627b9a1f5e00bb1@visitri-calendar
 DESCRIPTION:The People’s Festival for Arts\, Music\, and Culture Mayor B
  rett P. Smiley\, the City’s Department of Art\, Culture\, Tourism and Pr
@@ -880,7 +889,7 @@ BEGIN:VEVENT
 SUMMARY:Food Truck Concert Nights - Diamond Hill Park
 DTSTART;VALUE=DATE:20260919
 DTEND;VALUE=DATE:20260920
-DTSTAMP:20260825T110353Z
+DTSTAMP:20260826T110531Z
 UID:c61110f0d2ee251ab02333bed717@visitri-calendar
 DESCRIPTION:We return to Diamond Hill Park in Cumberland for another serie
  s of memorable events in 2026. Attendance is free\, just pay for what you 
@@ -908,7 +917,7 @@ BEGIN:VEVENT
 SUMMARY:PVDFest 2026
 DTSTART;VALUE=DATE:20260919
 DTEND;VALUE=DATE:20260920
-DTSTAMP:20260825T110353Z
+DTSTAMP:20260826T110531Z
 UID:553bda94539f69469073803099fb@visitri-calendar
 DESCRIPTION:The People’s Festival for Arts\, Music\, and Culture Mayor B
  rett P. Smiley\, the City’s Department of Art\, Culture\, Tourism and Pr
@@ -927,7 +936,7 @@ BEGIN:VEVENT
 SUMMARY:Jack-O-Lantern Spectacular
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
-DTSTAMP:20260825T110353Z
+DTSTAMP:20260826T110531Z
 UID:a11cb847b167f6db3762e7d7aba4@visitri-calendar
 DESCRIPTION:Jack-O-Lantern Spectacular: The Great Pun-Kin Trail\, presente
  d by Citizens\, returns October 1 &#8211\; November 1 with an all-new trai
@@ -952,7 +961,7 @@ BEGIN:VEVENT
 SUMMARY:Deja Vieux Vintage Shopping Bus Tour Adventure - October 4th
 DTSTART;VALUE=DATE:20261005
 DTEND;VALUE=DATE:20261006
-DTSTAMP:20260825T110353Z
+DTSTAMP:20260826T110531Z
 UID:5fe8cdac575b282879f35adb305f@visitri-calendar
 DESCRIPTION:⭐Hop Aboard Rhode Island’s First - Ever Vintage Shops Bus 
  Tour!⭐ We invite you to join us at Deja Vieux Vintage for a uniquely cur
@@ -986,7 +995,7 @@ BEGIN:VEVENT
 SUMMARY:Live Music by Logan Vale
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261018
-DTSTAMP:20260825T110353Z
+DTSTAMP:20260826T110531Z
 UID:2241186137b505cf7c814cd90b60@visitri-calendar
 DESCRIPTION:The music of Logan Vale! Dinner reservations required either o
  nline or call 401.861.3850 x. 3\n\nSource: https://www.visitrhodeisland.co
@@ -1000,7 +1009,7 @@ BEGIN:VEVENT
 SUMMARY:Coastal Cruisers - The Golden Hour
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
-DTSTAMP:20260825T110353Z
+DTSTAMP:20260826T110531Z
 UID:a33f7731698b5451e05ba44e42fd@visitri-calendar
 DESCRIPTION:Experience the Island in our Coastal Cruisers\, Newport’s pr
  ivate chauffeured luxury tour\, dedicated to providing a sophisticated way
@@ -1027,28 +1036,10 @@ URL:https://www.visitrhodeisland.com/event/coastal-cruisers-the-golden-hou
  r/109827/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Half Price Tacos and House Margs at Yellow Door Taqueria!
-DTSTART;VALUE=DATE:20261031
-DTEND;VALUE=DATE:20261101
-DTSTAMP:20260825T110353Z
-UID:9e3061f0648341ee71e7158e4b15@visitri-calendar
-DESCRIPTION:Join us EVERY DAY at Yellow Door Taqueria from 3-6 PM at the b
- ar for half price select tacos and house margaritas! It's the perfect way 
- to wrap up your work day or grab a drink with friends! Choose from any of 
- our scratch-made house margarita flavors and six of our favorite tacos! *D
- ine in only\, select items only from 3-6 PM every day. Bar seating only*\n
- \nSource: https://www.visitrhodeisland.com/event/half-price-tacos-and-hous
- e-margs-at-yellow-door-taqueria!/111221/
-LOCATION:Yellow Door Taqueria\, 191 Dorrance Street\, Providence\, RI 0290
- 3
-URL:https://www.visitrhodeisland.com/event/half-price-tacos-and-house-marg
- s-at-yellow-door-taqueria!/111221/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Jack-O-Lantern Spectacular
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
-DTSTAMP:20260825T110353Z
+DTSTAMP:20260826T110531Z
 UID:ddc52d2e1f830141a3c1c36cbc2b@visitri-calendar
 DESCRIPTION:Jack-O-Lantern Spectacular: The Great Pun-Kin Trail\, presente
  d by Citizens\, returns October 1 &#8211\; November 1 with an all-new trai
@@ -1073,7 +1064,7 @@ BEGIN:VEVENT
 SUMMARY:Beyond the Brewhouse Tour
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
-DTSTAMP:20260825T110353Z
+DTSTAMP:20260826T110531Z
 UID:c7b48636db9ede5f5acbbb263d31@visitri-calendar
 DESCRIPTION:Beyond the Brewhouse Where: Newport Craft Brewing and Distilli
  ng\, 293 JT Connell Road\, Newport 45 minutes: $20 per person Did you know
@@ -1087,5 +1078,34 @@ LOCATION:Newport Craft Brewing & Distilling Company\, 293 JT Connell Road
  \, Newport\, RI 02840 Time: 45 minutes: Tour start time varies by booking.
 URL:https://www.visitrhodeisland.com/event/beyond-the-brewhouse-tour/11015
  3/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Early Bird Museum Highlight Tour at Newport Car Museum
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+DTSTAMP:20260826T110531Z
+UID:2f06cece69080ebb1042b1f38a6b@visitri-calendar
+DESCRIPTION:Early Bird Highlight Tour For 90 minutes (8:30 &#8211\; 10:00 
+ AM) prior to Museum opening. Call to book: +1 (401) 848-2277 Price $75.00 
+ per person (minimum 2\, maximum 6 ppl) Offered Wednesday\, Thursday\, and 
+ Saturday only April 1 - December 31\, 2026. General admission is included 
+ with price. 72-hour advance notice is suggested. Only one group will be ho
+ sted on any given morning. This is your chance to have the Newport Car Mus
+ eum all to yourself with a private guide to share with you the not-to-miss
+  highlights in seven expansive galleries. With over 100 iconic\, rare and 
+ exotic cars on display at one time\, this private collection is bursting w
+ ith history\, provenance and color\, not to mention the breathtaking sculp
+ tural beauty of automotive designs starting with the 1950s and finishing w
+ ith new models from the 21 st Century. After 90 minutes with your private
+ \, continue to explore at your own pace so that you can further examine yo
+ ur favorites from the Ford/Shelby\, Corvette\, World Car\, Porsche\, Fin C
+ ar\, American Muscle and Mopar exhibits while enjoying immersive videos\, 
+ artwork and the Museum’s eclectic collection of Mid-Century Modern Furni
+ ture.\n\nSource: https://www.visitrhodeisland.com/event/early-bird-museum-
+ highlight-tour-at-newport-car-museum/109638/
+LOCATION:Newport Car Museum\, Enter at Light 1947 West Main Road\, Portsmo
+ uth\, RI 02871
+URL:https://www.visitrhodeisland.com/event/early-bird-museum-highlight-tou
+ r-at-newport-car-museum/109638/
 END:VEVENT
 END:VCALENDAR
