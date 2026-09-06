@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:$15 Moonshine Flights & Moonshine Tasting
 DTSTART;VALUE=DATE:20250615
 DTEND;VALUE=DATE:20250616
-DTSTAMP:20260905T133221Z
+DTSTAMP:20260906T134805Z
 UID:b6432d870f2c0958f26453a40d59@visitri-calendar
 DESCRIPTION:Try a Moonshine Flight tasting at Moonshine Alley! Moonshine F
  lights are available daily for just $15! We have over 13 flavors to choose
@@ -23,7 +23,7 @@ BEGIN:VEVENT
 SUMMARY:Coastal Cruisers - The Golden Hour
 DTSTART;VALUE=DATE:20260501
 DTEND;VALUE=DATE:20260502
-DTSTAMP:20260905T133221Z
+DTSTAMP:20260906T134805Z
 UID:9f3864060ce7679e35293700f37c@visitri-calendar
 DESCRIPTION:Experience the Island in our Coastal Cruisers\, Newport’s pr
  ivate chauffeured luxury tour\, dedicated to providing a sophisticated way
@@ -53,7 +53,7 @@ BEGIN:VEVENT
 SUMMARY:Beyond the Brewhouse Tour
 DTSTART;VALUE=DATE:20260515
 DTEND;VALUE=DATE:20260516
-DTSTAMP:20260905T133221Z
+DTSTAMP:20260906T134805Z
 UID:acc9d8e1d1bdab34c6766b602473@visitri-calendar
 DESCRIPTION:Beyond the Brewhouse Where: Newport Craft Brewing and Distilli
  ng\, 293 JT Connell Road\, Newport 45 minutes: $20 per person Did you know
@@ -72,7 +72,7 @@ BEGIN:VEVENT
 SUMMARY:Ca' del Bosco Wine Garden
 DTSTART;VALUE=DATE:20260522
 DTEND;VALUE=DATE:20260523
-DTSTAMP:20260905T133221Z
+DTSTAMP:20260906T134805Z
 UID:ec504bb30a685e605b7475ceee57@visitri-calendar
 DESCRIPTION:Ca' del Bosco Wine Garden Location: The Chanler at Cliff Walk 
  May 22 - September 7\, 2026 1:00 PM - 8:00 PM This season\, settle into a 
@@ -111,10 +111,82 @@ URL:https://www.visitrhodeisland.com/event/ca-del-bosco-wine-garden/109874
  /
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Alger Mitchell at SALTwater Harborside Dining
+DTSTART;VALUE=DATE:20260524
+DTEND;VALUE=DATE:20260525
+DTSTAMP:20260906T134805Z
+UID:56651fdef385ddc5772b8f8d401e@visitri-calendar
+DESCRIPTION:Alger Mitchell at SALTwater Harborside Dining Sundays from 4:0
+ 0 to 7:00 PM Alger Mitchell is a dynamic song stylist\, songwriter\, and v
+ ocalist\, delivering captivating performances with guitar and harmonica. B
+ oasting a remarkable repertoire of approximately 250 songs performed entir
+ ely from memory\, Alger's music is 100% live\, free of electronic enhancem
+ ents. His versatile setlist spans the timeless classics of The Great Ameri
+ can Songbook\, from Broadway to Hollywood\, alongside beloved jazz and pop
+  standards\, classic country\, oldies\, and his own original compositions.
+  With infectious energy\, his live performances invite optional dancing\, 
+ making it nearly impossible to resist moving to the music! Keep a smile on
+  your face and a song in your heart!\n\nSource: https://www.visitrhodeisla
+ nd.com/event/alger-mitchell-at-saltwater-harborside-dining/110157/
+LOCATION:Saltwater at The Newport Harbor Hotel & Marina\, 49 America's Cup
+  Avenue\, Newport\, RI 02840 Time: 4:00 PM to 7:00 PM 49 America's Cup Ave
+ nue\, Newport\, RI 02840 OFFICIAL RHODE ISLAND TRAVEL GUIDE Get Guide Get 
+ news from Visit Rhode Island in your inbox. Industry Partner Leisure Trave
+ l Sign Up Ratings Powered by Press Industry Travel Trade Meetings & Conven
+ tions Contact Privacy Policy Sitemap Partner Portal SMS Privacy Policy SMS
+  Terms & Conditions UGC Terms and Conditions Wedding Planning Press Photos
+  Story Ideas Fun-Sized Rhode Island Rhode Island in the News Free Travel G
+ uide Contact Visit Rhode Island Industry Travel Trade Ideas & Itineraries 
+ Downton Abbey Lifestyle Rhode Island Foodways Hidden Gems Image Library Fr
+ ee Travel Guide Contact Visit Rhode Island Meetings & Conventions Contact 
+ Privacy Policy Sitemap Partner Portal SMS Privacy Policy SMS Terms & Condi
+ tions UGC Terms and Conditions Wedding Planning Weddings - Venues Wedding 
+ - Catering Wedding - Cakes Wedding - Attire Wedding - Florists Wedding - J
+ ewelers Wedding - Transportation © 2026 Rhode Island Commerce Corporation
+  Special Offers Offers Here Looking to plan your next visit to Rhode Islan
+ d\, check out some of the current special offers and enjoy savings\, extra
+  perks and more! Offers Here
+URL:https://www.visitrhodeisland.com/event/alger-mitchell-at-saltwater-har
+ borside-dining/110157/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chace-Cory House Tours
+DTSTART;VALUE=DATE:20260607
+DTEND;VALUE=DATE:20260608
+DTSTAMP:20260906T134805Z
+UID:da82b7ce9501a09fb9564885aab6@visitri-calendar
+DESCRIPTION:Chace-Cory House Tours Open Sundays\, June 7 - September 6\, 2
+ 026 from 2:00 to 4:30 PM Location: 3908 Main Road\, Tiverton\, RI 02878 Th
+ is season\, in honor of our country’s semiquincentennial\, we have a spe
+ cial exhibit in our c. 1730 house museum: a silk flag flown by George Wash
+ ington’s RI Regiment\, a rare Huntington engraving of the Declaration of
+  Independence\, a map of the 1778 Battle of RI showing redoubts and troop 
+ movements\, a surveyor’s chart of Narragansett Bay and environs of July 
+ 1776\, Civil War uniforms\, and more! Guided tours of the house are held S
+ undays during the hours of 2-4:30 pm from June 7th to September 6th. There
+  is a small preservation donation for THS non-members. Email: TivertonHist
+ oricalSocy@tivertonhistorical.org with any questions\, find more contact i
+ nformation here.\n\nSource: https://www.visitrhodeisland.com/event/chace-c
+ ory-house-tours/111034/
+LOCATION:3908 Main Road\, Tiverton\, RI 02878 This season\, in honor of ou
+ r country’s semiquincentennial\, we have a special exhibit in our c. 173
+ 0 house museum: a silk flag flown by George Washington’s RI Regiment\, a
+  rare Huntington engraving of the Declaration of Independence\, a map of t
+ he 1778 Battle of RI showing redoubts and troop movements\, a surveyor’s
+  chart of Narragansett Bay and environs of July 1776\, Civil War uniforms
+ \, and more! Guided tours of the house are held Sundays during the hours o
+ f 2-4:30 pm from June 7th to September 6th. There is a small preservation 
+ donation for THS non-members. Email: TivertonHistoricalSocy@tivertonhistor
+ ical.org with any questions\, find more contact information here. Show Mor
+ e View Website | Email 1 / 1 Additional Information\, 3908 Main Road\, Tiv
+ erton\, RI 02878 Time: 2:00 PM to 4:30 PM
+URL:https://www.visitrhodeisland.com/event/chace-cory-house-tours/111034/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:$15 Moonshine Flights & Moonshine Tasting
 DTSTART;VALUE=DATE:20260721
 DTEND;VALUE=DATE:20260722
-DTSTAMP:20260905T133221Z
+DTSTAMP:20260906T134805Z
 UID:6ac059c408c431eceb1c3c855c19@visitri-calendar
 DESCRIPTION:Try a Moonshine Flight tasting at Moonshine Alley! Moonshine F
  lights are available daily for just $15! We have over 13 flavors to choose
@@ -130,7 +202,7 @@ BEGIN:VEVENT
 SUMMARY:Live Music by Logan Vale
 DTSTART;VALUE=DATE:20260829
 DTEND;VALUE=DATE:20260830
-DTSTAMP:20260905T133221Z
+DTSTAMP:20260906T134805Z
 UID:51d81b6b9ac830a4dbc32c26efd3@visitri-calendar
 DESCRIPTION:The music of Logan Vale! Dinner reservations required either o
  nline or call 401.861.3850 x. 3\n\nSource: https://www.visitrhodeisland.co
@@ -141,110 +213,10 @@ URL:https://www.visitrhodeisland.com/event/live-music-by-logan-vale/110313
  /
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:"Skyward:" Anne Patterson & James Teschner
-DTSTART;VALUE=DATE:20260905
-DTEND;VALUE=DATE:20260906
-DTSTAMP:20260905T133221Z
-UID:f9c610ccde9ccc8a4b1d498800ba@visitri-calendar
-DESCRIPTION:"Skyward:" Anne Patterson &amp\; James Teschner Exhibition Dat
- es: September 5- October 3\, 2026 Opening Reception: Saturday September 5
- \, 2026\, 5:00- 7:00 PM "Skyward:" Anne Patterson &amp\; James Teschner Je
- ssica Hagen Fine Art + Design is pleased to announce the opening of "Skywa
- rd" featuring artists James Teschner and Anne Patterson on Saturday Septem
- ber 5\, 2026\, from 5:00- 7:00 PM. This exhibition showcases the paintings
-  of James Teschner and the sculptural orbs of Anne Patterson. Teschner\, p
- ainting outdoors near his home in the remote farmlands of central France f
- ocuses on the setting sun\, the moon\, the sky\, and “those moments lead
- ing towards nightfall\, and the night itself\, whereby the landscape is ei
- ther being obliterated\, almost devoured by the sun’s all-consuming lumi
- nosity or being dissolved by the receding\, diminishing light.” Anne Pat
- terson is a multi-disciplinary artist based in Brooklyn. Working across pa
- inting\, sculpture\, and installation\, Patterson explores the ways our se
- nses overlap\, and how together they create an experience greater than the
-  sum of its parts. Informed by her own synesthesia and her training as a s
- et designer\, she is often inspired by music and sound. Gallery owner Jess
- ica Hagen states\, “This is a magical exhibition. The radiance of James 
- Teschner’s oil paintings coalesce with the glow of Anne Patterson’s go
- ld-leafed orbs\, resulting in a sublime alchemy. It’s really a very spec
- ial show.” "Skyward" closes October 3\, 2026. Jessica Hagen Fine Art + D
- esign was founded in 2005 and features contemporary art including painting
- \, sculpture\, photography\, ceramics\, textiles\, and jewelry. Located in
-  the historic Point section of Newport\, the gallery’s hours are Wednesd
- ay- Saturday 11:00 AM - 5:00 PM and Sunday 12:00- 5:00 PM. The gallery is 
- also open by appointment.\n\nSource: https://www.visitrhodeisland.com/even
- t/skyward%3a-anne-patterson-%26-james-teschner/111508/
-LOCATION:Jessica Hagen Fine Art & Design\, 9A Bridge Street\, Newport\, RI
-  02840
-URL:https://www.visitrhodeisland.com/event/skyward%3a-anne-patterson-%26-j
- ames-teschner/111508/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:25th RI Chinese Dragon Boat Races & Taiwan Day Festival
-DTSTART;VALUE=DATE:20260905
-DTEND;VALUE=DATE:20260906
-DTSTAMP:20260905T133221Z
-UID:bc4a772e8c2087534c3b00a1e87a@visitri-calendar
-DESCRIPTION:FREE EVENT! Spend the day at the Pawtucket River enjoying exci
- ting dragon boat races\, live cultural performances\, delicious authentic 
- cuisine\, and the crowd-favorite dumpling eating contest! Stay tuned for m
- ore info &amp\; learn more at: https://bvtcri.org/dragonboats This event i
- s made possible thanks to the Luke Charitable Foundation and is produced b
- y Blackstone Valley Tourism Council to showcase Asian culture and reacquai
- nt people to the rivers of Rhode Island's Blackstone Valley.\n\nSource: ht
- tps://www.visitrhodeisland.com/event/25th-ri-chinese-dragon-boat-races-%26
- -taiwan-day-festival/111426/
-LOCATION:Festival Pier\, 21 Tim Healey Way\, Pawtucket\, RI 02860
-URL:https://www.visitrhodeisland.com/event/25th-ri-chinese-dragon-boat-rac
- es-%26-taiwan-day-festival/111426/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Black History on Providence's East Side Walking Tour
-DTSTART;VALUE=DATE:20260905
-DTEND;VALUE=DATE:20260906
-DTSTAMP:20260905T133221Z
-UID:2f448fff2f1f3269e31989a9576e@visitri-calendar
-DESCRIPTION:Join the John Brown House Museum\, a museum of the Rhode Islan
- d Historical Society\, for a thoughtful Black History walking tour on Satu
- rday\, September 5\, 11am. Explore the past of Providence’s East Side Bl
- ack communities that fought gentrification and enslavement. Delve into his
- tory as we shed light on racial tensions\, community resistance\, and how 
- Providence’s diverse demographics were shaped. From the historic neighbo
- rhoods to the legacies of struggle and resilience\, this journey illuminat
- es Providence’s Black history\, honoring both the triumphs and challenge
- s faced by its people. The walk is about 75 minutes long\, covering a dist
- ance of one mile over flat and downhill sidewalks. Comfortable walking sho
- es recommended! The tour will end at 321 S Water St\, Providence\, RI. Tic
- kets cost $15 per person and $10 for RIHS members\, and include admission 
- to the John Brown House Museum on the day of the tour. Guests can register
-  here.\n\nSource: https://www.visitrhodeisland.com/event/black-history-on-
- providences-east-side-walking-tour/111401/
-LOCATION:Rhode Island Historical Society\, The John Brown House Museum\, 5
- 2 Power St\, Providence\, RI 02906
-URL:https://www.visitrhodeisland.com/event/black-history-on-providences-ea
- st-side-walking-tour/111401/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Book Discussion & Signing for Revelator\, New Book from Ellie Blac
- k
-DTSTART;VALUE=DATE:20260905
-DTEND;VALUE=DATE:20260906
-DTSTAMP:20260905T133221Z
-UID:76e452a63b083337f8f3640c257f@visitri-calendar
-DESCRIPTION:Join us at Books on the Square\, 471 Angell Street in Providen
- ce\, on Saturday\, September 5th at 6:00 p.m. to discuss Revelator\, a new
-  book of poetry with author Ellie Black. Book signing to follow. Free\; RS
- VP on our website at booksq.com.\n\nSource: https://www.visitrhodeisland.c
- om/event/book-discussion-%26-signing-for-revelator-new-book-from-ellie-bla
- ck/111455/
-LOCATION:Books On The Square\, 471 Angell Square\, Providence\, 02906
-URL:https://www.visitrhodeisland.com/event/book-discussion-%26-signing-for
- -revelator-new-book-from-ellie-black/111455/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Darik and The Funbags live at Ballard’s
 DTSTART;VALUE=DATE:20260905
 DTEND;VALUE=DATE:20260906
-DTSTAMP:20260905T133221Z
+DTSTAMP:20260906T134805Z
 UID:1a78a9072fc24a568e21a7f8a4d8@visitri-calendar
 DESCRIPTION:Darik and The Funbags live at Ballard’s brings pure party en
  ergy to Block Island for a beach day that turns into a full on singalong. 
@@ -280,10 +252,98 @@ URL:https://www.visitrhodeisland.com/event/darik-and-the-funbags-live-at-b
  allard%e2%80%99s/110507/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:"Skyward:" Anne Patterson & James Teschner
+DTSTART;VALUE=DATE:20260906
+DTEND;VALUE=DATE:20260907
+DTSTAMP:20260906T134805Z
+UID:5ddca85fe6f9fb2532ad120f71b4@visitri-calendar
+DESCRIPTION:"Skyward:" Anne Patterson &amp\; James Teschner Exhibition Dat
+ es: September 5- October 3\, 2026 Opening Reception: Saturday September 5
+ \, 2026\, 5:00- 7:00 PM "Skyward:" Anne Patterson &amp\; James Teschner Je
+ ssica Hagen Fine Art + Design is pleased to announce the opening of "Skywa
+ rd" featuring artists James Teschner and Anne Patterson on Saturday Septem
+ ber 5\, 2026\, from 5:00- 7:00 PM. This exhibition showcases the paintings
+  of James Teschner and the sculptural orbs of Anne Patterson. Teschner\, p
+ ainting outdoors near his home in the remote farmlands of central France f
+ ocuses on the setting sun\, the moon\, the sky\, and “those moments lead
+ ing towards nightfall\, and the night itself\, whereby the landscape is ei
+ ther being obliterated\, almost devoured by the sun’s all-consuming lumi
+ nosity or being dissolved by the receding\, diminishing light.” Anne Pat
+ terson is a multi-disciplinary artist based in Brooklyn. Working across pa
+ inting\, sculpture\, and installation\, Patterson explores the ways our se
+ nses overlap\, and how together they create an experience greater than the
+  sum of its parts. Informed by her own synesthesia and her training as a s
+ et designer\, she is often inspired by music and sound. Gallery owner Jess
+ ica Hagen states\, “This is a magical exhibition. The radiance of James 
+ Teschner’s oil paintings coalesce with the glow of Anne Patterson’s go
+ ld-leafed orbs\, resulting in a sublime alchemy. It’s really a very spec
+ ial show.” "Skyward" closes October 3\, 2026. Jessica Hagen Fine Art + D
+ esign was founded in 2005 and features contemporary art including painting
+ \, sculpture\, photography\, ceramics\, textiles\, and jewelry. Located in
+  the historic Point section of Newport\, the gallery’s hours are Wednesd
+ ay- Saturday 11:00 AM - 5:00 PM and Sunday 12:00- 5:00 PM. The gallery is 
+ also open by appointment.\n\nSource: https://www.visitrhodeisland.com/even
+ t/skyward%3a-anne-patterson-%26-james-teschner/111508/
+LOCATION:Jessica Hagen Fine Art & Design\, 9A Bridge Street\, Newport\, RI
+  02840
+URL:https://www.visitrhodeisland.com/event/skyward%3a-anne-patterson-%26-j
+ ames-teschner/111508/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:60's Explosion at the Charlestown Rathskeller 2026
+DTSTART;VALUE=DATE:20260906
+DTEND;VALUE=DATE:20260907
+DTSTAMP:20260906T134805Z
+UID:5f6709a586a975849db01b3a3da0@visitri-calendar
+DESCRIPTION:Get ready for a high-energy trip back to the most iconic decad
+ e in music history! Join us at the legendary Charlestown Rathskeller for a
+  live performance by 60's Explosion. They bring the unforgettable sounds o
+ f the British Invasion\, Motown\, and Psychedelic Rock to the stage for a 
+ true dance and party experience!\n\nSource: https://www.visitrhodeisland.c
+ om/event/60s-explosion-at-the-charlestown-rathskeller-2026/111488/
+LOCATION:Charlestown Rathskeller\, 489a Old Coach Road\, Charlestown\, 028
+ 13
+URL:https://www.visitrhodeisland.com/event/60s-explosion-at-the-charlestow
+ n-rathskeller-2026/111488/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chace-Cory House Tours
+DTSTART;VALUE=DATE:20260906
+DTEND;VALUE=DATE:20260907
+DTSTAMP:20260906T134805Z
+UID:4ae74b8f4adc19a54cabaf46aff7@visitri-calendar
+DESCRIPTION:Chace-Cory House Tours Open Sundays\, June 7 - September 6\, 2
+ 026 from 2:00 to 4:30 PM Location: 3908 Main Road\, Tiverton\, RI 02878 Th
+ is season\, in honor of our country’s semiquincentennial\, we have a spe
+ cial exhibit in our c. 1730 house museum: a silk flag flown by George Wash
+ ington’s RI Regiment\, a rare Huntington engraving of the Declaration of
+  Independence\, a map of the 1778 Battle of RI showing redoubts and troop 
+ movements\, a surveyor’s chart of Narragansett Bay and environs of July 
+ 1776\, Civil War uniforms\, and more! Guided tours of the house are held S
+ undays during the hours of 2-4:30 pm from June 7th to September 6th. There
+  is a small preservation donation for THS non-members. Email: TivertonHist
+ oricalSocy@tivertonhistorical.org with any questions\, find more contact i
+ nformation here.\n\nSource: https://www.visitrhodeisland.com/event/chace-c
+ ory-house-tours/111034/
+LOCATION:3908 Main Road\, Tiverton\, RI 02878 This season\, in honor of ou
+ r country’s semiquincentennial\, we have a special exhibit in our c. 173
+ 0 house museum: a silk flag flown by George Washington’s RI Regiment\, a
+  rare Huntington engraving of the Declaration of Independence\, a map of t
+ he 1778 Battle of RI showing redoubts and troop movements\, a surveyor’s
+  chart of Narragansett Bay and environs of July 1776\, Civil War uniforms
+ \, and more! Guided tours of the house are held Sundays during the hours o
+ f 2-4:30 pm from June 7th to September 6th. There is a small preservation 
+ donation for THS non-members. Email: TivertonHistoricalSocy@tivertonhistor
+ ical.org with any questions\, find more contact information here. Show Mor
+ e View Website | Email 1 / 1 Additional Information\, 3908 Main Road\, Tiv
+ erton\, RI 02878 Time: 2:00 PM to 4:30 PM
+URL:https://www.visitrhodeisland.com/event/chace-cory-house-tours/111034/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Darik and The Funbags live at Ballard’s
 DTSTART;VALUE=DATE:20260906
 DTEND;VALUE=DATE:20260907
-DTSTAMP:20260905T133221Z
+DTSTAMP:20260906T134805Z
 UID:81d18e797f38da3ddee35229f890@visitri-calendar
 DESCRIPTION:Darik and The Funbags live at Ballard’s brings pure party en
  ergy to Block Island for a beach day that turns into a full on singalong. 
@@ -322,7 +382,7 @@ BEGIN:VEVENT
 SUMMARY:Ca' del Bosco Wine Garden
 DTSTART;VALUE=DATE:20260907
 DTEND;VALUE=DATE:20260908
-DTSTAMP:20260905T133221Z
+DTSTAMP:20260906T134805Z
 UID:77236e14d72acf829ec51c761fec@visitri-calendar
 DESCRIPTION:Ca' del Bosco Wine Garden Location: The Chanler at Cliff Walk 
  May 22 - September 7\, 2026 1:00 PM - 8:00 PM This season\, settle into a 
@@ -364,7 +424,7 @@ BEGIN:VEVENT
 SUMMARY:Rhode Island SeaFood Festival 2026
 DTSTART;VALUE=DATE:20260912
 DTEND;VALUE=DATE:20260913
-DTSTAMP:20260905T133221Z
+DTSTAMP:20260906T134805Z
 UID:7155b8a7bea276dc2235b2424899@visitri-calendar
 DESCRIPTION:Join us for the 16th annual Rhode Island Seafood Festival\, a 
  two-day extravaganza of the Ocean State’s best seafood\, live music and 
@@ -403,7 +463,7 @@ BEGIN:VEVENT
 SUMMARY:Rhode Island SeaFood Festival 2026
 DTSTART;VALUE=DATE:20260913
 DTEND;VALUE=DATE:20260914
-DTSTAMP:20260905T133221Z
+DTSTAMP:20260906T134805Z
 UID:724318b2396062bf2de4c6176658@visitri-calendar
 DESCRIPTION:Join us for the 16th annual Rhode Island Seafood Festival\, a 
  two-day extravaganza of the Ocean State’s best seafood\, live music and 
@@ -442,7 +502,7 @@ BEGIN:VEVENT
 SUMMARY:PVDFest 2026
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260919
-DTSTAMP:20260905T133221Z
+DTSTAMP:20260906T134805Z
 UID:2de49afd8f722627b9a1f5e00bb1@visitri-calendar
 DESCRIPTION:The People’s Festival for Arts\, Music\, and Culture Mayor B
  rett P. Smiley\, the City’s Department of Art\, Culture\, Tourism and Pr
@@ -461,7 +521,7 @@ BEGIN:VEVENT
 SUMMARY:Food Truck Concert Nights - Diamond Hill Park
 DTSTART;VALUE=DATE:20260919
 DTEND;VALUE=DATE:20260920
-DTSTAMP:20260905T133221Z
+DTSTAMP:20260906T134805Z
 UID:c61110f0d2ee251ab02333bed717@visitri-calendar
 DESCRIPTION:We return to Diamond Hill Park in Cumberland for another serie
  s of memorable events in 2026. Attendance is free\, just pay for what you 
@@ -489,7 +549,7 @@ BEGIN:VEVENT
 SUMMARY:PVDFest 2026
 DTSTART;VALUE=DATE:20260919
 DTEND;VALUE=DATE:20260920
-DTSTAMP:20260905T133221Z
+DTSTAMP:20260906T134805Z
 UID:553bda94539f69469073803099fb@visitri-calendar
 DESCRIPTION:The People’s Festival for Arts\, Music\, and Culture Mayor B
  rett P. Smiley\, the City’s Department of Art\, Culture\, Tourism and Pr
@@ -508,7 +568,7 @@ BEGIN:VEVENT
 SUMMARY:Jack-O-Lantern Spectacular
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
-DTSTAMP:20260905T133221Z
+DTSTAMP:20260906T134805Z
 UID:a11cb847b167f6db3762e7d7aba4@visitri-calendar
 DESCRIPTION:Jack-O-Lantern Spectacular: The Great Pun-Kin Trail\, presente
  d by Citizens\, returns October 1 &#8211\; November 1 with an all-new trai
@@ -533,7 +593,7 @@ BEGIN:VEVENT
 SUMMARY:Live Music by Logan Vale
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261018
-DTSTAMP:20260905T133221Z
+DTSTAMP:20260906T134805Z
 UID:2241186137b505cf7c814cd90b60@visitri-calendar
 DESCRIPTION:The music of Logan Vale! Dinner reservations required either o
  nline or call 401.861.3850 x. 3\n\nSource: https://www.visitrhodeisland.co
@@ -544,10 +604,49 @@ URL:https://www.visitrhodeisland.com/event/live-music-by-logan-vale/110313
  /
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Alger Mitchell at SALTwater Harborside Dining
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+DTSTAMP:20260906T134805Z
+UID:c8707a642277214ae36e5ea850d3@visitri-calendar
+DESCRIPTION:Alger Mitchell at SALTwater Harborside Dining Sundays from 4:0
+ 0 to 7:00 PM Alger Mitchell is a dynamic song stylist\, songwriter\, and v
+ ocalist\, delivering captivating performances with guitar and harmonica. B
+ oasting a remarkable repertoire of approximately 250 songs performed entir
+ ely from memory\, Alger's music is 100% live\, free of electronic enhancem
+ ents. His versatile setlist spans the timeless classics of The Great Ameri
+ can Songbook\, from Broadway to Hollywood\, alongside beloved jazz and pop
+  standards\, classic country\, oldies\, and his own original compositions.
+  With infectious energy\, his live performances invite optional dancing\, 
+ making it nearly impossible to resist moving to the music! Keep a smile on
+  your face and a song in your heart!\n\nSource: https://www.visitrhodeisla
+ nd.com/event/alger-mitchell-at-saltwater-harborside-dining/110157/
+LOCATION:Saltwater at The Newport Harbor Hotel & Marina\, 49 America's Cup
+  Avenue\, Newport\, RI 02840 Time: 4:00 PM to 7:00 PM 49 America's Cup Ave
+ nue\, Newport\, RI 02840 OFFICIAL RHODE ISLAND TRAVEL GUIDE Get Guide Get 
+ news from Visit Rhode Island in your inbox. Industry Partner Leisure Trave
+ l Sign Up Ratings Powered by Press Industry Travel Trade Meetings & Conven
+ tions Contact Privacy Policy Sitemap Partner Portal SMS Privacy Policy SMS
+  Terms & Conditions UGC Terms and Conditions Wedding Planning Press Photos
+  Story Ideas Fun-Sized Rhode Island Rhode Island in the News Free Travel G
+ uide Contact Visit Rhode Island Industry Travel Trade Ideas & Itineraries 
+ Downton Abbey Lifestyle Rhode Island Foodways Hidden Gems Image Library Fr
+ ee Travel Guide Contact Visit Rhode Island Meetings & Conventions Contact 
+ Privacy Policy Sitemap Partner Portal SMS Privacy Policy SMS Terms & Condi
+ tions UGC Terms and Conditions Wedding Planning Weddings - Venues Wedding 
+ - Catering Wedding - Cakes Wedding - Attire Wedding - Florists Wedding - J
+ ewelers Wedding - Transportation © 2026 Rhode Island Commerce Corporation
+  Special Offers Offers Here Looking to plan your next visit to Rhode Islan
+ d\, check out some of the current special offers and enjoy savings\, extra
+  perks and more! Offers Here
+URL:https://www.visitrhodeisland.com/event/alger-mitchell-at-saltwater-har
+ borside-dining/110157/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Coastal Cruisers - The Golden Hour
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
-DTSTAMP:20260905T133221Z
+DTSTAMP:20260906T134805Z
 UID:a33f7731698b5451e05ba44e42fd@visitri-calendar
 DESCRIPTION:Experience the Island in our Coastal Cruisers\, Newport’s pr
  ivate chauffeured luxury tour\, dedicated to providing a sophisticated way
@@ -577,7 +676,7 @@ BEGIN:VEVENT
 SUMMARY:Jack-O-Lantern Spectacular
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
-DTSTAMP:20260905T133221Z
+DTSTAMP:20260906T134805Z
 UID:ddc52d2e1f830141a3c1c36cbc2b@visitri-calendar
 DESCRIPTION:Jack-O-Lantern Spectacular: The Great Pun-Kin Trail\, presente
  d by Citizens\, returns October 1 &#8211\; November 1 with an all-new trai
@@ -602,7 +701,7 @@ BEGIN:VEVENT
 SUMMARY:Beyond the Brewhouse Tour
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
-DTSTAMP:20260905T133221Z
+DTSTAMP:20260906T134805Z
 UID:c7b48636db9ede5f5acbbb263d31@visitri-calendar
 DESCRIPTION:Beyond the Brewhouse Where: Newport Craft Brewing and Distilli
  ng\, 293 JT Connell Road\, Newport 45 minutes: $20 per person Did you know
