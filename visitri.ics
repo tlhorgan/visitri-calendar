@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:$15 Moonshine Flights & Moonshine Tasting
 DTSTART;VALUE=DATE:20250615
 DTEND;VALUE=DATE:20250616
-DTSTAMP:20260906T134805Z
+DTSTAMP:20260907T160316Z
 UID:b6432d870f2c0958f26453a40d59@visitri-calendar
 DESCRIPTION:Try a Moonshine Flight tasting at Moonshine Alley! Moonshine F
  lights are available daily for just $15! We have over 13 flavors to choose
@@ -20,10 +20,26 @@ URL:https://www.visitrhodeisland.com/event/%2415-moonshine-flights-%26-moo
  nshine-tasting/105663/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Children's Weekly Storytime
+DTSTART;VALUE=DATE:20260330
+DTEND;VALUE=DATE:20260331
+DTSTAMP:20260907T160316Z
+UID:6a42c90422362e83701e98f899c2@visitri-calendar
+DESCRIPTION:Children's Storytime Join Elizabeth as she hosts storytime on 
+ Monday mornings at 10:30 AM. Every Monday\, Elizabeth will chose a book co
+ rrelating with the season or holiday. All children and their families are 
+ welcome to join!\n\nSource: https://www.visitrhodeisland.com/event/childre
+ ns-weekly-storytime/109524/
+LOCATION:Charter Books\, 8 Broadway\, Newport\, RI 02840 Time: 10:30 AM to
+  11:00 AM
+URL:https://www.visitrhodeisland.com/event/childrens-weekly-storytime/1095
+ 24/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Coastal Cruisers - The Golden Hour
 DTSTART;VALUE=DATE:20260501
 DTEND;VALUE=DATE:20260502
-DTSTAMP:20260906T134805Z
+DTSTAMP:20260907T160316Z
 UID:9f3864060ce7679e35293700f37c@visitri-calendar
 DESCRIPTION:Experience the Island in our Coastal Cruisers\, Newport’s pr
  ivate chauffeured luxury tour\, dedicated to providing a sophisticated way
@@ -53,7 +69,7 @@ BEGIN:VEVENT
 SUMMARY:Beyond the Brewhouse Tour
 DTSTART;VALUE=DATE:20260515
 DTEND;VALUE=DATE:20260516
-DTSTAMP:20260906T134805Z
+DTSTAMP:20260907T160316Z
 UID:acc9d8e1d1bdab34c6766b602473@visitri-calendar
 DESCRIPTION:Beyond the Brewhouse Where: Newport Craft Brewing and Distilli
  ng\, 293 JT Connell Road\, Newport 45 minutes: $20 per person Did you know
@@ -72,7 +88,7 @@ BEGIN:VEVENT
 SUMMARY:Ca' del Bosco Wine Garden
 DTSTART;VALUE=DATE:20260522
 DTEND;VALUE=DATE:20260523
-DTSTAMP:20260906T134805Z
+DTSTAMP:20260907T160316Z
 UID:ec504bb30a685e605b7475ceee57@visitri-calendar
 DESCRIPTION:Ca' del Bosco Wine Garden Location: The Chanler at Cliff Walk 
  May 22 - September 7\, 2026 1:00 PM - 8:00 PM This season\, settle into a 
@@ -111,82 +127,10 @@ URL:https://www.visitrhodeisland.com/event/ca-del-bosco-wine-garden/109874
  /
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Alger Mitchell at SALTwater Harborside Dining
-DTSTART;VALUE=DATE:20260524
-DTEND;VALUE=DATE:20260525
-DTSTAMP:20260906T134805Z
-UID:56651fdef385ddc5772b8f8d401e@visitri-calendar
-DESCRIPTION:Alger Mitchell at SALTwater Harborside Dining Sundays from 4:0
- 0 to 7:00 PM Alger Mitchell is a dynamic song stylist\, songwriter\, and v
- ocalist\, delivering captivating performances with guitar and harmonica. B
- oasting a remarkable repertoire of approximately 250 songs performed entir
- ely from memory\, Alger's music is 100% live\, free of electronic enhancem
- ents. His versatile setlist spans the timeless classics of The Great Ameri
- can Songbook\, from Broadway to Hollywood\, alongside beloved jazz and pop
-  standards\, classic country\, oldies\, and his own original compositions.
-  With infectious energy\, his live performances invite optional dancing\, 
- making it nearly impossible to resist moving to the music! Keep a smile on
-  your face and a song in your heart!\n\nSource: https://www.visitrhodeisla
- nd.com/event/alger-mitchell-at-saltwater-harborside-dining/110157/
-LOCATION:Saltwater at The Newport Harbor Hotel & Marina\, 49 America's Cup
-  Avenue\, Newport\, RI 02840 Time: 4:00 PM to 7:00 PM 49 America's Cup Ave
- nue\, Newport\, RI 02840 OFFICIAL RHODE ISLAND TRAVEL GUIDE Get Guide Get 
- news from Visit Rhode Island in your inbox. Industry Partner Leisure Trave
- l Sign Up Ratings Powered by Press Industry Travel Trade Meetings & Conven
- tions Contact Privacy Policy Sitemap Partner Portal SMS Privacy Policy SMS
-  Terms & Conditions UGC Terms and Conditions Wedding Planning Press Photos
-  Story Ideas Fun-Sized Rhode Island Rhode Island in the News Free Travel G
- uide Contact Visit Rhode Island Industry Travel Trade Ideas & Itineraries 
- Downton Abbey Lifestyle Rhode Island Foodways Hidden Gems Image Library Fr
- ee Travel Guide Contact Visit Rhode Island Meetings & Conventions Contact 
- Privacy Policy Sitemap Partner Portal SMS Privacy Policy SMS Terms & Condi
- tions UGC Terms and Conditions Wedding Planning Weddings - Venues Wedding 
- - Catering Wedding - Cakes Wedding - Attire Wedding - Florists Wedding - J
- ewelers Wedding - Transportation © 2026 Rhode Island Commerce Corporation
-  Special Offers Offers Here Looking to plan your next visit to Rhode Islan
- d\, check out some of the current special offers and enjoy savings\, extra
-  perks and more! Offers Here
-URL:https://www.visitrhodeisland.com/event/alger-mitchell-at-saltwater-har
- borside-dining/110157/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Chace-Cory House Tours
-DTSTART;VALUE=DATE:20260607
-DTEND;VALUE=DATE:20260608
-DTSTAMP:20260906T134805Z
-UID:da82b7ce9501a09fb9564885aab6@visitri-calendar
-DESCRIPTION:Chace-Cory House Tours Open Sundays\, June 7 - September 6\, 2
- 026 from 2:00 to 4:30 PM Location: 3908 Main Road\, Tiverton\, RI 02878 Th
- is season\, in honor of our country’s semiquincentennial\, we have a spe
- cial exhibit in our c. 1730 house museum: a silk flag flown by George Wash
- ington’s RI Regiment\, a rare Huntington engraving of the Declaration of
-  Independence\, a map of the 1778 Battle of RI showing redoubts and troop 
- movements\, a surveyor’s chart of Narragansett Bay and environs of July 
- 1776\, Civil War uniforms\, and more! Guided tours of the house are held S
- undays during the hours of 2-4:30 pm from June 7th to September 6th. There
-  is a small preservation donation for THS non-members. Email: TivertonHist
- oricalSocy@tivertonhistorical.org with any questions\, find more contact i
- nformation here.\n\nSource: https://www.visitrhodeisland.com/event/chace-c
- ory-house-tours/111034/
-LOCATION:3908 Main Road\, Tiverton\, RI 02878 This season\, in honor of ou
- r country’s semiquincentennial\, we have a special exhibit in our c. 173
- 0 house museum: a silk flag flown by George Washington’s RI Regiment\, a
-  rare Huntington engraving of the Declaration of Independence\, a map of t
- he 1778 Battle of RI showing redoubts and troop movements\, a surveyor’s
-  chart of Narragansett Bay and environs of July 1776\, Civil War uniforms
- \, and more! Guided tours of the house are held Sundays during the hours o
- f 2-4:30 pm from June 7th to September 6th. There is a small preservation 
- donation for THS non-members. Email: TivertonHistoricalSocy@tivertonhistor
- ical.org with any questions\, find more contact information here. Show Mor
- e View Website | Email 1 / 1 Additional Information\, 3908 Main Road\, Tiv
- erton\, RI 02878 Time: 2:00 PM to 4:30 PM
-URL:https://www.visitrhodeisland.com/event/chace-cory-house-tours/111034/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:$15 Moonshine Flights & Moonshine Tasting
 DTSTART;VALUE=DATE:20260721
 DTEND;VALUE=DATE:20260722
-DTSTAMP:20260906T134805Z
+DTSTAMP:20260907T160316Z
 UID:6ac059c408c431eceb1c3c855c19@visitri-calendar
 DESCRIPTION:Try a Moonshine Flight tasting at Moonshine Alley! Moonshine F
  lights are available daily for just $15! We have over 13 flavors to choose
@@ -199,190 +143,105 @@ URL:https://www.visitrhodeisland.com/event/%2415-moonshine-flights-%26-moo
  nshine-tasting/105663/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Live Music by Logan Vale
-DTSTART;VALUE=DATE:20260829
-DTEND;VALUE=DATE:20260830
-DTSTAMP:20260906T134805Z
-UID:51d81b6b9ac830a4dbc32c26efd3@visitri-calendar
-DESCRIPTION:The music of Logan Vale! Dinner reservations required either o
- nline or call 401.861.3850 x. 3\n\nSource: https://www.visitrhodeisland.co
- m/event/live-music-by-logan-vale/110313/
-LOCATION:Luigi's Restaurant & Gourmet Express\, 1359 Hartford Avenue\, Joh
- nston\, RI 02919
-URL:https://www.visitrhodeisland.com/event/live-music-by-logan-vale/110313
- /
+SUMMARY:Half Price Tacos and House Margs at Yellow Door Taqueria!
+DTSTART;VALUE=DATE:20260731
+DTEND;VALUE=DATE:20260801
+DTSTAMP:20260907T160316Z
+UID:e0d95b06c7be4290562a81ad7ad5@visitri-calendar
+DESCRIPTION:Join us EVERY DAY at Yellow Door Taqueria from 3-6 PM at the b
+ ar for half price select tacos and house margaritas! It's the perfect way 
+ to wrap up your work day or grab a drink with friends! Choose from any of 
+ our scratch-made house margarita flavors and six of our favorite tacos! *D
+ ine in only\, select items only from 3-6 PM every day. Bar seating only*\n
+ \nSource: https://www.visitrhodeisland.com/event/half-price-tacos-and-hous
+ e-margs-at-yellow-door-taqueria!/111221/
+LOCATION:Yellow Door Taqueria\, 191 Dorrance Street\, Providence\, RI 0290
+ 3
+URL:https://www.visitrhodeisland.com/event/half-price-tacos-and-house-marg
+ s-at-yellow-door-taqueria!/111221/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Darik and The Funbags live at Ballard’s
-DTSTART;VALUE=DATE:20260905
-DTEND;VALUE=DATE:20260906
-DTSTAMP:20260906T134805Z
-UID:1a78a9072fc24a568e21a7f8a4d8@visitri-calendar
-DESCRIPTION:Darik and The Funbags live at Ballard’s brings pure party en
- ergy to Block Island for a beach day that turns into a full on singalong. 
- If you want a fun crowd\, a packed patio\, and a set that keeps people mov
- ing from the first song to the last\, this is the kind of show you plan yo
- ur day around at Ballard’s. Known for feel good vibes and a playful stag
- e presence\, Darik and the Funbags deliver a fast moving mix of crowd favo
- rites that keeps the whole place engaged. Expect familiar choruses\, big m
- oments\, and the kind of live performance where everyone is singing along 
- even if they just walked in. Whether you are here with friends for the wee
- kend or making the most of a day trip\, Darik and the Funbags live at Ball
- ard’s fits perfectly with the energy of Block Island.\n\nSource: https:/
- /www.visitrhodeisland.com/event/darik-and-the-funbags-live-at-ballard%e2%8
- 0%99s/110507/
-LOCATION:Ballard's Beach Resort\, 42 Water Street\, Block Island\, RI 0280
- 7 42 Water Street\, Block Island\, RI 02807 OFFICIAL RHODE ISLAND TRAVEL G
- UIDE Get Guide Get news from Visit Rhode Island in your inbox. Industry Pa
- rtner Leisure Travel Sign Up Ratings Powered by Press Industry Travel Trad
- e Meetings & Conventions Contact Privacy Policy Sitemap Partner Portal SMS
-  Privacy Policy SMS Terms & Conditions UGC Terms and Conditions Wedding Pl
- anning Press Photos Story Ideas Fun-Sized Rhode Island Rhode Island in the
-  News Free Travel Guide Contact Visit Rhode Island Industry Travel Trade I
- deas & Itineraries Downton Abbey Lifestyle Rhode Island Foodways Hidden Ge
- ms Image Library Free Travel Guide Contact Visit Rhode Island Meetings & C
- onventions Contact Privacy Policy Sitemap Partner Portal SMS Privacy Polic
- y SMS Terms & Conditions UGC Terms and Conditions Wedding Planning Wedding
- s - Venues Wedding - Catering Wedding - Cakes Wedding - Attire Wedding - F
- lorists Wedding - Jewelers Wedding - Transportation © 2026 Rhode Island C
- ommerce Corporation Special Offers Offers Here Looking to plan your next v
- isit to Rhode Island\, check out some of the current special offers and en
- joy savings\, extra perks and more! Offers Here
-URL:https://www.visitrhodeisland.com/event/darik-and-the-funbags-live-at-b
- allard%e2%80%99s/110507/
+SUMMARY:Life on the Avenue: Immigration\, Protest\, and Triumph on Federal
+  Hill
+DTSTART;VALUE=DATE:20260807
+DTEND;VALUE=DATE:20260808
+DTSTAMP:20260907T160316Z
+UID:72f32ec3c7ddaf31a0c995ce585b@visitri-calendar
+DESCRIPTION:Life on the Avenue: Immigration\, Protest\, and Triumph on Fed
+ eral Hill is a powerful\, story-driven walking tour that goes beyond the n
+ eighborhood’s celebrated food scene to uncover the journey for belonging
+  that shaped it. As you explore one of Providence’s most iconic district
+ s\, you’ll trace the journeys of Indigenous communities\, Irish and Ital
+ ian immigrants\, and modern newcomers—each group navigating hardship\, d
+ iscrimination\, and resilience in their fight to call this place home. Alo
+ ng the way\, you’ll stand where protests erupted\, revolutions nearly ig
+ nited\, and everyday people carved out lives against the odds. Blending ri
+ ch storytelling with local flavor and insider food recommendations\, this 
+ experience reveals Federal Hill not just as a destination—but as a battl
+ eground where identity\, power\, and community have been contested for gen
+ erations.\n\nSource: https://www.visitrhodeisland.com/event/life-on-the-av
+ enue%3a-immigration-protest-and-triumph-on-federal-hill/111313/
+LOCATION:Garibaldi Square\, 99 Atwells Avenue\, Providence\, RI 02903
+URL:https://www.visitrhodeisland.com/event/life-on-the-avenue%3a-immigrati
+ on-protest-and-triumph-on-federal-hill/111313/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:"Skyward:" Anne Patterson & James Teschner
-DTSTART;VALUE=DATE:20260906
-DTEND;VALUE=DATE:20260907
-DTSTAMP:20260906T134805Z
-UID:5ddca85fe6f9fb2532ad120f71b4@visitri-calendar
-DESCRIPTION:"Skyward:" Anne Patterson &amp\; James Teschner Exhibition Dat
- es: September 5- October 3\, 2026 Opening Reception: Saturday September 5
- \, 2026\, 5:00- 7:00 PM "Skyward:" Anne Patterson &amp\; James Teschner Je
- ssica Hagen Fine Art + Design is pleased to announce the opening of "Skywa
- rd" featuring artists James Teschner and Anne Patterson on Saturday Septem
- ber 5\, 2026\, from 5:00- 7:00 PM. This exhibition showcases the paintings
-  of James Teschner and the sculptural orbs of Anne Patterson. Teschner\, p
- ainting outdoors near his home in the remote farmlands of central France f
- ocuses on the setting sun\, the moon\, the sky\, and “those moments lead
- ing towards nightfall\, and the night itself\, whereby the landscape is ei
- ther being obliterated\, almost devoured by the sun’s all-consuming lumi
- nosity or being dissolved by the receding\, diminishing light.” Anne Pat
- terson is a multi-disciplinary artist based in Brooklyn. Working across pa
- inting\, sculpture\, and installation\, Patterson explores the ways our se
- nses overlap\, and how together they create an experience greater than the
-  sum of its parts. Informed by her own synesthesia and her training as a s
- et designer\, she is often inspired by music and sound. Gallery owner Jess
- ica Hagen states\, “This is a magical exhibition. The radiance of James 
- Teschner’s oil paintings coalesce with the glow of Anne Patterson’s go
- ld-leafed orbs\, resulting in a sublime alchemy. It’s really a very spec
- ial show.” "Skyward" closes October 3\, 2026. Jessica Hagen Fine Art + D
- esign was founded in 2005 and features contemporary art including painting
- \, sculpture\, photography\, ceramics\, textiles\, and jewelry. Located in
-  the historic Point section of Newport\, the gallery’s hours are Wednesd
- ay- Saturday 11:00 AM - 5:00 PM and Sunday 12:00- 5:00 PM. The gallery is 
- also open by appointment.\n\nSource: https://www.visitrhodeisland.com/even
- t/skyward%3a-anne-patterson-%26-james-teschner/111508/
-LOCATION:Jessica Hagen Fine Art & Design\, 9A Bridge Street\, Newport\, RI
-  02840
-URL:https://www.visitrhodeisland.com/event/skyward%3a-anne-patterson-%26-j
- ames-teschner/111508/
+SUMMARY:Deja Vieux Vintage Shopping Bus Tour Adventure - October 4th
+DTSTART;VALUE=DATE:20260817
+DTEND;VALUE=DATE:20260818
+DTSTAMP:20260907T160316Z
+UID:912e503a9012deae13b33d1d0a85@visitri-calendar
+DESCRIPTION:⭐Hop Aboard Rhode Island’s First - Ever Vintage Shops Bus 
+ Tour!⭐ We invite you to join us at Deja Vieux Vintage for a uniquely cur
+ ated shopping adventure! On Sunday\, October 4th\, from 10:30 AM to 4:00 P
+ M\, we are hitting the road for a premier 5-hour vintage bus tour down Rou
+ te 6 and Route 44. The tour features exclusive discounts at 8 to 12 of our
+  favorite local antique and vintage shops\, making it the perfect day out 
+ for collectors and vintage lovers alike. The Ultimate Vintage &amp\; Antiq
+ ue Bus Tour Host: Deja Vieux Vintage Date &amp\; Time: Sunday\, October 4t
+ h | 10:30 AM &#8211\; 4:00 PM Ticket Information: • Single Ticket: $37.5
+ 0 • Bring a Friend Bundle: Two for $70 Every ticket comes packed with va
+ lue! You get your bus boarding pass\, event shopping bag\, coupon booklet
+ \, complimentary snacks and water\, plus a chance to win prizes. Departure
+  &amp\; Logistics Details: To ensure a smooth departure\, please arrive at
+  Deja Vieux Vintage on Sunday\, October 4th\, before 10:30 AM. Our storefr
+ ont will be open early so you can enjoy your very first shopping experienc
+ e of the day! Parking is completely free. Our bus leaves promptly at 11:00
+  AM. We will be traveling on a chartered yellow school bus from Ocean Stat
+ e Transit\; please note that this vehicle is unfortunately not handicap ac
+ cessible. Single ticket holders may need to share seats\, while our friend
+ s bundles ticket holders guarantee seating together. Complimentary snacks 
+ and water will be provided on board\, and you are welcome to bring your ow
+ n allergen-free lunch. Tickets are non-refundable but are transferable.\n
+ \nSource: https://www.visitrhodeisland.com/event/deja-vieux-vintage-shoppi
+ ng-bus-tour-adventure-october-4th/111403/
+LOCATION:Deja Vieux Vintage\, 20 Cedar Swamp Rd.\, Smithfield\, 02917
+URL:https://www.visitrhodeisland.com/event/deja-vieux-vintage-shopping-bus
+ -tour-adventure-october-4th/111403/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:60's Explosion at the Charlestown Rathskeller 2026
-DTSTART;VALUE=DATE:20260906
-DTEND;VALUE=DATE:20260907
-DTSTAMP:20260906T134805Z
-UID:5f6709a586a975849db01b3a3da0@visitri-calendar
-DESCRIPTION:Get ready for a high-energy trip back to the most iconic decad
- e in music history! Join us at the legendary Charlestown Rathskeller for a
-  live performance by 60's Explosion. They bring the unforgettable sounds o
- f the British Invasion\, Motown\, and Psychedelic Rock to the stage for a 
- true dance and party experience!\n\nSource: https://www.visitrhodeisland.c
- om/event/60s-explosion-at-the-charlestown-rathskeller-2026/111488/
-LOCATION:Charlestown Rathskeller\, 489a Old Coach Road\, Charlestown\, 028
- 13
-URL:https://www.visitrhodeisland.com/event/60s-explosion-at-the-charlestow
- n-rathskeller-2026/111488/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Chace-Cory House Tours
-DTSTART;VALUE=DATE:20260906
-DTEND;VALUE=DATE:20260907
-DTSTAMP:20260906T134805Z
-UID:4ae74b8f4adc19a54cabaf46aff7@visitri-calendar
-DESCRIPTION:Chace-Cory House Tours Open Sundays\, June 7 - September 6\, 2
- 026 from 2:00 to 4:30 PM Location: 3908 Main Road\, Tiverton\, RI 02878 Th
- is season\, in honor of our country’s semiquincentennial\, we have a spe
- cial exhibit in our c. 1730 house museum: a silk flag flown by George Wash
- ington’s RI Regiment\, a rare Huntington engraving of the Declaration of
-  Independence\, a map of the 1778 Battle of RI showing redoubts and troop 
- movements\, a surveyor’s chart of Narragansett Bay and environs of July 
- 1776\, Civil War uniforms\, and more! Guided tours of the house are held S
- undays during the hours of 2-4:30 pm from June 7th to September 6th. There
-  is a small preservation donation for THS non-members. Email: TivertonHist
- oricalSocy@tivertonhistorical.org with any questions\, find more contact i
- nformation here.\n\nSource: https://www.visitrhodeisland.com/event/chace-c
- ory-house-tours/111034/
-LOCATION:3908 Main Road\, Tiverton\, RI 02878 This season\, in honor of ou
- r country’s semiquincentennial\, we have a special exhibit in our c. 173
- 0 house museum: a silk flag flown by George Washington’s RI Regiment\, a
-  rare Huntington engraving of the Declaration of Independence\, a map of t
- he 1778 Battle of RI showing redoubts and troop movements\, a surveyor’s
-  chart of Narragansett Bay and environs of July 1776\, Civil War uniforms
- \, and more! Guided tours of the house are held Sundays during the hours o
- f 2-4:30 pm from June 7th to September 6th. There is a small preservation 
- donation for THS non-members. Email: TivertonHistoricalSocy@tivertonhistor
- ical.org with any questions\, find more contact information here. Show Mor
- e View Website | Email 1 / 1 Additional Information\, 3908 Main Road\, Tiv
- erton\, RI 02878 Time: 2:00 PM to 4:30 PM
-URL:https://www.visitrhodeisland.com/event/chace-cory-house-tours/111034/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Darik and The Funbags live at Ballard’s
-DTSTART;VALUE=DATE:20260906
-DTEND;VALUE=DATE:20260907
-DTSTAMP:20260906T134805Z
-UID:81d18e797f38da3ddee35229f890@visitri-calendar
-DESCRIPTION:Darik and The Funbags live at Ballard’s brings pure party en
- ergy to Block Island for a beach day that turns into a full on singalong. 
- If you want a fun crowd\, a packed patio\, and a set that keeps people mov
- ing from the first song to the last\, this is the kind of show you plan yo
- ur day around at Ballard’s. Known for feel good vibes and a playful stag
- e presence\, Darik and the Funbags deliver a fast moving mix of crowd favo
- rites that keeps the whole place engaged. Expect familiar choruses\, big m
- oments\, and the kind of live performance where everyone is singing along 
- even if they just walked in. Whether you are here with friends for the wee
- kend or making the most of a day trip\, Darik and the Funbags live at Ball
- ard’s fits perfectly with the energy of Block Island.\n\nSource: https:/
- /www.visitrhodeisland.com/event/darik-and-the-funbags-live-at-ballard%e2%8
- 0%99s/110507/
-LOCATION:Ballard's Beach Resort\, 42 Water Street\, Block Island\, RI 0280
- 7 42 Water Street\, Block Island\, RI 02807 OFFICIAL RHODE ISLAND TRAVEL G
- UIDE Get Guide Get news from Visit Rhode Island in your inbox. Industry Pa
- rtner Leisure Travel Sign Up Ratings Powered by Press Industry Travel Trad
- e Meetings & Conventions Contact Privacy Policy Sitemap Partner Portal SMS
-  Privacy Policy SMS Terms & Conditions UGC Terms and Conditions Wedding Pl
- anning Press Photos Story Ideas Fun-Sized Rhode Island Rhode Island in the
-  News Free Travel Guide Contact Visit Rhode Island Industry Travel Trade I
- deas & Itineraries Downton Abbey Lifestyle Rhode Island Foodways Hidden Ge
- ms Image Library Free Travel Guide Contact Visit Rhode Island Meetings & C
- onventions Contact Privacy Policy Sitemap Partner Portal SMS Privacy Polic
- y SMS Terms & Conditions UGC Terms and Conditions Wedding Planning Wedding
- s - Venues Wedding - Catering Wedding - Cakes Wedding - Attire Wedding - F
- lorists Wedding - Jewelers Wedding - Transportation © 2026 Rhode Island C
- ommerce Corporation Special Offers Offers Here Looking to plan your next v
- isit to Rhode Island\, check out some of the current special offers and en
- joy savings\, extra perks and more! Offers Here
-URL:https://www.visitrhodeisland.com/event/darik-and-the-funbags-live-at-b
- allard%e2%80%99s/110507/
+SUMMARY:Burritos & Bowls—Lunch Specials at Yellow Door Taqueria!
+DTSTART;VALUE=DATE:20260826
+DTEND;VALUE=DATE:20260827
+DTSTAMP:20260907T160316Z
+UID:cd9e59bf1148392bbbdd7c30628e@visitri-calendar
+DESCRIPTION:Our new Burrito &amp\; Bowl lunch specials have arrived at Yel
+ low Door Taqueria in downtown Providence! Perfect for dining in or taking 
+ back to the office\, turn your favorite taco into a delicious bowl or try 
+ a specialty burrito! Check out the full menu on our website! Available Mon
+ day-Friday\, 11:30 AM-5 PM!\n\nSource: https://www.visitrhodeisland.com/ev
+ ent/burritos-%26-bowls%e2%80%94lunch-specials-at-yellow-door-taqueria!/111
+ 544/
+LOCATION:Yellow Door Taqueria\, 191 Dorrance Street\, Providence\, RI 0290
+ 3
+URL:https://www.visitrhodeisland.com/event/burritos-%26-bowls%e2%80%94lunc
+ h-specials-at-yellow-door-taqueria!/111544/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ca' del Bosco Wine Garden
 DTSTART;VALUE=DATE:20260907
 DTEND;VALUE=DATE:20260908
-DTSTAMP:20260906T134805Z
+DTSTAMP:20260907T160316Z
 UID:77236e14d72acf829ec51c761fec@visitri-calendar
 DESCRIPTION:Ca' del Bosco Wine Garden Location: The Chanler at Cliff Walk 
  May 22 - September 7\, 2026 1:00 PM - 8:00 PM This season\, settle into a 
@@ -424,7 +283,7 @@ BEGIN:VEVENT
 SUMMARY:Rhode Island SeaFood Festival 2026
 DTSTART;VALUE=DATE:20260912
 DTEND;VALUE=DATE:20260913
-DTSTAMP:20260906T134805Z
+DTSTAMP:20260907T160316Z
 UID:7155b8a7bea276dc2235b2424899@visitri-calendar
 DESCRIPTION:Join us for the 16th annual Rhode Island Seafood Festival\, a 
  two-day extravaganza of the Ocean State’s best seafood\, live music and 
@@ -463,7 +322,7 @@ BEGIN:VEVENT
 SUMMARY:Rhode Island SeaFood Festival 2026
 DTSTART;VALUE=DATE:20260913
 DTEND;VALUE=DATE:20260914
-DTSTAMP:20260906T134805Z
+DTSTAMP:20260907T160316Z
 UID:724318b2396062bf2de4c6176658@visitri-calendar
 DESCRIPTION:Join us for the 16th annual Rhode Island Seafood Festival\, a 
  two-day extravaganza of the Ocean State’s best seafood\, live music and 
@@ -502,7 +361,7 @@ BEGIN:VEVENT
 SUMMARY:PVDFest 2026
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260919
-DTSTAMP:20260906T134805Z
+DTSTAMP:20260907T160316Z
 UID:2de49afd8f722627b9a1f5e00bb1@visitri-calendar
 DESCRIPTION:The People’s Festival for Arts\, Music\, and Culture Mayor B
  rett P. Smiley\, the City’s Department of Art\, Culture\, Tourism and Pr
@@ -521,7 +380,7 @@ BEGIN:VEVENT
 SUMMARY:Food Truck Concert Nights - Diamond Hill Park
 DTSTART;VALUE=DATE:20260919
 DTEND;VALUE=DATE:20260920
-DTSTAMP:20260906T134805Z
+DTSTAMP:20260907T160316Z
 UID:c61110f0d2ee251ab02333bed717@visitri-calendar
 DESCRIPTION:We return to Diamond Hill Park in Cumberland for another serie
  s of memorable events in 2026. Attendance is free\, just pay for what you 
@@ -549,7 +408,7 @@ BEGIN:VEVENT
 SUMMARY:PVDFest 2026
 DTSTART;VALUE=DATE:20260919
 DTEND;VALUE=DATE:20260920
-DTSTAMP:20260906T134805Z
+DTSTAMP:20260907T160316Z
 UID:553bda94539f69469073803099fb@visitri-calendar
 DESCRIPTION:The People’s Festival for Arts\, Music\, and Culture Mayor B
  rett P. Smiley\, the City’s Department of Art\, Culture\, Tourism and Pr
@@ -568,7 +427,7 @@ BEGIN:VEVENT
 SUMMARY:Jack-O-Lantern Spectacular
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
-DTSTAMP:20260906T134805Z
+DTSTAMP:20260907T160316Z
 UID:a11cb847b167f6db3762e7d7aba4@visitri-calendar
 DESCRIPTION:Jack-O-Lantern Spectacular: The Great Pun-Kin Trail\, presente
  d by Citizens\, returns October 1 &#8211\; November 1 with an all-new trai
@@ -590,10 +449,44 @@ URL:https://www.visitrhodeisland.com/event/jack-o-lantern-spectacular/9207
  1/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Deja Vieux Vintage Shopping Bus Tour Adventure - October 4th
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+DTSTAMP:20260907T160316Z
+UID:5fe8cdac575b282879f35adb305f@visitri-calendar
+DESCRIPTION:⭐Hop Aboard Rhode Island’s First - Ever Vintage Shops Bus 
+ Tour!⭐ We invite you to join us at Deja Vieux Vintage for a uniquely cur
+ ated shopping adventure! On Sunday\, October 4th\, from 10:30 AM to 4:00 P
+ M\, we are hitting the road for a premier 5-hour vintage bus tour down Rou
+ te 6 and Route 44. The tour features exclusive discounts at 8 to 12 of our
+  favorite local antique and vintage shops\, making it the perfect day out 
+ for collectors and vintage lovers alike. The Ultimate Vintage &amp\; Antiq
+ ue Bus Tour Host: Deja Vieux Vintage Date &amp\; Time: Sunday\, October 4t
+ h | 10:30 AM &#8211\; 4:00 PM Ticket Information: • Single Ticket: $37.5
+ 0 • Bring a Friend Bundle: Two for $70 Every ticket comes packed with va
+ lue! You get your bus boarding pass\, event shopping bag\, coupon booklet
+ \, complimentary snacks and water\, plus a chance to win prizes. Departure
+  &amp\; Logistics Details: To ensure a smooth departure\, please arrive at
+  Deja Vieux Vintage on Sunday\, October 4th\, before 10:30 AM. Our storefr
+ ont will be open early so you can enjoy your very first shopping experienc
+ e of the day! Parking is completely free. Our bus leaves promptly at 11:00
+  AM. We will be traveling on a chartered yellow school bus from Ocean Stat
+ e Transit\; please note that this vehicle is unfortunately not handicap ac
+ cessible. Single ticket holders may need to share seats\, while our friend
+ s bundles ticket holders guarantee seating together. Complimentary snacks 
+ and water will be provided on board\, and you are welcome to bring your ow
+ n allergen-free lunch. Tickets are non-refundable but are transferable.\n
+ \nSource: https://www.visitrhodeisland.com/event/deja-vieux-vintage-shoppi
+ ng-bus-tour-adventure-october-4th/111403/
+LOCATION:Deja Vieux Vintage\, 20 Cedar Swamp Rd.\, Smithfield\, 02917
+URL:https://www.visitrhodeisland.com/event/deja-vieux-vintage-shopping-bus
+ -tour-adventure-october-4th/111403/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Live Music by Logan Vale
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261018
-DTSTAMP:20260906T134805Z
+DTSTAMP:20260907T160316Z
 UID:2241186137b505cf7c814cd90b60@visitri-calendar
 DESCRIPTION:The music of Logan Vale! Dinner reservations required either o
  nline or call 401.861.3850 x. 3\n\nSource: https://www.visitrhodeisland.co
@@ -604,49 +497,10 @@ URL:https://www.visitrhodeisland.com/event/live-music-by-logan-vale/110313
  /
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Alger Mitchell at SALTwater Harborside Dining
-DTSTART;VALUE=DATE:20261025
-DTEND;VALUE=DATE:20261026
-DTSTAMP:20260906T134805Z
-UID:c8707a642277214ae36e5ea850d3@visitri-calendar
-DESCRIPTION:Alger Mitchell at SALTwater Harborside Dining Sundays from 4:0
- 0 to 7:00 PM Alger Mitchell is a dynamic song stylist\, songwriter\, and v
- ocalist\, delivering captivating performances with guitar and harmonica. B
- oasting a remarkable repertoire of approximately 250 songs performed entir
- ely from memory\, Alger's music is 100% live\, free of electronic enhancem
- ents. His versatile setlist spans the timeless classics of The Great Ameri
- can Songbook\, from Broadway to Hollywood\, alongside beloved jazz and pop
-  standards\, classic country\, oldies\, and his own original compositions.
-  With infectious energy\, his live performances invite optional dancing\, 
- making it nearly impossible to resist moving to the music! Keep a smile on
-  your face and a song in your heart!\n\nSource: https://www.visitrhodeisla
- nd.com/event/alger-mitchell-at-saltwater-harborside-dining/110157/
-LOCATION:Saltwater at The Newport Harbor Hotel & Marina\, 49 America's Cup
-  Avenue\, Newport\, RI 02840 Time: 4:00 PM to 7:00 PM 49 America's Cup Ave
- nue\, Newport\, RI 02840 OFFICIAL RHODE ISLAND TRAVEL GUIDE Get Guide Get 
- news from Visit Rhode Island in your inbox. Industry Partner Leisure Trave
- l Sign Up Ratings Powered by Press Industry Travel Trade Meetings & Conven
- tions Contact Privacy Policy Sitemap Partner Portal SMS Privacy Policy SMS
-  Terms & Conditions UGC Terms and Conditions Wedding Planning Press Photos
-  Story Ideas Fun-Sized Rhode Island Rhode Island in the News Free Travel G
- uide Contact Visit Rhode Island Industry Travel Trade Ideas & Itineraries 
- Downton Abbey Lifestyle Rhode Island Foodways Hidden Gems Image Library Fr
- ee Travel Guide Contact Visit Rhode Island Meetings & Conventions Contact 
- Privacy Policy Sitemap Partner Portal SMS Privacy Policy SMS Terms & Condi
- tions UGC Terms and Conditions Wedding Planning Weddings - Venues Wedding 
- - Catering Wedding - Cakes Wedding - Attire Wedding - Florists Wedding - J
- ewelers Wedding - Transportation © 2026 Rhode Island Commerce Corporation
-  Special Offers Offers Here Looking to plan your next visit to Rhode Islan
- d\, check out some of the current special offers and enjoy savings\, extra
-  perks and more! Offers Here
-URL:https://www.visitrhodeisland.com/event/alger-mitchell-at-saltwater-har
- borside-dining/110157/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Coastal Cruisers - The Golden Hour
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
-DTSTAMP:20260906T134805Z
+DTSTAMP:20260907T160316Z
 UID:a33f7731698b5451e05ba44e42fd@visitri-calendar
 DESCRIPTION:Experience the Island in our Coastal Cruisers\, Newport’s pr
  ivate chauffeured luxury tour\, dedicated to providing a sophisticated way
@@ -673,10 +527,28 @@ URL:https://www.visitrhodeisland.com/event/coastal-cruisers-the-golden-hou
  r/109827/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Half Price Tacos and House Margs at Yellow Door Taqueria!
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+DTSTAMP:20260907T160316Z
+UID:9e3061f0648341ee71e7158e4b15@visitri-calendar
+DESCRIPTION:Join us EVERY DAY at Yellow Door Taqueria from 3-6 PM at the b
+ ar for half price select tacos and house margaritas! It's the perfect way 
+ to wrap up your work day or grab a drink with friends! Choose from any of 
+ our scratch-made house margarita flavors and six of our favorite tacos! *D
+ ine in only\, select items only from 3-6 PM every day. Bar seating only*\n
+ \nSource: https://www.visitrhodeisland.com/event/half-price-tacos-and-hous
+ e-margs-at-yellow-door-taqueria!/111221/
+LOCATION:Yellow Door Taqueria\, 191 Dorrance Street\, Providence\, RI 0290
+ 3
+URL:https://www.visitrhodeisland.com/event/half-price-tacos-and-house-marg
+ s-at-yellow-door-taqueria!/111221/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Jack-O-Lantern Spectacular
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
-DTSTAMP:20260906T134805Z
+DTSTAMP:20260907T160316Z
 UID:ddc52d2e1f830141a3c1c36cbc2b@visitri-calendar
 DESCRIPTION:Jack-O-Lantern Spectacular: The Great Pun-Kin Trail\, presente
  d by Citizens\, returns October 1 &#8211\; November 1 with an all-new trai
@@ -698,10 +570,51 @@ URL:https://www.visitrhodeisland.com/event/jack-o-lantern-spectacular/9207
  1/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Children's Weekly Storytime
+DTSTART;VALUE=DATE:20261221
+DTEND;VALUE=DATE:20261222
+DTSTAMP:20260907T160316Z
+UID:505c13cc68dfd1161c6032fdf540@visitri-calendar
+DESCRIPTION:Children's Storytime Join Elizabeth as she hosts storytime on 
+ Monday mornings at 10:30 AM. Every Monday\, Elizabeth will chose a book co
+ rrelating with the season or holiday. All children and their families are 
+ welcome to join!\n\nSource: https://www.visitrhodeisland.com/event/childre
+ ns-weekly-storytime/109524/
+LOCATION:Charter Books\, 8 Broadway\, Newport\, RI 02840 Time: 10:30 AM to
+  11:00 AM
+URL:https://www.visitrhodeisland.com/event/childrens-weekly-storytime/1095
+ 24/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Life on the Avenue: Immigration\, Protest\, and Triumph on Federal
+  Hill
+DTSTART;VALUE=DATE:20261224
+DTEND;VALUE=DATE:20261225
+DTSTAMP:20260907T160316Z
+UID:b647795e53ce8e44e67b534819a6@visitri-calendar
+DESCRIPTION:Life on the Avenue: Immigration\, Protest\, and Triumph on Fed
+ eral Hill is a powerful\, story-driven walking tour that goes beyond the n
+ eighborhood’s celebrated food scene to uncover the journey for belonging
+  that shaped it. As you explore one of Providence’s most iconic district
+ s\, you’ll trace the journeys of Indigenous communities\, Irish and Ital
+ ian immigrants\, and modern newcomers—each group navigating hardship\, d
+ iscrimination\, and resilience in their fight to call this place home. Alo
+ ng the way\, you’ll stand where protests erupted\, revolutions nearly ig
+ nited\, and everyday people carved out lives against the odds. Blending ri
+ ch storytelling with local flavor and insider food recommendations\, this 
+ experience reveals Federal Hill not just as a destination—but as a battl
+ eground where identity\, power\, and community have been contested for gen
+ erations.\n\nSource: https://www.visitrhodeisland.com/event/life-on-the-av
+ enue%3a-immigration-protest-and-triumph-on-federal-hill/111313/
+LOCATION:Garibaldi Square\, 99 Atwells Avenue\, Providence\, RI 02903
+URL:https://www.visitrhodeisland.com/event/life-on-the-avenue%3a-immigrati
+ on-protest-and-triumph-on-federal-hill/111313/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Beyond the Brewhouse Tour
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
-DTSTAMP:20260906T134805Z
+DTSTAMP:20260907T160316Z
 UID:c7b48636db9ede5f5acbbb263d31@visitri-calendar
 DESCRIPTION:Beyond the Brewhouse Where: Newport Craft Brewing and Distilli
  ng\, 293 JT Connell Road\, Newport 45 minutes: $20 per person Did you know
@@ -715,5 +628,23 @@ LOCATION:Newport Craft Brewing & Distilling Company\, 293 JT Connell Road
  \, Newport\, RI 02840 Time: 45 minutes: Tour start time varies by booking.
 URL:https://www.visitrhodeisland.com/event/beyond-the-brewhouse-tour/11015
  3/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Burritos & Bowls—Lunch Specials at Yellow Door Taqueria!
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+DTSTAMP:20260907T160316Z
+UID:a47385cf36c194bcd701d4733276@visitri-calendar
+DESCRIPTION:Our new Burrito &amp\; Bowl lunch specials have arrived at Yel
+ low Door Taqueria in downtown Providence! Perfect for dining in or taking 
+ back to the office\, turn your favorite taco into a delicious bowl or try 
+ a specialty burrito! Check out the full menu on our website! Available Mon
+ day-Friday\, 11:30 AM-5 PM!\n\nSource: https://www.visitrhodeisland.com/ev
+ ent/burritos-%26-bowls%e2%80%94lunch-specials-at-yellow-door-taqueria!/111
+ 544/
+LOCATION:Yellow Door Taqueria\, 191 Dorrance Street\, Providence\, RI 0290
+ 3
+URL:https://www.visitrhodeisland.com/event/burritos-%26-bowls%e2%80%94lunc
+ h-specials-at-yellow-door-taqueria!/111544/
 END:VEVENT
 END:VCALENDAR
