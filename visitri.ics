@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:$15 Moonshine Flights & Moonshine Tasting
 DTSTART;VALUE=DATE:20250615
 DTEND;VALUE=DATE:20250616
-DTSTAMP:20260909T144813Z
+DTSTAMP:20260910T143744Z
 UID:b6432d870f2c0958f26453a40d59@visitri-calendar
 DESCRIPTION:Try a Moonshine Flight tasting at Moonshine Alley! Moonshine F
  lights are available daily for just $15! We have over 13 flavors to choose
@@ -20,10 +20,39 @@ URL:https://www.visitrhodeisland.com/event/%2415-moonshine-flights-%26-moo
  nshine-tasting/105663/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Federal Hill Dinner Stroll
+DTSTART;VALUE=DATE:20251231
+DTEND;VALUE=DATE:20260101
+DTSTAMP:20260910T143744Z
+UID:0f7c9cd3871a48273390ed565571@visitri-calendar
+DESCRIPTION:A Guided Italian Dinner Experience Unwind after a long day wit
+ h the Federal Hill Dinner Stroll—a decadent evening walk through Provide
+ nce’s legendary Little Italy\, guided by a warm and knowledgeable host. 
+ This immersive\, multi-course dining experience replaces the usual restaur
+ ant routine with a handpicked lineup of top-tier small plates and drinks f
+ rom some of the Hill’s most iconic spots. From seafood to house-made pas
+ tas and cheeses to unforgettable desserts\, every stop is a celebration of
+  one of the best culinary neighborhoods in New England. Food\, tax\, and t
+ ip are all included\, so all you’ll need to think about is what to sip a
+ long the way. As the streets glow under string lights and the smell of fre
+ sh bread fills the air\, you’ll be treated to an evening that’s equal 
+ parts indulgent and effortless. Your dedicated host is there just for your
+  group—welcoming you at each stop\, handling every detail\, and making s
+ ure you feel taken care of from the first bite to the last. With bold flav
+ ors\, rich traditions\, and the warm hum of the neighborhood around you\, 
+ it’s more than just dinner\; it’s a chance to step into the rhythm of 
+ a place where food is a way of life.\n\nSource: https://www.visitrhodeisla
+ nd.com/event/federal-hill-dinner-stroll/106097/
+LOCATION:Cassarino's Ristorante\, 177 Atwells Avenue\, Providence\, RI 029
+ 03
+URL:https://www.visitrhodeisland.com/event/federal-hill-dinner-stroll/1060
+ 97/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Early Bird Museum Highlight Tour at Newport Car Museum
 DTSTART;VALUE=DATE:20260401
 DTEND;VALUE=DATE:20260402
-DTSTAMP:20260909T144813Z
+DTSTAMP:20260910T143744Z
 UID:75253880a8c565d95c2d97a759c9@visitri-calendar
 DESCRIPTION:Early Bird Highlight Tour For 90 minutes (8:30 &#8211\; 10:00 
  AM) prior to Museum opening. Call to book: +1 (401) 848-2277 Price $75.00 
@@ -52,7 +81,7 @@ BEGIN:VEVENT
 SUMMARY:Coastal Cruisers - The Golden Hour
 DTSTART;VALUE=DATE:20260501
 DTEND;VALUE=DATE:20260502
-DTSTAMP:20260909T144813Z
+DTSTAMP:20260910T143744Z
 UID:9f3864060ce7679e35293700f37c@visitri-calendar
 DESCRIPTION:Experience the Island in our Coastal Cruisers\, Newport’s pr
  ivate chauffeured luxury tour\, dedicated to providing a sophisticated way
@@ -82,7 +111,7 @@ BEGIN:VEVENT
 SUMMARY:Beyond the Brewhouse Tour
 DTSTART;VALUE=DATE:20260515
 DTEND;VALUE=DATE:20260516
-DTSTAMP:20260909T144813Z
+DTSTAMP:20260910T143744Z
 UID:acc9d8e1d1bdab34c6766b602473@visitri-calendar
 DESCRIPTION:Beyond the Brewhouse Where: Newport Craft Brewing and Distilli
  ng\, 293 JT Connell Road\, Newport 45 minutes: $20 per person Did you know
@@ -101,7 +130,7 @@ BEGIN:VEVENT
 SUMMARY:$15 Moonshine Flights & Moonshine Tasting
 DTSTART;VALUE=DATE:20260721
 DTEND;VALUE=DATE:20260722
-DTSTAMP:20260909T144813Z
+DTSTAMP:20260910T143744Z
 UID:6ac059c408c431eceb1c3c855c19@visitri-calendar
 DESCRIPTION:Try a Moonshine Flight tasting at Moonshine Alley! Moonshine F
  lights are available daily for just $15! We have over 13 flavors to choose
@@ -117,7 +146,7 @@ BEGIN:VEVENT
 SUMMARY:Deja Vieux Vintage Shopping Bus Tour Adventure - October 4th
 DTSTART;VALUE=DATE:20260817
 DTEND;VALUE=DATE:20260818
-DTSTAMP:20260909T144813Z
+DTSTAMP:20260910T143744Z
 UID:912e503a9012deae13b33d1d0a85@visitri-calendar
 DESCRIPTION:⭐Hop Aboard Rhode Island’s First - Ever Vintage Shops Bus 
  Tour!⭐ We invite you to join us at Deja Vieux Vintage for a uniquely cur
@@ -151,7 +180,7 @@ BEGIN:VEVENT
 SUMMARY:Burritos & Bowls—Lunch Specials at Yellow Door Taqueria!
 DTSTART;VALUE=DATE:20260826
 DTEND;VALUE=DATE:20260827
-DTSTAMP:20260909T144813Z
+DTSTAMP:20260910T143744Z
 UID:cd9e59bf1148392bbbdd7c30628e@visitri-calendar
 DESCRIPTION:Our new Burrito &amp\; Bowl lunch specials have arrived at Yel
  low Door Taqueria in downtown Providence! Perfect for dining in or taking 
@@ -166,11 +195,40 @@ URL:https://www.visitrhodeisland.com/event/burritos-%26-bowls%e2%80%94lunc
  h-specials-at-yellow-door-taqueria!/111544/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Federal Hill Dinner Stroll
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260905
+DTSTAMP:20260910T143744Z
+UID:1ba0809acb5925117d6bfead8fd2@visitri-calendar
+DESCRIPTION:A Guided Italian Dinner Experience Unwind after a long day wit
+ h the Federal Hill Dinner Stroll—a decadent evening walk through Provide
+ nce’s legendary Little Italy\, guided by a warm and knowledgeable host. 
+ This immersive\, multi-course dining experience replaces the usual restaur
+ ant routine with a handpicked lineup of top-tier small plates and drinks f
+ rom some of the Hill’s most iconic spots. From seafood to house-made pas
+ tas and cheeses to unforgettable desserts\, every stop is a celebration of
+  one of the best culinary neighborhoods in New England. Food\, tax\, and t
+ ip are all included\, so all you’ll need to think about is what to sip a
+ long the way. As the streets glow under string lights and the smell of fre
+ sh bread fills the air\, you’ll be treated to an evening that’s equal 
+ parts indulgent and effortless. Your dedicated host is there just for your
+  group—welcoming you at each stop\, handling every detail\, and making s
+ ure you feel taken care of from the first bite to the last. With bold flav
+ ors\, rich traditions\, and the warm hum of the neighborhood around you\, 
+ it’s more than just dinner\; it’s a chance to step into the rhythm of 
+ a place where food is a way of life.\n\nSource: https://www.visitrhodeisla
+ nd.com/event/federal-hill-dinner-stroll/106097/
+LOCATION:Cassarino's Ristorante\, 177 Atwells Avenue\, Providence\, RI 029
+ 03
+URL:https://www.visitrhodeisland.com/event/federal-hill-dinner-stroll/1060
+ 97/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:"Skyward:" Anne Patterson & James Teschner
-DTSTART;VALUE=DATE:20260909
-DTEND;VALUE=DATE:20260910
-DTSTAMP:20260909T144813Z
-UID:c0d6c15c623533df37c9bcdbbc99@visitri-calendar
+DTSTART;VALUE=DATE:20260910
+DTEND;VALUE=DATE:20260911
+DTSTAMP:20260910T143744Z
+UID:88e7c16f48c837beda3df58e23bb@visitri-calendar
 DESCRIPTION:"Skyward:" Anne Patterson &amp\; James Teschner Exhibition Dat
  es: September 5- October 3\, 2026 Opening Reception: Saturday September 5
  \, 2026\, 5:00- 7:00 PM "Skyward:" Anne Patterson &amp\; James Teschner Je
@@ -207,7 +265,7 @@ BEGIN:VEVENT
 SUMMARY:Early Bird Museum Highlight Tour at Newport Car Museum
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260911
-DTSTAMP:20260909T144813Z
+DTSTAMP:20260910T143744Z
 UID:90398082bb2827d382c2ba9a33e9@visitri-calendar
 DESCRIPTION:Early Bird Highlight Tour For 90 minutes (8:30 &#8211\; 10:00 
  AM) prior to Museum opening. Call to book: +1 (401) 848-2277 Price $75.00 
@@ -236,7 +294,7 @@ BEGIN:VEVENT
 SUMMARY:Early Bird Museum Highlight Tour at Newport Car Museum
 DTSTART;VALUE=DATE:20260912
 DTEND;VALUE=DATE:20260913
-DTSTAMP:20260909T144813Z
+DTSTAMP:20260910T143744Z
 UID:e8e628ea60210ffedfb27ad88dbd@visitri-calendar
 DESCRIPTION:Early Bird Highlight Tour For 90 minutes (8:30 &#8211\; 10:00 
  AM) prior to Museum opening. Call to book: +1 (401) 848-2277 Price $75.00 
@@ -265,7 +323,7 @@ BEGIN:VEVENT
 SUMMARY:Rhode Island SeaFood Festival 2026
 DTSTART;VALUE=DATE:20260912
 DTEND;VALUE=DATE:20260913
-DTSTAMP:20260909T144813Z
+DTSTAMP:20260910T143744Z
 UID:7155b8a7bea276dc2235b2424899@visitri-calendar
 DESCRIPTION:Join us for the 16th annual Rhode Island Seafood Festival\, a 
  two-day extravaganza of the Ocean State’s best seafood\, live music and 
@@ -304,7 +362,7 @@ BEGIN:VEVENT
 SUMMARY:Rhode Island SeaFood Festival 2026
 DTSTART;VALUE=DATE:20260913
 DTEND;VALUE=DATE:20260914
-DTSTAMP:20260909T144813Z
+DTSTAMP:20260910T143744Z
 UID:724318b2396062bf2de4c6176658@visitri-calendar
 DESCRIPTION:Join us for the 16th annual Rhode Island Seafood Festival\, a 
  two-day extravaganza of the Ocean State’s best seafood\, live music and 
@@ -343,7 +401,7 @@ BEGIN:VEVENT
 SUMMARY:PVDFest 2026
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260919
-DTSTAMP:20260909T144813Z
+DTSTAMP:20260910T143744Z
 UID:2de49afd8f722627b9a1f5e00bb1@visitri-calendar
 DESCRIPTION:The People’s Festival for Arts\, Music\, and Culture Mayor B
  rett P. Smiley\, the City’s Department of Art\, Culture\, Tourism and Pr
@@ -362,7 +420,7 @@ BEGIN:VEVENT
 SUMMARY:Food Truck Concert Nights - Diamond Hill Park
 DTSTART;VALUE=DATE:20260919
 DTEND;VALUE=DATE:20260920
-DTSTAMP:20260909T144813Z
+DTSTAMP:20260910T143744Z
 UID:c61110f0d2ee251ab02333bed717@visitri-calendar
 DESCRIPTION:We return to Diamond Hill Park in Cumberland for another serie
  s of memorable events in 2026. Attendance is free\, just pay for what you 
@@ -390,7 +448,7 @@ BEGIN:VEVENT
 SUMMARY:PVDFest 2026
 DTSTART;VALUE=DATE:20260919
 DTEND;VALUE=DATE:20260920
-DTSTAMP:20260909T144813Z
+DTSTAMP:20260910T143744Z
 UID:553bda94539f69469073803099fb@visitri-calendar
 DESCRIPTION:The People’s Festival for Arts\, Music\, and Culture Mayor B
  rett P. Smiley\, the City’s Department of Art\, Culture\, Tourism and Pr
@@ -409,7 +467,7 @@ BEGIN:VEVENT
 SUMMARY:Jack-O-Lantern Spectacular
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
-DTSTAMP:20260909T144813Z
+DTSTAMP:20260910T143744Z
 UID:a11cb847b167f6db3762e7d7aba4@visitri-calendar
 DESCRIPTION:Jack-O-Lantern Spectacular: The Great Pun-Kin Trail\, presente
  d by Citizens\, returns October 1 &#8211\; November 1 with an all-new trai
@@ -434,7 +492,7 @@ BEGIN:VEVENT
 SUMMARY:Deja Vieux Vintage Shopping Bus Tour Adventure - October 4th
 DTSTART;VALUE=DATE:20261005
 DTEND;VALUE=DATE:20261006
-DTSTAMP:20260909T144813Z
+DTSTAMP:20260910T143744Z
 UID:5fe8cdac575b282879f35adb305f@visitri-calendar
 DESCRIPTION:⭐Hop Aboard Rhode Island’s First - Ever Vintage Shops Bus 
  Tour!⭐ We invite you to join us at Deja Vieux Vintage for a uniquely cur
@@ -468,7 +526,7 @@ BEGIN:VEVENT
 SUMMARY:Live Music by Logan Vale
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261018
-DTSTAMP:20260909T144813Z
+DTSTAMP:20260910T143744Z
 UID:2241186137b505cf7c814cd90b60@visitri-calendar
 DESCRIPTION:The music of Logan Vale! Dinner reservations required either o
  nline or call 401.861.3850 x. 3\n\nSource: https://www.visitrhodeisland.co
@@ -482,7 +540,7 @@ BEGIN:VEVENT
 SUMMARY:Coastal Cruisers - The Golden Hour
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
-DTSTAMP:20260909T144813Z
+DTSTAMP:20260910T143744Z
 UID:a33f7731698b5451e05ba44e42fd@visitri-calendar
 DESCRIPTION:Experience the Island in our Coastal Cruisers\, Newport’s pr
  ivate chauffeured luxury tour\, dedicated to providing a sophisticated way
@@ -512,7 +570,7 @@ BEGIN:VEVENT
 SUMMARY:Jack-O-Lantern Spectacular
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
-DTSTAMP:20260909T144813Z
+DTSTAMP:20260910T143744Z
 UID:ddc52d2e1f830141a3c1c36cbc2b@visitri-calendar
 DESCRIPTION:Jack-O-Lantern Spectacular: The Great Pun-Kin Trail\, presente
  d by Citizens\, returns October 1 &#8211\; November 1 with an all-new trai
@@ -537,7 +595,7 @@ BEGIN:VEVENT
 SUMMARY:Beyond the Brewhouse Tour
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
-DTSTAMP:20260909T144813Z
+DTSTAMP:20260910T143744Z
 UID:c7b48636db9ede5f5acbbb263d31@visitri-calendar
 DESCRIPTION:Beyond the Brewhouse Where: Newport Craft Brewing and Distilli
  ng\, 293 JT Connell Road\, Newport 45 minutes: $20 per person Did you know
@@ -556,7 +614,7 @@ BEGIN:VEVENT
 SUMMARY:Burritos & Bowls—Lunch Specials at Yellow Door Taqueria!
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
-DTSTAMP:20260909T144813Z
+DTSTAMP:20260910T143744Z
 UID:a47385cf36c194bcd701d4733276@visitri-calendar
 DESCRIPTION:Our new Burrito &amp\; Bowl lunch specials have arrived at Yel
  low Door Taqueria in downtown Providence! Perfect for dining in or taking 
@@ -574,7 +632,7 @@ BEGIN:VEVENT
 SUMMARY:Early Bird Museum Highlight Tour at Newport Car Museum
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
-DTSTAMP:20260909T144813Z
+DTSTAMP:20260910T143744Z
 UID:2f06cece69080ebb1042b1f38a6b@visitri-calendar
 DESCRIPTION:Early Bird Highlight Tour For 90 minutes (8:30 &#8211\; 10:00 
  AM) prior to Museum opening. Call to book: +1 (401) 848-2277 Price $75.00 
