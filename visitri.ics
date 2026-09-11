@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:$15 Moonshine Flights & Moonshine Tasting
 DTSTART;VALUE=DATE:20250615
 DTEND;VALUE=DATE:20250616
-DTSTAMP:20260910T143744Z
+DTSTAMP:20260911T143648Z
 UID:b6432d870f2c0958f26453a40d59@visitri-calendar
 DESCRIPTION:Try a Moonshine Flight tasting at Moonshine Alley! Moonshine F
  lights are available daily for just $15! We have over 13 flavors to choose
@@ -20,68 +20,10 @@ URL:https://www.visitrhodeisland.com/event/%2415-moonshine-flights-%26-moo
  nshine-tasting/105663/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Federal Hill Dinner Stroll
-DTSTART;VALUE=DATE:20251231
-DTEND;VALUE=DATE:20260101
-DTSTAMP:20260910T143744Z
-UID:0f7c9cd3871a48273390ed565571@visitri-calendar
-DESCRIPTION:A Guided Italian Dinner Experience Unwind after a long day wit
- h the Federal Hill Dinner Stroll—a decadent evening walk through Provide
- nce’s legendary Little Italy\, guided by a warm and knowledgeable host. 
- This immersive\, multi-course dining experience replaces the usual restaur
- ant routine with a handpicked lineup of top-tier small plates and drinks f
- rom some of the Hill’s most iconic spots. From seafood to house-made pas
- tas and cheeses to unforgettable desserts\, every stop is a celebration of
-  one of the best culinary neighborhoods in New England. Food\, tax\, and t
- ip are all included\, so all you’ll need to think about is what to sip a
- long the way. As the streets glow under string lights and the smell of fre
- sh bread fills the air\, you’ll be treated to an evening that’s equal 
- parts indulgent and effortless. Your dedicated host is there just for your
-  group—welcoming you at each stop\, handling every detail\, and making s
- ure you feel taken care of from the first bite to the last. With bold flav
- ors\, rich traditions\, and the warm hum of the neighborhood around you\, 
- it’s more than just dinner\; it’s a chance to step into the rhythm of 
- a place where food is a way of life.\n\nSource: https://www.visitrhodeisla
- nd.com/event/federal-hill-dinner-stroll/106097/
-LOCATION:Cassarino's Ristorante\, 177 Atwells Avenue\, Providence\, RI 029
- 03
-URL:https://www.visitrhodeisland.com/event/federal-hill-dinner-stroll/1060
- 97/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Early Bird Museum Highlight Tour at Newport Car Museum
-DTSTART;VALUE=DATE:20260401
-DTEND;VALUE=DATE:20260402
-DTSTAMP:20260910T143744Z
-UID:75253880a8c565d95c2d97a759c9@visitri-calendar
-DESCRIPTION:Early Bird Highlight Tour For 90 minutes (8:30 &#8211\; 10:00 
- AM) prior to Museum opening. Call to book: +1 (401) 848-2277 Price $75.00 
- per person (minimum 2\, maximum 6 ppl) Offered Wednesday\, Thursday\, and 
- Saturday only April 1 - December 31\, 2026. General admission is included 
- with price. 72-hour advance notice is suggested. Only one group will be ho
- sted on any given morning. This is your chance to have the Newport Car Mus
- eum all to yourself with a private guide to share with you the not-to-miss
-  highlights in seven expansive galleries. With over 100 iconic\, rare and 
- exotic cars on display at one time\, this private collection is bursting w
- ith history\, provenance and color\, not to mention the breathtaking sculp
- tural beauty of automotive designs starting with the 1950s and finishing w
- ith new models from the 21 st Century. After 90 minutes with your private
- \, continue to explore at your own pace so that you can further examine yo
- ur favorites from the Ford/Shelby\, Corvette\, World Car\, Porsche\, Fin C
- ar\, American Muscle and Mopar exhibits while enjoying immersive videos\, 
- artwork and the Museum’s eclectic collection of Mid-Century Modern Furni
- ture.\n\nSource: https://www.visitrhodeisland.com/event/early-bird-museum-
- highlight-tour-at-newport-car-museum/109638/
-LOCATION:Newport Car Museum\, Enter at Light 1947 West Main Road\, Portsmo
- uth\, RI 02871
-URL:https://www.visitrhodeisland.com/event/early-bird-museum-highlight-tou
- r-at-newport-car-museum/109638/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Coastal Cruisers - The Golden Hour
 DTSTART;VALUE=DATE:20260501
 DTEND;VALUE=DATE:20260502
-DTSTAMP:20260910T143744Z
+DTSTAMP:20260911T143648Z
 UID:9f3864060ce7679e35293700f37c@visitri-calendar
 DESCRIPTION:Experience the Island in our Coastal Cruisers\, Newport’s pr
  ivate chauffeured luxury tour\, dedicated to providing a sophisticated way
@@ -111,7 +53,7 @@ BEGIN:VEVENT
 SUMMARY:Beyond the Brewhouse Tour
 DTSTART;VALUE=DATE:20260515
 DTEND;VALUE=DATE:20260516
-DTSTAMP:20260910T143744Z
+DTSTAMP:20260911T143648Z
 UID:acc9d8e1d1bdab34c6766b602473@visitri-calendar
 DESCRIPTION:Beyond the Brewhouse Where: Newport Craft Brewing and Distilli
  ng\, 293 JT Connell Road\, Newport 45 minutes: $20 per person Did you know
@@ -130,7 +72,7 @@ BEGIN:VEVENT
 SUMMARY:$15 Moonshine Flights & Moonshine Tasting
 DTSTART;VALUE=DATE:20260721
 DTEND;VALUE=DATE:20260722
-DTSTAMP:20260910T143744Z
+DTSTAMP:20260911T143648Z
 UID:6ac059c408c431eceb1c3c855c19@visitri-calendar
 DESCRIPTION:Try a Moonshine Flight tasting at Moonshine Alley! Moonshine F
  lights are available daily for just $15! We have over 13 flavors to choose
@@ -146,7 +88,7 @@ BEGIN:VEVENT
 SUMMARY:Deja Vieux Vintage Shopping Bus Tour Adventure - October 4th
 DTSTART;VALUE=DATE:20260817
 DTEND;VALUE=DATE:20260818
-DTSTAMP:20260910T143744Z
+DTSTAMP:20260911T143648Z
 UID:912e503a9012deae13b33d1d0a85@visitri-calendar
 DESCRIPTION:⭐Hop Aboard Rhode Island’s First - Ever Vintage Shops Bus 
  Tour!⭐ We invite you to join us at Deja Vieux Vintage for a uniquely cur
@@ -180,7 +122,7 @@ BEGIN:VEVENT
 SUMMARY:Burritos & Bowls—Lunch Specials at Yellow Door Taqueria!
 DTSTART;VALUE=DATE:20260826
 DTEND;VALUE=DATE:20260827
-DTSTAMP:20260910T143744Z
+DTSTAMP:20260911T143648Z
 UID:cd9e59bf1148392bbbdd7c30628e@visitri-calendar
 DESCRIPTION:Our new Burrito &amp\; Bowl lunch specials have arrived at Yel
  low Door Taqueria in downtown Providence! Perfect for dining in or taking 
@@ -195,40 +137,37 @@ URL:https://www.visitrhodeisland.com/event/burritos-%26-bowls%e2%80%94lunc
  h-specials-at-yellow-door-taqueria!/111544/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Federal Hill Dinner Stroll
+SUMMARY:Date Night Glassblowing-BYOB
 DTSTART;VALUE=DATE:20260904
 DTEND;VALUE=DATE:20260905
-DTSTAMP:20260910T143744Z
-UID:1ba0809acb5925117d6bfead8fd2@visitri-calendar
-DESCRIPTION:A Guided Italian Dinner Experience Unwind after a long day wit
- h the Federal Hill Dinner Stroll—a decadent evening walk through Provide
- nce’s legendary Little Italy\, guided by a warm and knowledgeable host. 
- This immersive\, multi-course dining experience replaces the usual restaur
- ant routine with a handpicked lineup of top-tier small plates and drinks f
- rom some of the Hill’s most iconic spots. From seafood to house-made pas
- tas and cheeses to unforgettable desserts\, every stop is a celebration of
-  one of the best culinary neighborhoods in New England. Food\, tax\, and t
- ip are all included\, so all you’ll need to think about is what to sip a
- long the way. As the streets glow under string lights and the smell of fre
- sh bread fills the air\, you’ll be treated to an evening that’s equal 
- parts indulgent and effortless. Your dedicated host is there just for your
-  group—welcoming you at each stop\, handling every detail\, and making s
- ure you feel taken care of from the first bite to the last. With bold flav
- ors\, rich traditions\, and the warm hum of the neighborhood around you\, 
- it’s more than just dinner\; it’s a chance to step into the rhythm of 
- a place where food is a way of life.\n\nSource: https://www.visitrhodeisla
- nd.com/event/federal-hill-dinner-stroll/106097/
-LOCATION:Cassarino's Ristorante\, 177 Atwells Avenue\, Providence\, RI 029
- 03
-URL:https://www.visitrhodeisland.com/event/federal-hill-dinner-stroll/1060
- 97/
+DTSTAMP:20260911T143648Z
+UID:15d4d794b12dc3b06d2a6bb05f71@visitri-calendar
+DESCRIPTION:The price is for ONE person. If booking for a couple\, please 
+ order two spots. Bring your sweetie and learn how to make your own drinkin
+ g glass during this two-hour class. Enjoy a casual atmosphere. Students ar
+ e welcome to bring their own refreshments and snacks to enjoy while you le
+ arn the basics of blowing glass. Each participant will make a glass that y
+ ou can bring home and enjoy forever! Your beautiful creations will be read
+ y to pick up 48 hours after your class so the glass can be annealed in our
+  kilns. This class will have up to 8 people with each person getting a one
+ -on-one turn to make something in glass that they can keep. While waiting 
+ for your turn\, we encourage guests to watch and learn while the other stu
+ dents take their turn. Participation and teamwork are also encouraged. All
+  finished products can be picked up after 2 days once they finish annealin
+ g in our kilns. If you would like your items shipped\, we charge a $20 fee
+  that can be paid at that time.\n\nSource: https://www.visitrhodeisland.co
+ m/event/date-night-glassblowing-byob/111087/
+LOCATION:Blackstone River Glass Center\, 30 Meeting Street\, Cumberland\, 
+ RI 02864
+URL:https://www.visitrhodeisland.com/event/date-night-glassblowing-byob/11
+ 1087/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:"Skyward:" Anne Patterson & James Teschner
-DTSTART;VALUE=DATE:20260910
-DTEND;VALUE=DATE:20260911
-DTSTAMP:20260910T143744Z
-UID:88e7c16f48c837beda3df58e23bb@visitri-calendar
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260912
+DTSTAMP:20260911T143648Z
+UID:9b31d6854c25fbc972764d5d9b11@visitri-calendar
 DESCRIPTION:"Skyward:" Anne Patterson &amp\; James Teschner Exhibition Dat
  es: September 5- October 3\, 2026 Opening Reception: Saturday September 5
  \, 2026\, 5:00- 7:00 PM "Skyward:" Anne Patterson &amp\; James Teschner Je
@@ -262,68 +201,42 @@ URL:https://www.visitrhodeisland.com/event/skyward%3a-anne-patterson-%26-j
  ames-teschner/111508/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Early Bird Museum Highlight Tour at Newport Car Museum
-DTSTART;VALUE=DATE:20260910
-DTEND;VALUE=DATE:20260911
-DTSTAMP:20260910T143744Z
-UID:90398082bb2827d382c2ba9a33e9@visitri-calendar
-DESCRIPTION:Early Bird Highlight Tour For 90 minutes (8:30 &#8211\; 10:00 
- AM) prior to Museum opening. Call to book: +1 (401) 848-2277 Price $75.00 
- per person (minimum 2\, maximum 6 ppl) Offered Wednesday\, Thursday\, and 
- Saturday only April 1 - December 31\, 2026. General admission is included 
- with price. 72-hour advance notice is suggested. Only one group will be ho
- sted on any given morning. This is your chance to have the Newport Car Mus
- eum all to yourself with a private guide to share with you the not-to-miss
-  highlights in seven expansive galleries. With over 100 iconic\, rare and 
- exotic cars on display at one time\, this private collection is bursting w
- ith history\, provenance and color\, not to mention the breathtaking sculp
- tural beauty of automotive designs starting with the 1950s and finishing w
- ith new models from the 21 st Century. After 90 minutes with your private
- \, continue to explore at your own pace so that you can further examine yo
- ur favorites from the Ford/Shelby\, Corvette\, World Car\, Porsche\, Fin C
- ar\, American Muscle and Mopar exhibits while enjoying immersive videos\, 
- artwork and the Museum’s eclectic collection of Mid-Century Modern Furni
- ture.\n\nSource: https://www.visitrhodeisland.com/event/early-bird-museum-
- highlight-tour-at-newport-car-museum/109638/
-LOCATION:Newport Car Museum\, Enter at Light 1947 West Main Road\, Portsmo
- uth\, RI 02871
-URL:https://www.visitrhodeisland.com/event/early-bird-museum-highlight-tou
- r-at-newport-car-museum/109638/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Early Bird Museum Highlight Tour at Newport Car Museum
-DTSTART;VALUE=DATE:20260912
-DTEND;VALUE=DATE:20260913
-DTSTAMP:20260910T143744Z
-UID:e8e628ea60210ffedfb27ad88dbd@visitri-calendar
-DESCRIPTION:Early Bird Highlight Tour For 90 minutes (8:30 &#8211\; 10:00 
- AM) prior to Museum opening. Call to book: +1 (401) 848-2277 Price $75.00 
- per person (minimum 2\, maximum 6 ppl) Offered Wednesday\, Thursday\, and 
- Saturday only April 1 - December 31\, 2026. General admission is included 
- with price. 72-hour advance notice is suggested. Only one group will be ho
- sted on any given morning. This is your chance to have the Newport Car Mus
- eum all to yourself with a private guide to share with you the not-to-miss
-  highlights in seven expansive galleries. With over 100 iconic\, rare and 
- exotic cars on display at one time\, this private collection is bursting w
- ith history\, provenance and color\, not to mention the breathtaking sculp
- tural beauty of automotive designs starting with the 1950s and finishing w
- ith new models from the 21 st Century. After 90 minutes with your private
- \, continue to explore at your own pace so that you can further examine yo
- ur favorites from the Ford/Shelby\, Corvette\, World Car\, Porsche\, Fin C
- ar\, American Muscle and Mopar exhibits while enjoying immersive videos\, 
- artwork and the Museum’s eclectic collection of Mid-Century Modern Furni
- ture.\n\nSource: https://www.visitrhodeisland.com/event/early-bird-museum-
- highlight-tour-at-newport-car-museum/109638/
-LOCATION:Newport Car Museum\, Enter at Light 1947 West Main Road\, Portsmo
- uth\, RI 02871
-URL:https://www.visitrhodeisland.com/event/early-bird-museum-highlight-tou
- r-at-newport-car-museum/109638/
+SUMMARY:20th Annual Doris Duke Historic Preservation Awards
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260912
+DTSTAMP:20260911T143648Z
+UID:f825a6ecbb99e41290a1b1c6f030@visitri-calendar
+DESCRIPTION:20th Annual Doris Duke Historic Preservation Awards When: Frid
+ ay\, September 11th from 5:30 to 8:30 PM Join us to celebrate excellence a
+ nd innovation in historic preservation! The annual Doris Duke Preservation
+  Awards\, a joint program of the Newport Restoration Foundation and the Ci
+ ty of Newport\, encourages excellence in historic preservation by recogniz
+ ing exemplary projects that carry forward the legacy of Doris Duke and hav
+ e had a significant impact on the preservation of the cultural and histori
+ c fabric of Newport\, Jamestown\, Middletown\, and Portsmouth. The 2026 Pr
+ esident’s Award will honor Tom Perkins\, for his lifetime achievement in
+  historic preservation. This year we are honoring: Miramar (1912)\, Newpor
+ t\, RI &#8211\; Award for Excellence in Historic Preservation The Sproutin
+ g Rock Beach Association Historic Clubhouse (ca.1939)\, Newport\, RI- Awar
+ d for Resiliency Event details: The Doris Duke Historic Preservation Award
+ s will take place at Rough Point located at 680 Bellevue Avenue in Newport
+ . Complimentary valet parking will be available. Doors to Rough Point will
+  open at 5:30 PM with the Awards ceremony beginning at 6:30 PM. Guests wil
+ l enjoy cocktails\, passed and stationed foods\, both before and after the
+  ceremony. Sponsorship information: Help sustain historic preservation in 
+ Newport County by becoming a sponsor! Each level of sponsorship includes e
+ xclusive opportunities and perks like event tickets with VIP access\, spec
+ ial recognition and more.\n\nSource: https://www.visitrhodeisland.com/even
+ t/20th-annual-doris-duke-historic-preservation-awards/110889/
+LOCATION:Rough Point\, 680 Bellevue Avenue\, Newport\, RI 02840
+URL:https://www.visitrhodeisland.com/event/20th-annual-doris-duke-historic
+ -preservation-awards/110889/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Rhode Island SeaFood Festival 2026
 DTSTART;VALUE=DATE:20260912
 DTEND;VALUE=DATE:20260913
-DTSTAMP:20260910T143744Z
+DTSTAMP:20260911T143648Z
 UID:7155b8a7bea276dc2235b2424899@visitri-calendar
 DESCRIPTION:Join us for the 16th annual Rhode Island Seafood Festival\, a 
  two-day extravaganza of the Ocean State’s best seafood\, live music and 
@@ -362,7 +275,7 @@ BEGIN:VEVENT
 SUMMARY:Rhode Island SeaFood Festival 2026
 DTSTART;VALUE=DATE:20260913
 DTEND;VALUE=DATE:20260914
-DTSTAMP:20260910T143744Z
+DTSTAMP:20260911T143648Z
 UID:724318b2396062bf2de4c6176658@visitri-calendar
 DESCRIPTION:Join us for the 16th annual Rhode Island Seafood Festival\, a 
  two-day extravaganza of the Ocean State’s best seafood\, live music and 
@@ -401,7 +314,7 @@ BEGIN:VEVENT
 SUMMARY:PVDFest 2026
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260919
-DTSTAMP:20260910T143744Z
+DTSTAMP:20260911T143648Z
 UID:2de49afd8f722627b9a1f5e00bb1@visitri-calendar
 DESCRIPTION:The People’s Festival for Arts\, Music\, and Culture Mayor B
  rett P. Smiley\, the City’s Department of Art\, Culture\, Tourism and Pr
@@ -420,7 +333,7 @@ BEGIN:VEVENT
 SUMMARY:Food Truck Concert Nights - Diamond Hill Park
 DTSTART;VALUE=DATE:20260919
 DTEND;VALUE=DATE:20260920
-DTSTAMP:20260910T143744Z
+DTSTAMP:20260911T143648Z
 UID:c61110f0d2ee251ab02333bed717@visitri-calendar
 DESCRIPTION:We return to Diamond Hill Park in Cumberland for another serie
  s of memorable events in 2026. Attendance is free\, just pay for what you 
@@ -448,7 +361,7 @@ BEGIN:VEVENT
 SUMMARY:PVDFest 2026
 DTSTART;VALUE=DATE:20260919
 DTEND;VALUE=DATE:20260920
-DTSTAMP:20260910T143744Z
+DTSTAMP:20260911T143648Z
 UID:553bda94539f69469073803099fb@visitri-calendar
 DESCRIPTION:The People’s Festival for Arts\, Music\, and Culture Mayor B
  rett P. Smiley\, the City’s Department of Art\, Culture\, Tourism and Pr
@@ -464,10 +377,36 @@ LOCATION:Downtown Providence\, Downtown Providence\, Providence\, RI 02903
 URL:https://www.visitrhodeisland.com/event/pvdfest-2026/104917/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Date Night Glassblowing-BYOB
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+DTSTAMP:20260911T143648Z
+UID:0a17e4fda7e8c588f98d99d860e5@visitri-calendar
+DESCRIPTION:The price is for ONE person. If booking for a couple\, please 
+ order two spots. Bring your sweetie and learn how to make your own drinkin
+ g glass during this two-hour class. Enjoy a casual atmosphere. Students ar
+ e welcome to bring their own refreshments and snacks to enjoy while you le
+ arn the basics of blowing glass. Each participant will make a glass that y
+ ou can bring home and enjoy forever! Your beautiful creations will be read
+ y to pick up 48 hours after your class so the glass can be annealed in our
+  kilns. This class will have up to 8 people with each person getting a one
+ -on-one turn to make something in glass that they can keep. While waiting 
+ for your turn\, we encourage guests to watch and learn while the other stu
+ dents take their turn. Participation and teamwork are also encouraged. All
+  finished products can be picked up after 2 days once they finish annealin
+ g in our kilns. If you would like your items shipped\, we charge a $20 fee
+  that can be paid at that time.\n\nSource: https://www.visitrhodeisland.co
+ m/event/date-night-glassblowing-byob/111087/
+LOCATION:Blackstone River Glass Center\, 30 Meeting Street\, Cumberland\, 
+ RI 02864
+URL:https://www.visitrhodeisland.com/event/date-night-glassblowing-byob/11
+ 1087/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Jack-O-Lantern Spectacular
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
-DTSTAMP:20260910T143744Z
+DTSTAMP:20260911T143648Z
 UID:a11cb847b167f6db3762e7d7aba4@visitri-calendar
 DESCRIPTION:Jack-O-Lantern Spectacular: The Great Pun-Kin Trail\, presente
  d by Citizens\, returns October 1 &#8211\; November 1 with an all-new trai
@@ -492,7 +431,7 @@ BEGIN:VEVENT
 SUMMARY:Deja Vieux Vintage Shopping Bus Tour Adventure - October 4th
 DTSTART;VALUE=DATE:20261005
 DTEND;VALUE=DATE:20261006
-DTSTAMP:20260910T143744Z
+DTSTAMP:20260911T143648Z
 UID:5fe8cdac575b282879f35adb305f@visitri-calendar
 DESCRIPTION:⭐Hop Aboard Rhode Island’s First - Ever Vintage Shops Bus 
  Tour!⭐ We invite you to join us at Deja Vieux Vintage for a uniquely cur
@@ -526,7 +465,7 @@ BEGIN:VEVENT
 SUMMARY:Live Music by Logan Vale
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261018
-DTSTAMP:20260910T143744Z
+DTSTAMP:20260911T143648Z
 UID:2241186137b505cf7c814cd90b60@visitri-calendar
 DESCRIPTION:The music of Logan Vale! Dinner reservations required either o
  nline or call 401.861.3850 x. 3\n\nSource: https://www.visitrhodeisland.co
@@ -540,7 +479,7 @@ BEGIN:VEVENT
 SUMMARY:Coastal Cruisers - The Golden Hour
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
-DTSTAMP:20260910T143744Z
+DTSTAMP:20260911T143648Z
 UID:a33f7731698b5451e05ba44e42fd@visitri-calendar
 DESCRIPTION:Experience the Island in our Coastal Cruisers\, Newport’s pr
  ivate chauffeured luxury tour\, dedicated to providing a sophisticated way
@@ -570,7 +509,7 @@ BEGIN:VEVENT
 SUMMARY:Jack-O-Lantern Spectacular
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
-DTSTAMP:20260910T143744Z
+DTSTAMP:20260911T143648Z
 UID:ddc52d2e1f830141a3c1c36cbc2b@visitri-calendar
 DESCRIPTION:Jack-O-Lantern Spectacular: The Great Pun-Kin Trail\, presente
  d by Citizens\, returns October 1 &#8211\; November 1 with an all-new trai
@@ -595,7 +534,7 @@ BEGIN:VEVENT
 SUMMARY:Beyond the Brewhouse Tour
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
-DTSTAMP:20260910T143744Z
+DTSTAMP:20260911T143648Z
 UID:c7b48636db9ede5f5acbbb263d31@visitri-calendar
 DESCRIPTION:Beyond the Brewhouse Where: Newport Craft Brewing and Distilli
  ng\, 293 JT Connell Road\, Newport 45 minutes: $20 per person Did you know
@@ -614,7 +553,7 @@ BEGIN:VEVENT
 SUMMARY:Burritos & Bowls—Lunch Specials at Yellow Door Taqueria!
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
-DTSTAMP:20260910T143744Z
+DTSTAMP:20260911T143648Z
 UID:a47385cf36c194bcd701d4733276@visitri-calendar
 DESCRIPTION:Our new Burrito &amp\; Bowl lunch specials have arrived at Yel
  low Door Taqueria in downtown Providence! Perfect for dining in or taking 
@@ -627,34 +566,5 @@ LOCATION:Yellow Door Taqueria\, 191 Dorrance Street\, Providence\, RI 0290
  3
 URL:https://www.visitrhodeisland.com/event/burritos-%26-bowls%e2%80%94lunc
  h-specials-at-yellow-door-taqueria!/111544/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Early Bird Museum Highlight Tour at Newport Car Museum
-DTSTART;VALUE=DATE:20261231
-DTEND;VALUE=DATE:20270101
-DTSTAMP:20260910T143744Z
-UID:2f06cece69080ebb1042b1f38a6b@visitri-calendar
-DESCRIPTION:Early Bird Highlight Tour For 90 minutes (8:30 &#8211\; 10:00 
- AM) prior to Museum opening. Call to book: +1 (401) 848-2277 Price $75.00 
- per person (minimum 2\, maximum 6 ppl) Offered Wednesday\, Thursday\, and 
- Saturday only April 1 - December 31\, 2026. General admission is included 
- with price. 72-hour advance notice is suggested. Only one group will be ho
- sted on any given morning. This is your chance to have the Newport Car Mus
- eum all to yourself with a private guide to share with you the not-to-miss
-  highlights in seven expansive galleries. With over 100 iconic\, rare and 
- exotic cars on display at one time\, this private collection is bursting w
- ith history\, provenance and color\, not to mention the breathtaking sculp
- tural beauty of automotive designs starting with the 1950s and finishing w
- ith new models from the 21 st Century. After 90 minutes with your private
- \, continue to explore at your own pace so that you can further examine yo
- ur favorites from the Ford/Shelby\, Corvette\, World Car\, Porsche\, Fin C
- ar\, American Muscle and Mopar exhibits while enjoying immersive videos\, 
- artwork and the Museum’s eclectic collection of Mid-Century Modern Furni
- ture.\n\nSource: https://www.visitrhodeisland.com/event/early-bird-museum-
- highlight-tour-at-newport-car-museum/109638/
-LOCATION:Newport Car Museum\, Enter at Light 1947 West Main Road\, Portsmo
- uth\, RI 02871
-URL:https://www.visitrhodeisland.com/event/early-bird-museum-highlight-tou
- r-at-newport-car-museum/109638/
 END:VEVENT
 END:VCALENDAR
