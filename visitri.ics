@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:$15 Moonshine Flights & Moonshine Tasting
 DTSTART;VALUE=DATE:20250615
 DTEND;VALUE=DATE:20250616
-DTSTAMP:20260916T150930Z
+DTSTAMP:20260917T151750Z
 UID:b6432d870f2c0958f26453a40d59@visitri-calendar
 DESCRIPTION:Try a Moonshine Flight tasting at Moonshine Alley! Moonshine F
  lights are available daily for just $15! We have over 13 flavors to choose
@@ -20,40 +20,10 @@ URL:https://www.visitrhodeisland.com/event/%2415-moonshine-flights-%26-moo
  nshine-tasting/105663/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Coastal Cruisers - The Golden Hour
-DTSTART;VALUE=DATE:20260501
-DTEND;VALUE=DATE:20260502
-DTSTAMP:20260916T150930Z
-UID:9f3864060ce7679e35293700f37c@visitri-calendar
-DESCRIPTION:Experience the Island in our Coastal Cruisers\, Newport’s pr
- ivate chauffeured luxury tour\, dedicated to providing a sophisticated way
-  to experience our beloved island. We blend elegance\, fun &amp\; storytel
- ling into a bespoke tour of Newport. For us\, it is about fostering experi
- ences that create lasting memorable moments. From chasing golden sunsets t
- o experiencing salty-breeze adventures\, Coastal Cruisers treats every tou
- r as an opportunity to provide exceptional service &amp\; a personal conne
- ction that lasts well beyond the journey. Offer 3 tour options and hourly 
- bookings. Tour Option: The Golden Hour A private\, bespoke guided excursio
- n designed to highlight Newport's most magnificent sunset vistas. This dis
- tinctive experience is meticulously orchestrated\, ensuring optimal positi
- oning at prime viewing locations for capturing striking photographs &amp\;
-  securing a truly memorable occasion. Your experienced guide will navigate
-  picturesque coastal thoroughfares and Newport's charming bridge view neig
- hborhoods\, making stops at both lesser-known vantage points &amp\; renown
- ed landmarks celebrated for their exceptional 'golden hour' illumination &
- amp\; sweeping ocean panoramas. 7:00 PM Tour (75 minutes) $150 per person 
- Available: Daily\, May 1 - December 31\, 2026 (Unavailable May 23 and May 
- 31)\n\nSource: https://www.visitrhodeisland.com/event/coastal-cruisers-the
- -golden-hour/109827/
-LOCATION:Coastal Cruisers\, 478 Thames Street\, Newport\, RI 02840
-URL:https://www.visitrhodeisland.com/event/coastal-cruisers-the-golden-hou
- r/109827/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Beyond the Brewhouse Tour
 DTSTART;VALUE=DATE:20260515
 DTEND;VALUE=DATE:20260516
-DTSTAMP:20260916T150930Z
+DTSTAMP:20260917T151750Z
 UID:acc9d8e1d1bdab34c6766b602473@visitri-calendar
 DESCRIPTION:Beyond the Brewhouse Where: Newport Craft Brewing and Distilli
  ng\, 293 JT Connell Road\, Newport 45 minutes: $20 per person Did you know
@@ -72,7 +42,7 @@ BEGIN:VEVENT
 SUMMARY:$15 Moonshine Flights & Moonshine Tasting
 DTSTART;VALUE=DATE:20260721
 DTEND;VALUE=DATE:20260722
-DTSTAMP:20260916T150930Z
+DTSTAMP:20260917T151750Z
 UID:6ac059c408c431eceb1c3c855c19@visitri-calendar
 DESCRIPTION:Try a Moonshine Flight tasting at Moonshine Alley! Moonshine F
  lights are available daily for just $15! We have over 13 flavors to choose
@@ -88,7 +58,7 @@ BEGIN:VEVENT
 SUMMARY:Burritos & Bowls—Lunch Specials at Yellow Door Taqueria!
 DTSTART;VALUE=DATE:20260826
 DTEND;VALUE=DATE:20260827
-DTSTAMP:20260916T150930Z
+DTSTAMP:20260917T151750Z
 UID:cd9e59bf1148392bbbdd7c30628e@visitri-calendar
 DESCRIPTION:Our new Burrito &amp\; Bowl lunch specials have arrived at Yel
  low Door Taqueria in downtown Providence! Perfect for dining in or taking 
@@ -106,7 +76,7 @@ BEGIN:VEVENT
 SUMMARY:"Nocturnes" Exhibit at Spring Bull Gallery
 DTSTART;VALUE=DATE:20260913
 DTEND;VALUE=DATE:20260914
-DTSTAMP:20260916T150930Z
+DTSTAMP:20260917T151750Z
 UID:b3a6362c63e2fad1624808d0342f@visitri-calendar
 DESCRIPTION:"Nocturnes" An Art Exhibit at Spring Bull Gallery When: Septem
  ber 19 - October 25\, 2026 from 12:00 to 5:00 PM Opening Reception: Sunday
@@ -126,10 +96,10 @@ URL:https://www.visitrhodeisland.com/event/nocturnes-exhibit-at-spring-bul
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:"Skyward:" Anne Patterson & James Teschner
-DTSTART;VALUE=DATE:20260916
-DTEND;VALUE=DATE:20260917
-DTSTAMP:20260916T150930Z
-UID:e958c5bbee66877b956777593975@visitri-calendar
+DTSTART;VALUE=DATE:20260917
+DTEND;VALUE=DATE:20260918
+DTSTAMP:20260917T151750Z
+UID:0bf6ac7becc17b4dff21f5311368@visitri-calendar
 DESCRIPTION:"Skyward:" Anne Patterson &amp\; James Teschner Exhibition Dat
  es: September 5- October 3\, 2026 Opening Reception: Saturday September 5
  \, 2026\, 5:00- 7:00 PM "Skyward:" Anne Patterson &amp\; James Teschner Je
@@ -163,11 +133,96 @@ URL:https://www.visitrhodeisland.com/event/skyward%3a-anne-patterson-%26-j
  ames-teschner/111508/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:'Museum Reads' Book Club at Newport Art Museum
+DTSTART;VALUE=DATE:20260917
+DTEND;VALUE=DATE:20260918
+DTSTAMP:20260917T151750Z
+UID:cfcc48277024643de786644f6ed3@visitri-calendar
+DESCRIPTION:Welcome to Museum Reads\, the Newport Art Museum’s Art-Theme
+ d book group for adults! Are you looking to learn more about art and artis
+ ts\, or enjoy digging into some of the issues present in our current exhib
+ itions? Then this friendly discussion group is for you. We meet monthly on
+  the third Thursday at 12:00 PM\, in person and virtually. Join us virtual
+ ly from the office for an invigorating lunch break or enjoy an hour of ins
+ piration during a wee one’s nap time or find us in the gallery for in-pe
+ rson conversation. Upcoming Dates: April 16 - Stand and Gus: Art\, Ardor\,
+  and the Friendship That Built the Gilded Age May 14 - Murder at Arleigh J
+ une 18 - Surreal: The Extraordinary Life of Gala Dali July 16 - Jamestown:
+  Architecture\, Landscape\, and the Making of a Rhode Paradise August 20 -
+  A Month in Siena September 17 - Mary Cassatt between Paris and New York: 
+ The Making of a Transatlantic Legacy October 15 - Winslow Homer: American 
+ Passage Museum Reads is free for Members\, and $5 for yet-to-be Members. B
+ e sure to register online to receive email updates and Zoom links. For las
+ t minute registrations\, please call the front desk for the Zoom link at 4
+ 01-848-8200.\n\nSource: https://www.visitrhodeisland.com/event/museum-read
+ s-book-club-at-newport-art-museum/109609/
+LOCATION:Newport Art Museum\, 76 Bellevue Avenue\, Newport\, RI 02840
+URL:https://www.visitrhodeisland.com/event/museum-reads-book-club-at-newpo
+ rt-art-museum/109609/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Americana Party at Folklore Provisions
+DTSTART;VALUE=DATE:20260917
+DTEND;VALUE=DATE:20260918
+DTSTAMP:20260917T151750Z
+UID:ac0ed248bcac9a35abacc4bcb71e@visitri-calendar
+DESCRIPTION:A Dolly Parton Inspired... Americana Party: A Night to Remembe
+ r for a Cause We Love. When: Thursday\, September 17th from 6:00 to 8:00 P
+ M Where: Alayne White's Garden\, 11 Constitution Street\, Bristol Join us 
+ for a Dolly Parton Inspired Americana Party at Alayne's Garden on Thursday
+ \, September 17th from 6:00 to 8:00 PM for a night filled with good music
+ \, dancing\, delicious appetizers\, and a raffle with great prizes - all t
+ o support the Bristol Porchfest. For $65 per person\, enjoy a special Livi
+ ng Room Session in the Garden\, featuring Michelle Saylors performing as p
+ art of a beautiful Folklore x Alayne White collaboration\, along with mini
+  spa experiences from Alayne White and plenty of Americana-inspired fun. I
+ t's all in support of Bristol Porchfest\, so grab your friends\, put on yo
+ ur best Americana/Dolly-inspired look\, and come spend a night celebrating
+  music\, community\, and a great cause. Tickets available at FolkloreProvi
+ sions.com.\n\nSource: https://www.visitrhodeisland.com/event/americana-par
+ ty-at-folklore-provisions/111748/
+LOCATION:Alayne White's Garden (Address upon Ticket Purchase)\, 11 Constit
+ ution Street\, Bristol\, RI 02809 Time: 6:00 PM to 8:00 PM
+URL:https://www.visitrhodeisland.com/event/americana-party-at-folklore-pro
+ visions/111748/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:An Evening with Celtic Thunder
+DTSTART;VALUE=DATE:20260917
+DTEND;VALUE=DATE:20260918
+DTSTAMP:20260917T151750Z
+UID:661ac2818b31a2ac2a4773483bf1@visitri-calendar
+DESCRIPTION:Celtic Thunder will perform at the Uptown Theater in Providenc
+ e on Thursday\, September 17\, 2026. The show is part of their "An Evening
+  with Celtic Thunder" tour\, which features a blend of traditional Irish b
+ allads\, contemporary hits\, and theatrical anthems.\n\nSource: https://ww
+ w.visitrhodeisland.com/event/an-evening-with-celtic-thunder/109529/
+LOCATION:Uptown Theater\, 270 Broadway\, Providence\, RI 02903 Time: 7:30 
+ PM 270 Broadway\, Providence\, RI 02903 OFFICIAL RHODE ISLAND TRAVEL GUIDE
+  Get Guide Get news from Visit Rhode Island in your inbox. Industry Partne
+ r Leisure Travel Sign Up Ratings Powered by Press Industry Travel Trade Me
+ etings & Conventions Contact Privacy Policy Sitemap Partner Portal SMS Pri
+ vacy Policy SMS Terms & Conditions UGC Terms and Conditions Wedding Planni
+ ng Press Photos Story Ideas Fun-Sized Rhode Island Rhode Island in the New
+ s Free Travel Guide Contact Visit Rhode Island Industry Travel Trade Ideas
+  & Itineraries Downton Abbey Lifestyle Rhode Island Foodways Hidden Gems I
+ mage Library Free Travel Guide Contact Visit Rhode Island Meetings & Conve
+ ntions Contact Privacy Policy Sitemap Partner Portal SMS Privacy Policy SM
+ S Terms & Conditions UGC Terms and Conditions Wedding Planning Weddings - 
+ Venues Wedding - Catering Wedding - Cakes Wedding - Attire Wedding - Flori
+ sts Wedding - Jewelers Wedding - Transportation © 2026 Rhode Island Comme
+ rce Corporation Special Offers Offers Here Looking to plan your next visit
+  to Rhode Island\, check out some of the current special offers and enjoy 
+ savings\, extra perks and more! Offers Here
+URL:https://www.visitrhodeisland.com/event/an-evening-with-celtic-thunder/
+ 109529/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Annual Harvest Festival at Newport Vineyards
-DTSTART;VALUE=DATE:20260916
-DTEND;VALUE=DATE:20260917
-DTSTAMP:20260916T150930Z
-UID:9a9f0b0985929aeb67a166168bd6@visitri-calendar
+DTSTART;VALUE=DATE:20260917
+DTEND;VALUE=DATE:20260918
+DTSTAMP:20260917T151750Z
+UID:56a5535eab96c4afed0abef98b3c@visitri-calendar
 DESCRIPTION:Celebrate the 9 th Annual Harvest Festival with Newport Vineya
  rds! When: Sunday\, October 25th More details to be announced! General Adm
  ission and Non-Tasting Admission Tickets will be available\n\nSource: http
@@ -179,40 +234,10 @@ URL:https://www.visitrhodeisland.com/event/annual-harvest-festival-at-newp
  ort-vineyards/111769/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Class of 2026 National Sailing Hall of Fame Induction
-DTSTART;VALUE=DATE:20260916
-DTEND;VALUE=DATE:20260917
-DTSTAMP:20260916T150930Z
-UID:95762684f75aaa3705ac37543c18@visitri-calendar
-DESCRIPTION:Save the Date! National Sailing Hall of Fame Induction Ceremon
- y and 16th Anniversary: September 16-17\, 2026 Learn more on the National 
- Sailing Hall of Fame website.\n\nSource: https://www.visitrhodeisland.com/
- event/class-of-2026-national-sailing-hall-of-fame-induction/109733/
-LOCATION:The Sailing Museum & New York Yacht Club\, 365 Thames Street\, Ne
- wport\, RI 02840
-URL:https://www.visitrhodeisland.com/event/class-of-2026-national-sailing-
- hall-of-fame-induction/109733/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Class of 2026 National Sailing Hall of Fame Induction
-DTSTART;VALUE=DATE:20260917
-DTEND;VALUE=DATE:20260918
-DTSTAMP:20260916T150930Z
-UID:70e08b367d667b8b3d95e0dedd5e@visitri-calendar
-DESCRIPTION:Save the Date! National Sailing Hall of Fame Induction Ceremon
- y and 16th Anniversary: September 16-17\, 2026 Learn more on the National 
- Sailing Hall of Fame website.\n\nSource: https://www.visitrhodeisland.com/
- event/class-of-2026-national-sailing-hall-of-fame-induction/109733/
-LOCATION:The Sailing Museum & New York Yacht Club\, 365 Thames Street\, Ne
- wport\, RI 02840
-URL:https://www.visitrhodeisland.com/event/class-of-2026-national-sailing-
- hall-of-fame-induction/109733/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:PVDFest 2026
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260919
-DTSTAMP:20260916T150930Z
+DTSTAMP:20260917T151750Z
 UID:2de49afd8f722627b9a1f5e00bb1@visitri-calendar
 DESCRIPTION:The People’s Festival for Arts\, Music\, and Culture Mayor B
  rett P. Smiley\, the City’s Department of Art\, Culture\, Tourism and Pr
@@ -231,7 +256,7 @@ BEGIN:VEVENT
 SUMMARY:Food Truck Concert Nights - Diamond Hill Park
 DTSTART;VALUE=DATE:20260919
 DTEND;VALUE=DATE:20260920
-DTSTAMP:20260916T150930Z
+DTSTAMP:20260917T151750Z
 UID:c61110f0d2ee251ab02333bed717@visitri-calendar
 DESCRIPTION:We return to Diamond Hill Park in Cumberland for another serie
  s of memorable events in 2026. Attendance is free\, just pay for what you 
@@ -259,7 +284,7 @@ BEGIN:VEVENT
 SUMMARY:PVDFest 2026
 DTSTART;VALUE=DATE:20260919
 DTEND;VALUE=DATE:20260920
-DTSTAMP:20260916T150930Z
+DTSTAMP:20260917T151750Z
 UID:553bda94539f69469073803099fb@visitri-calendar
 DESCRIPTION:The People’s Festival for Arts\, Music\, and Culture Mayor B
  rett P. Smiley\, the City’s Department of Art\, Culture\, Tourism and Pr
@@ -278,7 +303,7 @@ BEGIN:VEVENT
 SUMMARY:Jack-O-Lantern Spectacular
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
-DTSTAMP:20260916T150930Z
+DTSTAMP:20260917T151750Z
 UID:a11cb847b167f6db3762e7d7aba4@visitri-calendar
 DESCRIPTION:Jack-O-Lantern Spectacular: The Great Pun-Kin Trail\, presente
  d by Citizens\, returns October 1 &#8211\; November 1 with an all-new trai
@@ -300,10 +325,38 @@ URL:https://www.visitrhodeisland.com/event/jack-o-lantern-spectacular/9207
  1/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:'Museum Reads' Book Club at Newport Art Museum
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+DTSTAMP:20260917T151750Z
+UID:0e112d8566996b49aa9ede1c1065@visitri-calendar
+DESCRIPTION:Welcome to Museum Reads\, the Newport Art Museum’s Art-Theme
+ d book group for adults! Are you looking to learn more about art and artis
+ ts\, or enjoy digging into some of the issues present in our current exhib
+ itions? Then this friendly discussion group is for you. We meet monthly on
+  the third Thursday at 12:00 PM\, in person and virtually. Join us virtual
+ ly from the office for an invigorating lunch break or enjoy an hour of ins
+ piration during a wee one’s nap time or find us in the gallery for in-pe
+ rson conversation. Upcoming Dates: April 16 - Stand and Gus: Art\, Ardor\,
+  and the Friendship That Built the Gilded Age May 14 - Murder at Arleigh J
+ une 18 - Surreal: The Extraordinary Life of Gala Dali July 16 - Jamestown:
+  Architecture\, Landscape\, and the Making of a Rhode Paradise August 20 -
+  A Month in Siena September 17 - Mary Cassatt between Paris and New York: 
+ The Making of a Transatlantic Legacy October 15 - Winslow Homer: American 
+ Passage Museum Reads is free for Members\, and $5 for yet-to-be Members. B
+ e sure to register online to receive email updates and Zoom links. For las
+ t minute registrations\, please call the front desk for the Zoom link at 4
+ 01-848-8200.\n\nSource: https://www.visitrhodeisland.com/event/museum-read
+ s-book-club-at-newport-art-museum/109609/
+LOCATION:Newport Art Museum\, 76 Bellevue Avenue\, Newport\, RI 02840
+URL:https://www.visitrhodeisland.com/event/museum-reads-book-club-at-newpo
+ rt-art-museum/109609/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Live Music by Logan Vale
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261018
-DTSTAMP:20260916T150930Z
+DTSTAMP:20260917T151750Z
 UID:2241186137b505cf7c814cd90b60@visitri-calendar
 DESCRIPTION:The music of Logan Vale! Dinner reservations required either o
  nline or call 401.861.3850 x. 3\n\nSource: https://www.visitrhodeisland.co
@@ -317,7 +370,7 @@ BEGIN:VEVENT
 SUMMARY:"Nocturnes" Exhibit at Spring Bull Gallery
 DTSTART;VALUE=DATE:20261025
 DTEND;VALUE=DATE:20261026
-DTSTAMP:20260916T150930Z
+DTSTAMP:20260917T151750Z
 UID:945340681c00f5d79c305667c5c8@visitri-calendar
 DESCRIPTION:"Nocturnes" An Art Exhibit at Spring Bull Gallery When: Septem
  ber 19 - October 25\, 2026 from 12:00 to 5:00 PM Opening Reception: Sunday
@@ -339,7 +392,7 @@ BEGIN:VEVENT
 SUMMARY:Annual Harvest Festival at Newport Vineyards
 DTSTART;VALUE=DATE:20261025
 DTEND;VALUE=DATE:20261026
-DTSTAMP:20260916T150930Z
+DTSTAMP:20260917T151750Z
 UID:3f036be2c60a1a4587e7b53ef705@visitri-calendar
 DESCRIPTION:Celebrate the 9 th Annual Harvest Festival with Newport Vineya
  rds! When: Sunday\, October 25th More details to be announced! General Adm
@@ -352,40 +405,10 @@ URL:https://www.visitrhodeisland.com/event/annual-harvest-festival-at-newp
  ort-vineyards/111769/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Coastal Cruisers - The Golden Hour
-DTSTART;VALUE=DATE:20261031
-DTEND;VALUE=DATE:20261101
-DTSTAMP:20260916T150930Z
-UID:a33f7731698b5451e05ba44e42fd@visitri-calendar
-DESCRIPTION:Experience the Island in our Coastal Cruisers\, Newport’s pr
- ivate chauffeured luxury tour\, dedicated to providing a sophisticated way
-  to experience our beloved island. We blend elegance\, fun &amp\; storytel
- ling into a bespoke tour of Newport. For us\, it is about fostering experi
- ences that create lasting memorable moments. From chasing golden sunsets t
- o experiencing salty-breeze adventures\, Coastal Cruisers treats every tou
- r as an opportunity to provide exceptional service &amp\; a personal conne
- ction that lasts well beyond the journey. Offer 3 tour options and hourly 
- bookings. Tour Option: The Golden Hour A private\, bespoke guided excursio
- n designed to highlight Newport's most magnificent sunset vistas. This dis
- tinctive experience is meticulously orchestrated\, ensuring optimal positi
- oning at prime viewing locations for capturing striking photographs &amp\;
-  securing a truly memorable occasion. Your experienced guide will navigate
-  picturesque coastal thoroughfares and Newport's charming bridge view neig
- hborhoods\, making stops at both lesser-known vantage points &amp\; renown
- ed landmarks celebrated for their exceptional 'golden hour' illumination &
- amp\; sweeping ocean panoramas. 7:00 PM Tour (75 minutes) $150 per person 
- Available: Daily\, May 1 - December 31\, 2026 (Unavailable May 23 and May 
- 31)\n\nSource: https://www.visitrhodeisland.com/event/coastal-cruisers-the
- -golden-hour/109827/
-LOCATION:Coastal Cruisers\, 478 Thames Street\, Newport\, RI 02840
-URL:https://www.visitrhodeisland.com/event/coastal-cruisers-the-golden-hou
- r/109827/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Jack-O-Lantern Spectacular
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
-DTSTAMP:20260916T150930Z
+DTSTAMP:20260917T151750Z
 UID:ddc52d2e1f830141a3c1c36cbc2b@visitri-calendar
 DESCRIPTION:Jack-O-Lantern Spectacular: The Great Pun-Kin Trail\, presente
  d by Citizens\, returns October 1 &#8211\; November 1 with an all-new trai
@@ -410,7 +433,7 @@ BEGIN:VEVENT
 SUMMARY:Beyond the Brewhouse Tour
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
-DTSTAMP:20260916T150930Z
+DTSTAMP:20260917T151750Z
 UID:c7b48636db9ede5f5acbbb263d31@visitri-calendar
 DESCRIPTION:Beyond the Brewhouse Where: Newport Craft Brewing and Distilli
  ng\, 293 JT Connell Road\, Newport 45 minutes: $20 per person Did you know
@@ -429,7 +452,7 @@ BEGIN:VEVENT
 SUMMARY:Burritos & Bowls—Lunch Specials at Yellow Door Taqueria!
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
-DTSTAMP:20260916T150930Z
+DTSTAMP:20260917T151750Z
 UID:a47385cf36c194bcd701d4733276@visitri-calendar
 DESCRIPTION:Our new Burrito &amp\; Bowl lunch specials have arrived at Yel
  low Door Taqueria in downtown Providence! Perfect for dining in or taking 
