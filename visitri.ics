@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:$15 Moonshine Flights & Moonshine Tasting
 DTSTART;VALUE=DATE:20250615
 DTEND;VALUE=DATE:20250616
-DTSTAMP:20260918T143827Z
+DTSTAMP:20260919T135926Z
 UID:b6432d870f2c0958f26453a40d59@visitri-calendar
 DESCRIPTION:Try a Moonshine Flight tasting at Moonshine Alley! Moonshine F
  lights are available daily for just $15! We have over 13 flavors to choose
@@ -23,7 +23,7 @@ BEGIN:VEVENT
 SUMMARY:Beyond the Brewhouse Tour
 DTSTART;VALUE=DATE:20260515
 DTEND;VALUE=DATE:20260516
-DTSTAMP:20260918T143827Z
+DTSTAMP:20260919T135926Z
 UID:acc9d8e1d1bdab34c6766b602473@visitri-calendar
 DESCRIPTION:Beyond the Brewhouse Where: Newport Craft Brewing and Distilli
  ng\, 293 JT Connell Road\, Newport 45 minutes: $20 per person Did you know
@@ -42,7 +42,7 @@ BEGIN:VEVENT
 SUMMARY:$15 Moonshine Flights & Moonshine Tasting
 DTSTART;VALUE=DATE:20260721
 DTEND;VALUE=DATE:20260722
-DTSTAMP:20260918T143827Z
+DTSTAMP:20260919T135926Z
 UID:6ac059c408c431eceb1c3c855c19@visitri-calendar
 DESCRIPTION:Try a Moonshine Flight tasting at Moonshine Alley! Moonshine F
  lights are available daily for just $15! We have over 13 flavors to choose
@@ -58,7 +58,7 @@ BEGIN:VEVENT
 SUMMARY:"Nocturnes" Exhibit at Spring Bull Gallery
 DTSTART;VALUE=DATE:20260913
 DTEND;VALUE=DATE:20260914
-DTSTAMP:20260918T143827Z
+DTSTAMP:20260919T135926Z
 UID:b3a6362c63e2fad1624808d0342f@visitri-calendar
 DESCRIPTION:"Nocturnes" An Art Exhibit at Spring Bull Gallery When: Septem
  ber 19 - October 25\, 2026 from 12:00 to 5:00 PM Opening Reception: Sunday
@@ -77,11 +77,30 @@ URL:https://www.visitrhodeisland.com/event/nocturnes-exhibit-at-spring-bul
  l-gallery/111782/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:"Skyward:" Anne Patterson & James Teschner
+SUMMARY:PVDFest 2026
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260919
-DTSTAMP:20260918T143827Z
-UID:a2741f3c2cae782bd0ed44cae693@visitri-calendar
+DTSTAMP:20260919T135926Z
+UID:2de49afd8f722627b9a1f5e00bb1@visitri-calendar
+DESCRIPTION:The People’s Festival for Arts\, Music\, and Culture Mayor B
+ rett P. Smiley\, the City’s Department of Art\, Culture\, Tourism and Pr
+ oducing Partner FirstWorks once again host PVDFest\, Providence’s signat
+ ure outdoor arts festival\, September 18-19\, 2026. This year’s festival
+  returns to the beating heart of Downtown\, animating the streets of the C
+ reative Capital with astonishing performances\, art installations\, parade
+ s\, artisan markets\, and world-class cuisine. Discover a vibrant\, cultur
+ al experience unlike anything else in the region. Attend\n\nSource: https:
+ //www.visitrhodeisland.com/event/pvdfest-2026/104917/
+LOCATION:Downtown Providence\, Downtown Providence\, Providence\, RI 02903
+  Time: All Day Event
+URL:https://www.visitrhodeisland.com/event/pvdfest-2026/104917/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:"Skyward:" Anne Patterson & James Teschner
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260920
+DTSTAMP:20260919T135926Z
+UID:3834a15154921c2a19a1db609ab3@visitri-calendar
 DESCRIPTION:"Skyward:" Anne Patterson &amp\; James Teschner Exhibition Dat
  es: September 5- October 3\, 2026 Opening Reception: Saturday September 5
  \, 2026\, 5:00- 7:00 PM "Skyward:" Anne Patterson &amp\; James Teschner Je
@@ -115,28 +134,28 @@ URL:https://www.visitrhodeisland.com/event/skyward%3a-anne-patterson-%26-j
  ames-teschner/111508/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Aging Disgracefully – Fall Aging
-DTSTART;VALUE=DATE:20260918
-DTEND;VALUE=DATE:20260919
-DTSTAMP:20260918T143827Z
-UID:84638370a78e23b0bcaa6c96791e@visitri-calendar
-DESCRIPTION:RI Comedy Hall of Famers Charlie Hall and Doreen Collins have 
- created a new hit show called AGING DISGRACEFULLY. It’s a mix of stand-u
- p\, song\, and skits\, on the perks of trying to stay young and the pitfal
- ls of getting old. From botox to bifocals to bingo\, this dynamic duo cove
- rs it all in jokes and musical parodies.\n\nSource: https://www.visitrhode
- island.com/event/aging-disgracefully-%26%238211%3b-fall-aging/111563/
-LOCATION:Courthouse Center for the Arts\, 3481 Kingstown Rd\, West Kingsto
- n\, RI 02892
-URL:https://www.visitrhodeisland.com/event/aging-disgracefully-%26%238211%
- 3b-fall-aging/111563/
+SUMMARY:38th Annual Apple Festival at Johnston Memorial Park
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260920
+DTSTAMP:20260919T135926Z
+UID:6bfec517394f80574766e6efdea1@visitri-calendar
+DESCRIPTION:The 38th Annual Apple Festival at Johnston Memorial Park is fu
+ n for the entire family. From playgrounds and petting zoos to craft vendor
+ s and food trucks. There are apples galore thanks to Appleland Orchard and
+  witch dances from the SNE Witch Dancers.\n\nSource: https://www.visitrhod
+ eisland.com/event/38th-annual-apple-festival-at-johnston-memorial-park/111
+ 224/
+LOCATION:Johnston Memorial Park\, 1583 Hartford Avenuw\, Johnston\, 02919 
+ Time: 10:00 AM to 4:00 PM
+URL:https://www.visitrhodeisland.com/event/38th-annual-apple-festival-at-j
+ ohnston-memorial-park/111224/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Annual Harvest Festival at Newport Vineyards
-DTSTART;VALUE=DATE:20260918
-DTEND;VALUE=DATE:20260919
-DTSTAMP:20260918T143827Z
-UID:8a9def32df9b49aeaef6c7214041@visitri-calendar
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260920
+DTSTAMP:20260919T135926Z
+UID:25b990bbfa807ecbb2aeb99737bb@visitri-calendar
 DESCRIPTION:Celebrate the 9 th Annual Harvest Festival with Newport Vineya
  rds! When: Sunday\, October 25th More details to be announced! General Adm
  ission and Non-Tasting Admission Tickets will be available\n\nSource: http
@@ -148,86 +167,63 @@ URL:https://www.visitrhodeisland.com/event/annual-harvest-festival-at-newp
  ort-vineyards/111769/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Aquanett at the Charlestown Rathskeller
-DTSTART;VALUE=DATE:20260918
-DTEND;VALUE=DATE:20260919
-DTSTAMP:20260918T143827Z
-UID:8ee32a601bcba3f22cea2bebb3f6@visitri-calendar
-DESCRIPTION:Get ready for a totally awesome trip back to the era of big ha
- ir\, spandex\, and stadium rock! Join us at the legendary Charlestown Rath
- skeller for a live performance by Aquanett\, New England's most authentic 
- 80s tribute rock band. They'll have you banging your head and singing alon
- g to all the greatest hits of the MTV generation!\n\nSource: https://www.v
- isitrhodeisland.com/event/aquanett-at-the-charlestown-rathskeller/111491/
+SUMMARY:Back to School Bash
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260920
+DTSTAMP:20260919T135926Z
+UID:cb98a11ad723c79c53006d724845@visitri-calendar
+DESCRIPTION:Let’s kick off the school year with some FUN at Mathnasium! 
+ 📅 September 19th ⏰ 3:00 PM 📍 Open to the public! Come enjoy: 🍕 
+ Food 🎮 Games 🎁 Bring-a-Friend Prizes 🧸 A chance for EVERYONE to p
+ lay the claw machine! Bring a friend who’s never been to Mathnasium: bot
+ h you and your friend get a one-card prize! 🎁 Bring the whole family an
+ d let’s celebrate the new school year together!\n\nSource: https://www.v
+ isitrhodeisland.com/event/back-to-school-bash/111400/
+LOCATION:14 Potomac Road Portsmouth RI 02871\, 14 Potomac Road\, Portsmout
+ h\, 02871
+URL:https://www.visitrhodeisland.com/event/back-to-school-bash/111400/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blizzard of Ozz (Ozzy Osbourne Tribute) at the Charlestown Rathske
+ ller
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260920
+DTSTAMP:20260919T135926Z
+UID:0685cc5c5afd04b7e2386f281880@visitri-calendar
+DESCRIPTION:Get ready to go off the rails on a crazy train! Join us at the
+  legendary Charlestown Rathskeller for a live performance by Blizzard of O
+ zz\, an electrifying tribute dedicated to the Prince of Darkness himself\,
+  Ozzy Osbourne. They'll have you throwing up the horns and rocking out all
+  night long to heavy metal's greatest anthems!\n\nSource: https://www.visi
+ trhodeisland.com/event/blizzard-of-ozz-(ozzy-osbourne-tribute)-at-the-char
+ lestown-rathskeller/111492/
 LOCATION:Charlestown Rathskeller\, 489a Old Coach Road\, Charlestown\, 028
  13
-URL:https://www.visitrhodeisland.com/event/aquanett-at-the-charlestown-rat
- hskeller/111491/
+URL:https://www.visitrhodeisland.com/event/blizzard-of-ozz-(ozzy-osbourne-
+ tribute)-at-the-charlestown-rathskeller/111492/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Book Discussion & Signing for Escape Velocity\, New Book from Debo
- rah Sosin
-DTSTART;VALUE=DATE:20260918
-DTEND;VALUE=DATE:20260919
-DTSTAMP:20260918T143827Z
-UID:65bdc68aeeabff047a293ce5ccf0@visitri-calendar
+SUMMARY:Book Discussion & Signing for Selene Shade: Loving the Dead\, New 
+ Book from Victoria Dalpe
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260920
+DTSTAMP:20260919T135926Z
+UID:9141bd9c951addad032195ba9368@visitri-calendar
 DESCRIPTION:Join us at Books on the Square\, 471 Angell Street in Providen
- ce\, on Friday\, September 18th at 6:00 p.m. to discuss Escape Velocity: H
- ow One 70 Year-Old Push-Pulled Her Way Out of Her Too-Much-Not-Enough Fami
- ly (70 Micro-Memoirs\, 70 Words Each)\, a new book from New England author
-  Deborah Sosin. Book signing to follow. Free\; RSVP on our website at book
- sq.com.\n\nSource: https://www.visitrhodeisland.com/event/book-discussion-
- %26-signing-for-escape-velocity-new-book-from-deborah-sosin/111501/
+ ce\, on Saturday\, September 19th at 6:00 p.m. to discuss Selene Shade: Lo
+ ving the Dead\, a new book from Rhode Island author Victoria Dalpe. Book s
+ igning to follow. Free\; RSVP on our website at booksq.com.\n\nSource: htt
+ ps://www.visitrhodeisland.com/event/book-discussion-%26-signing-for-selene
+ -shade%3a-loving-the-dead-new-book-from-victoria-dalpe/111521/
 LOCATION:Books On The Square\, 471 Angell Square\, Providence\, 02906
 URL:https://www.visitrhodeisland.com/event/book-discussion-%26-signing-for
- -escape-velocity-new-book-from-deborah-sosin/111501/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Boston Experience - Don't Look Back
-DTSTART;VALUE=DATE:20260918
-DTEND;VALUE=DATE:20260919
-DTSTAMP:20260918T143827Z
-UID:a74107910a7f8f27f2e9db4789b9@visitri-calendar
-DESCRIPTION:If you remember the 70's\, there was one band that stood out a
- mong all others\, with their powerful guitar melodies and incredible vocal
- s... That band was Boston. Don’t Look Back is an incredible re-creation 
- of the 70’s rock band Boston. Be prepared to rock out to hit after hit. 
- “More Than a Feeling\,” “Long Time\,” “Amanda\,” “Rock 'n' R
- oll Band\,” “Peace of Mind\,” “Hitch a Ride\,” “Smokin’” a
- nd many more! Get ready Boston fans\, this isn’t just a concert… it’
- s an experience! Tickets: $27\, $32\, $37 The Stadium Theatre is not respo
- nsible for fulfillment or refund for any purchases made from a third party
-  website.\n\nSource: https://www.visitrhodeisland.com/event/boston-experie
- nce-dont-look-back/111533/
-LOCATION:Stadium Theatre\, 28 Monument Square\, Woonsocket\, 02895 Time: 8
- :00 PM to 10:00 PM
-URL:https://www.visitrhodeisland.com/event/boston-experience-dont-look-bac
- k/111533/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PVDFest 2026
-DTSTART;VALUE=DATE:20260918
-DTEND;VALUE=DATE:20260919
-DTSTAMP:20260918T143827Z
-UID:2de49afd8f722627b9a1f5e00bb1@visitri-calendar
-DESCRIPTION:The People’s Festival for Arts\, Music\, and Culture Mayor B
- rett P. Smiley\, the City’s Department of Art\, Culture\, Tourism and Pr
- oducing Partner FirstWorks once again host PVDFest\, Providence’s signat
- ure outdoor arts festival\, September 18-19\, 2026. This year’s festival
-  returns to the beating heart of Downtown\, animating the streets of the C
- reative Capital with astonishing performances\, art installations\, parade
- s\, artisan markets\, and world-class cuisine. Discover a vibrant\, cultur
- al experience unlike anything else in the region. Attend\n\nSource: https:
- //www.visitrhodeisland.com/event/pvdfest-2026/104917/
-LOCATION:Downtown Providence\, Downtown Providence\, Providence\, RI 02903
-  Time: All Day Event
-URL:https://www.visitrhodeisland.com/event/pvdfest-2026/104917/
+ -selene-shade%3a-loving-the-dead-new-book-from-victoria-dalpe/111521/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Food Truck Concert Nights - Diamond Hill Park
 DTSTART;VALUE=DATE:20260919
 DTEND;VALUE=DATE:20260920
-DTSTAMP:20260918T143827Z
+DTSTAMP:20260919T135926Z
 UID:c61110f0d2ee251ab02333bed717@visitri-calendar
 DESCRIPTION:We return to Diamond Hill Park in Cumberland for another serie
  s of memorable events in 2026. Attendance is free\, just pay for what you 
@@ -255,7 +251,7 @@ BEGIN:VEVENT
 SUMMARY:PVDFest 2026
 DTSTART;VALUE=DATE:20260919
 DTEND;VALUE=DATE:20260920
-DTSTAMP:20260918T143827Z
+DTSTAMP:20260919T135926Z
 UID:553bda94539f69469073803099fb@visitri-calendar
 DESCRIPTION:The People’s Festival for Arts\, Music\, and Culture Mayor B
  rett P. Smiley\, the City’s Department of Art\, Culture\, Tourism and Pr
@@ -271,10 +267,27 @@ LOCATION:Downtown Providence\, Downtown Providence\, Providence\, RI 02903
 URL:https://www.visitrhodeisland.com/event/pvdfest-2026/104917/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:38th Annual Apple Festival at Johnston Memorial Park
+DTSTART;VALUE=DATE:20260920
+DTEND;VALUE=DATE:20260921
+DTSTAMP:20260919T135926Z
+UID:15ced2675ce52a2c3426d485695a@visitri-calendar
+DESCRIPTION:The 38th Annual Apple Festival at Johnston Memorial Park is fu
+ n for the entire family. From playgrounds and petting zoos to craft vendor
+ s and food trucks. There are apples galore thanks to Appleland Orchard and
+  witch dances from the SNE Witch Dancers.\n\nSource: https://www.visitrhod
+ eisland.com/event/38th-annual-apple-festival-at-johnston-memorial-park/111
+ 224/
+LOCATION:Johnston Memorial Park\, 1583 Hartford Avenuw\, Johnston\, 02919 
+ Time: 10:00 AM to 4:00 PM
+URL:https://www.visitrhodeisland.com/event/38th-annual-apple-festival-at-j
+ ohnston-memorial-park/111224/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Jack-O-Lantern Spectacular
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
-DTSTAMP:20260918T143827Z
+DTSTAMP:20260919T135926Z
 UID:a11cb847b167f6db3762e7d7aba4@visitri-calendar
 DESCRIPTION:Jack-O-Lantern Spectacular: The Great Pun-Kin Trail\, presente
  d by Citizens\, returns October 1 &#8211\; November 1 with an all-new trai
@@ -299,7 +312,7 @@ BEGIN:VEVENT
 SUMMARY:Live Music by Logan Vale
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261018
-DTSTAMP:20260918T143827Z
+DTSTAMP:20260919T135926Z
 UID:2241186137b505cf7c814cd90b60@visitri-calendar
 DESCRIPTION:The music of Logan Vale! Dinner reservations required either o
  nline or call 401.861.3850 x. 3\n\nSource: https://www.visitrhodeisland.co
@@ -313,7 +326,7 @@ BEGIN:VEVENT
 SUMMARY:"Nocturnes" Exhibit at Spring Bull Gallery
 DTSTART;VALUE=DATE:20261025
 DTEND;VALUE=DATE:20261026
-DTSTAMP:20260918T143827Z
+DTSTAMP:20260919T135926Z
 UID:945340681c00f5d79c305667c5c8@visitri-calendar
 DESCRIPTION:"Nocturnes" An Art Exhibit at Spring Bull Gallery When: Septem
  ber 19 - October 25\, 2026 from 12:00 to 5:00 PM Opening Reception: Sunday
@@ -335,7 +348,7 @@ BEGIN:VEVENT
 SUMMARY:Annual Harvest Festival at Newport Vineyards
 DTSTART;VALUE=DATE:20261025
 DTEND;VALUE=DATE:20261026
-DTSTAMP:20260918T143827Z
+DTSTAMP:20260919T135926Z
 UID:3f036be2c60a1a4587e7b53ef705@visitri-calendar
 DESCRIPTION:Celebrate the 9 th Annual Harvest Festival with Newport Vineya
  rds! When: Sunday\, October 25th More details to be announced! General Adm
@@ -351,7 +364,7 @@ BEGIN:VEVENT
 SUMMARY:Jack-O-Lantern Spectacular
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
-DTSTAMP:20260918T143827Z
+DTSTAMP:20260919T135926Z
 UID:ddc52d2e1f830141a3c1c36cbc2b@visitri-calendar
 DESCRIPTION:Jack-O-Lantern Spectacular: The Great Pun-Kin Trail\, presente
  d by Citizens\, returns October 1 &#8211\; November 1 with an all-new trai
@@ -376,7 +389,7 @@ BEGIN:VEVENT
 SUMMARY:Beyond the Brewhouse Tour
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
-DTSTAMP:20260918T143827Z
+DTSTAMP:20260919T135926Z
 UID:c7b48636db9ede5f5acbbb263d31@visitri-calendar
 DESCRIPTION:Beyond the Brewhouse Where: Newport Craft Brewing and Distilli
  ng\, 293 JT Connell Road\, Newport 45 minutes: $20 per person Did you know
