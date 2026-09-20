@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:$15 Moonshine Flights & Moonshine Tasting
 DTSTART;VALUE=DATE:20250615
 DTEND;VALUE=DATE:20250616
-DTSTAMP:20260919T135926Z
+DTSTAMP:20260920T142158Z
 UID:b6432d870f2c0958f26453a40d59@visitri-calendar
 DESCRIPTION:Try a Moonshine Flight tasting at Moonshine Alley! Moonshine F
  lights are available daily for just $15! We have over 13 flavors to choose
@@ -23,7 +23,7 @@ BEGIN:VEVENT
 SUMMARY:Beyond the Brewhouse Tour
 DTSTART;VALUE=DATE:20260515
 DTEND;VALUE=DATE:20260516
-DTSTAMP:20260919T135926Z
+DTSTAMP:20260920T142158Z
 UID:acc9d8e1d1bdab34c6766b602473@visitri-calendar
 DESCRIPTION:Beyond the Brewhouse Where: Newport Craft Brewing and Distilli
  ng\, 293 JT Connell Road\, Newport 45 minutes: $20 per person Did you know
@@ -39,10 +39,49 @@ URL:https://www.visitrhodeisland.com/event/beyond-the-brewhouse-tour/11015
  3/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Alger Mitchell at SALTwater Harborside Dining
+DTSTART;VALUE=DATE:20260524
+DTEND;VALUE=DATE:20260525
+DTSTAMP:20260920T142158Z
+UID:56651fdef385ddc5772b8f8d401e@visitri-calendar
+DESCRIPTION:Alger Mitchell at SALTwater Harborside Dining Sundays from 4:0
+ 0 to 7:00 PM Alger Mitchell is a dynamic song stylist\, songwriter\, and v
+ ocalist\, delivering captivating performances with guitar and harmonica. B
+ oasting a remarkable repertoire of approximately 250 songs performed entir
+ ely from memory\, Alger's music is 100% live\, free of electronic enhancem
+ ents. His versatile setlist spans the timeless classics of The Great Ameri
+ can Songbook\, from Broadway to Hollywood\, alongside beloved jazz and pop
+  standards\, classic country\, oldies\, and his own original compositions.
+  With infectious energy\, his live performances invite optional dancing\, 
+ making it nearly impossible to resist moving to the music! Keep a smile on
+  your face and a song in your heart!\n\nSource: https://www.visitrhodeisla
+ nd.com/event/alger-mitchell-at-saltwater-harborside-dining/110157/
+LOCATION:Saltwater at The Newport Harbor Hotel & Marina\, 49 America's Cup
+  Avenue\, Newport\, RI 02840 Time: 4:00 PM to 7:00 PM 49 America's Cup Ave
+ nue\, Newport\, RI 02840 OFFICIAL RHODE ISLAND TRAVEL GUIDE Get Guide Get 
+ news from Visit Rhode Island in your inbox. Industry Partner Leisure Trave
+ l Sign Up Ratings Powered by Press Industry Travel Trade Meetings & Conven
+ tions Contact Privacy Policy Sitemap Partner Portal SMS Privacy Policy SMS
+  Terms & Conditions UGC Terms and Conditions Wedding Planning Press Photos
+  Story Ideas Fun-Sized Rhode Island Rhode Island in the News Free Travel G
+ uide Contact Visit Rhode Island Industry Travel Trade Ideas & Itineraries 
+ Downton Abbey Lifestyle Rhode Island Foodways Hidden Gems Image Library Fr
+ ee Travel Guide Contact Visit Rhode Island Meetings & Conventions Contact 
+ Privacy Policy Sitemap Partner Portal SMS Privacy Policy SMS Terms & Condi
+ tions UGC Terms and Conditions Wedding Planning Weddings - Venues Wedding 
+ - Catering Wedding - Cakes Wedding - Attire Wedding - Florists Wedding - J
+ ewelers Wedding - Transportation © 2026 Rhode Island Commerce Corporation
+  Special Offers Offers Here Looking to plan your next visit to Rhode Islan
+ d\, check out some of the current special offers and enjoy savings\, extra
+  perks and more! Offers Here
+URL:https://www.visitrhodeisland.com/event/alger-mitchell-at-saltwater-har
+ borside-dining/110157/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:$15 Moonshine Flights & Moonshine Tasting
 DTSTART;VALUE=DATE:20260721
 DTEND;VALUE=DATE:20260722
-DTSTAMP:20260919T135926Z
+DTSTAMP:20260920T142158Z
 UID:6ac059c408c431eceb1c3c855c19@visitri-calendar
 DESCRIPTION:Try a Moonshine Flight tasting at Moonshine Alley! Moonshine F
  lights are available daily for just $15! We have over 13 flavors to choose
@@ -58,7 +97,7 @@ BEGIN:VEVENT
 SUMMARY:"Nocturnes" Exhibit at Spring Bull Gallery
 DTSTART;VALUE=DATE:20260913
 DTEND;VALUE=DATE:20260914
-DTSTAMP:20260919T135926Z
+DTSTAMP:20260920T142158Z
 UID:b3a6362c63e2fad1624808d0342f@visitri-calendar
 DESCRIPTION:"Nocturnes" An Art Exhibit at Spring Bull Gallery When: Septem
  ber 19 - October 25\, 2026 from 12:00 to 5:00 PM Opening Reception: Sunday
@@ -77,30 +116,28 @@ URL:https://www.visitrhodeisland.com/event/nocturnes-exhibit-at-spring-bul
  l-gallery/111782/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:PVDFest 2026
-DTSTART;VALUE=DATE:20260918
-DTEND;VALUE=DATE:20260919
-DTSTAMP:20260919T135926Z
-UID:2de49afd8f722627b9a1f5e00bb1@visitri-calendar
-DESCRIPTION:The People’s Festival for Arts\, Music\, and Culture Mayor B
- rett P. Smiley\, the City’s Department of Art\, Culture\, Tourism and Pr
- oducing Partner FirstWorks once again host PVDFest\, Providence’s signat
- ure outdoor arts festival\, September 18-19\, 2026. This year’s festival
-  returns to the beating heart of Downtown\, animating the streets of the C
- reative Capital with astonishing performances\, art installations\, parade
- s\, artisan markets\, and world-class cuisine. Discover a vibrant\, cultur
- al experience unlike anything else in the region. Attend\n\nSource: https:
- //www.visitrhodeisland.com/event/pvdfest-2026/104917/
-LOCATION:Downtown Providence\, Downtown Providence\, Providence\, RI 02903
-  Time: All Day Event
-URL:https://www.visitrhodeisland.com/event/pvdfest-2026/104917/
+SUMMARY:38th Annual Apple Festival at Johnston Memorial Park
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260920
+DTSTAMP:20260920T142158Z
+UID:6bfec517394f80574766e6efdea1@visitri-calendar
+DESCRIPTION:The 38th Annual Apple Festival at Johnston Memorial Park is fu
+ n for the entire family. From playgrounds and petting zoos to craft vendor
+ s and food trucks. There are apples galore thanks to Appleland Orchard and
+  witch dances from the SNE Witch Dancers.\n\nSource: https://www.visitrhod
+ eisland.com/event/38th-annual-apple-festival-at-johnston-memorial-park/111
+ 224/
+LOCATION:Johnston Memorial Park\, 1583 Hartford Avenuw\, Johnston\, 02919 
+ Time: 10:00 AM to 4:00 PM
+URL:https://www.visitrhodeisland.com/event/38th-annual-apple-festival-at-j
+ ohnston-memorial-park/111224/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:"Skyward:" Anne Patterson & James Teschner
-DTSTART;VALUE=DATE:20260919
-DTEND;VALUE=DATE:20260920
-DTSTAMP:20260919T135926Z
-UID:3834a15154921c2a19a1db609ab3@visitri-calendar
+DTSTART;VALUE=DATE:20260920
+DTEND;VALUE=DATE:20260921
+DTSTAMP:20260920T142158Z
+UID:760416cedbb64fae994722d36b6f@visitri-calendar
 DESCRIPTION:"Skyward:" Anne Patterson &amp\; James Teschner Exhibition Dat
  es: September 5- October 3\, 2026 Opening Reception: Saturday September 5
  \, 2026\, 5:00- 7:00 PM "Skyward:" Anne Patterson &amp\; James Teschner Je
@@ -135,142 +172,9 @@ URL:https://www.visitrhodeisland.com/event/skyward%3a-anne-patterson-%26-j
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:38th Annual Apple Festival at Johnston Memorial Park
-DTSTART;VALUE=DATE:20260919
-DTEND;VALUE=DATE:20260920
-DTSTAMP:20260919T135926Z
-UID:6bfec517394f80574766e6efdea1@visitri-calendar
-DESCRIPTION:The 38th Annual Apple Festival at Johnston Memorial Park is fu
- n for the entire family. From playgrounds and petting zoos to craft vendor
- s and food trucks. There are apples galore thanks to Appleland Orchard and
-  witch dances from the SNE Witch Dancers.\n\nSource: https://www.visitrhod
- eisland.com/event/38th-annual-apple-festival-at-johnston-memorial-park/111
- 224/
-LOCATION:Johnston Memorial Park\, 1583 Hartford Avenuw\, Johnston\, 02919 
- Time: 10:00 AM to 4:00 PM
-URL:https://www.visitrhodeisland.com/event/38th-annual-apple-festival-at-j
- ohnston-memorial-park/111224/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Annual Harvest Festival at Newport Vineyards
-DTSTART;VALUE=DATE:20260919
-DTEND;VALUE=DATE:20260920
-DTSTAMP:20260919T135926Z
-UID:25b990bbfa807ecbb2aeb99737bb@visitri-calendar
-DESCRIPTION:Celebrate the 9 th Annual Harvest Festival with Newport Vineya
- rds! When: Sunday\, October 25th More details to be announced! General Adm
- ission and Non-Tasting Admission Tickets will be available\n\nSource: http
- s://www.visitrhodeisland.com/event/annual-harvest-festival-at-newport-vine
- yards/111769/
-LOCATION:Newport Vineyards\, 909 East Main Road\, Middletown\, RI 02842 Ti
- me: Festival time to be announced.
-URL:https://www.visitrhodeisland.com/event/annual-harvest-festival-at-newp
- ort-vineyards/111769/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Back to School Bash
-DTSTART;VALUE=DATE:20260919
-DTEND;VALUE=DATE:20260920
-DTSTAMP:20260919T135926Z
-UID:cb98a11ad723c79c53006d724845@visitri-calendar
-DESCRIPTION:Let’s kick off the school year with some FUN at Mathnasium! 
- 📅 September 19th ⏰ 3:00 PM 📍 Open to the public! Come enjoy: 🍕 
- Food 🎮 Games 🎁 Bring-a-Friend Prizes 🧸 A chance for EVERYONE to p
- lay the claw machine! Bring a friend who’s never been to Mathnasium: bot
- h you and your friend get a one-card prize! 🎁 Bring the whole family an
- d let’s celebrate the new school year together!\n\nSource: https://www.v
- isitrhodeisland.com/event/back-to-school-bash/111400/
-LOCATION:14 Potomac Road Portsmouth RI 02871\, 14 Potomac Road\, Portsmout
- h\, 02871
-URL:https://www.visitrhodeisland.com/event/back-to-school-bash/111400/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Blizzard of Ozz (Ozzy Osbourne Tribute) at the Charlestown Rathske
- ller
-DTSTART;VALUE=DATE:20260919
-DTEND;VALUE=DATE:20260920
-DTSTAMP:20260919T135926Z
-UID:0685cc5c5afd04b7e2386f281880@visitri-calendar
-DESCRIPTION:Get ready to go off the rails on a crazy train! Join us at the
-  legendary Charlestown Rathskeller for a live performance by Blizzard of O
- zz\, an electrifying tribute dedicated to the Prince of Darkness himself\,
-  Ozzy Osbourne. They'll have you throwing up the horns and rocking out all
-  night long to heavy metal's greatest anthems!\n\nSource: https://www.visi
- trhodeisland.com/event/blizzard-of-ozz-(ozzy-osbourne-tribute)-at-the-char
- lestown-rathskeller/111492/
-LOCATION:Charlestown Rathskeller\, 489a Old Coach Road\, Charlestown\, 028
- 13
-URL:https://www.visitrhodeisland.com/event/blizzard-of-ozz-(ozzy-osbourne-
- tribute)-at-the-charlestown-rathskeller/111492/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Book Discussion & Signing for Selene Shade: Loving the Dead\, New 
- Book from Victoria Dalpe
-DTSTART;VALUE=DATE:20260919
-DTEND;VALUE=DATE:20260920
-DTSTAMP:20260919T135926Z
-UID:9141bd9c951addad032195ba9368@visitri-calendar
-DESCRIPTION:Join us at Books on the Square\, 471 Angell Street in Providen
- ce\, on Saturday\, September 19th at 6:00 p.m. to discuss Selene Shade: Lo
- ving the Dead\, a new book from Rhode Island author Victoria Dalpe. Book s
- igning to follow. Free\; RSVP on our website at booksq.com.\n\nSource: htt
- ps://www.visitrhodeisland.com/event/book-discussion-%26-signing-for-selene
- -shade%3a-loving-the-dead-new-book-from-victoria-dalpe/111521/
-LOCATION:Books On The Square\, 471 Angell Square\, Providence\, 02906
-URL:https://www.visitrhodeisland.com/event/book-discussion-%26-signing-for
- -selene-shade%3a-loving-the-dead-new-book-from-victoria-dalpe/111521/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Food Truck Concert Nights - Diamond Hill Park
-DTSTART;VALUE=DATE:20260919
-DTEND;VALUE=DATE:20260920
-DTSTAMP:20260919T135926Z
-UID:c61110f0d2ee251ab02333bed717@visitri-calendar
-DESCRIPTION:We return to Diamond Hill Park in Cumberland for another serie
- s of memorable events in 2026. Attendance is free\, just pay for what you 
- eat and drink. All food trucks accept cash\, credit\, and debit cards 💳
- 💰. Tickets are not required. Enjoy a dozen or more food trucks at each 
- event from a rotation of over 75 food trucks. In addition to great food\, 
- there will be live bands and we will be serving up local beer and wine. Sa
- vor the experience amidst the scenic beauty of the park. Choose your perfe
- ct spot\, whether it's on the grass or the gentle hills near the amphithea
- ter or around the water feature. Don't forget to bring your chairs\, picni
- c blankets\, and lawn games for added fun. No smoking\, vaping and e-cigar
- ettes are prohibited. No guests are not permitted to bring their own coole
- rs with alcohol. Pets are not encouraged. Let's care for our environment t
- ogether - please take recyclable items home with you. This event is made p
- ossible with the support of Cumberland\, Rhode Island and Cumberland Parks
-  &amp\; Recreation and the town of Cumberland.\n\nSource: https://www.visi
- trhodeisland.com/event/food-truck-concert-nights-diamond-hill-park/107172/
-LOCATION:Diamond Hill Park & Bike Trail\, 4125 Diamond Hill Road\, Cumberl
- and\, RI 02864 Time: Apr and Aug 5:00 PM - 8:00 PM\, May\, June and July 5
- :00 PM - 8:30 PM and Sept 4:00 PM - 7:30 PM
-URL:https://www.visitrhodeisland.com/event/food-truck-concert-nights-diamo
- nd-hill-park/107172/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PVDFest 2026
-DTSTART;VALUE=DATE:20260919
-DTEND;VALUE=DATE:20260920
-DTSTAMP:20260919T135926Z
-UID:553bda94539f69469073803099fb@visitri-calendar
-DESCRIPTION:The People’s Festival for Arts\, Music\, and Culture Mayor B
- rett P. Smiley\, the City’s Department of Art\, Culture\, Tourism and Pr
- oducing Partner FirstWorks once again host PVDFest\, Providence’s signat
- ure outdoor arts festival\, September 18-19\, 2026. This year’s festival
-  returns to the beating heart of Downtown\, animating the streets of the C
- reative Capital with astonishing performances\, art installations\, parade
- s\, artisan markets\, and world-class cuisine. Discover a vibrant\, cultur
- al experience unlike anything else in the region. Attend\n\nSource: https:
- //www.visitrhodeisland.com/event/pvdfest-2026/104917/
-LOCATION:Downtown Providence\, Downtown Providence\, Providence\, RI 02903
-  Time: All Day Event
-URL:https://www.visitrhodeisland.com/event/pvdfest-2026/104917/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:38th Annual Apple Festival at Johnston Memorial Park
 DTSTART;VALUE=DATE:20260920
 DTEND;VALUE=DATE:20260921
-DTSTAMP:20260919T135926Z
+DTSTAMP:20260920T142158Z
 UID:15ced2675ce52a2c3426d485695a@visitri-calendar
 DESCRIPTION:The 38th Annual Apple Festival at Johnston Memorial Park is fu
  n for the entire family. From playgrounds and petting zoos to craft vendor
@@ -284,10 +188,86 @@ URL:https://www.visitrhodeisland.com/event/38th-annual-apple-festival-at-j
  ohnston-memorial-park/111224/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Annual Harvest Festival at Newport Vineyards
+DTSTART;VALUE=DATE:20260920
+DTEND;VALUE=DATE:20260921
+DTSTAMP:20260920T142158Z
+UID:fbed82ff1138d578100d08843c82@visitri-calendar
+DESCRIPTION:Celebrate the 9 th Annual Harvest Festival with Newport Vineya
+ rds! When: Sunday\, October 25th More details to be announced! General Adm
+ ission and Non-Tasting Admission Tickets will be available\n\nSource: http
+ s://www.visitrhodeisland.com/event/annual-harvest-festival-at-newport-vine
+ yards/111769/
+LOCATION:Newport Vineyards\, 909 East Main Road\, Middletown\, RI 02842 Ti
+ me: Festival time to be announced.
+URL:https://www.visitrhodeisland.com/event/annual-harvest-festival-at-newp
+ ort-vineyards/111769/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boston Legacy Soccer Match vs. Houston Dash at Centreville Bank St
+ adium
+DTSTART;VALUE=DATE:20260920
+DTEND;VALUE=DATE:20260921
+DTSTAMP:20260920T142158Z
+UID:a0f27fcb4efd51ab5af9a3154674@visitri-calendar
+DESCRIPTION:Check out Boston's newest club - the Boston Legacy women's soc
+ cer club - as they take the field at Centreville Bank Stadium during their
+  inaugural season. From exciting matchups to memorable games at the stadiu
+ m close to home in RI\, every match is an opportunity to be part of histor
+ y as it happens! Check out ticket packages for Rhode Island games: DISCOUN
+ TED TICKETS Debi Jugar Mas Fútbol - This match celebrates Benito—BAD BU
+ NNY. Experience the beautiful game through the lens of the world's biggest
+  superstar. A full day of Bad Bunny's music\, special pre-game and halftim
+ e performances\, dominoes tables\, food trucks\, and more\, all honoring t
+ he culture and energy Bad Bunny brings to everything he touches.\n\nSource
+ : https://www.visitrhodeisland.com/event/boston-legacy-soccer-match-vs-hou
+ ston-dash-at-centreville-bank-stadium/108574/
+LOCATION:Centreville Bank Stadium\, 11 Tidewater Street\, Pawtucket\, RI 0
+ 2860
+URL:https://www.visitrhodeisland.com/event/boston-legacy-soccer-match-vs-h
+ ouston-dash-at-centreville-bank-stadium/108574/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bristol PorchFest 2026
+DTSTART;VALUE=DATE:20260920
+DTEND;VALUE=DATE:20260921
+DTSTAMP:20260920T142158Z
+UID:83b14cc6467002da5d12311360c0@visitri-calendar
+DESCRIPTION:Bristol PorchFest brings local bands and musicians to neighbor
+ s’ porches for a free community event! When: Sunday\, September 20th 202
+ 6 Rain date: Sunday\, September 27th 2026 Announcing a fabulous lineup of 
+ performing artists: Andre and The General Beat Salad Band Catnip Junkies C
+ hristina Holmes Clay Pigeons Colby James and The Ramblers David Tessier Dr
+ ed Buffalo Dual Frequency Failte Little Miss and The Boom Lon E Plynton Lo
+ s Duderinos Magnolia Cajun Band Man Made Hills Michelle Saylors Band Mt. H
+ ope Music Nate Thomas and The Moonshines Paula Clare and Friends Rumford J
+ unction Rusty Rails Bluegrass Band Ryan Lee Crosby Stefan Couture The Honk
+  The Lost and Found\n\nSource: https://www.visitrhodeisland.com/event/bris
+ tol-porchfest-2026/111429/
+LOCATION:High Street\, Bristol\, 02809 Time: 3:00 PM to 6:00 PM High Stree
+ t\, Bristol\, 02809 OFFICIAL RHODE ISLAND TRAVEL GUIDE Get Guide Get news 
+ from Visit Rhode Island in your inbox. Industry Partner Leisure Travel Sig
+ n Up Ratings Powered by Press Industry Travel Trade Meetings & Conventions
+  Contact Privacy Policy Sitemap Partner Portal SMS Privacy Policy SMS Term
+ s & Conditions UGC Terms and Conditions Wedding Planning Press Photos Stor
+ y Ideas Fun-Sized Rhode Island Rhode Island in the News Free Travel Guide 
+ Contact Visit Rhode Island Industry Travel Trade Ideas & Itineraries Downt
+ on Abbey Lifestyle Rhode Island Foodways Hidden Gems Image Library Free Tr
+ avel Guide Contact Visit Rhode Island Meetings & Conventions Contact Priva
+ cy Policy Sitemap Partner Portal SMS Privacy Policy SMS Terms & Conditions
+  UGC Terms and Conditions Wedding Planning Weddings - Venues Wedding - Cat
+ ering Wedding - Cakes Wedding - Attire Wedding - Florists Wedding - Jewele
+ rs Wedding - Transportation © 2026 Rhode Island Commerce Corporation Spec
+ ial Offers Offers Here Looking to plan your next visit to Rhode Island\, c
+ heck out some of the current special offers and enjoy savings\, extra perk
+ s and more! Offers Here
+URL:https://www.visitrhodeisland.com/event/bristol-porchfest-2026/111429/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Jack-O-Lantern Spectacular
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
-DTSTAMP:20260919T135926Z
+DTSTAMP:20260920T142158Z
 UID:a11cb847b167f6db3762e7d7aba4@visitri-calendar
 DESCRIPTION:Jack-O-Lantern Spectacular: The Great Pun-Kin Trail\, presente
  d by Citizens\, returns October 1 &#8211\; November 1 with an all-new trai
@@ -312,7 +292,7 @@ BEGIN:VEVENT
 SUMMARY:Live Music by Logan Vale
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261018
-DTSTAMP:20260919T135926Z
+DTSTAMP:20260920T142158Z
 UID:2241186137b505cf7c814cd90b60@visitri-calendar
 DESCRIPTION:The music of Logan Vale! Dinner reservations required either o
  nline or call 401.861.3850 x. 3\n\nSource: https://www.visitrhodeisland.co
@@ -326,7 +306,7 @@ BEGIN:VEVENT
 SUMMARY:"Nocturnes" Exhibit at Spring Bull Gallery
 DTSTART;VALUE=DATE:20261025
 DTEND;VALUE=DATE:20261026
-DTSTAMP:20260919T135926Z
+DTSTAMP:20260920T142158Z
 UID:945340681c00f5d79c305667c5c8@visitri-calendar
 DESCRIPTION:"Nocturnes" An Art Exhibit at Spring Bull Gallery When: Septem
  ber 19 - October 25\, 2026 from 12:00 to 5:00 PM Opening Reception: Sunday
@@ -345,10 +325,49 @@ URL:https://www.visitrhodeisland.com/event/nocturnes-exhibit-at-spring-bul
  l-gallery/111782/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Alger Mitchell at SALTwater Harborside Dining
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+DTSTAMP:20260920T142158Z
+UID:c8707a642277214ae36e5ea850d3@visitri-calendar
+DESCRIPTION:Alger Mitchell at SALTwater Harborside Dining Sundays from 4:0
+ 0 to 7:00 PM Alger Mitchell is a dynamic song stylist\, songwriter\, and v
+ ocalist\, delivering captivating performances with guitar and harmonica. B
+ oasting a remarkable repertoire of approximately 250 songs performed entir
+ ely from memory\, Alger's music is 100% live\, free of electronic enhancem
+ ents. His versatile setlist spans the timeless classics of The Great Ameri
+ can Songbook\, from Broadway to Hollywood\, alongside beloved jazz and pop
+  standards\, classic country\, oldies\, and his own original compositions.
+  With infectious energy\, his live performances invite optional dancing\, 
+ making it nearly impossible to resist moving to the music! Keep a smile on
+  your face and a song in your heart!\n\nSource: https://www.visitrhodeisla
+ nd.com/event/alger-mitchell-at-saltwater-harborside-dining/110157/
+LOCATION:Saltwater at The Newport Harbor Hotel & Marina\, 49 America's Cup
+  Avenue\, Newport\, RI 02840 Time: 4:00 PM to 7:00 PM 49 America's Cup Ave
+ nue\, Newport\, RI 02840 OFFICIAL RHODE ISLAND TRAVEL GUIDE Get Guide Get 
+ news from Visit Rhode Island in your inbox. Industry Partner Leisure Trave
+ l Sign Up Ratings Powered by Press Industry Travel Trade Meetings & Conven
+ tions Contact Privacy Policy Sitemap Partner Portal SMS Privacy Policy SMS
+  Terms & Conditions UGC Terms and Conditions Wedding Planning Press Photos
+  Story Ideas Fun-Sized Rhode Island Rhode Island in the News Free Travel G
+ uide Contact Visit Rhode Island Industry Travel Trade Ideas & Itineraries 
+ Downton Abbey Lifestyle Rhode Island Foodways Hidden Gems Image Library Fr
+ ee Travel Guide Contact Visit Rhode Island Meetings & Conventions Contact 
+ Privacy Policy Sitemap Partner Portal SMS Privacy Policy SMS Terms & Condi
+ tions UGC Terms and Conditions Wedding Planning Weddings - Venues Wedding 
+ - Catering Wedding - Cakes Wedding - Attire Wedding - Florists Wedding - J
+ ewelers Wedding - Transportation © 2026 Rhode Island Commerce Corporation
+  Special Offers Offers Here Looking to plan your next visit to Rhode Islan
+ d\, check out some of the current special offers and enjoy savings\, extra
+  perks and more! Offers Here
+URL:https://www.visitrhodeisland.com/event/alger-mitchell-at-saltwater-har
+ borside-dining/110157/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Annual Harvest Festival at Newport Vineyards
 DTSTART;VALUE=DATE:20261025
 DTEND;VALUE=DATE:20261026
-DTSTAMP:20260919T135926Z
+DTSTAMP:20260920T142158Z
 UID:3f036be2c60a1a4587e7b53ef705@visitri-calendar
 DESCRIPTION:Celebrate the 9 th Annual Harvest Festival with Newport Vineya
  rds! When: Sunday\, October 25th More details to be announced! General Adm
@@ -364,7 +383,7 @@ BEGIN:VEVENT
 SUMMARY:Jack-O-Lantern Spectacular
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
-DTSTAMP:20260919T135926Z
+DTSTAMP:20260920T142158Z
 UID:ddc52d2e1f830141a3c1c36cbc2b@visitri-calendar
 DESCRIPTION:Jack-O-Lantern Spectacular: The Great Pun-Kin Trail\, presente
  d by Citizens\, returns October 1 &#8211\; November 1 with an all-new trai
@@ -389,7 +408,7 @@ BEGIN:VEVENT
 SUMMARY:Beyond the Brewhouse Tour
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
-DTSTAMP:20260919T135926Z
+DTSTAMP:20260920T142158Z
 UID:c7b48636db9ede5f5acbbb263d31@visitri-calendar
 DESCRIPTION:Beyond the Brewhouse Where: Newport Craft Brewing and Distilli
  ng\, 293 JT Connell Road\, Newport 45 minutes: $20 per person Did you know
