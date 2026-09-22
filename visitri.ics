@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:$15 Moonshine Flights & Moonshine Tasting
 DTSTART;VALUE=DATE:20250615
 DTEND;VALUE=DATE:20250616
-DTSTAMP:20260921T163447Z
+DTSTAMP:20260922T150937Z
 UID:b6432d870f2c0958f26453a40d59@visitri-calendar
 DESCRIPTION:Try a Moonshine Flight tasting at Moonshine Alley! Moonshine F
  lights are available daily for just $15! We have over 13 flavors to choose
@@ -20,26 +20,10 @@ URL:https://www.visitrhodeisland.com/event/%2415-moonshine-flights-%26-moo
  nshine-tasting/105663/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Children's Weekly Storytime
-DTSTART;VALUE=DATE:20260330
-DTEND;VALUE=DATE:20260331
-DTSTAMP:20260921T163447Z
-UID:6a42c90422362e83701e98f899c2@visitri-calendar
-DESCRIPTION:Children's Storytime Join Elizabeth as she hosts storytime on 
- Monday mornings at 10:30 AM. Every Monday\, Elizabeth will chose a book co
- rrelating with the season or holiday. All children and their families are 
- welcome to join!\n\nSource: https://www.visitrhodeisland.com/event/childre
- ns-weekly-storytime/109524/
-LOCATION:Charter Books\, 8 Broadway\, Newport\, RI 02840 Time: 10:30 AM to
-  11:00 AM
-URL:https://www.visitrhodeisland.com/event/childrens-weekly-storytime/1095
- 24/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Coastal Cruisers - The Golden Hour
 DTSTART;VALUE=DATE:20260501
 DTEND;VALUE=DATE:20260502
-DTSTAMP:20260921T163447Z
+DTSTAMP:20260922T150937Z
 UID:9f3864060ce7679e35293700f37c@visitri-calendar
 DESCRIPTION:Experience the Island in our Coastal Cruisers\, Newport’s pr
  ivate chauffeured luxury tour\, dedicated to providing a sophisticated way
@@ -69,7 +53,7 @@ BEGIN:VEVENT
 SUMMARY:Beyond the Brewhouse Tour
 DTSTART;VALUE=DATE:20260515
 DTEND;VALUE=DATE:20260516
-DTSTAMP:20260921T163447Z
+DTSTAMP:20260922T150937Z
 UID:acc9d8e1d1bdab34c6766b602473@visitri-calendar
 DESCRIPTION:Beyond the Brewhouse Where: Newport Craft Brewing and Distilli
  ng\, 293 JT Connell Road\, Newport 45 minutes: $20 per person Did you know
@@ -88,7 +72,7 @@ BEGIN:VEVENT
 SUMMARY:$15 Moonshine Flights & Moonshine Tasting
 DTSTART;VALUE=DATE:20260721
 DTEND;VALUE=DATE:20260722
-DTSTAMP:20260921T163447Z
+DTSTAMP:20260922T150937Z
 UID:6ac059c408c431eceb1c3c855c19@visitri-calendar
 DESCRIPTION:Try a Moonshine Flight tasting at Moonshine Alley! Moonshine F
  lights are available daily for just $15! We have over 13 flavors to choose
@@ -104,7 +88,7 @@ BEGIN:VEVENT
 SUMMARY:Half Price Tacos and House Margs at Yellow Door Taqueria!
 DTSTART;VALUE=DATE:20260731
 DTEND;VALUE=DATE:20260801
-DTSTAMP:20260921T163447Z
+DTSTAMP:20260922T150937Z
 UID:e0d95b06c7be4290562a81ad7ad5@visitri-calendar
 DESCRIPTION:Join us EVERY DAY at Yellow Door Taqueria from 3-6 PM at the b
  ar for half price select tacos and house margaritas! It's the perfect way 
@@ -122,7 +106,7 @@ BEGIN:VEVENT
 SUMMARY:Deja Vieux Vintage Shopping Bus Tour Adventure - October 4th
 DTSTART;VALUE=DATE:20260817
 DTEND;VALUE=DATE:20260818
-DTSTAMP:20260921T163447Z
+DTSTAMP:20260922T150937Z
 UID:912e503a9012deae13b33d1d0a85@visitri-calendar
 DESCRIPTION:⭐Hop Aboard Rhode Island’s First - Ever Vintage Shops Bus 
  Tour!⭐ We invite you to join us at Deja Vieux Vintage for a uniquely cur
@@ -156,7 +140,7 @@ BEGIN:VEVENT
 SUMMARY:Burritos & Bowls—Lunch Specials at Yellow Door Taqueria!
 DTSTART;VALUE=DATE:20260826
 DTEND;VALUE=DATE:20260827
-DTSTAMP:20260921T163447Z
+DTSTAMP:20260922T150937Z
 UID:cd9e59bf1148392bbbdd7c30628e@visitri-calendar
 DESCRIPTION:Our new Burrito &amp\; Bowl lunch specials have arrived at Yel
  low Door Taqueria in downtown Providence! Perfect for dining in or taking 
@@ -174,7 +158,7 @@ BEGIN:VEVENT
 SUMMARY:"Nocturnes" Exhibit at Spring Bull Gallery
 DTSTART;VALUE=DATE:20260913
 DTEND;VALUE=DATE:20260914
-DTSTAMP:20260921T163447Z
+DTSTAMP:20260922T150937Z
 UID:b3a6362c63e2fad1624808d0342f@visitri-calendar
 DESCRIPTION:"Nocturnes" An Art Exhibit at Spring Bull Gallery When: Septem
  ber 19 - October 25\, 2026 from 12:00 to 5:00 PM Opening Reception: Sunday
@@ -194,10 +178,10 @@ URL:https://www.visitrhodeisland.com/event/nocturnes-exhibit-at-spring-bul
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Annual Harvest Festival at Newport Vineyards
-DTSTART;VALUE=DATE:20260921
-DTEND;VALUE=DATE:20260922
-DTSTAMP:20260921T163447Z
-UID:c49aaa69be0c844e57fe980a64bc@visitri-calendar
+DTSTART;VALUE=DATE:20260922
+DTEND;VALUE=DATE:20260923
+DTSTAMP:20260922T150937Z
+UID:4a46a46cbf75a462f2e6506ec265@visitri-calendar
 DESCRIPTION:Celebrate the 9 th Annual Harvest Festival with Newport Vineya
  rds! When: Sunday\, October 25th More details to be announced! General Adm
  ission and Non-Tasting Admission Tickets will be available\n\nSource: http
@@ -209,10 +193,36 @@ URL:https://www.visitrhodeisland.com/event/annual-harvest-festival-at-newp
  ort-vineyards/111769/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Gareth Reynolds
+DTSTART;VALUE=DATE:20260922
+DTEND;VALUE=DATE:20260923
+DTSTAMP:20260922T150937Z
+UID:7bc541cecbc35e853bc860c9c972@visitri-calendar
+DESCRIPTION:Gareth Reynolds is an internationally touring stand-up comedia
+ n whose brilliantly clever quips perfectly offset Dave Anthony’s hilario
+ us snark on their smash-hit podcast THE DOLLOP which garners over 5 Millio
+ n downloads every month. Most recently\, alongside long time friend\, Jake
+  Johnson\, Gareth has started a new podcast\; We’re Here To Help\, givin
+ g out unqualified advice to strangers who call in the show with their inte
+ resting issues. We’re Here To Help has frequently charted in the top 10 
+ on Spotify podcasts and has proved to be a listener’s favorite! Original
+ ly from the mean streets of Milwaukee\, WI\, Gareth has worked on all side
+ s of both TV and film. Gareth has written or appeared on New Girl\, Arrest
+ ed Development\, I’m Sorry\, Hoops\, Flaked\, You’re The Worst\, A Ver
+ y Harold and Kumar Xmas\, and Maron. He has also appeared on MTV\, Comedy 
+ central\, The Travel Channel\, and Netflix. His debut stand up album Riddl
+ ed With Disease hit #1 on the Billboard comedy charts. His first special t
+ itled ‘England\, Weed\, and the Rest’ is now available on YouTube. He 
+ is also the father to a cat named Jose.\n\nSource: https://www.visitrhodei
+ sland.com/event/gareth-reynolds/111073/
+LOCATION:Comedy Connection\, 39 Warren Avenue\, East Providence\, RI 02914
+URL:https://www.visitrhodeisland.com/event/gareth-reynolds/111073/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Perfect Arrangement at the Barker Playhouse
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260925
-DTSTAMP:20260921T163447Z
+DTSTAMP:20260922T150937Z
 UID:4b6ac70b428ab7851529626748e9@visitri-calendar
 DESCRIPTION:Join the Rhode Island Historical Society on Thursday\, October
   1 for the Barker Playhouse’s production of Perfect Arrangement. It’s 
@@ -251,7 +261,7 @@ BEGIN:VEVENT
 SUMMARY:Perfect Arrangement at the Barker Playhouse
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260926
-DTSTAMP:20260921T163447Z
+DTSTAMP:20260922T150937Z
 UID:e96e9ae0aa8625a65230e12d30c2@visitri-calendar
 DESCRIPTION:Join the Rhode Island Historical Society on Thursday\, October
   1 for the Barker Playhouse’s production of Perfect Arrangement. It’s 
@@ -290,7 +300,7 @@ BEGIN:VEVENT
 SUMMARY:Perfect Arrangement at the Barker Playhouse
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260927
-DTSTAMP:20260921T163447Z
+DTSTAMP:20260922T150937Z
 UID:b1bb3d651adb4016d95acc989d16@visitri-calendar
 DESCRIPTION:Join the Rhode Island Historical Society on Thursday\, October
   1 for the Barker Playhouse’s production of Perfect Arrangement. It’s 
@@ -329,7 +339,7 @@ BEGIN:VEVENT
 SUMMARY:Perfect Arrangement at the Barker Playhouse
 DTSTART;VALUE=DATE:20260927
 DTEND;VALUE=DATE:20260928
-DTSTAMP:20260921T163447Z
+DTSTAMP:20260922T150937Z
 UID:5b750e8005296ac965d85297dced@visitri-calendar
 DESCRIPTION:Join the Rhode Island Historical Society on Thursday\, October
   1 for the Barker Playhouse’s production of Perfect Arrangement. It’s 
@@ -368,7 +378,7 @@ BEGIN:VEVENT
 SUMMARY:Jack-O-Lantern Spectacular
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
-DTSTAMP:20260921T163447Z
+DTSTAMP:20260922T150937Z
 UID:a11cb847b167f6db3762e7d7aba4@visitri-calendar
 DESCRIPTION:Jack-O-Lantern Spectacular: The Great Pun-Kin Trail\, presente
  d by Citizens\, returns October 1 &#8211\; November 1 with an all-new trai
@@ -393,7 +403,7 @@ BEGIN:VEVENT
 SUMMARY:Perfect Arrangement at the Barker Playhouse
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261003
-DTSTAMP:20260921T163447Z
+DTSTAMP:20260922T150937Z
 UID:ed3f579c46e56c4d4783842d00b2@visitri-calendar
 DESCRIPTION:Join the Rhode Island Historical Society on Thursday\, October
   1 for the Barker Playhouse’s production of Perfect Arrangement. It’s 
@@ -432,7 +442,7 @@ BEGIN:VEVENT
 SUMMARY:Perfect Arrangement at the Barker Playhouse
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261004
-DTSTAMP:20260921T163447Z
+DTSTAMP:20260922T150937Z
 UID:3d1b95ea0ef256a8591df9fa5308@visitri-calendar
 DESCRIPTION:Join the Rhode Island Historical Society on Thursday\, October
   1 for the Barker Playhouse’s production of Perfect Arrangement. It’s 
@@ -471,7 +481,7 @@ BEGIN:VEVENT
 SUMMARY:Perfect Arrangement at the Barker Playhouse
 DTSTART;VALUE=DATE:20261004
 DTEND;VALUE=DATE:20261005
-DTSTAMP:20260921T163447Z
+DTSTAMP:20260922T150937Z
 UID:265ab0d1529306d4c09d5e0cc8d4@visitri-calendar
 DESCRIPTION:Join the Rhode Island Historical Society on Thursday\, October
   1 for the Barker Playhouse’s production of Perfect Arrangement. It’s 
@@ -510,7 +520,7 @@ BEGIN:VEVENT
 SUMMARY:Deja Vieux Vintage Shopping Bus Tour Adventure - October 4th
 DTSTART;VALUE=DATE:20261005
 DTEND;VALUE=DATE:20261006
-DTSTAMP:20260921T163447Z
+DTSTAMP:20260922T150937Z
 UID:5fe8cdac575b282879f35adb305f@visitri-calendar
 DESCRIPTION:⭐Hop Aboard Rhode Island’s First - Ever Vintage Shops Bus 
  Tour!⭐ We invite you to join us at Deja Vieux Vintage for a uniquely cur
@@ -544,7 +554,7 @@ BEGIN:VEVENT
 SUMMARY:Live Music by Logan Vale
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261018
-DTSTAMP:20260921T163447Z
+DTSTAMP:20260922T150937Z
 UID:2241186137b505cf7c814cd90b60@visitri-calendar
 DESCRIPTION:The music of Logan Vale! Dinner reservations required either o
  nline or call 401.861.3850 x. 3\n\nSource: https://www.visitrhodeisland.co
@@ -558,7 +568,7 @@ BEGIN:VEVENT
 SUMMARY:"Nocturnes" Exhibit at Spring Bull Gallery
 DTSTART;VALUE=DATE:20261025
 DTEND;VALUE=DATE:20261026
-DTSTAMP:20260921T163447Z
+DTSTAMP:20260922T150937Z
 UID:945340681c00f5d79c305667c5c8@visitri-calendar
 DESCRIPTION:"Nocturnes" An Art Exhibit at Spring Bull Gallery When: Septem
  ber 19 - October 25\, 2026 from 12:00 to 5:00 PM Opening Reception: Sunday
@@ -580,7 +590,7 @@ BEGIN:VEVENT
 SUMMARY:Annual Harvest Festival at Newport Vineyards
 DTSTART;VALUE=DATE:20261025
 DTEND;VALUE=DATE:20261026
-DTSTAMP:20260921T163447Z
+DTSTAMP:20260922T150937Z
 UID:3f036be2c60a1a4587e7b53ef705@visitri-calendar
 DESCRIPTION:Celebrate the 9 th Annual Harvest Festival with Newport Vineya
  rds! When: Sunday\, October 25th More details to be announced! General Adm
@@ -596,7 +606,7 @@ BEGIN:VEVENT
 SUMMARY:Coastal Cruisers - The Golden Hour
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
-DTSTAMP:20260921T163447Z
+DTSTAMP:20260922T150937Z
 UID:a33f7731698b5451e05ba44e42fd@visitri-calendar
 DESCRIPTION:Experience the Island in our Coastal Cruisers\, Newport’s pr
  ivate chauffeured luxury tour\, dedicated to providing a sophisticated way
@@ -626,7 +636,7 @@ BEGIN:VEVENT
 SUMMARY:Half Price Tacos and House Margs at Yellow Door Taqueria!
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
-DTSTAMP:20260921T163447Z
+DTSTAMP:20260922T150937Z
 UID:9e3061f0648341ee71e7158e4b15@visitri-calendar
 DESCRIPTION:Join us EVERY DAY at Yellow Door Taqueria from 3-6 PM at the b
  ar for half price select tacos and house margaritas! It's the perfect way 
@@ -644,7 +654,7 @@ BEGIN:VEVENT
 SUMMARY:Jack-O-Lantern Spectacular
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
-DTSTAMP:20260921T163447Z
+DTSTAMP:20260922T150937Z
 UID:ddc52d2e1f830141a3c1c36cbc2b@visitri-calendar
 DESCRIPTION:Jack-O-Lantern Spectacular: The Great Pun-Kin Trail\, presente
  d by Citizens\, returns October 1 &#8211\; November 1 with an all-new trai
@@ -666,26 +676,10 @@ URL:https://www.visitrhodeisland.com/event/jack-o-lantern-spectacular/9207
  1/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Children's Weekly Storytime
-DTSTART;VALUE=DATE:20261221
-DTEND;VALUE=DATE:20261222
-DTSTAMP:20260921T163447Z
-UID:505c13cc68dfd1161c6032fdf540@visitri-calendar
-DESCRIPTION:Children's Storytime Join Elizabeth as she hosts storytime on 
- Monday mornings at 10:30 AM. Every Monday\, Elizabeth will chose a book co
- rrelating with the season or holiday. All children and their families are 
- welcome to join!\n\nSource: https://www.visitrhodeisland.com/event/childre
- ns-weekly-storytime/109524/
-LOCATION:Charter Books\, 8 Broadway\, Newport\, RI 02840 Time: 10:30 AM to
-  11:00 AM
-URL:https://www.visitrhodeisland.com/event/childrens-weekly-storytime/1095
- 24/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Beyond the Brewhouse Tour
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
-DTSTAMP:20260921T163447Z
+DTSTAMP:20260922T150937Z
 UID:c7b48636db9ede5f5acbbb263d31@visitri-calendar
 DESCRIPTION:Beyond the Brewhouse Where: Newport Craft Brewing and Distilli
  ng\, 293 JT Connell Road\, Newport 45 minutes: $20 per person Did you know
@@ -704,7 +698,7 @@ BEGIN:VEVENT
 SUMMARY:Burritos & Bowls—Lunch Specials at Yellow Door Taqueria!
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
-DTSTAMP:20260921T163447Z
+DTSTAMP:20260922T150937Z
 UID:a47385cf36c194bcd701d4733276@visitri-calendar
 DESCRIPTION:Our new Burrito &amp\; Bowl lunch specials have arrived at Yel
  low Door Taqueria in downtown Providence! Perfect for dining in or taking 
