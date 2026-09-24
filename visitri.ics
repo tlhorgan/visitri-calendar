@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:$15 Moonshine Flights & Moonshine Tasting
 DTSTART;VALUE=DATE:20250615
 DTEND;VALUE=DATE:20250616
-DTSTAMP:20260923T151149Z
+DTSTAMP:20260924T152951Z
 UID:b6432d870f2c0958f26453a40d59@visitri-calendar
 DESCRIPTION:Try a Moonshine Flight tasting at Moonshine Alley! Moonshine F
  lights are available daily for just $15! We have over 13 flavors to choose
@@ -23,7 +23,7 @@ BEGIN:VEVENT
 SUMMARY:Coastal Cruisers - The Golden Hour
 DTSTART;VALUE=DATE:20260501
 DTEND;VALUE=DATE:20260502
-DTSTAMP:20260923T151149Z
+DTSTAMP:20260924T152951Z
 UID:9f3864060ce7679e35293700f37c@visitri-calendar
 DESCRIPTION:Experience the Island in our Coastal Cruisers\, Newport’s pr
  ivate chauffeured luxury tour\, dedicated to providing a sophisticated way
@@ -53,7 +53,7 @@ BEGIN:VEVENT
 SUMMARY:Beyond the Brewhouse Tour
 DTSTART;VALUE=DATE:20260515
 DTEND;VALUE=DATE:20260516
-DTSTAMP:20260923T151149Z
+DTSTAMP:20260924T152951Z
 UID:acc9d8e1d1bdab34c6766b602473@visitri-calendar
 DESCRIPTION:Beyond the Brewhouse Where: Newport Craft Brewing and Distilli
  ng\, 293 JT Connell Road\, Newport 45 minutes: $20 per person Did you know
@@ -72,7 +72,7 @@ BEGIN:VEVENT
 SUMMARY:$15 Moonshine Flights & Moonshine Tasting
 DTSTART;VALUE=DATE:20260721
 DTEND;VALUE=DATE:20260722
-DTSTAMP:20260923T151149Z
+DTSTAMP:20260924T152951Z
 UID:6ac059c408c431eceb1c3c855c19@visitri-calendar
 DESCRIPTION:Try a Moonshine Flight tasting at Moonshine Alley! Moonshine F
  lights are available daily for just $15! We have over 13 flavors to choose
@@ -88,7 +88,7 @@ BEGIN:VEVENT
 SUMMARY:Deja Vieux Vintage Shopping Bus Tour Adventure - October 4th
 DTSTART;VALUE=DATE:20260817
 DTEND;VALUE=DATE:20260818
-DTSTAMP:20260923T151149Z
+DTSTAMP:20260924T152951Z
 UID:912e503a9012deae13b33d1d0a85@visitri-calendar
 DESCRIPTION:⭐Hop Aboard Rhode Island’s First - Ever Vintage Shops Bus 
  Tour!⭐ We invite you to join us at Deja Vieux Vintage for a uniquely cur
@@ -122,7 +122,7 @@ BEGIN:VEVENT
 SUMMARY:Burritos & Bowls—Lunch Specials at Yellow Door Taqueria!
 DTSTART;VALUE=DATE:20260826
 DTEND;VALUE=DATE:20260827
-DTSTAMP:20260923T151149Z
+DTSTAMP:20260924T152951Z
 UID:cd9e59bf1148392bbbdd7c30628e@visitri-calendar
 DESCRIPTION:Our new Burrito &amp\; Bowl lunch specials have arrived at Yel
  low Door Taqueria in downtown Providence! Perfect for dining in or taking 
@@ -140,7 +140,7 @@ BEGIN:VEVENT
 SUMMARY:"Nocturnes" Exhibit at Spring Bull Gallery
 DTSTART;VALUE=DATE:20260913
 DTEND;VALUE=DATE:20260914
-DTSTAMP:20260923T151149Z
+DTSTAMP:20260924T152951Z
 UID:b3a6362c63e2fad1624808d0342f@visitri-calendar
 DESCRIPTION:"Nocturnes" An Art Exhibit at Spring Bull Gallery When: Septem
  ber 19 - October 25\, 2026 from 12:00 to 5:00 PM Opening Reception: Sunday
@@ -160,10 +160,10 @@ URL:https://www.visitrhodeisland.com/event/nocturnes-exhibit-at-spring-bul
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:"Skyward:" Anne Patterson & James Teschner
-DTSTART;VALUE=DATE:20260923
-DTEND;VALUE=DATE:20260924
-DTSTAMP:20260923T151149Z
-UID:ed89cfe58aca338f8118fb220223@visitri-calendar
+DTSTART;VALUE=DATE:20260924
+DTEND;VALUE=DATE:20260925
+DTSTAMP:20260924T152951Z
+UID:3268785d2f1262e2cf91942e9473@visitri-calendar
 DESCRIPTION:"Skyward:" Anne Patterson &amp\; James Teschner Exhibition Dat
  es: September 5- October 3\, 2026 Opening Reception: Saturday September 5
  \, 2026\, 5:00- 7:00 PM "Skyward:" Anne Patterson &amp\; James Teschner Je
@@ -198,10 +198,10 @@ URL:https://www.visitrhodeisland.com/event/skyward%3a-anne-patterson-%26-j
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Annual Harvest Festival at Newport Vineyards
-DTSTART;VALUE=DATE:20260923
-DTEND;VALUE=DATE:20260924
-DTSTAMP:20260923T151149Z
-UID:3b6be1f81418419068bb4fdf0e77@visitri-calendar
+DTSTART;VALUE=DATE:20260924
+DTEND;VALUE=DATE:20260925
+DTSTAMP:20260924T152951Z
+UID:912384a4dc5684527935cb3b01f1@visitri-calendar
 DESCRIPTION:Celebrate the 9 th Annual Harvest Festival with Newport Vineya
  rds! When: Sunday\, October 25th More details to be announced! General Adm
  ission and Non-Tasting Admission Tickets will be available\n\nSource: http
@@ -213,10 +213,52 @@ URL:https://www.visitrhodeisland.com/event/annual-harvest-festival-at-newp
  ort-vineyards/111769/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:As American as Apple Pie: New England’s Historic Food and Drink
+DTSTART;VALUE=DATE:20260924
+DTEND;VALUE=DATE:20260925
+DTSTAMP:20260924T152951Z
+UID:d42df59944de7e3e7eb7b481ddd3@visitri-calendar
+DESCRIPTION:Taste and discover the history of early New England food on Th
+ ursday\, September 24th at 6pm\, at “As American as Apple Pie: New Engla
+ nd’s Historic Food and Drink\,” featuring a talk from food historians 
+ Keith Stavely &amp\; Kathleen Fitzgerald\, as well as cider\, pie\, and jo
+ hnnycakes from local providers. Stavely &amp\; Fitzgerald will present on 
+ their books\, America’s Founding Food: The Story of New England Cooking
+ \, and the forthcoming Northern Comfort: The New England Baking Tradition.
+  Discover the history of New England foodways\, including the importance o
+ f cider in New England farming\, regional breads and pies\, and the ninete
+ enth-century raconteur who promoted the idea that the cooking—especially
+  the baking—of southern Rhode Island was easily the best to be found any
+ where. In addition to the talk\, guests will receive a glass of traditiona
+ lly produced cider made with historic apple varietals from Sowam’s Cider
+  Works\, a personal apple pie made with Rhode Island greenings from Babes 
+ Pie Co.\, and samples of Jonnycakes made on site by Kenyon’s Grist Mill.
+  Jamestown\, RI\, authors Keith Stavely and Kathleen Fitzgerald made their
+  debut with America’s Founding Food: The Story of New England Cooking in
+  2004. It was deemed a “classic tome” (Choice) and was awarded a 2005 
+ Best of the Best from University Presses selection by the American Associa
+ tion of University Presses. Their other books include the award-winning Un
+ ited Tastes: The Making of the First American Cookbook (2017) and the accl
+ aimed Northern Hospitality: Cooking by the Book in New England (2011). Sta
+ vely and Fitzgerald have spoken at international conferences\, historical 
+ societies\, libraries\, museums\, and to a variety of community and profes
+ sional groups\, bringing the hidden history and cultural significance of N
+ ew England and early American foodways to light. The latest book\, Norther
+ n Comfort: The New England Baking Tradition\, will be out this November fr
+ om New York University Press. Tickets are $35 for RIHS Members and $40 for
+  Non-Members. Guests can register here.\n\nSource: https://www.visitrhodei
+ sland.com/event/as-american-as-apple-pie%3a-new-england%e2%80%99s-historic
+ -food-and-drink/111529/
+LOCATION:Rhode Island Historical Society\, Aldrich House\, 110 Benevolent 
+ Street\, Providence\, RI 02906 Time: 6:00 PM to 7:00 PM
+URL:https://www.visitrhodeisland.com/event/as-american-as-apple-pie%3a-new
+ -england%e2%80%99s-historic-food-and-drink/111529/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Perfect Arrangement at the Barker Playhouse
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260925
-DTSTAMP:20260923T151149Z
+DTSTAMP:20260924T152951Z
 UID:4b6ac70b428ab7851529626748e9@visitri-calendar
 DESCRIPTION:Join the Rhode Island Historical Society on Thursday\, October
   1 for the Barker Playhouse’s production of Perfect Arrangement. It’s 
@@ -255,7 +297,7 @@ BEGIN:VEVENT
 SUMMARY:Perfect Arrangement at the Barker Playhouse
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260926
-DTSTAMP:20260923T151149Z
+DTSTAMP:20260924T152951Z
 UID:e96e9ae0aa8625a65230e12d30c2@visitri-calendar
 DESCRIPTION:Join the Rhode Island Historical Society on Thursday\, October
   1 for the Barker Playhouse’s production of Perfect Arrangement. It’s 
@@ -294,7 +336,7 @@ BEGIN:VEVENT
 SUMMARY:Perfect Arrangement at the Barker Playhouse
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260927
-DTSTAMP:20260923T151149Z
+DTSTAMP:20260924T152951Z
 UID:b1bb3d651adb4016d95acc989d16@visitri-calendar
 DESCRIPTION:Join the Rhode Island Historical Society on Thursday\, October
   1 for the Barker Playhouse’s production of Perfect Arrangement. It’s 
@@ -333,7 +375,7 @@ BEGIN:VEVENT
 SUMMARY:Perfect Arrangement at the Barker Playhouse
 DTSTART;VALUE=DATE:20260927
 DTEND;VALUE=DATE:20260928
-DTSTAMP:20260923T151149Z
+DTSTAMP:20260924T152951Z
 UID:5b750e8005296ac965d85297dced@visitri-calendar
 DESCRIPTION:Join the Rhode Island Historical Society on Thursday\, October
   1 for the Barker Playhouse’s production of Perfect Arrangement. It’s 
@@ -372,7 +414,7 @@ BEGIN:VEVENT
 SUMMARY:Jack-O-Lantern Spectacular
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
-DTSTAMP:20260923T151149Z
+DTSTAMP:20260924T152951Z
 UID:a11cb847b167f6db3762e7d7aba4@visitri-calendar
 DESCRIPTION:Jack-O-Lantern Spectacular: The Great Pun-Kin Trail\, presente
  d by Citizens\, returns October 1 &#8211\; November 1 with an all-new trai
@@ -397,7 +439,7 @@ BEGIN:VEVENT
 SUMMARY:Perfect Arrangement at the Barker Playhouse
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261003
-DTSTAMP:20260923T151149Z
+DTSTAMP:20260924T152951Z
 UID:ed3f579c46e56c4d4783842d00b2@visitri-calendar
 DESCRIPTION:Join the Rhode Island Historical Society on Thursday\, October
   1 for the Barker Playhouse’s production of Perfect Arrangement. It’s 
@@ -436,7 +478,7 @@ BEGIN:VEVENT
 SUMMARY:Perfect Arrangement at the Barker Playhouse
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261004
-DTSTAMP:20260923T151149Z
+DTSTAMP:20260924T152951Z
 UID:3d1b95ea0ef256a8591df9fa5308@visitri-calendar
 DESCRIPTION:Join the Rhode Island Historical Society on Thursday\, October
   1 for the Barker Playhouse’s production of Perfect Arrangement. It’s 
@@ -475,7 +517,7 @@ BEGIN:VEVENT
 SUMMARY:Perfect Arrangement at the Barker Playhouse
 DTSTART;VALUE=DATE:20261004
 DTEND;VALUE=DATE:20261005
-DTSTAMP:20260923T151149Z
+DTSTAMP:20260924T152951Z
 UID:265ab0d1529306d4c09d5e0cc8d4@visitri-calendar
 DESCRIPTION:Join the Rhode Island Historical Society on Thursday\, October
   1 for the Barker Playhouse’s production of Perfect Arrangement. It’s 
@@ -514,7 +556,7 @@ BEGIN:VEVENT
 SUMMARY:Deja Vieux Vintage Shopping Bus Tour Adventure - October 4th
 DTSTART;VALUE=DATE:20261005
 DTEND;VALUE=DATE:20261006
-DTSTAMP:20260923T151149Z
+DTSTAMP:20260924T152951Z
 UID:5fe8cdac575b282879f35adb305f@visitri-calendar
 DESCRIPTION:⭐Hop Aboard Rhode Island’s First - Ever Vintage Shops Bus 
  Tour!⭐ We invite you to join us at Deja Vieux Vintage for a uniquely cur
@@ -545,10 +587,255 @@ URL:https://www.visitrhodeisland.com/event/deja-vieux-vintage-shopping-bus
  -tour-adventure-october-4th/111403/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:2026 Autumnfest
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+DTSTAMP:20260924T152951Z
+UID:a2d09522ca26cb23a52126961053@visitri-calendar
+DESCRIPTION:Join us in 2026! Autumnfest is a family-friendly fall festival
+  held annually in Woonsocket\, Rhode Island\, celebrating the spirit of No
+ rthern Rhode Island since 1979. Over the course of the weekend\, visitors 
+ can find live music and entertainment\, food vendors\, artisans and local 
+ businesses\, amusement rides\, family activities\, fireworks\, and the sig
+ nature 10-division Autumnfest Parade. Friday 10/9 6pm-10pm Saturday 10/10 
+ 10am-10pm Sunday 10/11 10am-10pm Monday 10/12 after parade-6pm ​ WWII Ve
+ terans Memorial Park Woonsocket\, RI For more festival weekend details\, c
+ lick here.\n\nSource: https://www.visitrhodeisland.com/event/2026-autumnfe
+ st/111948/
+LOCATION:WWII Veterans Memorial Park\, 209 E School St\, Woonsocket\, 0289
+ 5 WWII Veterans Memorial Park\, 209 E School St\, Woonsocket\, 02895 OFFIC
+ IAL RHODE ISLAND TRAVEL GUIDE Get Guide Get news from Visit Rhode Island i
+ n your inbox. Industry Partner Leisure Travel Sign Up Ratings Powered by P
+ ress Industry Travel Trade Meetings & Conventions Contact Privacy Policy S
+ itemap Partner Portal SMS Privacy Policy SMS Terms & Conditions UGC Terms 
+ and Conditions Wedding Planning Press Photos Story Ideas Fun-Sized Rhode I
+ sland Rhode Island in the News Free Travel Guide Contact Visit Rhode Islan
+ d Industry Travel Trade Ideas & Itineraries Downton Abbey Lifestyle Rhode 
+ Island Foodways Hidden Gems Image Library Free Travel Guide Contact Visit 
+ Rhode Island Meetings & Conventions Contact Privacy Policy Sitemap Partner
+  Portal SMS Privacy Policy SMS Terms & Conditions UGC Terms and Conditions
+  Wedding Planning Weddings - Venues Wedding - Catering Wedding - Cakes Wed
+ ding - Attire Wedding - Florists Wedding - Jewelers Wedding - Transportati
+ on © 2026 Rhode Island Commerce Corporation Special Offers Offers Here Lo
+ oking to plan your next visit to Rhode Island\, check out some of the curr
+ ent special offers and enjoy savings\, extra perks and more! Offers Here
+URL:https://www.visitrhodeisland.com/event/2026-autumnfest/111948/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Autumnfest
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+DTSTAMP:20260924T152951Z
+UID:132c20b3c276757ef130a0a768c5@visitri-calendar
+DESCRIPTION:Join us in 2026! Autumnfest is a family-friendly fall festival
+  held annually in Woonsocket\, Rhode Island\, celebrating the spirit of No
+ rthern Rhode Island since 1979. Over the course of the weekend\, visitors 
+ can find live music and entertainment\, food vendors\, artisans and local 
+ businesses\, amusement rides\, family activities\, fireworks\, and the sig
+ nature 10-division Autumnfest Parade. Friday 10/9 6pm-10pm Saturday 10/10 
+ 10am-10pm Sunday 10/11 10am-10pm Monday 10/12 after parade-6pm ​ WWII Ve
+ terans Memorial Park Woonsocket\, RI For more festival weekend details\, c
+ lick here.\n\nSource: https://www.visitrhodeisland.com/event/2026-autumnfe
+ st/111948/
+LOCATION:WWII Veterans Memorial Park\, 209 E School St\, Woonsocket\, 0289
+ 5 WWII Veterans Memorial Park\, 209 E School St\, Woonsocket\, 02895 OFFIC
+ IAL RHODE ISLAND TRAVEL GUIDE Get Guide Get news from Visit Rhode Island i
+ n your inbox. Industry Partner Leisure Travel Sign Up Ratings Powered by P
+ ress Industry Travel Trade Meetings & Conventions Contact Privacy Policy S
+ itemap Partner Portal SMS Privacy Policy SMS Terms & Conditions UGC Terms 
+ and Conditions Wedding Planning Press Photos Story Ideas Fun-Sized Rhode I
+ sland Rhode Island in the News Free Travel Guide Contact Visit Rhode Islan
+ d Industry Travel Trade Ideas & Itineraries Downton Abbey Lifestyle Rhode 
+ Island Foodways Hidden Gems Image Library Free Travel Guide Contact Visit 
+ Rhode Island Meetings & Conventions Contact Privacy Policy Sitemap Partner
+  Portal SMS Privacy Policy SMS Terms & Conditions UGC Terms and Conditions
+  Wedding Planning Weddings - Venues Wedding - Catering Wedding - Cakes Wed
+ ding - Attire Wedding - Florists Wedding - Jewelers Wedding - Transportati
+ on © 2026 Rhode Island Commerce Corporation Special Offers Offers Here Lo
+ oking to plan your next visit to Rhode Island\, check out some of the curr
+ ent special offers and enjoy savings\, extra perks and more! Offers Here
+URL:https://www.visitrhodeisland.com/event/2026-autumnfest/111948/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Scituate Art Festival
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+DTSTAMP:20260924T152951Z
+UID:79b4728723e69fc14ceeff860335@visitri-calendar
+DESCRIPTION:Festival Update: Come celebrate the fall season by visiting us
+  on the Village Green in North Scituate. Browse and buy original fine art
+ \, handmade crafts and antiques in an open-air market. Enjoy tasty treats 
+ and support local\, non-profit organizations by visiting our food court. T
+ ake a chance with our Raffle of items generously donated by our Exhibitors
+ ! Enjoy live musical entertainment! Saturday\, October 10 10am &#8211\; 5p
+ m Sunday\, October 11 10am- 5pm Monday\, October 12 10am &#8211\; 4pm (We 
+ are open - rain or shine!)\n\nSource: https://www.visitrhodeisland.com/eve
+ nt/2026-scituate-art-festival/111950/
+LOCATION:On The Village Green\, North Scituate\, 02857 Time: 10:00 AM On T
+ he Village Green\, North Scituate\, 02857 OFFICIAL RHODE ISLAND TRAVEL GUI
+ DE Get Guide Get news from Visit Rhode Island in your inbox. Industry Part
+ ner Leisure Travel Sign Up Ratings Powered by Press Industry Travel Trade 
+ Meetings & Conventions Contact Privacy Policy Sitemap Partner Portal SMS P
+ rivacy Policy SMS Terms & Conditions UGC Terms and Conditions Wedding Plan
+ ning Press Photos Story Ideas Fun-Sized Rhode Island Rhode Island in the N
+ ews Free Travel Guide Contact Visit Rhode Island Industry Travel Trade Ide
+ as & Itineraries Downton Abbey Lifestyle Rhode Island Foodways Hidden Gems
+  Image Library Free Travel Guide Contact Visit Rhode Island Meetings & Con
+ ventions Contact Privacy Policy Sitemap Partner Portal SMS Privacy Policy 
+ SMS Terms & Conditions UGC Terms and Conditions Wedding Planning Weddings 
+ - Venues Wedding - Catering Wedding - Cakes Wedding - Attire Wedding - Flo
+ rists Wedding - Jewelers Wedding - Transportation © 2026 Rhode Island Com
+ merce Corporation Special Offers Offers Here Looking to plan your next vis
+ it to Rhode Island\, check out some of the current special offers and enjo
+ y savings\, extra perks and more! Offers Here
+URL:https://www.visitrhodeisland.com/event/2026-scituate-art-festival/1119
+ 50/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Autumnfest
+DTSTART;VALUE=DATE:20261011
+DTEND;VALUE=DATE:20261012
+DTSTAMP:20260924T152951Z
+UID:1c68a5ef706c0175e9f51cf0035f@visitri-calendar
+DESCRIPTION:Join us in 2026! Autumnfest is a family-friendly fall festival
+  held annually in Woonsocket\, Rhode Island\, celebrating the spirit of No
+ rthern Rhode Island since 1979. Over the course of the weekend\, visitors 
+ can find live music and entertainment\, food vendors\, artisans and local 
+ businesses\, amusement rides\, family activities\, fireworks\, and the sig
+ nature 10-division Autumnfest Parade. Friday 10/9 6pm-10pm Saturday 10/10 
+ 10am-10pm Sunday 10/11 10am-10pm Monday 10/12 after parade-6pm ​ WWII Ve
+ terans Memorial Park Woonsocket\, RI For more festival weekend details\, c
+ lick here.\n\nSource: https://www.visitrhodeisland.com/event/2026-autumnfe
+ st/111948/
+LOCATION:WWII Veterans Memorial Park\, 209 E School St\, Woonsocket\, 0289
+ 5 WWII Veterans Memorial Park\, 209 E School St\, Woonsocket\, 02895 OFFIC
+ IAL RHODE ISLAND TRAVEL GUIDE Get Guide Get news from Visit Rhode Island i
+ n your inbox. Industry Partner Leisure Travel Sign Up Ratings Powered by P
+ ress Industry Travel Trade Meetings & Conventions Contact Privacy Policy S
+ itemap Partner Portal SMS Privacy Policy SMS Terms & Conditions UGC Terms 
+ and Conditions Wedding Planning Press Photos Story Ideas Fun-Sized Rhode I
+ sland Rhode Island in the News Free Travel Guide Contact Visit Rhode Islan
+ d Industry Travel Trade Ideas & Itineraries Downton Abbey Lifestyle Rhode 
+ Island Foodways Hidden Gems Image Library Free Travel Guide Contact Visit 
+ Rhode Island Meetings & Conventions Contact Privacy Policy Sitemap Partner
+  Portal SMS Privacy Policy SMS Terms & Conditions UGC Terms and Conditions
+  Wedding Planning Weddings - Venues Wedding - Catering Wedding - Cakes Wed
+ ding - Attire Wedding - Florists Wedding - Jewelers Wedding - Transportati
+ on © 2026 Rhode Island Commerce Corporation Special Offers Offers Here Lo
+ oking to plan your next visit to Rhode Island\, check out some of the curr
+ ent special offers and enjoy savings\, extra perks and more! Offers Here
+URL:https://www.visitrhodeisland.com/event/2026-autumnfest/111948/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Scituate Art Festival
+DTSTART;VALUE=DATE:20261011
+DTEND;VALUE=DATE:20261012
+DTSTAMP:20260924T152951Z
+UID:880ea78ffd1d3f5a02ad1b4d6dcf@visitri-calendar
+DESCRIPTION:Festival Update: Come celebrate the fall season by visiting us
+  on the Village Green in North Scituate. Browse and buy original fine art
+ \, handmade crafts and antiques in an open-air market. Enjoy tasty treats 
+ and support local\, non-profit organizations by visiting our food court. T
+ ake a chance with our Raffle of items generously donated by our Exhibitors
+ ! Enjoy live musical entertainment! Saturday\, October 10 10am &#8211\; 5p
+ m Sunday\, October 11 10am- 5pm Monday\, October 12 10am &#8211\; 4pm (We 
+ are open - rain or shine!)\n\nSource: https://www.visitrhodeisland.com/eve
+ nt/2026-scituate-art-festival/111950/
+LOCATION:On The Village Green\, North Scituate\, 02857 Time: 10:00 AM On T
+ he Village Green\, North Scituate\, 02857 OFFICIAL RHODE ISLAND TRAVEL GUI
+ DE Get Guide Get news from Visit Rhode Island in your inbox. Industry Part
+ ner Leisure Travel Sign Up Ratings Powered by Press Industry Travel Trade 
+ Meetings & Conventions Contact Privacy Policy Sitemap Partner Portal SMS P
+ rivacy Policy SMS Terms & Conditions UGC Terms and Conditions Wedding Plan
+ ning Press Photos Story Ideas Fun-Sized Rhode Island Rhode Island in the N
+ ews Free Travel Guide Contact Visit Rhode Island Industry Travel Trade Ide
+ as & Itineraries Downton Abbey Lifestyle Rhode Island Foodways Hidden Gems
+  Image Library Free Travel Guide Contact Visit Rhode Island Meetings & Con
+ ventions Contact Privacy Policy Sitemap Partner Portal SMS Privacy Policy 
+ SMS Terms & Conditions UGC Terms and Conditions Wedding Planning Weddings 
+ - Venues Wedding - Catering Wedding - Cakes Wedding - Attire Wedding - Flo
+ rists Wedding - Jewelers Wedding - Transportation © 2026 Rhode Island Com
+ merce Corporation Special Offers Offers Here Looking to plan your next vis
+ it to Rhode Island\, check out some of the current special offers and enjo
+ y savings\, extra perks and more! Offers Here
+URL:https://www.visitrhodeisland.com/event/2026-scituate-art-festival/1119
+ 50/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Autumnfest
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
+DTSTAMP:20260924T152951Z
+UID:6f6c4450fd947ffc7512680cc155@visitri-calendar
+DESCRIPTION:Join us in 2026! Autumnfest is a family-friendly fall festival
+  held annually in Woonsocket\, Rhode Island\, celebrating the spirit of No
+ rthern Rhode Island since 1979. Over the course of the weekend\, visitors 
+ can find live music and entertainment\, food vendors\, artisans and local 
+ businesses\, amusement rides\, family activities\, fireworks\, and the sig
+ nature 10-division Autumnfest Parade. Friday 10/9 6pm-10pm Saturday 10/10 
+ 10am-10pm Sunday 10/11 10am-10pm Monday 10/12 after parade-6pm ​ WWII Ve
+ terans Memorial Park Woonsocket\, RI For more festival weekend details\, c
+ lick here.\n\nSource: https://www.visitrhodeisland.com/event/2026-autumnfe
+ st/111948/
+LOCATION:WWII Veterans Memorial Park\, 209 E School St\, Woonsocket\, 0289
+ 5 WWII Veterans Memorial Park\, 209 E School St\, Woonsocket\, 02895 OFFIC
+ IAL RHODE ISLAND TRAVEL GUIDE Get Guide Get news from Visit Rhode Island i
+ n your inbox. Industry Partner Leisure Travel Sign Up Ratings Powered by P
+ ress Industry Travel Trade Meetings & Conventions Contact Privacy Policy S
+ itemap Partner Portal SMS Privacy Policy SMS Terms & Conditions UGC Terms 
+ and Conditions Wedding Planning Press Photos Story Ideas Fun-Sized Rhode I
+ sland Rhode Island in the News Free Travel Guide Contact Visit Rhode Islan
+ d Industry Travel Trade Ideas & Itineraries Downton Abbey Lifestyle Rhode 
+ Island Foodways Hidden Gems Image Library Free Travel Guide Contact Visit 
+ Rhode Island Meetings & Conventions Contact Privacy Policy Sitemap Partner
+  Portal SMS Privacy Policy SMS Terms & Conditions UGC Terms and Conditions
+  Wedding Planning Weddings - Venues Wedding - Catering Wedding - Cakes Wed
+ ding - Attire Wedding - Florists Wedding - Jewelers Wedding - Transportati
+ on © 2026 Rhode Island Commerce Corporation Special Offers Offers Here Lo
+ oking to plan your next visit to Rhode Island\, check out some of the curr
+ ent special offers and enjoy savings\, extra perks and more! Offers Here
+URL:https://www.visitrhodeisland.com/event/2026-autumnfest/111948/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Scituate Art Festival
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
+DTSTAMP:20260924T152951Z
+UID:a57830b8782a337068ab3be90fba@visitri-calendar
+DESCRIPTION:Festival Update: Come celebrate the fall season by visiting us
+  on the Village Green in North Scituate. Browse and buy original fine art
+ \, handmade crafts and antiques in an open-air market. Enjoy tasty treats 
+ and support local\, non-profit organizations by visiting our food court. T
+ ake a chance with our Raffle of items generously donated by our Exhibitors
+ ! Enjoy live musical entertainment! Saturday\, October 10 10am &#8211\; 5p
+ m Sunday\, October 11 10am- 5pm Monday\, October 12 10am &#8211\; 4pm (We 
+ are open - rain or shine!)\n\nSource: https://www.visitrhodeisland.com/eve
+ nt/2026-scituate-art-festival/111950/
+LOCATION:On The Village Green\, North Scituate\, 02857 Time: 10:00 AM On T
+ he Village Green\, North Scituate\, 02857 OFFICIAL RHODE ISLAND TRAVEL GUI
+ DE Get Guide Get news from Visit Rhode Island in your inbox. Industry Part
+ ner Leisure Travel Sign Up Ratings Powered by Press Industry Travel Trade 
+ Meetings & Conventions Contact Privacy Policy Sitemap Partner Portal SMS P
+ rivacy Policy SMS Terms & Conditions UGC Terms and Conditions Wedding Plan
+ ning Press Photos Story Ideas Fun-Sized Rhode Island Rhode Island in the N
+ ews Free Travel Guide Contact Visit Rhode Island Industry Travel Trade Ide
+ as & Itineraries Downton Abbey Lifestyle Rhode Island Foodways Hidden Gems
+  Image Library Free Travel Guide Contact Visit Rhode Island Meetings & Con
+ ventions Contact Privacy Policy Sitemap Partner Portal SMS Privacy Policy 
+ SMS Terms & Conditions UGC Terms and Conditions Wedding Planning Weddings 
+ - Venues Wedding - Catering Wedding - Cakes Wedding - Attire Wedding - Flo
+ rists Wedding - Jewelers Wedding - Transportation © 2026 Rhode Island Com
+ merce Corporation Special Offers Offers Here Looking to plan your next vis
+ it to Rhode Island\, check out some of the current special offers and enjo
+ y savings\, extra perks and more! Offers Here
+URL:https://www.visitrhodeisland.com/event/2026-scituate-art-festival/1119
+ 50/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Live Music by Logan Vale
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261018
-DTSTAMP:20260923T151149Z
+DTSTAMP:20260924T152951Z
 UID:2241186137b505cf7c814cd90b60@visitri-calendar
 DESCRIPTION:The music of Logan Vale! Dinner reservations required either o
  nline or call 401.861.3850 x. 3\n\nSource: https://www.visitrhodeisland.co
@@ -562,7 +849,7 @@ BEGIN:VEVENT
 SUMMARY:"Nocturnes" Exhibit at Spring Bull Gallery
 DTSTART;VALUE=DATE:20261025
 DTEND;VALUE=DATE:20261026
-DTSTAMP:20260923T151149Z
+DTSTAMP:20260924T152951Z
 UID:945340681c00f5d79c305667c5c8@visitri-calendar
 DESCRIPTION:"Nocturnes" An Art Exhibit at Spring Bull Gallery When: Septem
  ber 19 - October 25\, 2026 from 12:00 to 5:00 PM Opening Reception: Sunday
@@ -584,7 +871,7 @@ BEGIN:VEVENT
 SUMMARY:Annual Harvest Festival at Newport Vineyards
 DTSTART;VALUE=DATE:20261025
 DTEND;VALUE=DATE:20261026
-DTSTAMP:20260923T151149Z
+DTSTAMP:20260924T152951Z
 UID:3f036be2c60a1a4587e7b53ef705@visitri-calendar
 DESCRIPTION:Celebrate the 9 th Annual Harvest Festival with Newport Vineya
  rds! When: Sunday\, October 25th More details to be announced! General Adm
@@ -600,7 +887,7 @@ BEGIN:VEVENT
 SUMMARY:Coastal Cruisers - The Golden Hour
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
-DTSTAMP:20260923T151149Z
+DTSTAMP:20260924T152951Z
 UID:a33f7731698b5451e05ba44e42fd@visitri-calendar
 DESCRIPTION:Experience the Island in our Coastal Cruisers\, Newport’s pr
  ivate chauffeured luxury tour\, dedicated to providing a sophisticated way
@@ -630,7 +917,7 @@ BEGIN:VEVENT
 SUMMARY:Jack-O-Lantern Spectacular
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
-DTSTAMP:20260923T151149Z
+DTSTAMP:20260924T152951Z
 UID:ddc52d2e1f830141a3c1c36cbc2b@visitri-calendar
 DESCRIPTION:Jack-O-Lantern Spectacular: The Great Pun-Kin Trail\, presente
  d by Citizens\, returns October 1 &#8211\; November 1 with an all-new trai
@@ -655,7 +942,7 @@ BEGIN:VEVENT
 SUMMARY:Beyond the Brewhouse Tour
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
-DTSTAMP:20260923T151149Z
+DTSTAMP:20260924T152951Z
 UID:c7b48636db9ede5f5acbbb263d31@visitri-calendar
 DESCRIPTION:Beyond the Brewhouse Where: Newport Craft Brewing and Distilli
  ng\, 293 JT Connell Road\, Newport 45 minutes: $20 per person Did you know
@@ -674,7 +961,7 @@ BEGIN:VEVENT
 SUMMARY:Burritos & Bowls—Lunch Specials at Yellow Door Taqueria!
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
-DTSTAMP:20260923T151149Z
+DTSTAMP:20260924T152951Z
 UID:a47385cf36c194bcd701d4733276@visitri-calendar
 DESCRIPTION:Our new Burrito &amp\; Bowl lunch specials have arrived at Yel
  low Door Taqueria in downtown Providence! Perfect for dining in or taking 
