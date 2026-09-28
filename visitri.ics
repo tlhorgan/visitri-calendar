@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:$15 Moonshine Flights & Moonshine Tasting
 DTSTART;VALUE=DATE:20250615
 DTEND;VALUE=DATE:20250616
-DTSTAMP:20260927T151720Z
+DTSTAMP:20260928T181557Z
 UID:b6432d870f2c0958f26453a40d59@visitri-calendar
 DESCRIPTION:Try a Moonshine Flight tasting at Moonshine Alley! Moonshine F
  lights are available daily for just $15! We have over 13 flavors to choose
@@ -20,10 +20,26 @@ URL:https://www.visitrhodeisland.com/event/%2415-moonshine-flights-%26-moo
  nshine-tasting/105663/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Children's Weekly Storytime
+DTSTART;VALUE=DATE:20260330
+DTEND;VALUE=DATE:20260331
+DTSTAMP:20260928T181557Z
+UID:6a42c90422362e83701e98f899c2@visitri-calendar
+DESCRIPTION:Children's Storytime Join Elizabeth as she hosts storytime on 
+ Monday mornings at 10:30 AM. Every Monday\, Elizabeth will chose a book co
+ rrelating with the season or holiday. All children and their families are 
+ welcome to join!\n\nSource: https://www.visitrhodeisland.com/event/childre
+ ns-weekly-storytime/109524/
+LOCATION:Charter Books\, 8 Broadway\, Newport\, RI 02840 Time: 10:30 AM to
+  11:00 AM
+URL:https://www.visitrhodeisland.com/event/childrens-weekly-storytime/1095
+ 24/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Coastal Cruisers - The Golden Hour
 DTSTART;VALUE=DATE:20260501
 DTEND;VALUE=DATE:20260502
-DTSTAMP:20260927T151720Z
+DTSTAMP:20260928T181557Z
 UID:9f3864060ce7679e35293700f37c@visitri-calendar
 DESCRIPTION:Experience the Island in our Coastal Cruisers\, Newport’s pr
  ivate chauffeured luxury tour\, dedicated to providing a sophisticated way
@@ -53,7 +69,7 @@ BEGIN:VEVENT
 SUMMARY:Beyond the Brewhouse Tour
 DTSTART;VALUE=DATE:20260515
 DTEND;VALUE=DATE:20260516
-DTSTAMP:20260927T151720Z
+DTSTAMP:20260928T181557Z
 UID:acc9d8e1d1bdab34c6766b602473@visitri-calendar
 DESCRIPTION:Beyond the Brewhouse Where: Newport Craft Brewing and Distilli
  ng\, 293 JT Connell Road\, Newport 45 minutes: $20 per person Did you know
@@ -69,49 +85,10 @@ URL:https://www.visitrhodeisland.com/event/beyond-the-brewhouse-tour/11015
  3/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Alger Mitchell at SALTwater Harborside Dining
-DTSTART;VALUE=DATE:20260524
-DTEND;VALUE=DATE:20260525
-DTSTAMP:20260927T151720Z
-UID:56651fdef385ddc5772b8f8d401e@visitri-calendar
-DESCRIPTION:Alger Mitchell at SALTwater Harborside Dining Sundays from 4:0
- 0 to 7:00 PM Alger Mitchell is a dynamic song stylist\, songwriter\, and v
- ocalist\, delivering captivating performances with guitar and harmonica. B
- oasting a remarkable repertoire of approximately 250 songs performed entir
- ely from memory\, Alger's music is 100% live\, free of electronic enhancem
- ents. His versatile setlist spans the timeless classics of The Great Ameri
- can Songbook\, from Broadway to Hollywood\, alongside beloved jazz and pop
-  standards\, classic country\, oldies\, and his own original compositions.
-  With infectious energy\, his live performances invite optional dancing\, 
- making it nearly impossible to resist moving to the music! Keep a smile on
-  your face and a song in your heart!\n\nSource: https://www.visitrhodeisla
- nd.com/event/alger-mitchell-at-saltwater-harborside-dining/110157/
-LOCATION:Saltwater at The Newport Harbor Hotel & Marina\, 49 America's Cup
-  Avenue\, Newport\, RI 02840 Time: 4:00 PM to 7:00 PM 49 America's Cup Ave
- nue\, Newport\, RI 02840 OFFICIAL RHODE ISLAND TRAVEL GUIDE Get Guide Get 
- news from Visit Rhode Island in your inbox. Industry Partner Leisure Trave
- l Sign Up Ratings Powered by Press Industry Travel Trade Meetings & Conven
- tions Contact Privacy Policy Sitemap Partner Portal SMS Privacy Policy SMS
-  Terms & Conditions UGC Terms and Conditions Wedding Planning Press Photos
-  Story Ideas Fun-Sized Rhode Island Rhode Island in the News Free Travel G
- uide Contact Visit Rhode Island Industry Travel Trade Ideas & Itineraries 
- Downton Abbey Lifestyle Rhode Island Foodways Hidden Gems Image Library Fr
- ee Travel Guide Contact Visit Rhode Island Meetings & Conventions Contact 
- Privacy Policy Sitemap Partner Portal SMS Privacy Policy SMS Terms & Condi
- tions UGC Terms and Conditions Wedding Planning Weddings - Venues Wedding 
- - Catering Wedding - Cakes Wedding - Attire Wedding - Florists Wedding - J
- ewelers Wedding - Transportation © 2026 Rhode Island Commerce Corporation
-  Special Offers Offers Here Looking to plan your next visit to Rhode Islan
- d\, check out some of the current special offers and enjoy savings\, extra
-  perks and more! Offers Here
-URL:https://www.visitrhodeisland.com/event/alger-mitchell-at-saltwater-har
- borside-dining/110157/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:$15 Moonshine Flights & Moonshine Tasting
 DTSTART;VALUE=DATE:20260721
 DTEND;VALUE=DATE:20260722
-DTSTAMP:20260927T151720Z
+DTSTAMP:20260928T181557Z
 UID:6ac059c408c431eceb1c3c855c19@visitri-calendar
 DESCRIPTION:Try a Moonshine Flight tasting at Moonshine Alley! Moonshine F
  lights are available daily for just $15! We have over 13 flavors to choose
@@ -124,44 +101,28 @@ URL:https://www.visitrhodeisland.com/event/%2415-moonshine-flights-%26-moo
  nshine-tasting/105663/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Deja Vieux Vintage Shopping Bus Tour Adventure - October 4th
-DTSTART;VALUE=DATE:20260817
-DTEND;VALUE=DATE:20260818
-DTSTAMP:20260927T151720Z
-UID:912e503a9012deae13b33d1d0a85@visitri-calendar
-DESCRIPTION:⭐Hop Aboard Rhode Island’s First - Ever Vintage Shops Bus 
- Tour!⭐ We invite you to join us at Deja Vieux Vintage for a uniquely cur
- ated shopping adventure! On Sunday\, October 4th\, from 10:30 AM to 4:00 P
- M\, we are hitting the road for a premier 5-hour vintage bus tour down Rou
- te 6 and Route 44. The tour features exclusive discounts at 8 to 12 of our
-  favorite local antique and vintage shops\, making it the perfect day out 
- for collectors and vintage lovers alike. The Ultimate Vintage &amp\; Antiq
- ue Bus Tour Host: Deja Vieux Vintage Date &amp\; Time: Sunday\, October 4t
- h | 10:30 AM &#8211\; 4:00 PM Ticket Information: • Single Ticket: $37.5
- 0 • Bring a Friend Bundle: Two for $70 Every ticket comes packed with va
- lue! You get your bus boarding pass\, event shopping bag\, coupon booklet
- \, complimentary snacks and water\, plus a chance to win prizes. Departure
-  &amp\; Logistics Details: To ensure a smooth departure\, please arrive at
-  Deja Vieux Vintage on Sunday\, October 4th\, before 10:30 AM. Our storefr
- ont will be open early so you can enjoy your very first shopping experienc
- e of the day! Parking is completely free. Our bus leaves promptly at 11:00
-  AM. We will be traveling on a chartered yellow school bus from Ocean Stat
- e Transit\; please note that this vehicle is unfortunately not handicap ac
- cessible. Single ticket holders may need to share seats\, while our friend
- s bundles ticket holders guarantee seating together. Complimentary snacks 
- and water will be provided on board\, and you are welcome to bring your ow
- n allergen-free lunch. Tickets are non-refundable but are transferable.\n
- \nSource: https://www.visitrhodeisland.com/event/deja-vieux-vintage-shoppi
- ng-bus-tour-adventure-october-4th/111403/
-LOCATION:Deja Vieux Vintage\, 20 Cedar Swamp Rd.\, Smithfield\, 02917
-URL:https://www.visitrhodeisland.com/event/deja-vieux-vintage-shopping-bus
- -tour-adventure-october-4th/111403/
+SUMMARY:Burritos & Bowls—Lunch Specials at Yellow Door Taqueria!
+DTSTART;VALUE=DATE:20260826
+DTEND;VALUE=DATE:20260827
+DTSTAMP:20260928T181557Z
+UID:cd9e59bf1148392bbbdd7c30628e@visitri-calendar
+DESCRIPTION:Our new Burrito &amp\; Bowl lunch specials have arrived at Yel
+ low Door Taqueria in downtown Providence! Perfect for dining in or taking 
+ back to the office\, turn your favorite taco into a delicious bowl or try 
+ a specialty burrito! Check out the full menu on our website! Available Mon
+ day-Friday\, 11:30 AM-5 PM!\n\nSource: https://www.visitrhodeisland.com/ev
+ ent/burritos-%26-bowls%e2%80%94lunch-specials-at-yellow-door-taqueria!/111
+ 544/
+LOCATION:Yellow Door Taqueria\, 191 Dorrance Street\, Providence\, RI 0290
+ 3
+URL:https://www.visitrhodeisland.com/event/burritos-%26-bowls%e2%80%94lunc
+ h-specials-at-yellow-door-taqueria!/111544/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:"Nocturnes" Exhibit at Spring Bull Gallery
 DTSTART;VALUE=DATE:20260913
 DTEND;VALUE=DATE:20260914
-DTSTAMP:20260927T151720Z
+DTSTAMP:20260928T181557Z
 UID:b3a6362c63e2fad1624808d0342f@visitri-calendar
 DESCRIPTION:"Nocturnes" An Art Exhibit at Spring Bull Gallery When: Septem
  ber 19 - October 25\, 2026 from 12:00 to 5:00 PM Opening Reception: Sunday
@@ -183,7 +144,7 @@ BEGIN:VEVENT
 SUMMARY:Perfect Arrangement at the Barker Playhouse
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260925
-DTSTAMP:20260927T151720Z
+DTSTAMP:20260928T181557Z
 UID:4b6ac70b428ab7851529626748e9@visitri-calendar
 DESCRIPTION:Join the Rhode Island Historical Society on Thursday\, October
   1 for the Barker Playhouse’s production of Perfect Arrangement. It’s 
@@ -222,7 +183,7 @@ BEGIN:VEVENT
 SUMMARY:Perfect Arrangement at the Barker Playhouse
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260926
-DTSTAMP:20260927T151720Z
+DTSTAMP:20260928T181557Z
 UID:e96e9ae0aa8625a65230e12d30c2@visitri-calendar
 DESCRIPTION:Join the Rhode Island Historical Society on Thursday\, October
   1 for the Barker Playhouse’s production of Perfect Arrangement. It’s 
@@ -261,7 +222,7 @@ BEGIN:VEVENT
 SUMMARY:Perfect Arrangement at the Barker Playhouse
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260927
-DTSTAMP:20260927T151720Z
+DTSTAMP:20260928T181557Z
 UID:b1bb3d651adb4016d95acc989d16@visitri-calendar
 DESCRIPTION:Join the Rhode Island Historical Society on Thursday\, October
   1 for the Barker Playhouse’s production of Perfect Arrangement. It’s 
@@ -297,123 +258,10 @@ URL:https://www.visitrhodeisland.com/event/perfect-arrangement-at-the-bark
  er-playhouse/111656/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:"Art and Nature" Workshop at the Varnum House Museum
-DTSTART;VALUE=DATE:20260927
-DTEND;VALUE=DATE:20260928
-DTSTAMP:20260927T151720Z
-UID:a59fb1aced72b86b43f305a55b11@visitri-calendar
-DESCRIPTION:Professional nature artist Ava Varszegi will lead an outdoor a
- rt workshop for artists of all skill levels on September 27 EAST GREENWICH
- \, R.I. — The Varnum House Museum will invite artists to find inspiratio
- n in history and the natural world during “Art and Nature\,” an outdoo
- r art workshop on Sunday\, September 27\, 2026\, from 11 AM to 3 PM in the
-  museum’s Historic Preservation Gardens. The workshop will be led by pro
- fessional nature artist and Providence Art Club instructor Ava Varszegi\, 
- whose work focuses on natural science illustration and highly detailed dep
- ictions of plants and animals drawn from direct observation. Participants 
- of all experience levels are welcome to paint\, draw\, or sketch throughou
- t the Varnum House grounds using their preferred portable art materials. T
- he grounds will open to enrolled artists at 11 AM\, allowing participants 
- time to explore the gardens\, select subjects\, and set up their materials
- . Varszegi will begin providing art instruction and guidance at noon. At 2
- :30 PM\, participants will gather to share their work\, receive feedback\,
-  and conclude the afternoon with a champagne toast. Artists are welcome to
-  bring picnic lunches or snacks. Coffee and soft drinks will be provided t
- o enrolled participants. The workshop fee is $35 per person\, with advance
-  tickets available through Eventbrite. Cash registration will also be avai
- lable on site\, space permitting. Participants are encouraged to bring the
- ir own art supplies. === BUY TICKETS HERE https://www.eventbrite.com/e/art
- -and-nature-art-workshop-at-the-varnum-house-museum-tickets-2000740586954 
- === ABOUT THE ARTIST Ava Varszegi is a New England-based illustrator\, des
- igner\, and teacher and a 2017 graduate of the Rhode Island School of Desi
- gn’s Illustration program. Working primarily in watercolor and colored p
- encil\, Varszegi draws inspiration from close observation of the natural w
- orld. Varszegi is an instructor at the Providence Art Club and works prima
- rily in traditional media. “I learned to draw before I could talk and ha
- ve been a quiet observer ever since\,” Varszegi says in her artist state
- ment. “My fondness of the natural world has eased its way into my art\, 
- which now focuses on natural science illustration.” === FREE VARNUM HOUS
- E OPEN HOUSE “Art and Nature” will take place in conjunction with a fr
- ee community open house at the Varnum House Museum from 11 AM to 3 PM. Vis
- itors who are not enrolled in the workshop are welcome to tour the histori
- c house and gardens at no charge and watch participating artists at work t
- hroughout the grounds. Donations to support the museum are appreciated. Pa
- rticipation in the “Art and Nature” workshop\, including instruction a
- nd workshop activities\, is reserved for enrolled artists. === EVENT INFOR
- MATION “Art and Nature”: Art Workshop at the Varnum House Museum Sunda
- y\, September 27\, 2026 11 AM&#8211\;3 PM Varnum House Museum East Greenwi
- ch\, Rhode Island Workshop admission: $35 / $55 with art supplies provided
-  Open house admission: Free For additional information about artist Ava Va
- rszegi\, visit her website at avavarszegi.com\, follow @avavarszegi on Ins
- tagram\, or visit 'AvaVIllustration' on Etsy. Varnum House Museum 57 Peirc
- e St.\, E. Greenwich\, RI 401-884-1776 Subscribe to our E-Newsletter IG: @
- varnumhousefriends FB: @friendsofvarnumhouse YT: @varnumhousefriends Tik: 
- @varnumhouse\n\nSource: https://www.visitrhodeisland.com/event/art-and-nat
- ure-workshop-at-the-varnum-house-museum/111931/
-LOCATION:Varnum House Museum\, 57 Pierce Street\, East Greenwich\, RI 0281
- 8
-URL:https://www.visitrhodeisland.com/event/art-and-nature-workshop-at-the-
- varnum-house-museum/111931/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:"Skyward:" Anne Patterson & James Teschner
-DTSTART;VALUE=DATE:20260927
-DTEND;VALUE=DATE:20260928
-DTSTAMP:20260927T151720Z
-UID:14925bc8f1d43a49db02ac542b14@visitri-calendar
-DESCRIPTION:"Skyward:" Anne Patterson &amp\; James Teschner Exhibition Dat
- es: September 5- October 3\, 2026 Opening Reception: Saturday September 5
- \, 2026\, 5:00- 7:00 PM "Skyward:" Anne Patterson &amp\; James Teschner Je
- ssica Hagen Fine Art + Design is pleased to announce the opening of "Skywa
- rd" featuring artists James Teschner and Anne Patterson on Saturday Septem
- ber 5\, 2026\, from 5:00- 7:00 PM. This exhibition showcases the paintings
-  of James Teschner and the sculptural orbs of Anne Patterson. Teschner\, p
- ainting outdoors near his home in the remote farmlands of central France f
- ocuses on the setting sun\, the moon\, the sky\, and “those moments lead
- ing towards nightfall\, and the night itself\, whereby the landscape is ei
- ther being obliterated\, almost devoured by the sun’s all-consuming lumi
- nosity or being dissolved by the receding\, diminishing light.” Anne Pat
- terson is a multi-disciplinary artist based in Brooklyn. Working across pa
- inting\, sculpture\, and installation\, Patterson explores the ways our se
- nses overlap\, and how together they create an experience greater than the
-  sum of its parts. Informed by her own synesthesia and her training as a s
- et designer\, she is often inspired by music and sound. Gallery owner Jess
- ica Hagen states\, “This is a magical exhibition. The radiance of James 
- Teschner’s oil paintings coalesce with the glow of Anne Patterson’s go
- ld-leafed orbs\, resulting in a sublime alchemy. It’s really a very spec
- ial show.” "Skyward" closes October 3\, 2026. Jessica Hagen Fine Art + D
- esign was founded in 2005 and features contemporary art including painting
- \, sculpture\, photography\, ceramics\, textiles\, and jewelry. Located in
-  the historic Point section of Newport\, the gallery’s hours are Wednesd
- ay- Saturday 11:00 AM - 5:00 PM and Sunday 12:00- 5:00 PM. The gallery is 
- also open by appointment.\n\nSource: https://www.visitrhodeisland.com/even
- t/skyward%3a-anne-patterson-%26-james-teschner/111508/
-LOCATION:Jessica Hagen Fine Art & Design\, 9A Bridge Street\, Newport\, RI
-  02840
-URL:https://www.visitrhodeisland.com/event/skyward%3a-anne-patterson-%26-j
- ames-teschner/111508/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Annual Harvest Festival at Newport Vineyards
-DTSTART;VALUE=DATE:20260927
-DTEND;VALUE=DATE:20260928
-DTSTAMP:20260927T151720Z
-UID:734ca71dadf8380a4f9bcf1fc0bf@visitri-calendar
-DESCRIPTION:Celebrate the 9 th Annual Harvest Festival with Newport Vineya
- rds! When: Sunday\, October 25th More details to be announced! General Adm
- ission and Non-Tasting Admission Tickets will be available\n\nSource: http
- s://www.visitrhodeisland.com/event/annual-harvest-festival-at-newport-vine
- yards/111769/
-LOCATION:Newport Vineyards\, 909 East Main Road\, Middletown\, RI 02842 Ti
- me: Festival time to be announced.
-URL:https://www.visitrhodeisland.com/event/annual-harvest-festival-at-newp
- ort-vineyards/111769/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Perfect Arrangement at the Barker Playhouse
 DTSTART;VALUE=DATE:20260927
 DTEND;VALUE=DATE:20260928
-DTSTAMP:20260927T151720Z
+DTSTAMP:20260928T181557Z
 UID:5b750e8005296ac965d85297dced@visitri-calendar
 DESCRIPTION:Join the Rhode Island Historical Society on Thursday\, October
   1 for the Barker Playhouse’s production of Perfect Arrangement. It’s 
@@ -449,11 +297,67 @@ URL:https://www.visitrhodeisland.com/event/perfect-arrangement-at-the-bark
  er-playhouse/111656/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Annual Harvest Festival at Newport Vineyards
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+DTSTAMP:20260928T181557Z
+UID:24f9b855fd159804afc06888eb4b@visitri-calendar
+DESCRIPTION:Celebrate the 9 th Annual Harvest Festival with Newport Vineya
+ rds! When: Sunday\, October 25th More details to be announced! General Adm
+ ission and Non-Tasting Admission Tickets will be available\n\nSource: http
+ s://www.visitrhodeisland.com/event/annual-harvest-festival-at-newport-vine
+ yards/111769/
+LOCATION:Newport Vineyards\, 909 East Main Road\, Middletown\, RI 02842 Ti
+ me: Festival time to be announced.
+URL:https://www.visitrhodeisland.com/event/annual-harvest-festival-at-newp
+ ort-vineyards/111769/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Autumn Sapphic Sip & Paint
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+DTSTAMP:20260928T181557Z
+UID:eff94c339220cd46bae623f33da3@visitri-calendar
+DESCRIPTION:Looking for a cozy\, creative way to connect with other queer 
+ folks this fall? Join us on Monday\, September 28th from 6:30- 8:30PM at P
+ ublic Shop &amp\; Gallery for a sapphic-centered sip &amp\; paint filled w
+ ith creativity\, conversation\, and community. This gathering is designed 
+ for queer folks to meet new people while getting creative. Whether you com
+ e with friends or solo\, this event makes it easy to connect through fun a
+ ctivities and shared creativity. What to expect: Paint vintage vinyl recor
+ ds using autumn and sapphic-inspired prompts Play an original sapphic-insp
+ ired bingo game designed to spark conversation and connections Enjoy a wel
+ coming\, artsy atmosphere with other queer community members Light refresh
+ ments included with your ticket All painting supplies\, snacks\, and drink
+ s are included in the ticket price. Community Note: This event especially 
+ welcomes queer women and nonbinary people of color (QTBIPOC). All respectf
+ ul community members are welcome. Additional Information: Email delightful
+ intentions333@gmail.com\, or reach out to @Delightful.Intentions_ on Insta
+ gram\, or @Trippinonmhina on TikTok with any questions!\n\nSource: https:/
+ /www.visitrhodeisland.com/event/autumn-sapphic-sip-%26-paint/111990/
+LOCATION:Public Shop & Gallery\, 50 Agnes Street\, Providence\, 02909 Time
+ : 6:30 PM to 8:30 PM
+URL:https://www.visitrhodeisland.com/event/autumn-sapphic-sip-%26-paint/11
+ 1990/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Beachside Lobster Boil
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+DTSTAMP:20260928T181557Z
+UID:76f63ffc6679d2397dad9fec380d@visitri-calendar
+DESCRIPTION:Enjoy a classic lobster boil at George's of Gallilee.\n\nSourc
+ e: https://www.visitrhodeisland.com/event/beachside-lobster-boil/111567/
+LOCATION:George's of Galilee\, 250 Sand Hill Cove Road\, Narragansett\, RI
+  02882
+URL:https://www.visitrhodeisland.com/event/beachside-lobster-boil/111567/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Share this event Fall Fest at The Loom Hotel
-DTSTART;VALUE=DATE:20260927
-DTEND;VALUE=DATE:20260928
-DTSTAMP:20260927T151720Z
-UID:95019de322e9eb3efdf47f85fa43@visitri-calendar
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+DTSTAMP:20260928T181557Z
+UID:84a0993dd95e05ecf5ffffff043e@visitri-calendar
 DESCRIPTION:Celebrate fall at The Loom with seasonal drinks\, local vendor
  s\, festive activities\, and riverside views. Celebrate the season with us
   at Fall Fest at The Loom Hotel on Saturday\, October 10! Join us on our R
@@ -483,10 +387,10 @@ URL:https://www.visitrhodeisland.com/event/share-this-event-fall-fest-at-t
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tour de Vino Wine Dinner
-DTSTART;VALUE=DATE:20260927
-DTEND;VALUE=DATE:20260928
-DTSTAMP:20260927T151720Z
-UID:740eaca933e3dd445837af936a2e@visitri-calendar
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+DTSTAMP:20260928T181557Z
+UID:d27b5d5864bb6bf187ed71b7a25b@visitri-calendar
 DESCRIPTION:Tour de Vino will be at The Brook Kitchen + Bar on October 22.
   Join us for an intimate four-course wine dinner featuring carefully selec
  ted pairings from Hope Family Wines. This event is part of a traveling win
@@ -501,7 +405,7 @@ BEGIN:VEVENT
 SUMMARY:Jack-O-Lantern Spectacular
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
-DTSTAMP:20260927T151720Z
+DTSTAMP:20260928T181557Z
 UID:a11cb847b167f6db3762e7d7aba4@visitri-calendar
 DESCRIPTION:Jack-O-Lantern Spectacular: The Great Pun-Kin Trail\, presente
  d by Citizens\, returns October 1 &#8211\; November 1 with an all-new trai
@@ -526,7 +430,7 @@ BEGIN:VEVENT
 SUMMARY:Perfect Arrangement at the Barker Playhouse
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261003
-DTSTAMP:20260927T151720Z
+DTSTAMP:20260928T181557Z
 UID:ed3f579c46e56c4d4783842d00b2@visitri-calendar
 DESCRIPTION:Join the Rhode Island Historical Society on Thursday\, October
   1 for the Barker Playhouse’s production of Perfect Arrangement. It’s 
@@ -565,7 +469,7 @@ BEGIN:VEVENT
 SUMMARY:Perfect Arrangement at the Barker Playhouse
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261004
-DTSTAMP:20260927T151720Z
+DTSTAMP:20260928T181557Z
 UID:3d1b95ea0ef256a8591df9fa5308@visitri-calendar
 DESCRIPTION:Join the Rhode Island Historical Society on Thursday\, October
   1 for the Barker Playhouse’s production of Perfect Arrangement. It’s 
@@ -604,7 +508,7 @@ BEGIN:VEVENT
 SUMMARY:Perfect Arrangement at the Barker Playhouse
 DTSTART;VALUE=DATE:20261004
 DTEND;VALUE=DATE:20261005
-DTSTAMP:20260927T151720Z
+DTSTAMP:20260928T181557Z
 UID:265ab0d1529306d4c09d5e0cc8d4@visitri-calendar
 DESCRIPTION:Join the Rhode Island Historical Society on Thursday\, October
   1 for the Barker Playhouse’s production of Perfect Arrangement. It’s 
@@ -640,44 +544,10 @@ URL:https://www.visitrhodeisland.com/event/perfect-arrangement-at-the-bark
  er-playhouse/111656/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Deja Vieux Vintage Shopping Bus Tour Adventure - October 4th
-DTSTART;VALUE=DATE:20261005
-DTEND;VALUE=DATE:20261006
-DTSTAMP:20260927T151720Z
-UID:5fe8cdac575b282879f35adb305f@visitri-calendar
-DESCRIPTION:⭐Hop Aboard Rhode Island’s First - Ever Vintage Shops Bus 
- Tour!⭐ We invite you to join us at Deja Vieux Vintage for a uniquely cur
- ated shopping adventure! On Sunday\, October 4th\, from 10:30 AM to 4:00 P
- M\, we are hitting the road for a premier 5-hour vintage bus tour down Rou
- te 6 and Route 44. The tour features exclusive discounts at 8 to 12 of our
-  favorite local antique and vintage shops\, making it the perfect day out 
- for collectors and vintage lovers alike. The Ultimate Vintage &amp\; Antiq
- ue Bus Tour Host: Deja Vieux Vintage Date &amp\; Time: Sunday\, October 4t
- h | 10:30 AM &#8211\; 4:00 PM Ticket Information: • Single Ticket: $37.5
- 0 • Bring a Friend Bundle: Two for $70 Every ticket comes packed with va
- lue! You get your bus boarding pass\, event shopping bag\, coupon booklet
- \, complimentary snacks and water\, plus a chance to win prizes. Departure
-  &amp\; Logistics Details: To ensure a smooth departure\, please arrive at
-  Deja Vieux Vintage on Sunday\, October 4th\, before 10:30 AM. Our storefr
- ont will be open early so you can enjoy your very first shopping experienc
- e of the day! Parking is completely free. Our bus leaves promptly at 11:00
-  AM. We will be traveling on a chartered yellow school bus from Ocean Stat
- e Transit\; please note that this vehicle is unfortunately not handicap ac
- cessible. Single ticket holders may need to share seats\, while our friend
- s bundles ticket holders guarantee seating together. Complimentary snacks 
- and water will be provided on board\, and you are welcome to bring your ow
- n allergen-free lunch. Tickets are non-refundable but are transferable.\n
- \nSource: https://www.visitrhodeisland.com/event/deja-vieux-vintage-shoppi
- ng-bus-tour-adventure-october-4th/111403/
-LOCATION:Deja Vieux Vintage\, 20 Cedar Swamp Rd.\, Smithfield\, 02917
-URL:https://www.visitrhodeisland.com/event/deja-vieux-vintage-shopping-bus
- -tour-adventure-october-4th/111403/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:2026 Autumnfest
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
-DTSTAMP:20260927T151720Z
+DTSTAMP:20260928T181557Z
 UID:a2d09522ca26cb23a52126961053@visitri-calendar
 DESCRIPTION:Join us in 2026! Autumnfest is a family-friendly fall festival
   held annually in Woonsocket\, Rhode Island\, celebrating the spirit of No
@@ -712,7 +582,7 @@ BEGIN:VEVENT
 SUMMARY:2026 Autumnfest
 DTSTART;VALUE=DATE:20261010
 DTEND;VALUE=DATE:20261011
-DTSTAMP:20260927T151720Z
+DTSTAMP:20260928T181557Z
 UID:132c20b3c276757ef130a0a768c5@visitri-calendar
 DESCRIPTION:Join us in 2026! Autumnfest is a family-friendly fall festival
   held annually in Woonsocket\, Rhode Island\, celebrating the spirit of No
@@ -747,7 +617,7 @@ BEGIN:VEVENT
 SUMMARY:2026 Scituate Art Festival
 DTSTART;VALUE=DATE:20261010
 DTEND;VALUE=DATE:20261011
-DTSTAMP:20260927T151720Z
+DTSTAMP:20260928T181557Z
 UID:79b4728723e69fc14ceeff860335@visitri-calendar
 DESCRIPTION:Festival Update: Come celebrate the fall season by visiting us
   on the Village Green in North Scituate. Browse and buy original fine art
@@ -782,7 +652,7 @@ BEGIN:VEVENT
 SUMMARY:Share this event Fall Fest at The Loom Hotel
 DTSTART;VALUE=DATE:20261010
 DTEND;VALUE=DATE:20261011
-DTSTAMP:20260927T151720Z
+DTSTAMP:20260928T181557Z
 UID:6b76e4de415be69514f19d31f5d3@visitri-calendar
 DESCRIPTION:Celebrate fall at The Loom with seasonal drinks\, local vendor
  s\, festive activities\, and riverside views. Celebrate the season with us
@@ -815,7 +685,7 @@ BEGIN:VEVENT
 SUMMARY:2026 Autumnfest
 DTSTART;VALUE=DATE:20261011
 DTEND;VALUE=DATE:20261012
-DTSTAMP:20260927T151720Z
+DTSTAMP:20260928T181557Z
 UID:1c68a5ef706c0175e9f51cf0035f@visitri-calendar
 DESCRIPTION:Join us in 2026! Autumnfest is a family-friendly fall festival
   held annually in Woonsocket\, Rhode Island\, celebrating the spirit of No
@@ -850,7 +720,7 @@ BEGIN:VEVENT
 SUMMARY:2026 Scituate Art Festival
 DTSTART;VALUE=DATE:20261011
 DTEND;VALUE=DATE:20261012
-DTSTAMP:20260927T151720Z
+DTSTAMP:20260928T181557Z
 UID:880ea78ffd1d3f5a02ad1b4d6dcf@visitri-calendar
 DESCRIPTION:Festival Update: Come celebrate the fall season by visiting us
   on the Village Green in North Scituate. Browse and buy original fine art
@@ -885,7 +755,7 @@ BEGIN:VEVENT
 SUMMARY:2026 Autumnfest
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261013
-DTSTAMP:20260927T151720Z
+DTSTAMP:20260928T181557Z
 UID:6f6c4450fd947ffc7512680cc155@visitri-calendar
 DESCRIPTION:Join us in 2026! Autumnfest is a family-friendly fall festival
   held annually in Woonsocket\, Rhode Island\, celebrating the spirit of No
@@ -920,7 +790,7 @@ BEGIN:VEVENT
 SUMMARY:2026 Scituate Art Festival
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261013
-DTSTAMP:20260927T151720Z
+DTSTAMP:20260928T181557Z
 UID:a57830b8782a337068ab3be90fba@visitri-calendar
 DESCRIPTION:Festival Update: Come celebrate the fall season by visiting us
   on the Village Green in North Scituate. Browse and buy original fine art
@@ -955,7 +825,7 @@ BEGIN:VEVENT
 SUMMARY:Live Music by Logan Vale
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261018
-DTSTAMP:20260927T151720Z
+DTSTAMP:20260928T181557Z
 UID:2241186137b505cf7c814cd90b60@visitri-calendar
 DESCRIPTION:The music of Logan Vale! Dinner reservations required either o
  nline or call 401.861.3850 x. 3\n\nSource: https://www.visitrhodeisland.co
@@ -969,7 +839,7 @@ BEGIN:VEVENT
 SUMMARY:Tour de Vino Wine Dinner
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261023
-DTSTAMP:20260927T151720Z
+DTSTAMP:20260928T181557Z
 UID:cb727bd087bb1926972b6366d20d@visitri-calendar
 DESCRIPTION:Tour de Vino will be at The Brook Kitchen + Bar on October 22.
   Join us for an intimate four-course wine dinner featuring carefully selec
@@ -985,7 +855,7 @@ BEGIN:VEVENT
 SUMMARY:"Nocturnes" Exhibit at Spring Bull Gallery
 DTSTART;VALUE=DATE:20261025
 DTEND;VALUE=DATE:20261026
-DTSTAMP:20260927T151720Z
+DTSTAMP:20260928T181557Z
 UID:945340681c00f5d79c305667c5c8@visitri-calendar
 DESCRIPTION:"Nocturnes" An Art Exhibit at Spring Bull Gallery When: Septem
  ber 19 - October 25\, 2026 from 12:00 to 5:00 PM Opening Reception: Sunday
@@ -1004,49 +874,10 @@ URL:https://www.visitrhodeisland.com/event/nocturnes-exhibit-at-spring-bul
  l-gallery/111782/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Alger Mitchell at SALTwater Harborside Dining
-DTSTART;VALUE=DATE:20261025
-DTEND;VALUE=DATE:20261026
-DTSTAMP:20260927T151720Z
-UID:c8707a642277214ae36e5ea850d3@visitri-calendar
-DESCRIPTION:Alger Mitchell at SALTwater Harborside Dining Sundays from 4:0
- 0 to 7:00 PM Alger Mitchell is a dynamic song stylist\, songwriter\, and v
- ocalist\, delivering captivating performances with guitar and harmonica. B
- oasting a remarkable repertoire of approximately 250 songs performed entir
- ely from memory\, Alger's music is 100% live\, free of electronic enhancem
- ents. His versatile setlist spans the timeless classics of The Great Ameri
- can Songbook\, from Broadway to Hollywood\, alongside beloved jazz and pop
-  standards\, classic country\, oldies\, and his own original compositions.
-  With infectious energy\, his live performances invite optional dancing\, 
- making it nearly impossible to resist moving to the music! Keep a smile on
-  your face and a song in your heart!\n\nSource: https://www.visitrhodeisla
- nd.com/event/alger-mitchell-at-saltwater-harborside-dining/110157/
-LOCATION:Saltwater at The Newport Harbor Hotel & Marina\, 49 America's Cup
-  Avenue\, Newport\, RI 02840 Time: 4:00 PM to 7:00 PM 49 America's Cup Ave
- nue\, Newport\, RI 02840 OFFICIAL RHODE ISLAND TRAVEL GUIDE Get Guide Get 
- news from Visit Rhode Island in your inbox. Industry Partner Leisure Trave
- l Sign Up Ratings Powered by Press Industry Travel Trade Meetings & Conven
- tions Contact Privacy Policy Sitemap Partner Portal SMS Privacy Policy SMS
-  Terms & Conditions UGC Terms and Conditions Wedding Planning Press Photos
-  Story Ideas Fun-Sized Rhode Island Rhode Island in the News Free Travel G
- uide Contact Visit Rhode Island Industry Travel Trade Ideas & Itineraries 
- Downton Abbey Lifestyle Rhode Island Foodways Hidden Gems Image Library Fr
- ee Travel Guide Contact Visit Rhode Island Meetings & Conventions Contact 
- Privacy Policy Sitemap Partner Portal SMS Privacy Policy SMS Terms & Condi
- tions UGC Terms and Conditions Wedding Planning Weddings - Venues Wedding 
- - Catering Wedding - Cakes Wedding - Attire Wedding - Florists Wedding - J
- ewelers Wedding - Transportation © 2026 Rhode Island Commerce Corporation
-  Special Offers Offers Here Looking to plan your next visit to Rhode Islan
- d\, check out some of the current special offers and enjoy savings\, extra
-  perks and more! Offers Here
-URL:https://www.visitrhodeisland.com/event/alger-mitchell-at-saltwater-har
- borside-dining/110157/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Annual Harvest Festival at Newport Vineyards
 DTSTART;VALUE=DATE:20261025
 DTEND;VALUE=DATE:20261026
-DTSTAMP:20260927T151720Z
+DTSTAMP:20260928T181557Z
 UID:3f036be2c60a1a4587e7b53ef705@visitri-calendar
 DESCRIPTION:Celebrate the 9 th Annual Harvest Festival with Newport Vineya
  rds! When: Sunday\, October 25th More details to be announced! General Adm
@@ -1062,7 +893,7 @@ BEGIN:VEVENT
 SUMMARY:Coastal Cruisers - The Golden Hour
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
-DTSTAMP:20260927T151720Z
+DTSTAMP:20260928T181557Z
 UID:a33f7731698b5451e05ba44e42fd@visitri-calendar
 DESCRIPTION:Experience the Island in our Coastal Cruisers\, Newport’s pr
  ivate chauffeured luxury tour\, dedicated to providing a sophisticated way
@@ -1092,7 +923,7 @@ BEGIN:VEVENT
 SUMMARY:Jack-O-Lantern Spectacular
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
-DTSTAMP:20260927T151720Z
+DTSTAMP:20260928T181557Z
 UID:ddc52d2e1f830141a3c1c36cbc2b@visitri-calendar
 DESCRIPTION:Jack-O-Lantern Spectacular: The Great Pun-Kin Trail\, presente
  d by Citizens\, returns October 1 &#8211\; November 1 with an all-new trai
@@ -1117,7 +948,7 @@ BEGIN:VEVENT
 SUMMARY:The Intentional Celebration: Holiday Edition
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
-DTSTAMP:20260927T151720Z
+DTSTAMP:20260928T181557Z
 UID:6f484250684bf2271dde2a31e276@visitri-calendar
 DESCRIPTION:The Intentional Celebration: Holiday Edition is a two-day indo
  or holiday market and immersive Christmas experience taking place December
@@ -1147,7 +978,7 @@ BEGIN:VEVENT
 SUMMARY:The Intentional Celebration: Holiday Edition
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
-DTSTAMP:20260927T151720Z
+DTSTAMP:20260928T181557Z
 UID:f0031a8c4f9ec38b7e0300063594@visitri-calendar
 DESCRIPTION:The Intentional Celebration: Holiday Edition is a two-day indo
  or holiday market and immersive Christmas experience taking place December
@@ -1174,10 +1005,26 @@ URL:https://www.visitrhodeisland.com/event/the-intentional-celebration%3a-
  holiday-edition/111943/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Children's Weekly Storytime
+DTSTART;VALUE=DATE:20261221
+DTEND;VALUE=DATE:20261222
+DTSTAMP:20260928T181557Z
+UID:505c13cc68dfd1161c6032fdf540@visitri-calendar
+DESCRIPTION:Children's Storytime Join Elizabeth as she hosts storytime on 
+ Monday mornings at 10:30 AM. Every Monday\, Elizabeth will chose a book co
+ rrelating with the season or holiday. All children and their families are 
+ welcome to join!\n\nSource: https://www.visitrhodeisland.com/event/childre
+ ns-weekly-storytime/109524/
+LOCATION:Charter Books\, 8 Broadway\, Newport\, RI 02840 Time: 10:30 AM to
+  11:00 AM
+URL:https://www.visitrhodeisland.com/event/childrens-weekly-storytime/1095
+ 24/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Beyond the Brewhouse Tour
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
-DTSTAMP:20260927T151720Z
+DTSTAMP:20260928T181557Z
 UID:c7b48636db9ede5f5acbbb263d31@visitri-calendar
 DESCRIPTION:Beyond the Brewhouse Where: Newport Craft Brewing and Distilli
  ng\, 293 JT Connell Road\, Newport 45 minutes: $20 per person Did you know
@@ -1191,5 +1038,23 @@ LOCATION:Newport Craft Brewing & Distilling Company\, 293 JT Connell Road
  \, Newport\, RI 02840 Time: 45 minutes: Tour start time varies by booking.
 URL:https://www.visitrhodeisland.com/event/beyond-the-brewhouse-tour/11015
  3/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Burritos & Bowls—Lunch Specials at Yellow Door Taqueria!
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+DTSTAMP:20260928T181557Z
+UID:a47385cf36c194bcd701d4733276@visitri-calendar
+DESCRIPTION:Our new Burrito &amp\; Bowl lunch specials have arrived at Yel
+ low Door Taqueria in downtown Providence! Perfect for dining in or taking 
+ back to the office\, turn your favorite taco into a delicious bowl or try 
+ a specialty burrito! Check out the full menu on our website! Available Mon
+ day-Friday\, 11:30 AM-5 PM!\n\nSource: https://www.visitrhodeisland.com/ev
+ ent/burritos-%26-bowls%e2%80%94lunch-specials-at-yellow-door-taqueria!/111
+ 544/
+LOCATION:Yellow Door Taqueria\, 191 Dorrance Street\, Providence\, RI 0290
+ 3
+URL:https://www.visitrhodeisland.com/event/burritos-%26-bowls%e2%80%94lunc
+ h-specials-at-yellow-door-taqueria!/111544/
 END:VEVENT
 END:VCALENDAR
