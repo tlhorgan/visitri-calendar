@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:$15 Moonshine Flights & Moonshine Tasting
 DTSTART;VALUE=DATE:20250615
 DTEND;VALUE=DATE:20250616
-DTSTAMP:20261001T171500Z
+DTSTAMP:20261002T162223Z
 UID:b6432d870f2c0958f26453a40d59@visitri-calendar
 DESCRIPTION:Try a Moonshine Flight tasting at Moonshine Alley! Moonshine F
  lights are available daily for just $15! We have over 13 flavors to choose
@@ -23,7 +23,7 @@ BEGIN:VEVENT
 SUMMARY:Coastal Cruisers - The Golden Hour
 DTSTART;VALUE=DATE:20260501
 DTEND;VALUE=DATE:20260502
-DTSTAMP:20261001T171500Z
+DTSTAMP:20261002T162223Z
 UID:9f3864060ce7679e35293700f37c@visitri-calendar
 DESCRIPTION:Experience the Island in our Coastal Cruisers\, Newport’s pr
  ivate chauffeured luxury tour\, dedicated to providing a sophisticated way
@@ -53,7 +53,7 @@ BEGIN:VEVENT
 SUMMARY:Beyond the Brewhouse Tour
 DTSTART;VALUE=DATE:20260515
 DTEND;VALUE=DATE:20260516
-DTSTAMP:20261001T171500Z
+DTSTAMP:20261002T162223Z
 UID:acc9d8e1d1bdab34c6766b602473@visitri-calendar
 DESCRIPTION:Beyond the Brewhouse Where: Newport Craft Brewing and Distilli
  ng\, 293 JT Connell Road\, Newport 45 minutes: $20 per person Did you know
@@ -72,7 +72,7 @@ BEGIN:VEVENT
 SUMMARY:$15 Moonshine Flights & Moonshine Tasting
 DTSTART;VALUE=DATE:20260721
 DTEND;VALUE=DATE:20260722
-DTSTAMP:20261001T171500Z
+DTSTAMP:20261002T162223Z
 UID:6ac059c408c431eceb1c3c855c19@visitri-calendar
 DESCRIPTION:Try a Moonshine Flight tasting at Moonshine Alley! Moonshine F
  lights are available daily for just $15! We have over 13 flavors to choose
@@ -85,44 +85,10 @@ URL:https://www.visitrhodeisland.com/event/%2415-moonshine-flights-%26-moo
  nshine-tasting/105663/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Deja Vieux Vintage Shopping Bus Tour Adventure - October 4th
-DTSTART;VALUE=DATE:20260817
-DTEND;VALUE=DATE:20260818
-DTSTAMP:20261001T171500Z
-UID:912e503a9012deae13b33d1d0a85@visitri-calendar
-DESCRIPTION:⭐Hop Aboard Rhode Island’s First - Ever Vintage Shops Bus 
- Tour!⭐ We invite you to join us at Deja Vieux Vintage for a uniquely cur
- ated shopping adventure! On Sunday\, October 4th\, from 10:30 AM to 4:00 P
- M\, we are hitting the road for a premier 5-hour vintage bus tour down Rou
- te 6 and Route 44. The tour features exclusive discounts at 8 to 12 of our
-  favorite local antique and vintage shops\, making it the perfect day out 
- for collectors and vintage lovers alike. The Ultimate Vintage &amp\; Antiq
- ue Bus Tour Host: Deja Vieux Vintage Date &amp\; Time: Sunday\, October 4t
- h | 10:30 AM &#8211\; 4:00 PM Ticket Information: • Single Ticket: $37.5
- 0 • Bring a Friend Bundle: Two for $70 Every ticket comes packed with va
- lue! You get your bus boarding pass\, event shopping bag\, coupon booklet
- \, complimentary snacks and water\, plus a chance to win prizes. Departure
-  &amp\; Logistics Details: To ensure a smooth departure\, please arrive at
-  Deja Vieux Vintage on Sunday\, October 4th\, before 10:30 AM. Our storefr
- ont will be open early so you can enjoy your very first shopping experienc
- e of the day! Parking is completely free. Our bus leaves promptly at 11:00
-  AM. We will be traveling on a chartered yellow school bus from Ocean Stat
- e Transit\; please note that this vehicle is unfortunately not handicap ac
- cessible. Single ticket holders may need to share seats\, while our friend
- s bundles ticket holders guarantee seating together. Complimentary snacks 
- and water will be provided on board\, and you are welcome to bring your ow
- n allergen-free lunch. Tickets are non-refundable but are transferable.\n
- \nSource: https://www.visitrhodeisland.com/event/deja-vieux-vintage-shoppi
- ng-bus-tour-adventure-october-4th/111403/
-LOCATION:Deja Vieux Vintage\, 20 Cedar Swamp Rd.\, Smithfield\, 02917
-URL:https://www.visitrhodeisland.com/event/deja-vieux-vintage-shopping-bus
- -tour-adventure-october-4th/111403/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Burritos & Bowls—Lunch Specials at Yellow Door Taqueria!
 DTSTART;VALUE=DATE:20260826
 DTEND;VALUE=DATE:20260827
-DTSTAMP:20261001T171500Z
+DTSTAMP:20261002T162223Z
 UID:cd9e59bf1148392bbbdd7c30628e@visitri-calendar
 DESCRIPTION:Our new Burrito &amp\; Bowl lunch specials have arrived at Yel
  low Door Taqueria in downtown Providence! Perfect for dining in or taking 
@@ -140,7 +106,7 @@ BEGIN:VEVENT
 SUMMARY:"Nocturnes" Exhibit at Spring Bull Gallery
 DTSTART;VALUE=DATE:20260913
 DTEND;VALUE=DATE:20260914
-DTSTAMP:20261001T171500Z
+DTSTAMP:20261002T162223Z
 UID:b3a6362c63e2fad1624808d0342f@visitri-calendar
 DESCRIPTION:"Nocturnes" An Art Exhibit at Spring Bull Gallery When: Septem
  ber 19 - October 25\, 2026 from 12:00 to 5:00 PM Opening Reception: Sunday
@@ -159,11 +125,59 @@ URL:https://www.visitrhodeisland.com/event/nocturnes-exhibit-at-spring-bul
  l-gallery/111782/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:"Skyward:" Anne Patterson & James Teschner
+SUMMARY:Audrain’s Newport Concours & Motor Week
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
-DTSTAMP:20261001T171500Z
-UID:8b61cef351baff23ec944743fd95@visitri-calendar
+DTSTAMP:20261002T162223Z
+UID:0f41938bb0a29b50a4ca259f50cf@visitri-calendar
+DESCRIPTION:Annual Concours &amp\; Motor Week: Thursday\, October 1st thro
+ ugh Sunday\, October 4th 2026! The annual Audrain Newport Concours &amp\; 
+ Motor Week celebrates the diversity\, elegance\, and timelessness of class
+ ic and modern vehicles and the people who bond with them. With a week’s 
+ worth of incredible car showcases\, alongside a plethora of fun gatherings
+ \, seminars\, and other luxurious events\, the Audrain Newport Concours &a
+ mp\; Motor Week is sure to entertain\, with all events leading up to the f
+ inale of the week\, the Concours d’Elegance. The Concours d'Elegance fea
+ tures multiple classes of meticulously cared for cars that have had a sign
+ ificant impact on automotive history. More details to come!\n\nSource: htt
+ ps://www.visitrhodeisland.com/event/audrain%e2%80%99s-newport-concours-%26
+ -motor-week/109511/
+LOCATION:Newport\, Rhode Island\, Varies by event.\, Newport\, RI 02840 Ti
+ me: 9:00 AM to 5:00 PM
+URL:https://www.visitrhodeisland.com/event/audrain%e2%80%99s-newport-conco
+ urs-%26-motor-week/109511/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jack-O-Lantern Spectacular
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+DTSTAMP:20261002T162223Z
+UID:a11cb847b167f6db3762e7d7aba4@visitri-calendar
+DESCRIPTION:Jack-O-Lantern Spectacular: The Great Pun-Kin Trail\, presente
+ d by Citizens\, returns October 1 &#8211\; November 1 with an all-new trai
+ l of clever carvings guaranteed to make you smile\, groan\, and laugh out 
+ loud. This year’s theme celebrates the art of the pun\, with thousands o
+ f hand-carved pumpkins bringing witty wordplay to life through pop culture
+  references\, playful characters and pun-believable scenes. From clever on
+ e-liners to delightfully cheesy dad jokes\, there’s something to make ev
+ ery guest grin as they stroll The Great Pun-Kin Trail\, where over 5\,000 
+ glowing jack-o’-lanterns illuminate the Zoo. Don’t miss New England’
+ s “must-see” family-friendly event of the Halloween season at Roger Wi
+ lliams Park Zoo. All tickets must be purchased online in advance. Tickets 
+ are required and sold online only. No refunds or rescheduling. Buy Tickets
+ \n\nSource: https://www.visitrhodeisland.com/event/jack-o-lantern-spectacu
+ lar/92071/
+LOCATION:Roger Williams Park Zoo\, 1000 Elmwood Avenue\, Providence\, RI 0
+ 2907
+URL:https://www.visitrhodeisland.com/event/jack-o-lantern-spectacular/9207
+ 1/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:"Skyward:" Anne Patterson & James Teschner
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
+DTSTAMP:20261002T162223Z
+UID:5f057236d90fc47868a8a017d507@visitri-calendar
 DESCRIPTION:"Skyward:" Anne Patterson &amp\; James Teschner Exhibition Dat
  es: September 5- October 3\, 2026 Opening Reception: Saturday September 5
  \, 2026\, 5:00- 7:00 PM "Skyward:" Anne Patterson &amp\; James Teschner Je
@@ -197,11 +211,94 @@ URL:https://www.visitrhodeisland.com/event/skyward%3a-anne-patterson-%26-j
  ames-teschner/111508/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:A New England Thanksgiving
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
+DTSTAMP:20261002T162223Z
+UID:881e28036260be44eefb78a0a9ed@visitri-calendar
+DESCRIPTION:Join the Coggeshall staff as we prepare a Thanksgiving meal ov
+ er the hearth in our historic farmhouse. The late 18th century was before 
+ the official start of Thanksgiving as a national holiday\, but the day was
+  still celebrated with food and prayer in New England. Watch our costumed 
+ historians make chicken on a string\, bake a pie in the hot coals\, mash t
+ urnips and churn butter. In the woodshop we will also demonstrate carving 
+ wooden spoons. Explore the garden to see the last of the fall harvest. Wal
+ k the nature trail and look for signs of wild turkey\, see musket demonstr
+ ations and try your aim with rubber band targets. Please note: This is not
+  a Thanksgiving meal for visitors to eat. Food prepared in the historic Fa
+ rmhouse Kitchen does not meet modern health and food preparation codes for
+  public consumption.\n\nSource: https://www.visitrhodeisland.com/event/a-n
+ ew-england-thanksgiving/112116/
+LOCATION:Coggeshall Farm Museum\, 1 Colt Drive\, Bristol\, 02809 Time: 10:
+ 00 AM to 4:00 PM
+URL:https://www.visitrhodeisland.com/event/a-new-england-thanksgiving/1121
+ 16/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AD/HD at the Charlestown Rathskeller 2026
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
+DTSTAMP:20261002T162223Z
+UID:2ee1ee5f6258d06f629016a28aa2@visitri-calendar
+DESCRIPTION:Time: Friday\, October 2\, 2026 from 8:00 - 11:00 pm Location:
+  The Charlestown Rathskeller Tavern\, Charlestown\, RI What: Get ready for
+  a high-voltage night of pure rock and roll! Join us at the legendary Char
+ lestown Rathskeller for a live performance by AD/HD\, an electrifying trib
+ ute dedicated to the iconic sound of AC/DC. They'll have you shaking all n
+ ight long to heavy metal's greatest anthems! Tickets &amp\; Info: $10 onli
+ ne (plus EventBrite fees) and $15 at the door! Come early for dinner and d
+ rinks — stay for the music. Tickets may go fast\, so grab yours at the l
+ ink below soon and rally your crew for a night to remember! Purchase Ticke
+ ts About the Venue: The Charlestown Rathskeller isn’t just a restaurant 
+ — it’s a local legend nestled in the woods of Charlestown since 1933. 
+ This historic tavern offers a warm\, rustic atmosphere\, an expansive outd
+ oor patio\, a roaring bonfire\, lawn games like cornhole and bocce\, and m
+ outhwatering food and drinks. Whether you're grabbing deliciously grilled 
+ steaks\, burgers\, and brews or just soaking in the scene\, it's the perfe
+ ct backdrop for a night of live music and good times. About the Band: AD/H
+ D is a premier regional tribute act capturing the manic energy\, iconic vo
+ cals\, and blistering guitar solos of AC/DC's legendary career. Delivering
+  heavy metal hits from the Bon Scott and Brian Johnson eras\, they provide
+  a deeply authentic and headbanging concert experience for every rock fan.
+  Check them out online: https://adhdne.com/ 🔥 Outdoor vibes. 🎶 Kille
+ r music. 🍻 Great eats. Let’s make Friday\, October 2 legendary with A
+ D/HD (AC/DC Tribute) at The Charlestown Rathskeller! Ready to rock? Get yo
+ ur tickets online now via Eventbrite!\n\nSource: https://www.visitrhodeisl
+ and.com/event/ad-hd-at-the-charlestown-rathskeller-2026/112032/
+LOCATION:The Charlestown Rathskeller Tavern\, Charlestown\, RI What: Get r
+ eady for a high-voltage night of pure rock and roll! Join us at the legend
+ ary Charlestown Rathskeller for a live performance by AD/HD\, an electrify
+ ing tribute dedicated to the iconic sound of AC/DC. They'll have you shaki
+ ng all night long to heavy metal's greatest anthems! Tickets & Info: $10 o
+ nline (plus EventBrite fees) and $15 at the door! Come early for dinner an
+ d drinks — stay for the music. Tickets may go fast\, so grab yours at th
+ e link below soon and rally your crew for a night to remember! Purchase Ti
+ ckets About the Venue: The Charlestown Rathskeller isn’t just a restaura
+ nt — it’s a local legend nestled in the woods of Charlestown since 193
+ 3. This historic tavern offers a warm\, rustic atmosphere\, an expansive o
+ utdoor patio\, a roaring bonfire\, lawn games like cornhole and bocce\, an
+ d mouthwatering food and drinks. Whether you're grabbing deliciously grill
+ ed steaks\, burgers\, and brews or just soaking in the scene\, it's the pe
+ rfect backdrop for a night of live music and good times. About the Band: A
+ D/HD is a premier regional tribute act capturing the manic energy\, iconic
+  vocals\, and blistering guitar solos of AC/DC's legendary career. Deliver
+ ing heavy metal hits from the Bon Scott and Brian Johnson eras\, they prov
+ ide a deeply authentic and headbanging concert experience for every rock f
+ an. Check them out online: https://adhdne.com/ 🔥 Outdoor vibes. 🎶 Ki
+ ller music. 🍻 Great eats. Let’s make Friday\, October 2 legendary wit
+ h AD/HD (AC/DC Tribute) at The Charlestown Rathskeller! Ready to rock? Get
+  your tickets online now via Eventbrite! Show More View Website 1 / 1 Addi
+ tional Information\, 489a Old Coach Road\, Charlestown\, 02813 Time: 8:00 
+ PM to 11:00 PM
+URL:https://www.visitrhodeisland.com/event/ad-hd-at-the-charlestown-rathsk
+ eller-2026/112032/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Annual Harvest Festival at Newport Vineyards
-DTSTART;VALUE=DATE:20261001
-DTEND;VALUE=DATE:20261002
-DTSTAMP:20261001T171500Z
-UID:2ee88eabdef7a0d1d3fb68f70b43@visitri-calendar
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
+DTSTAMP:20261002T162223Z
+UID:e16fc1f3d11b8781ca17f612ea98@visitri-calendar
 DESCRIPTION:Celebrate the 9 th Annual Harvest Festival with Newport Vineya
  rds! When: Sunday\, October 25th More details to be announced! General Adm
  ission and Non-Tasting Admission Tickets will be available\n\nSource: http
@@ -213,34 +310,11 @@ URL:https://www.visitrhodeisland.com/event/annual-harvest-festival-at-newp
  ort-vineyards/111769/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Audrain’s Newport Concours & Motor Week
-DTSTART;VALUE=DATE:20261001
-DTEND;VALUE=DATE:20261002
-DTSTAMP:20261001T171500Z
-UID:0f41938bb0a29b50a4ca259f50cf@visitri-calendar
-DESCRIPTION:Annual Concours &amp\; Motor Week: Thursday\, October 1st thro
- ugh Sunday\, October 4th 2026! The annual Audrain Newport Concours &amp\; 
- Motor Week celebrates the diversity\, elegance\, and timelessness of class
- ic and modern vehicles and the people who bond with them. With a week’s 
- worth of incredible car showcases\, alongside a plethora of fun gatherings
- \, seminars\, and other luxurious events\, the Audrain Newport Concours &a
- mp\; Motor Week is sure to entertain\, with all events leading up to the f
- inale of the week\, the Concours d’Elegance. The Concours d'Elegance fea
- tures multiple classes of meticulously cared for cars that have had a sign
- ificant impact on automotive history. More details to come!\n\nSource: htt
- ps://www.visitrhodeisland.com/event/audrain%e2%80%99s-newport-concours-%26
- -motor-week/109511/
-LOCATION:Newport\, Rhode Island\, Varies by event.\, Newport\, RI 02840 Ti
- me: 9:00 AM to 5:00 PM
-URL:https://www.visitrhodeisland.com/event/audrain%e2%80%99s-newport-conco
- urs-%26-motor-week/109511/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Fall Fest at The Loom Hotel
-DTSTART;VALUE=DATE:20261001
-DTEND;VALUE=DATE:20261002
-DTSTAMP:20261001T171500Z
-UID:21c9dde82915a84a5bebf4f2aee5@visitri-calendar
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
+DTSTAMP:20261002T162223Z
+UID:25c1ccf4b5aeda9bed0b5206c389@visitri-calendar
 DESCRIPTION:Celebrate fall at The Loom with seasonal drinks\, local vendor
  s\, festive activities\, and riverside views. Celebrate fall along the riv
  er at Fall Fest at The Loom Hotel! Join us on the Riverview Deck for an af
@@ -263,36 +337,11 @@ URL:https://www.visitrhodeisland.com/event/fall-fest-at-the-loom-hotel/111
  938/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Jack-O-Lantern Spectacular
-DTSTART;VALUE=DATE:20261001
-DTEND;VALUE=DATE:20261002
-DTSTAMP:20261001T171500Z
-UID:a11cb847b167f6db3762e7d7aba4@visitri-calendar
-DESCRIPTION:Jack-O-Lantern Spectacular: The Great Pun-Kin Trail\, presente
- d by Citizens\, returns October 1 &#8211\; November 1 with an all-new trai
- l of clever carvings guaranteed to make you smile\, groan\, and laugh out 
- loud. This year’s theme celebrates the art of the pun\, with thousands o
- f hand-carved pumpkins bringing witty wordplay to life through pop culture
-  references\, playful characters and pun-believable scenes. From clever on
- e-liners to delightfully cheesy dad jokes\, there’s something to make ev
- ery guest grin as they stroll The Great Pun-Kin Trail\, where over 5\,000 
- glowing jack-o’-lanterns illuminate the Zoo. Don’t miss New England’
- s “must-see” family-friendly event of the Halloween season at Roger Wi
- lliams Park Zoo. All tickets must be purchased online in advance. Tickets 
- are required and sold online only. No refunds or rescheduling. Buy Tickets
- \n\nSource: https://www.visitrhodeisland.com/event/jack-o-lantern-spectacu
- lar/92071/
-LOCATION:Roger Williams Park Zoo\, 1000 Elmwood Avenue\, Providence\, RI 0
- 2907
-URL:https://www.visitrhodeisland.com/event/jack-o-lantern-spectacular/9207
- 1/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:RISD Craft Fall 2026
-DTSTART;VALUE=DATE:20261001
-DTEND;VALUE=DATE:20261002
-DTSTAMP:20261001T171500Z
-UID:89ced9cae38091ca03b31bcbbd38@visitri-calendar
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
+DTSTAMP:20261002T162223Z
+UID:864f0413e27e6ba27b00e6dfa96d@visitri-calendar
 DESCRIPTION:Join us for our annual community-favorite event\, RISD Craft\,
   happening outdoors on Providence’s historic Benefit Street during RISD 
  Families Weekend. Engage with more than 120 alumni and student artists\, d
@@ -306,10 +355,10 @@ URL:https://www.visitrhodeisland.com/event/risd-craft-fall-2026/111690/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tour de Vino Wine Dinner
-DTSTART;VALUE=DATE:20261001
-DTEND;VALUE=DATE:20261002
-DTSTAMP:20261001T171500Z
-UID:a95d54f41907441fb19cf48e094b@visitri-calendar
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
+DTSTAMP:20261002T162223Z
+UID:f046dc1c7b5dea6c28889ec1af39@visitri-calendar
 DESCRIPTION:Tour de Vino will be at The Brook Kitchen + Bar on October 22.
   Join us for an intimate four-course wine dinner featuring carefully selec
  ted pairings from Hope Family Wines. This event is part of a traveling win
@@ -324,7 +373,7 @@ BEGIN:VEVENT
 SUMMARY:Audrain’s Newport Concours & Motor Week
 DTSTART;VALUE=DATE:20261004
 DTEND;VALUE=DATE:20261005
-DTSTAMP:20261001T171500Z
+DTSTAMP:20261002T162223Z
 UID:256b6c9fc8c69359facbaf8cf341@visitri-calendar
 DESCRIPTION:Annual Concours &amp\; Motor Week: Thursday\, October 1st thro
  ugh Sunday\, October 4th 2026! The annual Audrain Newport Concours &amp\; 
@@ -344,44 +393,10 @@ URL:https://www.visitrhodeisland.com/event/audrain%e2%80%99s-newport-conco
  urs-%26-motor-week/109511/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Deja Vieux Vintage Shopping Bus Tour Adventure - October 4th
-DTSTART;VALUE=DATE:20261005
-DTEND;VALUE=DATE:20261006
-DTSTAMP:20261001T171500Z
-UID:5fe8cdac575b282879f35adb305f@visitri-calendar
-DESCRIPTION:⭐Hop Aboard Rhode Island’s First - Ever Vintage Shops Bus 
- Tour!⭐ We invite you to join us at Deja Vieux Vintage for a uniquely cur
- ated shopping adventure! On Sunday\, October 4th\, from 10:30 AM to 4:00 P
- M\, we are hitting the road for a premier 5-hour vintage bus tour down Rou
- te 6 and Route 44. The tour features exclusive discounts at 8 to 12 of our
-  favorite local antique and vintage shops\, making it the perfect day out 
- for collectors and vintage lovers alike. The Ultimate Vintage &amp\; Antiq
- ue Bus Tour Host: Deja Vieux Vintage Date &amp\; Time: Sunday\, October 4t
- h | 10:30 AM &#8211\; 4:00 PM Ticket Information: • Single Ticket: $37.5
- 0 • Bring a Friend Bundle: Two for $70 Every ticket comes packed with va
- lue! You get your bus boarding pass\, event shopping bag\, coupon booklet
- \, complimentary snacks and water\, plus a chance to win prizes. Departure
-  &amp\; Logistics Details: To ensure a smooth departure\, please arrive at
-  Deja Vieux Vintage on Sunday\, October 4th\, before 10:30 AM. Our storefr
- ont will be open early so you can enjoy your very first shopping experienc
- e of the day! Parking is completely free. Our bus leaves promptly at 11:00
-  AM. We will be traveling on a chartered yellow school bus from Ocean Stat
- e Transit\; please note that this vehicle is unfortunately not handicap ac
- cessible. Single ticket holders may need to share seats\, while our friend
- s bundles ticket holders guarantee seating together. Complimentary snacks 
- and water will be provided on board\, and you are welcome to bring your ow
- n allergen-free lunch. Tickets are non-refundable but are transferable.\n
- \nSource: https://www.visitrhodeisland.com/event/deja-vieux-vintage-shoppi
- ng-bus-tour-adventure-october-4th/111403/
-LOCATION:Deja Vieux Vintage\, 20 Cedar Swamp Rd.\, Smithfield\, 02917
-URL:https://www.visitrhodeisland.com/event/deja-vieux-vintage-shopping-bus
- -tour-adventure-october-4th/111403/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:2026 Autumnfest
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
-DTSTAMP:20261001T171500Z
+DTSTAMP:20261002T162223Z
 UID:a2d09522ca26cb23a52126961053@visitri-calendar
 DESCRIPTION:Join us in 2026! Autumnfest is a family-friendly fall festival
   held annually in Woonsocket\, Rhode Island\, celebrating the spirit of No
@@ -416,7 +431,7 @@ BEGIN:VEVENT
 SUMMARY:2026 Autumnfest
 DTSTART;VALUE=DATE:20261010
 DTEND;VALUE=DATE:20261011
-DTSTAMP:20261001T171500Z
+DTSTAMP:20261002T162223Z
 UID:132c20b3c276757ef130a0a768c5@visitri-calendar
 DESCRIPTION:Join us in 2026! Autumnfest is a family-friendly fall festival
   held annually in Woonsocket\, Rhode Island\, celebrating the spirit of No
@@ -451,7 +466,7 @@ BEGIN:VEVENT
 SUMMARY:2026 Scituate Art Festival
 DTSTART;VALUE=DATE:20261010
 DTEND;VALUE=DATE:20261011
-DTSTAMP:20261001T171500Z
+DTSTAMP:20261002T162223Z
 UID:79b4728723e69fc14ceeff860335@visitri-calendar
 DESCRIPTION:Festival Update: Come celebrate the fall season by visiting us
   on the Village Green in North Scituate. Browse and buy original fine art
@@ -486,7 +501,7 @@ BEGIN:VEVENT
 SUMMARY:Fall Fest at The Loom Hotel
 DTSTART;VALUE=DATE:20261010
 DTEND;VALUE=DATE:20261011
-DTSTAMP:20261001T171500Z
+DTSTAMP:20261002T162223Z
 UID:63ea241659fdd4c11238c92bb974@visitri-calendar
 DESCRIPTION:Celebrate fall at The Loom with seasonal drinks\, local vendor
  s\, festive activities\, and riverside views. Celebrate fall along the riv
@@ -513,7 +528,7 @@ BEGIN:VEVENT
 SUMMARY:RISD Craft Fall 2026
 DTSTART;VALUE=DATE:20261010
 DTEND;VALUE=DATE:20261011
-DTSTAMP:20261001T171500Z
+DTSTAMP:20261002T162223Z
 UID:d6d4d2a739ccdae1769d70accc32@visitri-calendar
 DESCRIPTION:Join us for our annual community-favorite event\, RISD Craft\,
   happening outdoors on Providence’s historic Benefit Street during RISD 
@@ -530,7 +545,7 @@ BEGIN:VEVENT
 SUMMARY:2026 Autumnfest
 DTSTART;VALUE=DATE:20261011
 DTEND;VALUE=DATE:20261012
-DTSTAMP:20261001T171500Z
+DTSTAMP:20261002T162223Z
 UID:1c68a5ef706c0175e9f51cf0035f@visitri-calendar
 DESCRIPTION:Join us in 2026! Autumnfest is a family-friendly fall festival
   held annually in Woonsocket\, Rhode Island\, celebrating the spirit of No
@@ -565,7 +580,7 @@ BEGIN:VEVENT
 SUMMARY:2026 Scituate Art Festival
 DTSTART;VALUE=DATE:20261011
 DTEND;VALUE=DATE:20261012
-DTSTAMP:20261001T171500Z
+DTSTAMP:20261002T162223Z
 UID:880ea78ffd1d3f5a02ad1b4d6dcf@visitri-calendar
 DESCRIPTION:Festival Update: Come celebrate the fall season by visiting us
   on the Village Green in North Scituate. Browse and buy original fine art
@@ -600,7 +615,7 @@ BEGIN:VEVENT
 SUMMARY:2026 Autumnfest
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261013
-DTSTAMP:20261001T171500Z
+DTSTAMP:20261002T162223Z
 UID:6f6c4450fd947ffc7512680cc155@visitri-calendar
 DESCRIPTION:Join us in 2026! Autumnfest is a family-friendly fall festival
   held annually in Woonsocket\, Rhode Island\, celebrating the spirit of No
@@ -635,7 +650,7 @@ BEGIN:VEVENT
 SUMMARY:2026 Scituate Art Festival
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261013
-DTSTAMP:20261001T171500Z
+DTSTAMP:20261002T162223Z
 UID:a57830b8782a337068ab3be90fba@visitri-calendar
 DESCRIPTION:Festival Update: Come celebrate the fall season by visiting us
   on the Village Green in North Scituate. Browse and buy original fine art
@@ -670,7 +685,7 @@ BEGIN:VEVENT
 SUMMARY:Live Music by Logan Vale
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261018
-DTSTAMP:20261001T171500Z
+DTSTAMP:20261002T162223Z
 UID:2241186137b505cf7c814cd90b60@visitri-calendar
 DESCRIPTION:The music of Logan Vale! Dinner reservations required either o
  nline or call 401.861.3850 x. 3\n\nSource: https://www.visitrhodeisland.co
@@ -684,7 +699,7 @@ BEGIN:VEVENT
 SUMMARY:Tour de Vino Wine Dinner
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261023
-DTSTAMP:20261001T171500Z
+DTSTAMP:20261002T162223Z
 UID:cb727bd087bb1926972b6366d20d@visitri-calendar
 DESCRIPTION:Tour de Vino will be at The Brook Kitchen + Bar on October 22.
   Join us for an intimate four-course wine dinner featuring carefully selec
@@ -700,7 +715,7 @@ BEGIN:VEVENT
 SUMMARY:"Nocturnes" Exhibit at Spring Bull Gallery
 DTSTART;VALUE=DATE:20261025
 DTEND;VALUE=DATE:20261026
-DTSTAMP:20261001T171500Z
+DTSTAMP:20261002T162223Z
 UID:945340681c00f5d79c305667c5c8@visitri-calendar
 DESCRIPTION:"Nocturnes" An Art Exhibit at Spring Bull Gallery When: Septem
  ber 19 - October 25\, 2026 from 12:00 to 5:00 PM Opening Reception: Sunday
@@ -722,7 +737,7 @@ BEGIN:VEVENT
 SUMMARY:Annual Harvest Festival at Newport Vineyards
 DTSTART;VALUE=DATE:20261025
 DTEND;VALUE=DATE:20261026
-DTSTAMP:20261001T171500Z
+DTSTAMP:20261002T162223Z
 UID:3f036be2c60a1a4587e7b53ef705@visitri-calendar
 DESCRIPTION:Celebrate the 9 th Annual Harvest Festival with Newport Vineya
  rds! When: Sunday\, October 25th More details to be announced! General Adm
@@ -738,7 +753,7 @@ BEGIN:VEVENT
 SUMMARY:Coastal Cruisers - The Golden Hour
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
-DTSTAMP:20261001T171500Z
+DTSTAMP:20261002T162223Z
 UID:a33f7731698b5451e05ba44e42fd@visitri-calendar
 DESCRIPTION:Experience the Island in our Coastal Cruisers\, Newport’s pr
  ivate chauffeured luxury tour\, dedicated to providing a sophisticated way
@@ -768,7 +783,7 @@ BEGIN:VEVENT
 SUMMARY:Jack-O-Lantern Spectacular
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
-DTSTAMP:20261001T171500Z
+DTSTAMP:20261002T162223Z
 UID:ddc52d2e1f830141a3c1c36cbc2b@visitri-calendar
 DESCRIPTION:Jack-O-Lantern Spectacular: The Great Pun-Kin Trail\, presente
  d by Citizens\, returns October 1 &#8211\; November 1 with an all-new trai
@@ -790,10 +805,34 @@ URL:https://www.visitrhodeisland.com/event/jack-o-lantern-spectacular/9207
  1/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:A New England Thanksgiving
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+DTSTAMP:20261002T162223Z
+UID:21d35714802ba10832a84ed3bbac@visitri-calendar
+DESCRIPTION:Join the Coggeshall staff as we prepare a Thanksgiving meal ov
+ er the hearth in our historic farmhouse. The late 18th century was before 
+ the official start of Thanksgiving as a national holiday\, but the day was
+  still celebrated with food and prayer in New England. Watch our costumed 
+ historians make chicken on a string\, bake a pie in the hot coals\, mash t
+ urnips and churn butter. In the woodshop we will also demonstrate carving 
+ wooden spoons. Explore the garden to see the last of the fall harvest. Wal
+ k the nature trail and look for signs of wild turkey\, see musket demonstr
+ ations and try your aim with rubber band targets. Please note: This is not
+  a Thanksgiving meal for visitors to eat. Food prepared in the historic Fa
+ rmhouse Kitchen does not meet modern health and food preparation codes for
+  public consumption.\n\nSource: https://www.visitrhodeisland.com/event/a-n
+ ew-england-thanksgiving/112116/
+LOCATION:Coggeshall Farm Museum\, 1 Colt Drive\, Bristol\, 02809 Time: 10:
+ 00 AM to 4:00 PM
+URL:https://www.visitrhodeisland.com/event/a-new-england-thanksgiving/1121
+ 16/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Intentional Celebration: Holiday Edition
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
-DTSTAMP:20261001T171500Z
+DTSTAMP:20261002T162223Z
 UID:6f484250684bf2271dde2a31e276@visitri-calendar
 DESCRIPTION:The Intentional Celebration: Holiday Edition is a two-day indo
  or holiday market and immersive Christmas experience taking place December
@@ -823,7 +862,7 @@ BEGIN:VEVENT
 SUMMARY:The Intentional Celebration: Holiday Edition
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
-DTSTAMP:20261001T171500Z
+DTSTAMP:20261002T162223Z
 UID:f0031a8c4f9ec38b7e0300063594@visitri-calendar
 DESCRIPTION:The Intentional Celebration: Holiday Edition is a two-day indo
  or holiday market and immersive Christmas experience taking place December
@@ -853,7 +892,7 @@ BEGIN:VEVENT
 SUMMARY:Beyond the Brewhouse Tour
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
-DTSTAMP:20261001T171500Z
+DTSTAMP:20261002T162223Z
 UID:c7b48636db9ede5f5acbbb263d31@visitri-calendar
 DESCRIPTION:Beyond the Brewhouse Where: Newport Craft Brewing and Distilli
  ng\, 293 JT Connell Road\, Newport 45 minutes: $20 per person Did you know
@@ -872,7 +911,7 @@ BEGIN:VEVENT
 SUMMARY:Burritos & Bowls—Lunch Specials at Yellow Door Taqueria!
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
-DTSTAMP:20261001T171500Z
+DTSTAMP:20261002T162223Z
 UID:a47385cf36c194bcd701d4733276@visitri-calendar
 DESCRIPTION:Our new Burrito &amp\; Bowl lunch specials have arrived at Yel
  low Door Taqueria in downtown Providence! Perfect for dining in or taking 
