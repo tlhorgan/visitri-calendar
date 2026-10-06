@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:$15 Moonshine Flights & Moonshine Tasting
 DTSTART;VALUE=DATE:20250615
 DTEND;VALUE=DATE:20250616
-DTSTAMP:20261005T192346Z
+DTSTAMP:20261006T165552Z
 UID:b6432d870f2c0958f26453a40d59@visitri-calendar
 DESCRIPTION:Try a Moonshine Flight tasting at Moonshine Alley! Moonshine F
  lights are available daily for just $15! We have over 13 flavors to choose
@@ -20,26 +20,10 @@ URL:https://www.visitrhodeisland.com/event/%2415-moonshine-flights-%26-moo
  nshine-tasting/105663/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Children's Weekly Storytime
-DTSTART;VALUE=DATE:20260330
-DTEND;VALUE=DATE:20260331
-DTSTAMP:20261005T192346Z
-UID:6a42c90422362e83701e98f899c2@visitri-calendar
-DESCRIPTION:Children's Storytime Join Elizabeth as she hosts storytime on 
- Monday mornings at 10:30 AM. Every Monday\, Elizabeth will chose a book co
- rrelating with the season or holiday. All children and their families are 
- welcome to join!\n\nSource: https://www.visitrhodeisland.com/event/childre
- ns-weekly-storytime/109524/
-LOCATION:Charter Books\, 8 Broadway\, Newport\, RI 02840 Time: 10:30 AM to
-  11:00 AM
-URL:https://www.visitrhodeisland.com/event/childrens-weekly-storytime/1095
- 24/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Coastal Cruisers - The Golden Hour
 DTSTART;VALUE=DATE:20260501
 DTEND;VALUE=DATE:20260502
-DTSTAMP:20261005T192346Z
+DTSTAMP:20261006T165552Z
 UID:9f3864060ce7679e35293700f37c@visitri-calendar
 DESCRIPTION:Experience the Island in our Coastal Cruisers\, Newport’s pr
  ivate chauffeured luxury tour\, dedicated to providing a sophisticated way
@@ -69,7 +53,7 @@ BEGIN:VEVENT
 SUMMARY:Beyond the Brewhouse Tour
 DTSTART;VALUE=DATE:20260515
 DTEND;VALUE=DATE:20260516
-DTSTAMP:20261005T192346Z
+DTSTAMP:20261006T165552Z
 UID:acc9d8e1d1bdab34c6766b602473@visitri-calendar
 DESCRIPTION:Beyond the Brewhouse Where: Newport Craft Brewing and Distilli
  ng\, 293 JT Connell Road\, Newport 45 minutes: $20 per person Did you know
@@ -85,10 +69,43 @@ URL:https://www.visitrhodeisland.com/event/beyond-the-brewhouse-tour/11015
  3/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Adult Beginner Ballet
+DTSTART;VALUE=DATE:20260601
+DTEND;VALUE=DATE:20260602
+DTSTAMP:20261006T165552Z
+UID:cf5e0e692bc1d2ae6c129cad8dd4@visitri-calendar
+DESCRIPTION:Adult Beginner Ballet When: Tuesdays\, September 22\, 2026 - J
+ une 1\, 2027 Where: The Academy at Newport Contemporary Ballet\, 3 Charles
+  Street\, Newport Our adult division welcomes adult dancers of all ages an
+ d abilities. Adult classes are designed to provide a relaxed\, supportive
+ \, and fun atmosphere while learning new skills and and providing a great 
+ physical workout. Adult classes are filled with adults who have either dan
+ ced when they were young or have always wanted to dance but never had the 
+ opportunity. No dress code is required. Classes are designed to welcome ad
+ ult dancers of all ages and abilities. These classes offer a fun way for d
+ ancers to exercise\, meet new friends\, and enjoy movement! ($18-20/class
+ \, 1 hr 15 min) (Instagram: @theacademyatncb) Adult Classes: Adults of any
+  age and level are welcome to experience the joy of dance with the Academy
+ ! We understand it can be nerve wracking walking into a dance studio full 
+ of mirrors but not to worry\, the Academy offers a nurturing environment w
+ here adult students will feel supported\, challenged\, and fulfilled. Our 
+ teachers are caring\, patient and will give corrections. Adult students ne
+ w to dance will enjoy our Adult Absolute Beginner class. Adults who have d
+ ance experience are welcome to join Monday level 4 classes as well as any 
+ Adult classes on pointe. Classes may be paid with dance cards (10 classes 
+ paid in advance) or as single drop in class to accommodate your busy sched
+ ule. Adults can wear comfortable clothing of their choice. We do suggest w
+ earing socks or ballet slippers and pulling back long hair.\n\nSource: htt
+ ps://www.visitrhodeisland.com/event/adult-beginner-ballet/112082/
+LOCATION:The Academy at Newport Contemporary Ballet\, 3 Charles Street\, N
+ ewport\, RI 02840 Time: 7:00 PM to 8:15 PM
+URL:https://www.visitrhodeisland.com/event/adult-beginner-ballet/112082/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:$15 Moonshine Flights & Moonshine Tasting
 DTSTART;VALUE=DATE:20260721
 DTEND;VALUE=DATE:20260722
-DTSTAMP:20261005T192346Z
+DTSTAMP:20261006T165552Z
 UID:6ac059c408c431eceb1c3c855c19@visitri-calendar
 DESCRIPTION:Try a Moonshine Flight tasting at Moonshine Alley! Moonshine F
  lights are available daily for just $15! We have over 13 flavors to choose
@@ -101,62 +118,10 @@ URL:https://www.visitrhodeisland.com/event/%2415-moonshine-flights-%26-moo
  nshine-tasting/105663/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Half Price Tacos and House Margs at Yellow Door Taqueria!
-DTSTART;VALUE=DATE:20260731
-DTEND;VALUE=DATE:20260801
-DTSTAMP:20261005T192346Z
-UID:e0d95b06c7be4290562a81ad7ad5@visitri-calendar
-DESCRIPTION:Join us EVERY DAY at Yellow Door Taqueria from 3-6 PM at the b
- ar for half price select tacos and house margaritas! It's the perfect way 
- to wrap up your work day or grab a drink with friends! Choose from any of 
- our scratch-made house margarita flavors and six of our favorite tacos! *D
- ine in only\, select items only from 3-6 PM every day. Bar seating only*\n
- \nSource: https://www.visitrhodeisland.com/event/half-price-tacos-and-hous
- e-margs-at-yellow-door-taqueria!/111221/
-LOCATION:Yellow Door Taqueria\, 191 Dorrance Street\, Providence\, RI 0290
- 3
-URL:https://www.visitrhodeisland.com/event/half-price-tacos-and-house-marg
- s-at-yellow-door-taqueria!/111221/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Deja Vieux Vintage Shopping Bus Tour Adventure - October 4th
-DTSTART;VALUE=DATE:20260817
-DTEND;VALUE=DATE:20260818
-DTSTAMP:20261005T192346Z
-UID:912e503a9012deae13b33d1d0a85@visitri-calendar
-DESCRIPTION:⭐Hop Aboard Rhode Island’s First - Ever Vintage Shops Bus 
- Tour!⭐ We invite you to join us at Deja Vieux Vintage for a uniquely cur
- ated shopping adventure! On Sunday\, October 4th\, from 10:30 AM to 4:00 P
- M\, we are hitting the road for a premier 5-hour vintage bus tour down Rou
- te 6 and Route 44. The tour features exclusive discounts at 8 to 12 of our
-  favorite local antique and vintage shops\, making it the perfect day out 
- for collectors and vintage lovers alike. The Ultimate Vintage &amp\; Antiq
- ue Bus Tour Host: Deja Vieux Vintage Date &amp\; Time: Sunday\, October 4t
- h | 10:30 AM &#8211\; 4:00 PM Ticket Information: • Single Ticket: $37.5
- 0 • Bring a Friend Bundle: Two for $70 Every ticket comes packed with va
- lue! You get your bus boarding pass\, event shopping bag\, coupon booklet
- \, complimentary snacks and water\, plus a chance to win prizes. Departure
-  &amp\; Logistics Details: To ensure a smooth departure\, please arrive at
-  Deja Vieux Vintage on Sunday\, October 4th\, before 10:30 AM. Our storefr
- ont will be open early so you can enjoy your very first shopping experienc
- e of the day! Parking is completely free. Our bus leaves promptly at 11:00
-  AM. We will be traveling on a chartered yellow school bus from Ocean Stat
- e Transit\; please note that this vehicle is unfortunately not handicap ac
- cessible. Single ticket holders may need to share seats\, while our friend
- s bundles ticket holders guarantee seating together. Complimentary snacks 
- and water will be provided on board\, and you are welcome to bring your ow
- n allergen-free lunch. Tickets are non-refundable but are transferable.\n
- \nSource: https://www.visitrhodeisland.com/event/deja-vieux-vintage-shoppi
- ng-bus-tour-adventure-october-4th/111403/
-LOCATION:Deja Vieux Vintage\, 20 Cedar Swamp Rd.\, Smithfield\, 02917
-URL:https://www.visitrhodeisland.com/event/deja-vieux-vintage-shopping-bus
- -tour-adventure-october-4th/111403/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Burritos & Bowls—Lunch Specials at Yellow Door Taqueria!
 DTSTART;VALUE=DATE:20260826
 DTEND;VALUE=DATE:20260827
-DTSTAMP:20261005T192346Z
+DTSTAMP:20261006T165552Z
 UID:cd9e59bf1148392bbbdd7c30628e@visitri-calendar
 DESCRIPTION:Our new Burrito &amp\; Bowl lunch specials have arrived at Yel
  low Door Taqueria in downtown Providence! Perfect for dining in or taking 
@@ -174,7 +139,7 @@ BEGIN:VEVENT
 SUMMARY:"Nocturnes" Exhibit at Spring Bull Gallery
 DTSTART;VALUE=DATE:20260913
 DTEND;VALUE=DATE:20260914
-DTSTAMP:20261005T192346Z
+DTSTAMP:20261006T165552Z
 UID:b3a6362c63e2fad1624808d0342f@visitri-calendar
 DESCRIPTION:"Nocturnes" An Art Exhibit at Spring Bull Gallery When: Septem
  ber 19 - October 25\, 2026 from 12:00 to 5:00 PM Opening Reception: Sunday
@@ -193,10 +158,43 @@ URL:https://www.visitrhodeisland.com/event/nocturnes-exhibit-at-spring-bul
  l-gallery/111782/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Adult Beginner Ballet
+DTSTART;VALUE=DATE:20260922
+DTEND;VALUE=DATE:20260923
+DTSTAMP:20261006T165552Z
+UID:7e591f9df77dfbc5621af793da77@visitri-calendar
+DESCRIPTION:Adult Beginner Ballet When: Tuesdays\, September 22\, 2026 - J
+ une 1\, 2027 Where: The Academy at Newport Contemporary Ballet\, 3 Charles
+  Street\, Newport Our adult division welcomes adult dancers of all ages an
+ d abilities. Adult classes are designed to provide a relaxed\, supportive
+ \, and fun atmosphere while learning new skills and and providing a great 
+ physical workout. Adult classes are filled with adults who have either dan
+ ced when they were young or have always wanted to dance but never had the 
+ opportunity. No dress code is required. Classes are designed to welcome ad
+ ult dancers of all ages and abilities. These classes offer a fun way for d
+ ancers to exercise\, meet new friends\, and enjoy movement! ($18-20/class
+ \, 1 hr 15 min) (Instagram: @theacademyatncb) Adult Classes: Adults of any
+  age and level are welcome to experience the joy of dance with the Academy
+ ! We understand it can be nerve wracking walking into a dance studio full 
+ of mirrors but not to worry\, the Academy offers a nurturing environment w
+ here adult students will feel supported\, challenged\, and fulfilled. Our 
+ teachers are caring\, patient and will give corrections. Adult students ne
+ w to dance will enjoy our Adult Absolute Beginner class. Adults who have d
+ ance experience are welcome to join Monday level 4 classes as well as any 
+ Adult classes on pointe. Classes may be paid with dance cards (10 classes 
+ paid in advance) or as single drop in class to accommodate your busy sched
+ ule. Adults can wear comfortable clothing of their choice. We do suggest w
+ earing socks or ballet slippers and pulling back long hair.\n\nSource: htt
+ ps://www.visitrhodeisland.com/event/adult-beginner-ballet/112082/
+LOCATION:The Academy at Newport Contemporary Ballet\, 3 Charles Street\, N
+ ewport\, RI 02840 Time: 7:00 PM to 8:15 PM
+URL:https://www.visitrhodeisland.com/event/adult-beginner-ballet/112082/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Jack-O-Lantern Spectacular
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
-DTSTAMP:20261005T192346Z
+DTSTAMP:20261006T165552Z
 UID:a11cb847b167f6db3762e7d7aba4@visitri-calendar
 DESCRIPTION:Jack-O-Lantern Spectacular: The Great Pun-Kin Trail\, presente
  d by Citizens\, returns October 1 &#8211\; November 1 with an all-new trai
@@ -219,10 +217,10 @@ URL:https://www.visitrhodeisland.com/event/jack-o-lantern-spectacular/9207
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:A New England Thanksgiving
-DTSTART;VALUE=DATE:20261005
-DTEND;VALUE=DATE:20261006
-DTSTAMP:20261005T192346Z
-UID:af669f45f17d3b12b56e9e097f05@visitri-calendar
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261007
+DTSTAMP:20261006T165552Z
+UID:32ba065f8a131d0fefc9ee4873af@visitri-calendar
 DESCRIPTION:Join the Coggeshall staff as we prepare a Thanksgiving meal ov
  er the hearth in our historic farmhouse. The late 18th century was before 
  the official start of Thanksgiving as a national holiday\, but the day was
@@ -243,10 +241,10 @@ URL:https://www.visitrhodeisland.com/event/a-new-england-thanksgiving/1121
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Annual Harvest Festival at Newport Vineyards
-DTSTART;VALUE=DATE:20261005
-DTEND;VALUE=DATE:20261006
-DTSTAMP:20261005T192346Z
-UID:2569f7cf5dbfda4e8e48e10cb4a3@visitri-calendar
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261007
+DTSTAMP:20261006T165552Z
+UID:7da8fc4c1853aded75562f1bb827@visitri-calendar
 DESCRIPTION:Celebrate the 9 th Annual Harvest Festival with Newport Vineya
  rds! When: Sunday\, October 25th More details to be announced! General Adm
  ission and Non-Tasting Admission Tickets will be available\n\nSource: http
@@ -258,45 +256,28 @@ URL:https://www.visitrhodeisland.com/event/annual-harvest-festival-at-newp
  ort-vineyards/111769/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Deja Vieux Vintage Shopping Bus Tour Adventure - October 4th
-DTSTART;VALUE=DATE:20261005
-DTEND;VALUE=DATE:20261006
-DTSTAMP:20261005T192346Z
-UID:5fe8cdac575b282879f35adb305f@visitri-calendar
-DESCRIPTION:⭐Hop Aboard Rhode Island’s First - Ever Vintage Shops Bus 
- Tour!⭐ We invite you to join us at Deja Vieux Vintage for a uniquely cur
- ated shopping adventure! On Sunday\, October 4th\, from 10:30 AM to 4:00 P
- M\, we are hitting the road for a premier 5-hour vintage bus tour down Rou
- te 6 and Route 44. The tour features exclusive discounts at 8 to 12 of our
-  favorite local antique and vintage shops\, making it the perfect day out 
- for collectors and vintage lovers alike. The Ultimate Vintage &amp\; Antiq
- ue Bus Tour Host: Deja Vieux Vintage Date &amp\; Time: Sunday\, October 4t
- h | 10:30 AM &#8211\; 4:00 PM Ticket Information: • Single Ticket: $37.5
- 0 • Bring a Friend Bundle: Two for $70 Every ticket comes packed with va
- lue! You get your bus boarding pass\, event shopping bag\, coupon booklet
- \, complimentary snacks and water\, plus a chance to win prizes. Departure
-  &amp\; Logistics Details: To ensure a smooth departure\, please arrive at
-  Deja Vieux Vintage on Sunday\, October 4th\, before 10:30 AM. Our storefr
- ont will be open early so you can enjoy your very first shopping experienc
- e of the day! Parking is completely free. Our bus leaves promptly at 11:00
-  AM. We will be traveling on a chartered yellow school bus from Ocean Stat
- e Transit\; please note that this vehicle is unfortunately not handicap ac
- cessible. Single ticket holders may need to share seats\, while our friend
- s bundles ticket holders guarantee seating together. Complimentary snacks 
- and water will be provided on board\, and you are welcome to bring your ow
- n allergen-free lunch. Tickets are non-refundable but are transferable.\n
- \nSource: https://www.visitrhodeisland.com/event/deja-vieux-vintage-shoppi
- ng-bus-tour-adventure-october-4th/111403/
-LOCATION:Deja Vieux Vintage\, 20 Cedar Swamp Rd.\, Smithfield\, 02917
-URL:https://www.visitrhodeisland.com/event/deja-vieux-vintage-shopping-bus
- -tour-adventure-october-4th/111403/
+SUMMARY:Book Discussion & Signing for Raven\, New Book from Lyndsay Faye
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261007
+DTSTAMP:20261006T165552Z
+UID:ce286e21fd518b9c8bb77558d446@visitri-calendar
+DESCRIPTION:Join us at Books on the Square\, 471 Angell Street in Providen
+ ce\, on Tuesday\, October 6th at 6:00 p.m. to discuss Raven\, a new book f
+ rom author Lyndsay Faye in conversation with Christa Carmen. Book signing 
+ to follow. Free\; RSVP on our website at booksq.com.\n\nSource: https://ww
+ w.visitrhodeisland.com/event/book-discussion-%26-signing-for-raven-new-boo
+ k-from-lyndsay-faye/111940/
+LOCATION:Books On The Square\, 471 Angell Square\, Providence\, 02906 Time
+ : 6:00 PM to 7:00 PM
+URL:https://www.visitrhodeisland.com/event/book-discussion-%26-signing-for
+ -raven-new-book-from-lyndsay-faye/111940/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Fall Fest at The Loom Hotel
-DTSTART;VALUE=DATE:20261005
-DTEND;VALUE=DATE:20261006
-DTSTAMP:20261005T192346Z
-UID:630fc4bc08549b8ed888668205c7@visitri-calendar
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261007
+DTSTAMP:20261006T165552Z
+UID:33f7933038e0a8142b0fc0ee8a51@visitri-calendar
 DESCRIPTION:Celebrate fall at The Loom with seasonal drinks\, local vendor
  s\, festive activities\, and riverside views. Celebrate fall along the riv
  er at Fall Fest at The Loom Hotel! Join us on the Riverview Deck for an af
@@ -319,11 +300,59 @@ URL:https://www.visitrhodeisland.com/event/fall-fest-at-the-loom-hotel/111
  938/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:George Washington’s Path to Independence with Denver Brunsman
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261007
+DTSTAMP:20261006T165552Z
+UID:79038fb5ca770f34b9b46fc7aa17@visitri-calendar
+DESCRIPTION:Join the Rhode Island Historical Society on Tuesday\, October 
+ 6th at 6pm for the presentation George Washington’s Path to Independence
+  by historian Denver Brunsman. Today\, we often take for granted that Geor
+ ge Washington identified as an American\, but this was not always the case
+ . Washington was among the most anglicized\, or British\, of the leading A
+ merican revolutionaries. Moreover\, because he left the Continental Congre
+ ss in Philadelphia on June 23\, 1775\, to lead the Continental Army agains
+ t British forces\, Washington missed the fiery debates that marked the pol
+ itical process culminating in Congress approving independence on July 2\, 
+ 1776\, and the Declaration of Independence two days later. He never signed
+  the Declaration\; indeed\, he never formally declared independence. Inste
+ ad\, Washington followed a more evolutionary path to an American identity.
+  The process began during the Seven Years’ War (1756-63)\, continued dur
+ ing the Imperial Crisis of the 1760s and 1770s\, when he traded tobacco fo
+ r wheat as the primary cash crop at Mount Vernon\, and crystallized in his
+  command of American forces starting in June 1775. Denver Brunsman is Asso
+ ciate Professor and Chair of the History Department at George Washington U
+ niversity\, where his courses include “George Washington and His World\,
+ ” taught annually at the Mount Vernon estate. He is an award-winning aut
+ hor of the books George Washington and His World: Enslaver\, Revolutionary
+ \, President (2026) and The Evil Necessity: British Naval Impressment in t
+ he Eighteenth-Century Atlantic World (2013)\; co-author of a leading colle
+ ge and AP U.S. History textbook\, Liberty\, Equality\, Power: A History of
+  the American People (2016\; 2020)\; and co-editor of The American Revolut
+ ion Reader (2014)\, among other publications. His honors include the Oscar
+  and Shoshana Trachtenberg Prize for Teaching Excellence and induction int
+ o the George Washington University Academy of Distinguished Teachers (2018
+ ) as well as selection to the College Board AP U.S. History Development Co
+ mmittee (2018-23\; Higher Ed Chair\, 2021-23). He is co-director of the Al
+ bert H. Small Normandy Institute at GW and frequently leads K-12 professio
+ nal development programs for organizations such as Humanities Texas\, the 
+ George Washington Teacher Institute at Mount Vernon\, and the Gilder Lehrm
+ an Institute of American History. This program has been made possible in p
+ art by the National Endowment for the Humanities: Democracy demands wisdom
+ . Guests can register for free here.\n\nSource: https://www.visitrhodeisla
+ nd.com/event/george-washington%e2%80%99s-path-to-independence-with-denver-
+ brunsman/111525/
+LOCATION:Rhode Island Historical Society\, Aldrich House\, 110 Benevolent 
+ Street\, Providence\, RI 02906 Time: 6:00 PM to 7:00 PM
+URL:https://www.visitrhodeisland.com/event/george-washington%e2%80%99s-pat
+ h-to-independence-with-denver-brunsman/111525/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:RISD Craft Fall 2026
-DTSTART;VALUE=DATE:20261005
-DTEND;VALUE=DATE:20261006
-DTSTAMP:20261005T192346Z
-UID:6c5f6a881898018173fecc6c7194@visitri-calendar
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261007
+DTSTAMP:20261006T165552Z
+UID:1829d86435eb5f8d99fd42c95b47@visitri-calendar
 DESCRIPTION:Join us for our annual community-favorite event\, RISD Craft\,
   happening outdoors on Providence’s historic Benefit Street during RISD 
  Families Weekend. Engage with more than 120 alumni and student artists\, d
@@ -337,10 +366,10 @@ URL:https://www.visitrhodeisland.com/event/risd-craft-fall-2026/111690/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tour de Vino Wine Dinner
-DTSTART;VALUE=DATE:20261005
-DTEND;VALUE=DATE:20261006
-DTSTAMP:20261005T192346Z
-UID:98a5ee8592ee0bb17fadc31aeb7d@visitri-calendar
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261007
+DTSTAMP:20261006T165552Z
+UID:7e33125062fea8d9ae0e9c9ff93d@visitri-calendar
 DESCRIPTION:Tour de Vino will be at The Brook Kitchen + Bar on October 22.
   Join us for an intimate four-course wine dinner featuring carefully selec
  ted pairings from Hope Family Wines. This event is part of a traveling win
@@ -355,7 +384,7 @@ BEGIN:VEVENT
 SUMMARY:2026 Autumnfest
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
-DTSTAMP:20261005T192346Z
+DTSTAMP:20261006T165552Z
 UID:a2d09522ca26cb23a52126961053@visitri-calendar
 DESCRIPTION:Join us in 2026! Autumnfest is a family-friendly fall festival
   held annually in Woonsocket\, Rhode Island\, celebrating the spirit of No
@@ -390,7 +419,7 @@ BEGIN:VEVENT
 SUMMARY:2026 Autumnfest
 DTSTART;VALUE=DATE:20261010
 DTEND;VALUE=DATE:20261011
-DTSTAMP:20261005T192346Z
+DTSTAMP:20261006T165552Z
 UID:132c20b3c276757ef130a0a768c5@visitri-calendar
 DESCRIPTION:Join us in 2026! Autumnfest is a family-friendly fall festival
   held annually in Woonsocket\, Rhode Island\, celebrating the spirit of No
@@ -425,7 +454,7 @@ BEGIN:VEVENT
 SUMMARY:2026 Scituate Art Festival
 DTSTART;VALUE=DATE:20261010
 DTEND;VALUE=DATE:20261011
-DTSTAMP:20261005T192346Z
+DTSTAMP:20261006T165552Z
 UID:79b4728723e69fc14ceeff860335@visitri-calendar
 DESCRIPTION:Festival Update: Come celebrate the fall season by visiting us
   on the Village Green in North Scituate. Browse and buy original fine art
@@ -460,7 +489,7 @@ BEGIN:VEVENT
 SUMMARY:Fall Fest at The Loom Hotel
 DTSTART;VALUE=DATE:20261010
 DTEND;VALUE=DATE:20261011
-DTSTAMP:20261005T192346Z
+DTSTAMP:20261006T165552Z
 UID:63ea241659fdd4c11238c92bb974@visitri-calendar
 DESCRIPTION:Celebrate fall at The Loom with seasonal drinks\, local vendor
  s\, festive activities\, and riverside views. Celebrate fall along the riv
@@ -487,7 +516,7 @@ BEGIN:VEVENT
 SUMMARY:RISD Craft Fall 2026
 DTSTART;VALUE=DATE:20261010
 DTEND;VALUE=DATE:20261011
-DTSTAMP:20261005T192346Z
+DTSTAMP:20261006T165552Z
 UID:d6d4d2a739ccdae1769d70accc32@visitri-calendar
 DESCRIPTION:Join us for our annual community-favorite event\, RISD Craft\,
   happening outdoors on Providence’s historic Benefit Street during RISD 
@@ -504,7 +533,7 @@ BEGIN:VEVENT
 SUMMARY:2026 Autumnfest
 DTSTART;VALUE=DATE:20261011
 DTEND;VALUE=DATE:20261012
-DTSTAMP:20261005T192346Z
+DTSTAMP:20261006T165552Z
 UID:1c68a5ef706c0175e9f51cf0035f@visitri-calendar
 DESCRIPTION:Join us in 2026! Autumnfest is a family-friendly fall festival
   held annually in Woonsocket\, Rhode Island\, celebrating the spirit of No
@@ -539,7 +568,7 @@ BEGIN:VEVENT
 SUMMARY:2026 Scituate Art Festival
 DTSTART;VALUE=DATE:20261011
 DTEND;VALUE=DATE:20261012
-DTSTAMP:20261005T192346Z
+DTSTAMP:20261006T165552Z
 UID:880ea78ffd1d3f5a02ad1b4d6dcf@visitri-calendar
 DESCRIPTION:Festival Update: Come celebrate the fall season by visiting us
   on the Village Green in North Scituate. Browse and buy original fine art
@@ -574,7 +603,7 @@ BEGIN:VEVENT
 SUMMARY:2026 Autumnfest
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261013
-DTSTAMP:20261005T192346Z
+DTSTAMP:20261006T165552Z
 UID:6f6c4450fd947ffc7512680cc155@visitri-calendar
 DESCRIPTION:Join us in 2026! Autumnfest is a family-friendly fall festival
   held annually in Woonsocket\, Rhode Island\, celebrating the spirit of No
@@ -609,7 +638,7 @@ BEGIN:VEVENT
 SUMMARY:2026 Scituate Art Festival
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261013
-DTSTAMP:20261005T192346Z
+DTSTAMP:20261006T165552Z
 UID:a57830b8782a337068ab3be90fba@visitri-calendar
 DESCRIPTION:Festival Update: Come celebrate the fall season by visiting us
   on the Village Green in North Scituate. Browse and buy original fine art
@@ -644,7 +673,7 @@ BEGIN:VEVENT
 SUMMARY:Live Music by Logan Vale
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261018
-DTSTAMP:20261005T192346Z
+DTSTAMP:20261006T165552Z
 UID:2241186137b505cf7c814cd90b60@visitri-calendar
 DESCRIPTION:The music of Logan Vale! Dinner reservations required either o
  nline or call 401.861.3850 x. 3\n\nSource: https://www.visitrhodeisland.co
@@ -658,7 +687,7 @@ BEGIN:VEVENT
 SUMMARY:Tour de Vino Wine Dinner
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261023
-DTSTAMP:20261005T192346Z
+DTSTAMP:20261006T165552Z
 UID:cb727bd087bb1926972b6366d20d@visitri-calendar
 DESCRIPTION:Tour de Vino will be at The Brook Kitchen + Bar on October 22.
   Join us for an intimate four-course wine dinner featuring carefully selec
@@ -674,7 +703,7 @@ BEGIN:VEVENT
 SUMMARY:"Nocturnes" Exhibit at Spring Bull Gallery
 DTSTART;VALUE=DATE:20261025
 DTEND;VALUE=DATE:20261026
-DTSTAMP:20261005T192346Z
+DTSTAMP:20261006T165552Z
 UID:945340681c00f5d79c305667c5c8@visitri-calendar
 DESCRIPTION:"Nocturnes" An Art Exhibit at Spring Bull Gallery When: Septem
  ber 19 - October 25\, 2026 from 12:00 to 5:00 PM Opening Reception: Sunday
@@ -696,7 +725,7 @@ BEGIN:VEVENT
 SUMMARY:Annual Harvest Festival at Newport Vineyards
 DTSTART;VALUE=DATE:20261025
 DTEND;VALUE=DATE:20261026
-DTSTAMP:20261005T192346Z
+DTSTAMP:20261006T165552Z
 UID:3f036be2c60a1a4587e7b53ef705@visitri-calendar
 DESCRIPTION:Celebrate the 9 th Annual Harvest Festival with Newport Vineya
  rds! When: Sunday\, October 25th More details to be announced! General Adm
@@ -712,7 +741,7 @@ BEGIN:VEVENT
 SUMMARY:Coastal Cruisers - The Golden Hour
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
-DTSTAMP:20261005T192346Z
+DTSTAMP:20261006T165552Z
 UID:a33f7731698b5451e05ba44e42fd@visitri-calendar
 DESCRIPTION:Experience the Island in our Coastal Cruisers\, Newport’s pr
  ivate chauffeured luxury tour\, dedicated to providing a sophisticated way
@@ -739,28 +768,10 @@ URL:https://www.visitrhodeisland.com/event/coastal-cruisers-the-golden-hou
  r/109827/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Half Price Tacos and House Margs at Yellow Door Taqueria!
-DTSTART;VALUE=DATE:20261031
-DTEND;VALUE=DATE:20261101
-DTSTAMP:20261005T192346Z
-UID:9e3061f0648341ee71e7158e4b15@visitri-calendar
-DESCRIPTION:Join us EVERY DAY at Yellow Door Taqueria from 3-6 PM at the b
- ar for half price select tacos and house margaritas! It's the perfect way 
- to wrap up your work day or grab a drink with friends! Choose from any of 
- our scratch-made house margarita flavors and six of our favorite tacos! *D
- ine in only\, select items only from 3-6 PM every day. Bar seating only*\n
- \nSource: https://www.visitrhodeisland.com/event/half-price-tacos-and-hous
- e-margs-at-yellow-door-taqueria!/111221/
-LOCATION:Yellow Door Taqueria\, 191 Dorrance Street\, Providence\, RI 0290
- 3
-URL:https://www.visitrhodeisland.com/event/half-price-tacos-and-house-marg
- s-at-yellow-door-taqueria!/111221/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Jack-O-Lantern Spectacular
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
-DTSTAMP:20261005T192346Z
+DTSTAMP:20261006T165552Z
 UID:ddc52d2e1f830141a3c1c36cbc2b@visitri-calendar
 DESCRIPTION:Jack-O-Lantern Spectacular: The Great Pun-Kin Trail\, presente
  d by Citizens\, returns October 1 &#8211\; November 1 with an all-new trai
@@ -785,7 +796,7 @@ BEGIN:VEVENT
 SUMMARY:A New England Thanksgiving
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
-DTSTAMP:20261005T192346Z
+DTSTAMP:20261006T165552Z
 UID:21d35714802ba10832a84ed3bbac@visitri-calendar
 DESCRIPTION:Join the Coggeshall staff as we prepare a Thanksgiving meal ov
  er the hearth in our historic farmhouse. The late 18th century was before 
@@ -809,7 +820,7 @@ BEGIN:VEVENT
 SUMMARY:The Intentional Celebration: Holiday Edition
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
-DTSTAMP:20261005T192346Z
+DTSTAMP:20261006T165552Z
 UID:6f484250684bf2271dde2a31e276@visitri-calendar
 DESCRIPTION:The Intentional Celebration: Holiday Edition is a two-day indo
  or holiday market and immersive Christmas experience taking place December
@@ -839,7 +850,7 @@ BEGIN:VEVENT
 SUMMARY:The Intentional Celebration: Holiday Edition
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
-DTSTAMP:20261005T192346Z
+DTSTAMP:20261006T165552Z
 UID:f0031a8c4f9ec38b7e0300063594@visitri-calendar
 DESCRIPTION:The Intentional Celebration: Holiday Edition is a two-day indo
  or holiday market and immersive Christmas experience taking place December
@@ -866,26 +877,10 @@ URL:https://www.visitrhodeisland.com/event/the-intentional-celebration%3a-
  holiday-edition/111943/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Children's Weekly Storytime
-DTSTART;VALUE=DATE:20261221
-DTEND;VALUE=DATE:20261222
-DTSTAMP:20261005T192346Z
-UID:505c13cc68dfd1161c6032fdf540@visitri-calendar
-DESCRIPTION:Children's Storytime Join Elizabeth as she hosts storytime on 
- Monday mornings at 10:30 AM. Every Monday\, Elizabeth will chose a book co
- rrelating with the season or holiday. All children and their families are 
- welcome to join!\n\nSource: https://www.visitrhodeisland.com/event/childre
- ns-weekly-storytime/109524/
-LOCATION:Charter Books\, 8 Broadway\, Newport\, RI 02840 Time: 10:30 AM to
-  11:00 AM
-URL:https://www.visitrhodeisland.com/event/childrens-weekly-storytime/1095
- 24/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Beyond the Brewhouse Tour
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
-DTSTAMP:20261005T192346Z
+DTSTAMP:20261006T165552Z
 UID:c7b48636db9ede5f5acbbb263d31@visitri-calendar
 DESCRIPTION:Beyond the Brewhouse Where: Newport Craft Brewing and Distilli
  ng\, 293 JT Connell Road\, Newport 45 minutes: $20 per person Did you know
@@ -904,7 +899,7 @@ BEGIN:VEVENT
 SUMMARY:Burritos & Bowls—Lunch Specials at Yellow Door Taqueria!
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
-DTSTAMP:20261005T192346Z
+DTSTAMP:20261006T165552Z
 UID:a47385cf36c194bcd701d4733276@visitri-calendar
 DESCRIPTION:Our new Burrito &amp\; Bowl lunch specials have arrived at Yel
  low Door Taqueria in downtown Providence! Perfect for dining in or taking 
