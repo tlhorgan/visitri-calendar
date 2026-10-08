@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:$15 Moonshine Flights & Moonshine Tasting
 DTSTART;VALUE=DATE:20250615
 DTEND;VALUE=DATE:20250616
-DTSTAMP:20261007T173237Z
+DTSTAMP:20261008T173530Z
 UID:b6432d870f2c0958f26453a40d59@visitri-calendar
 DESCRIPTION:Try a Moonshine Flight tasting at Moonshine Alley! Moonshine F
  lights are available daily for just $15! We have over 13 flavors to choose
@@ -20,10 +20,68 @@ URL:https://www.visitrhodeisland.com/event/%2415-moonshine-flights-%26-moo
  nshine-tasting/105663/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Federal Hill Dinner Stroll
+DTSTART;VALUE=DATE:20251231
+DTEND;VALUE=DATE:20260101
+DTSTAMP:20261008T173530Z
+UID:0f7c9cd3871a48273390ed565571@visitri-calendar
+DESCRIPTION:A Guided Italian Dinner Experience Unwind after a long day wit
+ h the Federal Hill Dinner Stroll—a decadent evening walk through Provide
+ nce’s legendary Little Italy\, guided by a warm and knowledgeable host. 
+ This immersive\, multi-course dining experience replaces the usual restaur
+ ant routine with a handpicked lineup of top-tier small plates and drinks f
+ rom some of the Hill’s most iconic spots. From seafood to house-made pas
+ tas and cheeses to unforgettable desserts\, every stop is a celebration of
+  one of the best culinary neighborhoods in New England. Food\, tax\, and t
+ ip are all included\, so all you’ll need to think about is what to sip a
+ long the way. As the streets glow under string lights and the smell of fre
+ sh bread fills the air\, you’ll be treated to an evening that’s equal 
+ parts indulgent and effortless. Your dedicated host is there just for your
+  group—welcoming you at each stop\, handling every detail\, and making s
+ ure you feel taken care of from the first bite to the last. With bold flav
+ ors\, rich traditions\, and the warm hum of the neighborhood around you\, 
+ it’s more than just dinner\; it’s a chance to step into the rhythm of 
+ a place where food is a way of life.\n\nSource: https://www.visitrhodeisla
+ nd.com/event/federal-hill-dinner-stroll/106097/
+LOCATION:Cassarino's Ristorante\, 177 Atwells Avenue\, Providence\, RI 029
+ 03
+URL:https://www.visitrhodeisland.com/event/federal-hill-dinner-stroll/1060
+ 97/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Early Bird Museum Highlight Tour at Newport Car Museum
+DTSTART;VALUE=DATE:20260401
+DTEND;VALUE=DATE:20260402
+DTSTAMP:20261008T173530Z
+UID:75253880a8c565d95c2d97a759c9@visitri-calendar
+DESCRIPTION:Early Bird Highlight Tour For 90 minutes (8:30 &#8211\; 10:00 
+ AM) prior to Museum opening. Call to book: +1 (401) 848-2277 Price $75.00 
+ per person (minimum 2\, maximum 6 ppl) Offered Wednesday\, Thursday\, and 
+ Saturday only April 1 - December 31\, 2026. General admission is included 
+ with price. 72-hour advance notice is suggested. Only one group will be ho
+ sted on any given morning. This is your chance to have the Newport Car Mus
+ eum all to yourself with a private guide to share with you the not-to-miss
+  highlights in seven expansive galleries. With over 100 iconic\, rare and 
+ exotic cars on display at one time\, this private collection is bursting w
+ ith history\, provenance and color\, not to mention the breathtaking sculp
+ tural beauty of automotive designs starting with the 1950s and finishing w
+ ith new models from the 21 st Century. After 90 minutes with your private
+ \, continue to explore at your own pace so that you can further examine yo
+ ur favorites from the Ford/Shelby\, Corvette\, World Car\, Porsche\, Fin C
+ ar\, American Muscle and Mopar exhibits while enjoying immersive videos\, 
+ artwork and the Museum’s eclectic collection of Mid-Century Modern Furni
+ ture.\n\nSource: https://www.visitrhodeisland.com/event/early-bird-museum-
+ highlight-tour-at-newport-car-museum/109638/
+LOCATION:Newport Car Museum\, Enter at Light 1947 West Main Road\, Portsmo
+ uth\, RI 02871
+URL:https://www.visitrhodeisland.com/event/early-bird-museum-highlight-tou
+ r-at-newport-car-museum/109638/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Coastal Cruisers - The Golden Hour
 DTSTART;VALUE=DATE:20260501
 DTEND;VALUE=DATE:20260502
-DTSTAMP:20261007T173237Z
+DTSTAMP:20261008T173530Z
 UID:9f3864060ce7679e35293700f37c@visitri-calendar
 DESCRIPTION:Experience the Island in our Coastal Cruisers\, Newport’s pr
  ivate chauffeured luxury tour\, dedicated to providing a sophisticated way
@@ -53,7 +111,7 @@ BEGIN:VEVENT
 SUMMARY:Beyond the Brewhouse Tour
 DTSTART;VALUE=DATE:20260515
 DTEND;VALUE=DATE:20260516
-DTSTAMP:20261007T173237Z
+DTSTAMP:20261008T173530Z
 UID:acc9d8e1d1bdab34c6766b602473@visitri-calendar
 DESCRIPTION:Beyond the Brewhouse Where: Newport Craft Brewing and Distilli
  ng\, 293 JT Connell Road\, Newport 45 minutes: $20 per person Did you know
@@ -72,7 +130,7 @@ BEGIN:VEVENT
 SUMMARY:$15 Moonshine Flights & Moonshine Tasting
 DTSTART;VALUE=DATE:20260721
 DTEND;VALUE=DATE:20260722
-DTSTAMP:20261007T173237Z
+DTSTAMP:20261008T173530Z
 UID:6ac059c408c431eceb1c3c855c19@visitri-calendar
 DESCRIPTION:Try a Moonshine Flight tasting at Moonshine Alley! Moonshine F
  lights are available daily for just $15! We have over 13 flavors to choose
@@ -88,7 +146,7 @@ BEGIN:VEVENT
 SUMMARY:Burritos & Bowls—Lunch Specials at Yellow Door Taqueria!
 DTSTART;VALUE=DATE:20260826
 DTEND;VALUE=DATE:20260827
-DTSTAMP:20261007T173237Z
+DTSTAMP:20261008T173530Z
 UID:cd9e59bf1148392bbbdd7c30628e@visitri-calendar
 DESCRIPTION:Our new Burrito &amp\; Bowl lunch specials have arrived at Yel
  low Door Taqueria in downtown Providence! Perfect for dining in or taking 
@@ -103,10 +161,39 @@ URL:https://www.visitrhodeisland.com/event/burritos-%26-bowls%e2%80%94lunc
  h-specials-at-yellow-door-taqueria!/111544/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Federal Hill Dinner Stroll
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260905
+DTSTAMP:20261008T173530Z
+UID:1ba0809acb5925117d6bfead8fd2@visitri-calendar
+DESCRIPTION:A Guided Italian Dinner Experience Unwind after a long day wit
+ h the Federal Hill Dinner Stroll—a decadent evening walk through Provide
+ nce’s legendary Little Italy\, guided by a warm and knowledgeable host. 
+ This immersive\, multi-course dining experience replaces the usual restaur
+ ant routine with a handpicked lineup of top-tier small plates and drinks f
+ rom some of the Hill’s most iconic spots. From seafood to house-made pas
+ tas and cheeses to unforgettable desserts\, every stop is a celebration of
+  one of the best culinary neighborhoods in New England. Food\, tax\, and t
+ ip are all included\, so all you’ll need to think about is what to sip a
+ long the way. As the streets glow under string lights and the smell of fre
+ sh bread fills the air\, you’ll be treated to an evening that’s equal 
+ parts indulgent and effortless. Your dedicated host is there just for your
+  group—welcoming you at each stop\, handling every detail\, and making s
+ ure you feel taken care of from the first bite to the last. With bold flav
+ ors\, rich traditions\, and the warm hum of the neighborhood around you\, 
+ it’s more than just dinner\; it’s a chance to step into the rhythm of 
+ a place where food is a way of life.\n\nSource: https://www.visitrhodeisla
+ nd.com/event/federal-hill-dinner-stroll/106097/
+LOCATION:Cassarino's Ristorante\, 177 Atwells Avenue\, Providence\, RI 029
+ 03
+URL:https://www.visitrhodeisland.com/event/federal-hill-dinner-stroll/1060
+ 97/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:"Nocturnes" Exhibit at Spring Bull Gallery
 DTSTART;VALUE=DATE:20260913
 DTEND;VALUE=DATE:20260914
-DTSTAMP:20261007T173237Z
+DTSTAMP:20261008T173530Z
 UID:b3a6362c63e2fad1624808d0342f@visitri-calendar
 DESCRIPTION:"Nocturnes" An Art Exhibit at Spring Bull Gallery When: Septem
  ber 19 - October 25\, 2026 from 12:00 to 5:00 PM Opening Reception: Sunday
@@ -128,7 +215,7 @@ BEGIN:VEVENT
 SUMMARY:Jack-O-Lantern Spectacular
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
-DTSTAMP:20261007T173237Z
+DTSTAMP:20261008T173530Z
 UID:a11cb847b167f6db3762e7d7aba4@visitri-calendar
 DESCRIPTION:Jack-O-Lantern Spectacular: The Great Pun-Kin Trail\, presente
  d by Citizens\, returns October 1 &#8211\; November 1 with an all-new trai
@@ -151,10 +238,10 @@ URL:https://www.visitrhodeisland.com/event/jack-o-lantern-spectacular/9207
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:A New England Thanksgiving
-DTSTART;VALUE=DATE:20261007
-DTEND;VALUE=DATE:20261008
-DTSTAMP:20261007T173237Z
-UID:3a5b253dbaa249c131f00ff5f7aa@visitri-calendar
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+DTSTAMP:20261008T173530Z
+UID:0435e7b8fd00daaae543be23c2bf@visitri-calendar
 DESCRIPTION:Join the Coggeshall staff as we prepare a Thanksgiving meal ov
  er the hearth in our historic farmhouse. The late 18th century was before 
  the official start of Thanksgiving as a national holiday\, but the day was
@@ -174,51 +261,11 @@ URL:https://www.visitrhodeisland.com/event/a-new-england-thanksgiving/1121
  16/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:An Evening with Lucinda Williams and Her Band
-DTSTART;VALUE=DATE:20261007
-DTEND;VALUE=DATE:20261008
-DTSTAMP:20261007T173237Z
-UID:31b81a5f9a835e08ae3b2272d9a6@visitri-calendar
-DESCRIPTION:Get ready for an unforgettable night as Lucinda Williams and H
- er Band take the stage at the iconic Uptown Theater - RI in the heart of P
- rovidence! Known for her soulful voice and poignant songwriting\, Lucinda 
- will captivate the audience with a blend of rock and folk that resonates d
- eeply. The intimate atmosphere of the Uptown Theater\, with its rich histo
- ry and cozy seating\, promises to enhance the experience\, making it the p
- erfect backdrop for an evening filled with powerful melodies and heartfelt
-  stories. Join fellow music lovers in celebrating Lucinda's incredible tal
- ent and the magic of live performance. Whether you're a long-time fan or n
- ew to her music\, this concert is sure to leave you inspired. Don’t miss
-  your chance to be part of this special event—secure your tickets now fo
- r Lucinda Williams and Her Band - Providence!\n\nSource: https://www.visit
- rhodeisland.com/event/an-evening-with-lucinda-williams-and-her-band/111169
- /
-LOCATION:Uptown Theater\, 270 Broadway\, Providence\, RI 02903 Time: 3:30 
- PM to 5:30 PM 270 Broadway\, Providence\, RI 02903 OFFICIAL RHODE ISLAND T
- RAVEL GUIDE Get Guide Get news from Visit Rhode Island in your inbox. Indu
- stry Partner Leisure Travel Sign Up Ratings Powered by Press Industry Trav
- el Trade Meetings & Conventions Contact Privacy Policy Sitemap Partner Por
- tal SMS Privacy Policy SMS Terms & Conditions UGC Terms and Conditions Wed
- ding Planning Press Photos Story Ideas Fun-Sized Rhode Island Rhode Island
-  in the News Free Travel Guide Contact Visit Rhode Island Industry Travel 
- Trade Ideas & Itineraries Downton Abbey Lifestyle Rhode Island Foodways Hi
- dden Gems Image Library Free Travel Guide Contact Visit Rhode Island Meeti
- ngs & Conventions Contact Privacy Policy Sitemap Partner Portal SMS Privac
- y Policy SMS Terms & Conditions UGC Terms and Conditions Wedding Planning 
- Weddings - Venues Wedding - Catering Wedding - Cakes Wedding - Attire Wedd
- ing - Florists Wedding - Jewelers Wedding - Transportation © 2026 Rhode I
- sland Commerce Corporation Special Offers Offers Here Looking to plan your
-  next visit to Rhode Island\, check out some of the current special offers
-  and enjoy savings\, extra perks and more! Offers Here
-URL:https://www.visitrhodeisland.com/event/an-evening-with-lucinda-william
- s-and-her-band/111169/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Annual Harvest Festival at Newport Vineyards
-DTSTART;VALUE=DATE:20261007
-DTEND;VALUE=DATE:20261008
-DTSTAMP:20261007T173237Z
-UID:7a229913bb12b892425e3ec4b886@visitri-calendar
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+DTSTAMP:20261008T173530Z
+UID:e9a5ec4e00df3423dd5d1ac181b8@visitri-calendar
 DESCRIPTION:Celebrate the 9 th Annual Harvest Festival with Newport Vineya
  rds! When: Sunday\, October 25th More details to be announced! General Adm
  ission and Non-Tasting Admission Tickets will be available\n\nSource: http
@@ -230,39 +277,82 @@ URL:https://www.visitrhodeisland.com/event/annual-harvest-festival-at-newp
  ort-vineyards/111769/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Dining with the Dead
-DTSTART;VALUE=DATE:20261007
-DTEND;VALUE=DATE:20261008
-DTSTAMP:20261007T173237Z
-UID:fc75ca05858be1c274ec8ace67de@visitri-calendar
-DESCRIPTION:Usher in the Halloween Season with an interactive paranormal i
- nvestigation and a delicious dinner!\n\nSource: https://www.visitrhodeisla
- nd.com/event/dining-with-the-dead/111799/
-LOCATION:Dan's Carriage Inn and Saloon\, 1065 Tower Hill Road\, North King
- stown\, RI 02852 1065 Tower Hill Road\, North Kingstown\, RI 02852 OFFICIA
- L RHODE ISLAND TRAVEL GUIDE Get Guide Get news from Visit Rhode Island in 
- your inbox. Industry Partner Leisure Travel Sign Up Ratings Powered by Pre
- ss Industry Travel Trade Meetings & Conventions Contact Privacy Policy Sit
- emap Partner Portal SMS Privacy Policy SMS Terms & Conditions UGC Terms an
- d Conditions Wedding Planning Press Photos Story Ideas Fun-Sized Rhode Isl
- and Rhode Island in the News Free Travel Guide Contact Visit Rhode Island 
- Industry Travel Trade Ideas & Itineraries Downton Abbey Lifestyle Rhode Is
- land Foodways Hidden Gems Image Library Free Travel Guide Contact Visit Rh
- ode Island Meetings & Conventions Contact Privacy Policy Sitemap Partner P
- ortal SMS Privacy Policy SMS Terms & Conditions UGC Terms and Conditions W
- edding Planning Weddings - Venues Wedding - Catering Wedding - Cakes Weddi
- ng - Attire Wedding - Florists Wedding - Jewelers Wedding - Transportation
-  © 2026 Rhode Island Commerce Corporation Special Offers Offers Here Look
- ing to plan your next visit to Rhode Island\, check out some of the curren
- t special offers and enjoy savings\, extra perks and more! Offers Here
-URL:https://www.visitrhodeisland.com/event/dining-with-the-dead/111799/
+SUMMARY:Early Bird Museum Highlight Tour at Newport Car Museum
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+DTSTAMP:20261008T173530Z
+UID:2e70229ab3660758db11fd1cf244@visitri-calendar
+DESCRIPTION:Early Bird Highlight Tour For 90 minutes (8:30 &#8211\; 10:00 
+ AM) prior to Museum opening. Call to book: +1 (401) 848-2277 Price $75.00 
+ per person (minimum 2\, maximum 6 ppl) Offered Wednesday\, Thursday\, and 
+ Saturday only April 1 - December 31\, 2026. General admission is included 
+ with price. 72-hour advance notice is suggested. Only one group will be ho
+ sted on any given morning. This is your chance to have the Newport Car Mus
+ eum all to yourself with a private guide to share with you the not-to-miss
+  highlights in seven expansive galleries. With over 100 iconic\, rare and 
+ exotic cars on display at one time\, this private collection is bursting w
+ ith history\, provenance and color\, not to mention the breathtaking sculp
+ tural beauty of automotive designs starting with the 1950s and finishing w
+ ith new models from the 21 st Century. After 90 minutes with your private
+ \, continue to explore at your own pace so that you can further examine yo
+ ur favorites from the Ford/Shelby\, Corvette\, World Car\, Porsche\, Fin C
+ ar\, American Muscle and Mopar exhibits while enjoying immersive videos\, 
+ artwork and the Museum’s eclectic collection of Mid-Century Modern Furni
+ ture.\n\nSource: https://www.visitrhodeisland.com/event/early-bird-museum-
+ highlight-tour-at-newport-car-museum/109638/
+LOCATION:Newport Car Museum\, Enter at Light 1947 West Main Road\, Portsmo
+ uth\, RI 02871
+URL:https://www.visitrhodeisland.com/event/early-bird-museum-highlight-tou
+ r-at-newport-car-museum/109638/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Explore Chepstow's Ties to America's Founding Families
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+DTSTAMP:20261008T173530Z
+UID:76dbdd68fb9318edf8c8bdf1008c@visitri-calendar
+DESCRIPTION:Explore Chepstow’s Ties to America’s Founding Families Whe
+ n: Thursdays\, October 8th and October 15th from 11:00 AM to 12:00 PM Wher
+ e: Chepstow\, 120 Narragansett Avenue\, Newport Cost: $20 Members $25 Non-
+ Members Preservation Society Archives Fellow\, Grace Acton\, highlights co
+ nnections between the Morris family archives and furnishings collected by 
+ Alletta Morris McBean at Chepstow. Get to know the people behind the paint
+ ings\, documents and decor on view at Chepstow. From religious leaders to 
+ revolutionaries\, politicians to socialites\, learn about the many ways th
+ at Mrs. McBean’s ancestors influenced American history\, and how the wom
+ en of Chepstow preserved their family history for future generations. Grac
+ e Acton\, Preservation Society Archival Research Fellow\, graduated Summa 
+ Cum Laude and Phi Beta Kappa in Interdisciplinary Studies from Bates Colle
+ ge in Lewiston\, Maine\, and earned an MA with Distinction in Digital Huma
+ nities from Lancaster University\, where she was awarded the Chancellor’
+ s Medal and Iredell Prize. In addition to her coursework\, Grace has excel
+ led in roles which require critical thinking and data analysis to address 
+ complex collections management problems as a Synergy Collections Managemen
+ t Intern for Bates College Museum of Art\, Collections Steward and Digitiz
+ ation Intern for the Maine Maritime Museum\, and Dorothy W. Sanborn Summer
+  Intern at the Rufus Porter Museum of Art and Ingenuity. Acton has also pr
+ esented at numerous conferences\, offering papers which demonstrate her fa
+ cility with archives management and digital humanities\, such as “Into t
+ he Zooniverse: Crowdsourcing Data for the Bates Museum of Art Collection
+ ” at the 2023 Bates College Mount David Summit\; and “Rufus’s Advent
+ ures in Cyberspace: Bringing Rufus Porter School Art into the World of Dig
+ ital History” as a webinar for the Rufus Porter Museum of Art and Ingenu
+ ity. She is a member of the New England Archivists\, Society of American A
+ rchivists and Digital Preservation Coalition\; is conversational in Russia
+ n and bi-literate in Spanish\; and programs in R and HTML/XML.\n\nSource: 
+ https://www.visitrhodeisland.com/event/explore-chepstows-ties-to-americas-
+ founding-families/111746/
+LOCATION:Chepstow\, 120 Narragansett Avenue\, Newport\, RI 02840 Time: 11:
+ 00 AM to 12:00 PM
+URL:https://www.visitrhodeisland.com/event/explore-chepstows-ties-to-ameri
+ cas-founding-families/111746/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Fall Fest at The Loom Hotel
-DTSTART;VALUE=DATE:20261007
-DTEND;VALUE=DATE:20261008
-DTSTAMP:20261007T173237Z
-UID:3a09bbe07bbfbae20b249480671f@visitri-calendar
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+DTSTAMP:20261008T173530Z
+UID:658411d5db9d2c8725f180fbda9b@visitri-calendar
 DESCRIPTION:Celebrate fall at The Loom with seasonal drinks\, local vendor
  s\, festive activities\, and riverside views. Celebrate fall along the riv
  er at Fall Fest at The Loom Hotel! Join us on the Riverview Deck for an af
@@ -286,10 +376,10 @@ URL:https://www.visitrhodeisland.com/event/fall-fest-at-the-loom-hotel/111
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:RISD Craft Fall 2026
-DTSTART;VALUE=DATE:20261007
-DTEND;VALUE=DATE:20261008
-DTSTAMP:20261007T173237Z
-UID:2e1ca9b9282607accaa9aa54c8c3@visitri-calendar
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+DTSTAMP:20261008T173530Z
+UID:bad0efdba7c71a9a88c6028900b9@visitri-calendar
 DESCRIPTION:Join us for our annual community-favorite event\, RISD Craft\,
   happening outdoors on Providence’s historic Benefit Street during RISD 
  Families Weekend. Engage with more than 120 alumni and student artists\, d
@@ -303,10 +393,10 @@ URL:https://www.visitrhodeisland.com/event/risd-craft-fall-2026/111690/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tour de Vino Wine Dinner
-DTSTART;VALUE=DATE:20261007
-DTEND;VALUE=DATE:20261008
-DTSTAMP:20261007T173237Z
-UID:03cab3065e787bd8b0cb31c88a5c@visitri-calendar
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+DTSTAMP:20261008T173530Z
+UID:fd8d67be157c1b1662a909070181@visitri-calendar
 DESCRIPTION:Tour de Vino will be at The Brook Kitchen + Bar on October 22.
   Join us for an intimate four-course wine dinner featuring carefully selec
  ted pairings from Hope Family Wines. This event is part of a traveling win
@@ -321,7 +411,7 @@ BEGIN:VEVENT
 SUMMARY:2026 Autumnfest
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
-DTSTAMP:20261007T173237Z
+DTSTAMP:20261008T173530Z
 UID:a2d09522ca26cb23a52126961053@visitri-calendar
 DESCRIPTION:Join us in 2026! Autumnfest is a family-friendly fall festival
   held annually in Woonsocket\, Rhode Island\, celebrating the spirit of No
@@ -356,7 +446,7 @@ BEGIN:VEVENT
 SUMMARY:2026 Autumnfest
 DTSTART;VALUE=DATE:20261010
 DTEND;VALUE=DATE:20261011
-DTSTAMP:20261007T173237Z
+DTSTAMP:20261008T173530Z
 UID:132c20b3c276757ef130a0a768c5@visitri-calendar
 DESCRIPTION:Join us in 2026! Autumnfest is a family-friendly fall festival
   held annually in Woonsocket\, Rhode Island\, celebrating the spirit of No
@@ -391,7 +481,7 @@ BEGIN:VEVENT
 SUMMARY:2026 Scituate Art Festival
 DTSTART;VALUE=DATE:20261010
 DTEND;VALUE=DATE:20261011
-DTSTAMP:20261007T173237Z
+DTSTAMP:20261008T173530Z
 UID:79b4728723e69fc14ceeff860335@visitri-calendar
 DESCRIPTION:Festival Update: Come celebrate the fall season by visiting us
   on the Village Green in North Scituate. Browse and buy original fine art
@@ -423,10 +513,39 @@ URL:https://www.visitrhodeisland.com/event/2026-scituate-art-festival/1119
  50/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Early Bird Museum Highlight Tour at Newport Car Museum
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+DTSTAMP:20261008T173530Z
+UID:48c971e5cb750cbf6664f28fb8eb@visitri-calendar
+DESCRIPTION:Early Bird Highlight Tour For 90 minutes (8:30 &#8211\; 10:00 
+ AM) prior to Museum opening. Call to book: +1 (401) 848-2277 Price $75.00 
+ per person (minimum 2\, maximum 6 ppl) Offered Wednesday\, Thursday\, and 
+ Saturday only April 1 - December 31\, 2026. General admission is included 
+ with price. 72-hour advance notice is suggested. Only one group will be ho
+ sted on any given morning. This is your chance to have the Newport Car Mus
+ eum all to yourself with a private guide to share with you the not-to-miss
+  highlights in seven expansive galleries. With over 100 iconic\, rare and 
+ exotic cars on display at one time\, this private collection is bursting w
+ ith history\, provenance and color\, not to mention the breathtaking sculp
+ tural beauty of automotive designs starting with the 1950s and finishing w
+ ith new models from the 21 st Century. After 90 minutes with your private
+ \, continue to explore at your own pace so that you can further examine yo
+ ur favorites from the Ford/Shelby\, Corvette\, World Car\, Porsche\, Fin C
+ ar\, American Muscle and Mopar exhibits while enjoying immersive videos\, 
+ artwork and the Museum’s eclectic collection of Mid-Century Modern Furni
+ ture.\n\nSource: https://www.visitrhodeisland.com/event/early-bird-museum-
+ highlight-tour-at-newport-car-museum/109638/
+LOCATION:Newport Car Museum\, Enter at Light 1947 West Main Road\, Portsmo
+ uth\, RI 02871
+URL:https://www.visitrhodeisland.com/event/early-bird-museum-highlight-tou
+ r-at-newport-car-museum/109638/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Fall Fest at The Loom Hotel
 DTSTART;VALUE=DATE:20261010
 DTEND;VALUE=DATE:20261011
-DTSTAMP:20261007T173237Z
+DTSTAMP:20261008T173530Z
 UID:63ea241659fdd4c11238c92bb974@visitri-calendar
 DESCRIPTION:Celebrate fall at The Loom with seasonal drinks\, local vendor
  s\, festive activities\, and riverside views. Celebrate fall along the riv
@@ -453,7 +572,7 @@ BEGIN:VEVENT
 SUMMARY:RISD Craft Fall 2026
 DTSTART;VALUE=DATE:20261010
 DTEND;VALUE=DATE:20261011
-DTSTAMP:20261007T173237Z
+DTSTAMP:20261008T173530Z
 UID:d6d4d2a739ccdae1769d70accc32@visitri-calendar
 DESCRIPTION:Join us for our annual community-favorite event\, RISD Craft\,
   happening outdoors on Providence’s historic Benefit Street during RISD 
@@ -470,7 +589,7 @@ BEGIN:VEVENT
 SUMMARY:2026 Autumnfest
 DTSTART;VALUE=DATE:20261011
 DTEND;VALUE=DATE:20261012
-DTSTAMP:20261007T173237Z
+DTSTAMP:20261008T173530Z
 UID:1c68a5ef706c0175e9f51cf0035f@visitri-calendar
 DESCRIPTION:Join us in 2026! Autumnfest is a family-friendly fall festival
   held annually in Woonsocket\, Rhode Island\, celebrating the spirit of No
@@ -505,7 +624,7 @@ BEGIN:VEVENT
 SUMMARY:2026 Scituate Art Festival
 DTSTART;VALUE=DATE:20261011
 DTEND;VALUE=DATE:20261012
-DTSTAMP:20261007T173237Z
+DTSTAMP:20261008T173530Z
 UID:880ea78ffd1d3f5a02ad1b4d6dcf@visitri-calendar
 DESCRIPTION:Festival Update: Come celebrate the fall season by visiting us
   on the Village Green in North Scituate. Browse and buy original fine art
@@ -540,7 +659,7 @@ BEGIN:VEVENT
 SUMMARY:2026 Autumnfest
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261013
-DTSTAMP:20261007T173237Z
+DTSTAMP:20261008T173530Z
 UID:6f6c4450fd947ffc7512680cc155@visitri-calendar
 DESCRIPTION:Join us in 2026! Autumnfest is a family-friendly fall festival
   held annually in Woonsocket\, Rhode Island\, celebrating the spirit of No
@@ -575,7 +694,7 @@ BEGIN:VEVENT
 SUMMARY:2026 Scituate Art Festival
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261013
-DTSTAMP:20261007T173237Z
+DTSTAMP:20261008T173530Z
 UID:a57830b8782a337068ab3be90fba@visitri-calendar
 DESCRIPTION:Festival Update: Come celebrate the fall season by visiting us
   on the Village Green in North Scituate. Browse and buy original fine art
@@ -607,10 +726,52 @@ URL:https://www.visitrhodeisland.com/event/2026-scituate-art-festival/1119
  50/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Explore Chepstow's Ties to America's Founding Families
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+DTSTAMP:20261008T173530Z
+UID:a59fff2cef23cdf7eeb13657bbae@visitri-calendar
+DESCRIPTION:Explore Chepstow’s Ties to America’s Founding Families Whe
+ n: Thursdays\, October 8th and October 15th from 11:00 AM to 12:00 PM Wher
+ e: Chepstow\, 120 Narragansett Avenue\, Newport Cost: $20 Members $25 Non-
+ Members Preservation Society Archives Fellow\, Grace Acton\, highlights co
+ nnections between the Morris family archives and furnishings collected by 
+ Alletta Morris McBean at Chepstow. Get to know the people behind the paint
+ ings\, documents and decor on view at Chepstow. From religious leaders to 
+ revolutionaries\, politicians to socialites\, learn about the many ways th
+ at Mrs. McBean’s ancestors influenced American history\, and how the wom
+ en of Chepstow preserved their family history for future generations. Grac
+ e Acton\, Preservation Society Archival Research Fellow\, graduated Summa 
+ Cum Laude and Phi Beta Kappa in Interdisciplinary Studies from Bates Colle
+ ge in Lewiston\, Maine\, and earned an MA with Distinction in Digital Huma
+ nities from Lancaster University\, where she was awarded the Chancellor’
+ s Medal and Iredell Prize. In addition to her coursework\, Grace has excel
+ led in roles which require critical thinking and data analysis to address 
+ complex collections management problems as a Synergy Collections Managemen
+ t Intern for Bates College Museum of Art\, Collections Steward and Digitiz
+ ation Intern for the Maine Maritime Museum\, and Dorothy W. Sanborn Summer
+  Intern at the Rufus Porter Museum of Art and Ingenuity. Acton has also pr
+ esented at numerous conferences\, offering papers which demonstrate her fa
+ cility with archives management and digital humanities\, such as “Into t
+ he Zooniverse: Crowdsourcing Data for the Bates Museum of Art Collection
+ ” at the 2023 Bates College Mount David Summit\; and “Rufus’s Advent
+ ures in Cyberspace: Bringing Rufus Porter School Art into the World of Dig
+ ital History” as a webinar for the Rufus Porter Museum of Art and Ingenu
+ ity. She is a member of the New England Archivists\, Society of American A
+ rchivists and Digital Preservation Coalition\; is conversational in Russia
+ n and bi-literate in Spanish\; and programs in R and HTML/XML.\n\nSource: 
+ https://www.visitrhodeisland.com/event/explore-chepstows-ties-to-americas-
+ founding-families/111746/
+LOCATION:Chepstow\, 120 Narragansett Avenue\, Newport\, RI 02840 Time: 11:
+ 00 AM to 12:00 PM
+URL:https://www.visitrhodeisland.com/event/explore-chepstows-ties-to-ameri
+ cas-founding-families/111746/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Live Music by Logan Vale
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261018
-DTSTAMP:20261007T173237Z
+DTSTAMP:20261008T173530Z
 UID:2241186137b505cf7c814cd90b60@visitri-calendar
 DESCRIPTION:The music of Logan Vale! Dinner reservations required either o
  nline or call 401.861.3850 x. 3\n\nSource: https://www.visitrhodeisland.co
@@ -624,7 +785,7 @@ BEGIN:VEVENT
 SUMMARY:Tour de Vino Wine Dinner
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261023
-DTSTAMP:20261007T173237Z
+DTSTAMP:20261008T173530Z
 UID:cb727bd087bb1926972b6366d20d@visitri-calendar
 DESCRIPTION:Tour de Vino will be at The Brook Kitchen + Bar on October 22.
   Join us for an intimate four-course wine dinner featuring carefully selec
@@ -640,7 +801,7 @@ BEGIN:VEVENT
 SUMMARY:"Nocturnes" Exhibit at Spring Bull Gallery
 DTSTART;VALUE=DATE:20261025
 DTEND;VALUE=DATE:20261026
-DTSTAMP:20261007T173237Z
+DTSTAMP:20261008T173530Z
 UID:945340681c00f5d79c305667c5c8@visitri-calendar
 DESCRIPTION:"Nocturnes" An Art Exhibit at Spring Bull Gallery When: Septem
  ber 19 - October 25\, 2026 from 12:00 to 5:00 PM Opening Reception: Sunday
@@ -662,7 +823,7 @@ BEGIN:VEVENT
 SUMMARY:Annual Harvest Festival at Newport Vineyards
 DTSTART;VALUE=DATE:20261025
 DTEND;VALUE=DATE:20261026
-DTSTAMP:20261007T173237Z
+DTSTAMP:20261008T173530Z
 UID:3f036be2c60a1a4587e7b53ef705@visitri-calendar
 DESCRIPTION:Celebrate the 9 th Annual Harvest Festival with Newport Vineya
  rds! When: Sunday\, October 25th More details to be announced! General Adm
@@ -678,7 +839,7 @@ BEGIN:VEVENT
 SUMMARY:Coastal Cruisers - The Golden Hour
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
-DTSTAMP:20261007T173237Z
+DTSTAMP:20261008T173530Z
 UID:a33f7731698b5451e05ba44e42fd@visitri-calendar
 DESCRIPTION:Experience the Island in our Coastal Cruisers\, Newport’s pr
  ivate chauffeured luxury tour\, dedicated to providing a sophisticated way
@@ -708,7 +869,7 @@ BEGIN:VEVENT
 SUMMARY:Jack-O-Lantern Spectacular
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
-DTSTAMP:20261007T173237Z
+DTSTAMP:20261008T173530Z
 UID:ddc52d2e1f830141a3c1c36cbc2b@visitri-calendar
 DESCRIPTION:Jack-O-Lantern Spectacular: The Great Pun-Kin Trail\, presente
  d by Citizens\, returns October 1 &#8211\; November 1 with an all-new trai
@@ -733,7 +894,7 @@ BEGIN:VEVENT
 SUMMARY:A New England Thanksgiving
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
-DTSTAMP:20261007T173237Z
+DTSTAMP:20261008T173530Z
 UID:21d35714802ba10832a84ed3bbac@visitri-calendar
 DESCRIPTION:Join the Coggeshall staff as we prepare a Thanksgiving meal ov
  er the hearth in our historic farmhouse. The late 18th century was before 
@@ -757,7 +918,7 @@ BEGIN:VEVENT
 SUMMARY:The Intentional Celebration: Holiday Edition
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
-DTSTAMP:20261007T173237Z
+DTSTAMP:20261008T173530Z
 UID:6f484250684bf2271dde2a31e276@visitri-calendar
 DESCRIPTION:The Intentional Celebration: Holiday Edition is a two-day indo
  or holiday market and immersive Christmas experience taking place December
@@ -787,7 +948,7 @@ BEGIN:VEVENT
 SUMMARY:The Intentional Celebration: Holiday Edition
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
-DTSTAMP:20261007T173237Z
+DTSTAMP:20261008T173530Z
 UID:f0031a8c4f9ec38b7e0300063594@visitri-calendar
 DESCRIPTION:The Intentional Celebration: Holiday Edition is a two-day indo
  or holiday market and immersive Christmas experience taking place December
@@ -817,7 +978,7 @@ BEGIN:VEVENT
 SUMMARY:Beyond the Brewhouse Tour
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
-DTSTAMP:20261007T173237Z
+DTSTAMP:20261008T173530Z
 UID:c7b48636db9ede5f5acbbb263d31@visitri-calendar
 DESCRIPTION:Beyond the Brewhouse Where: Newport Craft Brewing and Distilli
  ng\, 293 JT Connell Road\, Newport 45 minutes: $20 per person Did you know
@@ -836,7 +997,7 @@ BEGIN:VEVENT
 SUMMARY:Burritos & Bowls—Lunch Specials at Yellow Door Taqueria!
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
-DTSTAMP:20261007T173237Z
+DTSTAMP:20261008T173530Z
 UID:a47385cf36c194bcd701d4733276@visitri-calendar
 DESCRIPTION:Our new Burrito &amp\; Bowl lunch specials have arrived at Yel
  low Door Taqueria in downtown Providence! Perfect for dining in or taking 
@@ -849,5 +1010,34 @@ LOCATION:Yellow Door Taqueria\, 191 Dorrance Street\, Providence\, RI 0290
  3
 URL:https://www.visitrhodeisland.com/event/burritos-%26-bowls%e2%80%94lunc
  h-specials-at-yellow-door-taqueria!/111544/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Early Bird Museum Highlight Tour at Newport Car Museum
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+DTSTAMP:20261008T173530Z
+UID:2f06cece69080ebb1042b1f38a6b@visitri-calendar
+DESCRIPTION:Early Bird Highlight Tour For 90 minutes (8:30 &#8211\; 10:00 
+ AM) prior to Museum opening. Call to book: +1 (401) 848-2277 Price $75.00 
+ per person (minimum 2\, maximum 6 ppl) Offered Wednesday\, Thursday\, and 
+ Saturday only April 1 - December 31\, 2026. General admission is included 
+ with price. 72-hour advance notice is suggested. Only one group will be ho
+ sted on any given morning. This is your chance to have the Newport Car Mus
+ eum all to yourself with a private guide to share with you the not-to-miss
+  highlights in seven expansive galleries. With over 100 iconic\, rare and 
+ exotic cars on display at one time\, this private collection is bursting w
+ ith history\, provenance and color\, not to mention the breathtaking sculp
+ tural beauty of automotive designs starting with the 1950s and finishing w
+ ith new models from the 21 st Century. After 90 minutes with your private
+ \, continue to explore at your own pace so that you can further examine yo
+ ur favorites from the Ford/Shelby\, Corvette\, World Car\, Porsche\, Fin C
+ ar\, American Muscle and Mopar exhibits while enjoying immersive videos\, 
+ artwork and the Museum’s eclectic collection of Mid-Century Modern Furni
+ ture.\n\nSource: https://www.visitrhodeisland.com/event/early-bird-museum-
+ highlight-tour-at-newport-car-museum/109638/
+LOCATION:Newport Car Museum\, Enter at Light 1947 West Main Road\, Portsmo
+ uth\, RI 02871
+URL:https://www.visitrhodeisland.com/event/early-bird-museum-highlight-tou
+ r-at-newport-car-museum/109638/
 END:VEVENT
 END:VCALENDAR
