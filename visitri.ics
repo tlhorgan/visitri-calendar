@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:$15 Moonshine Flights & Moonshine Tasting
 DTSTART;VALUE=DATE:20250615
 DTEND;VALUE=DATE:20250616
-DTSTAMP:20261008T173530Z
+DTSTAMP:20261009T171050Z
 UID:b6432d870f2c0958f26453a40d59@visitri-calendar
 DESCRIPTION:Try a Moonshine Flight tasting at Moonshine Alley! Moonshine F
  lights are available daily for just $15! We have over 13 flavors to choose
@@ -20,68 +20,10 @@ URL:https://www.visitrhodeisland.com/event/%2415-moonshine-flights-%26-moo
  nshine-tasting/105663/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Federal Hill Dinner Stroll
-DTSTART;VALUE=DATE:20251231
-DTEND;VALUE=DATE:20260101
-DTSTAMP:20261008T173530Z
-UID:0f7c9cd3871a48273390ed565571@visitri-calendar
-DESCRIPTION:A Guided Italian Dinner Experience Unwind after a long day wit
- h the Federal Hill Dinner Stroll—a decadent evening walk through Provide
- nce’s legendary Little Italy\, guided by a warm and knowledgeable host. 
- This immersive\, multi-course dining experience replaces the usual restaur
- ant routine with a handpicked lineup of top-tier small plates and drinks f
- rom some of the Hill’s most iconic spots. From seafood to house-made pas
- tas and cheeses to unforgettable desserts\, every stop is a celebration of
-  one of the best culinary neighborhoods in New England. Food\, tax\, and t
- ip are all included\, so all you’ll need to think about is what to sip a
- long the way. As the streets glow under string lights and the smell of fre
- sh bread fills the air\, you’ll be treated to an evening that’s equal 
- parts indulgent and effortless. Your dedicated host is there just for your
-  group—welcoming you at each stop\, handling every detail\, and making s
- ure you feel taken care of from the first bite to the last. With bold flav
- ors\, rich traditions\, and the warm hum of the neighborhood around you\, 
- it’s more than just dinner\; it’s a chance to step into the rhythm of 
- a place where food is a way of life.\n\nSource: https://www.visitrhodeisla
- nd.com/event/federal-hill-dinner-stroll/106097/
-LOCATION:Cassarino's Ristorante\, 177 Atwells Avenue\, Providence\, RI 029
- 03
-URL:https://www.visitrhodeisland.com/event/federal-hill-dinner-stroll/1060
- 97/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Early Bird Museum Highlight Tour at Newport Car Museum
-DTSTART;VALUE=DATE:20260401
-DTEND;VALUE=DATE:20260402
-DTSTAMP:20261008T173530Z
-UID:75253880a8c565d95c2d97a759c9@visitri-calendar
-DESCRIPTION:Early Bird Highlight Tour For 90 minutes (8:30 &#8211\; 10:00 
- AM) prior to Museum opening. Call to book: +1 (401) 848-2277 Price $75.00 
- per person (minimum 2\, maximum 6 ppl) Offered Wednesday\, Thursday\, and 
- Saturday only April 1 - December 31\, 2026. General admission is included 
- with price. 72-hour advance notice is suggested. Only one group will be ho
- sted on any given morning. This is your chance to have the Newport Car Mus
- eum all to yourself with a private guide to share with you the not-to-miss
-  highlights in seven expansive galleries. With over 100 iconic\, rare and 
- exotic cars on display at one time\, this private collection is bursting w
- ith history\, provenance and color\, not to mention the breathtaking sculp
- tural beauty of automotive designs starting with the 1950s and finishing w
- ith new models from the 21 st Century. After 90 minutes with your private
- \, continue to explore at your own pace so that you can further examine yo
- ur favorites from the Ford/Shelby\, Corvette\, World Car\, Porsche\, Fin C
- ar\, American Muscle and Mopar exhibits while enjoying immersive videos\, 
- artwork and the Museum’s eclectic collection of Mid-Century Modern Furni
- ture.\n\nSource: https://www.visitrhodeisland.com/event/early-bird-museum-
- highlight-tour-at-newport-car-museum/109638/
-LOCATION:Newport Car Museum\, Enter at Light 1947 West Main Road\, Portsmo
- uth\, RI 02871
-URL:https://www.visitrhodeisland.com/event/early-bird-museum-highlight-tou
- r-at-newport-car-museum/109638/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Coastal Cruisers - The Golden Hour
 DTSTART;VALUE=DATE:20260501
 DTEND;VALUE=DATE:20260502
-DTSTAMP:20261008T173530Z
+DTSTAMP:20261009T171050Z
 UID:9f3864060ce7679e35293700f37c@visitri-calendar
 DESCRIPTION:Experience the Island in our Coastal Cruisers\, Newport’s pr
  ivate chauffeured luxury tour\, dedicated to providing a sophisticated way
@@ -108,10 +50,38 @@ URL:https://www.visitrhodeisland.com/event/coastal-cruisers-the-golden-hou
  r/109827/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Dueling Pianos at the Top of Pelham
+DTSTART;VALUE=DATE:20260501
+DTEND;VALUE=DATE:20260502
+DTSTAMP:20261009T171050Z
+UID:60db075f3503c7ed2d6aa2d4f46a@visitri-calendar
+DESCRIPTION:Dueling Pianos at the Top of Pelham Please check your dates an
+ d times — show start times vary. For more dates and showtimes\, check ou
+ t Eventbrite. Located directly above One Pelham East\, the Top Of Pelham i
+ s proud to be the only venue in Newport\, Rhode Island\, hosting a live Du
+ eling Pianos Show! Situated across from Bowen’s Wharf on historic Thames
+  Street\, The Top delivers exceptional live entertainment featuring nation
+ ally known performers\, with a stunning view of the world-famous Newport H
+ arbor. Every weekend\, our stage is filled with two grand pianos as entert
+ ainers perform audience requests from every genre and era imaginable. Thro
+ ughout the show\, audience members are invited on stage for toasts and spe
+ cial dedication songs\, creating an unforgettable evening. This live music
+  experience is ideal for a night out in town\, bachelorette parties\, birt
+ hday celebrations\, and corporate events. No matter the occasion\, a great
+  time is guaranteed! Please note\, all events are strictly for individuals
+  aged 21 and over. Disclaimer: Due to rare last-minute scheduling conflict
+ s\, piano players are subject to change.\n\nSource: https://www.visitrhode
+ island.com/event/dueling-pianos-at-the-top-of-pelham/109832/
+LOCATION:Dueling Pianos at the Top of Pelham\, 3 Pelham Street\, Newport\,
+  RI 02840
+URL:https://www.visitrhodeisland.com/event/dueling-pianos-at-the-top-of-pe
+ lham/109832/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Beyond the Brewhouse Tour
 DTSTART;VALUE=DATE:20260515
 DTEND;VALUE=DATE:20260516
-DTSTAMP:20261008T173530Z
+DTSTAMP:20261009T171050Z
 UID:acc9d8e1d1bdab34c6766b602473@visitri-calendar
 DESCRIPTION:Beyond the Brewhouse Where: Newport Craft Brewing and Distilli
  ng\, 293 JT Connell Road\, Newport 45 minutes: $20 per person Did you know
@@ -130,7 +100,7 @@ BEGIN:VEVENT
 SUMMARY:$15 Moonshine Flights & Moonshine Tasting
 DTSTART;VALUE=DATE:20260721
 DTEND;VALUE=DATE:20260722
-DTSTAMP:20261008T173530Z
+DTSTAMP:20261009T171050Z
 UID:6ac059c408c431eceb1c3c855c19@visitri-calendar
 DESCRIPTION:Try a Moonshine Flight tasting at Moonshine Alley! Moonshine F
  lights are available daily for just $15! We have over 13 flavors to choose
@@ -146,7 +116,7 @@ BEGIN:VEVENT
 SUMMARY:Burritos & Bowls—Lunch Specials at Yellow Door Taqueria!
 DTSTART;VALUE=DATE:20260826
 DTEND;VALUE=DATE:20260827
-DTSTAMP:20261008T173530Z
+DTSTAMP:20261009T171050Z
 UID:cd9e59bf1148392bbbdd7c30628e@visitri-calendar
 DESCRIPTION:Our new Burrito &amp\; Bowl lunch specials have arrived at Yel
  low Door Taqueria in downtown Providence! Perfect for dining in or taking 
@@ -161,39 +131,10 @@ URL:https://www.visitrhodeisland.com/event/burritos-%26-bowls%e2%80%94lunc
  h-specials-at-yellow-door-taqueria!/111544/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Federal Hill Dinner Stroll
-DTSTART;VALUE=DATE:20260904
-DTEND;VALUE=DATE:20260905
-DTSTAMP:20261008T173530Z
-UID:1ba0809acb5925117d6bfead8fd2@visitri-calendar
-DESCRIPTION:A Guided Italian Dinner Experience Unwind after a long day wit
- h the Federal Hill Dinner Stroll—a decadent evening walk through Provide
- nce’s legendary Little Italy\, guided by a warm and knowledgeable host. 
- This immersive\, multi-course dining experience replaces the usual restaur
- ant routine with a handpicked lineup of top-tier small plates and drinks f
- rom some of the Hill’s most iconic spots. From seafood to house-made pas
- tas and cheeses to unforgettable desserts\, every stop is a celebration of
-  one of the best culinary neighborhoods in New England. Food\, tax\, and t
- ip are all included\, so all you’ll need to think about is what to sip a
- long the way. As the streets glow under string lights and the smell of fre
- sh bread fills the air\, you’ll be treated to an evening that’s equal 
- parts indulgent and effortless. Your dedicated host is there just for your
-  group—welcoming you at each stop\, handling every detail\, and making s
- ure you feel taken care of from the first bite to the last. With bold flav
- ors\, rich traditions\, and the warm hum of the neighborhood around you\, 
- it’s more than just dinner\; it’s a chance to step into the rhythm of 
- a place where food is a way of life.\n\nSource: https://www.visitrhodeisla
- nd.com/event/federal-hill-dinner-stroll/106097/
-LOCATION:Cassarino's Ristorante\, 177 Atwells Avenue\, Providence\, RI 029
- 03
-URL:https://www.visitrhodeisland.com/event/federal-hill-dinner-stroll/1060
- 97/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:"Nocturnes" Exhibit at Spring Bull Gallery
 DTSTART;VALUE=DATE:20260913
 DTEND;VALUE=DATE:20260914
-DTSTAMP:20261008T173530Z
+DTSTAMP:20261009T171050Z
 UID:b3a6362c63e2fad1624808d0342f@visitri-calendar
 DESCRIPTION:"Nocturnes" An Art Exhibit at Spring Bull Gallery When: Septem
  ber 19 - October 25\, 2026 from 12:00 to 5:00 PM Opening Reception: Sunday
@@ -215,7 +156,7 @@ BEGIN:VEVENT
 SUMMARY:Jack-O-Lantern Spectacular
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
-DTSTAMP:20261008T173530Z
+DTSTAMP:20261009T171050Z
 UID:a11cb847b167f6db3762e7d7aba4@visitri-calendar
 DESCRIPTION:Jack-O-Lantern Spectacular: The Great Pun-Kin Trail\, presente
  d by Citizens\, returns October 1 &#8211\; November 1 with an all-new trai
@@ -237,181 +178,10 @@ URL:https://www.visitrhodeisland.com/event/jack-o-lantern-spectacular/9207
  1/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:A New England Thanksgiving
-DTSTART;VALUE=DATE:20261008
-DTEND;VALUE=DATE:20261009
-DTSTAMP:20261008T173530Z
-UID:0435e7b8fd00daaae543be23c2bf@visitri-calendar
-DESCRIPTION:Join the Coggeshall staff as we prepare a Thanksgiving meal ov
- er the hearth in our historic farmhouse. The late 18th century was before 
- the official start of Thanksgiving as a national holiday\, but the day was
-  still celebrated with food and prayer in New England. Watch our costumed 
- historians make chicken on a string\, bake a pie in the hot coals\, mash t
- urnips and churn butter. In the woodshop we will also demonstrate carving 
- wooden spoons. Explore the garden to see the last of the fall harvest. Wal
- k the nature trail and look for signs of wild turkey\, see musket demonstr
- ations and try your aim with rubber band targets. Please note: This is not
-  a Thanksgiving meal for visitors to eat. Food prepared in the historic Fa
- rmhouse Kitchen does not meet modern health and food preparation codes for
-  public consumption.\n\nSource: https://www.visitrhodeisland.com/event/a-n
- ew-england-thanksgiving/112116/
-LOCATION:Coggeshall Farm Museum\, 1 Colt Drive\, Bristol\, 02809 Time: 10:
- 00 AM to 4:00 PM
-URL:https://www.visitrhodeisland.com/event/a-new-england-thanksgiving/1121
- 16/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Annual Harvest Festival at Newport Vineyards
-DTSTART;VALUE=DATE:20261008
-DTEND;VALUE=DATE:20261009
-DTSTAMP:20261008T173530Z
-UID:e9a5ec4e00df3423dd5d1ac181b8@visitri-calendar
-DESCRIPTION:Celebrate the 9 th Annual Harvest Festival with Newport Vineya
- rds! When: Sunday\, October 25th More details to be announced! General Adm
- ission and Non-Tasting Admission Tickets will be available\n\nSource: http
- s://www.visitrhodeisland.com/event/annual-harvest-festival-at-newport-vine
- yards/111769/
-LOCATION:Newport Vineyards\, 909 East Main Road\, Middletown\, RI 02842 Ti
- me: Festival time to be announced.
-URL:https://www.visitrhodeisland.com/event/annual-harvest-festival-at-newp
- ort-vineyards/111769/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Early Bird Museum Highlight Tour at Newport Car Museum
-DTSTART;VALUE=DATE:20261008
-DTEND;VALUE=DATE:20261009
-DTSTAMP:20261008T173530Z
-UID:2e70229ab3660758db11fd1cf244@visitri-calendar
-DESCRIPTION:Early Bird Highlight Tour For 90 minutes (8:30 &#8211\; 10:00 
- AM) prior to Museum opening. Call to book: +1 (401) 848-2277 Price $75.00 
- per person (minimum 2\, maximum 6 ppl) Offered Wednesday\, Thursday\, and 
- Saturday only April 1 - December 31\, 2026. General admission is included 
- with price. 72-hour advance notice is suggested. Only one group will be ho
- sted on any given morning. This is your chance to have the Newport Car Mus
- eum all to yourself with a private guide to share with you the not-to-miss
-  highlights in seven expansive galleries. With over 100 iconic\, rare and 
- exotic cars on display at one time\, this private collection is bursting w
- ith history\, provenance and color\, not to mention the breathtaking sculp
- tural beauty of automotive designs starting with the 1950s and finishing w
- ith new models from the 21 st Century. After 90 minutes with your private
- \, continue to explore at your own pace so that you can further examine yo
- ur favorites from the Ford/Shelby\, Corvette\, World Car\, Porsche\, Fin C
- ar\, American Muscle and Mopar exhibits while enjoying immersive videos\, 
- artwork and the Museum’s eclectic collection of Mid-Century Modern Furni
- ture.\n\nSource: https://www.visitrhodeisland.com/event/early-bird-museum-
- highlight-tour-at-newport-car-museum/109638/
-LOCATION:Newport Car Museum\, Enter at Light 1947 West Main Road\, Portsmo
- uth\, RI 02871
-URL:https://www.visitrhodeisland.com/event/early-bird-museum-highlight-tou
- r-at-newport-car-museum/109638/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Explore Chepstow's Ties to America's Founding Families
-DTSTART;VALUE=DATE:20261008
-DTEND;VALUE=DATE:20261009
-DTSTAMP:20261008T173530Z
-UID:76dbdd68fb9318edf8c8bdf1008c@visitri-calendar
-DESCRIPTION:Explore Chepstow’s Ties to America’s Founding Families Whe
- n: Thursdays\, October 8th and October 15th from 11:00 AM to 12:00 PM Wher
- e: Chepstow\, 120 Narragansett Avenue\, Newport Cost: $20 Members $25 Non-
- Members Preservation Society Archives Fellow\, Grace Acton\, highlights co
- nnections between the Morris family archives and furnishings collected by 
- Alletta Morris McBean at Chepstow. Get to know the people behind the paint
- ings\, documents and decor on view at Chepstow. From religious leaders to 
- revolutionaries\, politicians to socialites\, learn about the many ways th
- at Mrs. McBean’s ancestors influenced American history\, and how the wom
- en of Chepstow preserved their family history for future generations. Grac
- e Acton\, Preservation Society Archival Research Fellow\, graduated Summa 
- Cum Laude and Phi Beta Kappa in Interdisciplinary Studies from Bates Colle
- ge in Lewiston\, Maine\, and earned an MA with Distinction in Digital Huma
- nities from Lancaster University\, where she was awarded the Chancellor’
- s Medal and Iredell Prize. In addition to her coursework\, Grace has excel
- led in roles which require critical thinking and data analysis to address 
- complex collections management problems as a Synergy Collections Managemen
- t Intern for Bates College Museum of Art\, Collections Steward and Digitiz
- ation Intern for the Maine Maritime Museum\, and Dorothy W. Sanborn Summer
-  Intern at the Rufus Porter Museum of Art and Ingenuity. Acton has also pr
- esented at numerous conferences\, offering papers which demonstrate her fa
- cility with archives management and digital humanities\, such as “Into t
- he Zooniverse: Crowdsourcing Data for the Bates Museum of Art Collection
- ” at the 2023 Bates College Mount David Summit\; and “Rufus’s Advent
- ures in Cyberspace: Bringing Rufus Porter School Art into the World of Dig
- ital History” as a webinar for the Rufus Porter Museum of Art and Ingenu
- ity. She is a member of the New England Archivists\, Society of American A
- rchivists and Digital Preservation Coalition\; is conversational in Russia
- n and bi-literate in Spanish\; and programs in R and HTML/XML.\n\nSource: 
- https://www.visitrhodeisland.com/event/explore-chepstows-ties-to-americas-
- founding-families/111746/
-LOCATION:Chepstow\, 120 Narragansett Avenue\, Newport\, RI 02840 Time: 11:
- 00 AM to 12:00 PM
-URL:https://www.visitrhodeisland.com/event/explore-chepstows-ties-to-ameri
- cas-founding-families/111746/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fall Fest at The Loom Hotel
-DTSTART;VALUE=DATE:20261008
-DTEND;VALUE=DATE:20261009
-DTSTAMP:20261008T173530Z
-UID:658411d5db9d2c8725f180fbda9b@visitri-calendar
-DESCRIPTION:Celebrate fall at The Loom with seasonal drinks\, local vendor
- s\, festive activities\, and riverside views. Celebrate fall along the riv
- er at Fall Fest at The Loom Hotel! Join us on the Riverview Deck for an af
- ternoon of seasonal drinks\, local makers\, fall-inspired activities\, and
-  some of our favorite Rhode Island businesses. Shop\, sip\, snack\, and di
- scover a curated lineup of local businesses\, including: Koncocted Bloom B
- ar Experience - Grab beautiful handcrafted bouquets or create your own wit
- h local Rhode Island-grown farm-fresh flowers &amp\; thrifted vases. Bijou
- x Brie Permanent Jewelry &#8211\; Find your new favorite piece with custom
- -fit permanent jewelry. Herbs and Mylk Luxury Botanical Skincare &#8211\; 
- Shop handcrafted botanical skincare and self-care favorites. Holiday by Na
- y &#8211\; Enjoy homemade baked goods by Danasia. Hammer and Stain by Craf
- ty Girls DIY &#8211\; A mobile craft business. Sammallas - Vintage and Han
- dmade Jewelry Come sip\, shop\, snack\, and support local while enjoying a
- n October afternoon by the river at The Loom. 🍂\n\nSource: https://www.
- visitrhodeisland.com/event/fall-fest-at-the-loom-hotel/111938/
-LOCATION:The Loom Hotel Tapestry Collection by Hilton - Warwick\, 400 Knig
- ht Street\, Warwick\, RI 02886
-URL:https://www.visitrhodeisland.com/event/fall-fest-at-the-loom-hotel/111
- 938/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:RISD Craft Fall 2026
-DTSTART;VALUE=DATE:20261008
-DTEND;VALUE=DATE:20261009
-DTSTAMP:20261008T173530Z
-UID:bad0efdba7c71a9a88c6028900b9@visitri-calendar
-DESCRIPTION:Join us for our annual community-favorite event\, RISD Craft\,
-  happening outdoors on Providence’s historic Benefit Street during RISD 
- Families Weekend. Engage with more than 120 alumni and student artists\, d
- esigners and craftspeople as you browse the unique and handmade items for 
- sale. RISD Craft is free\, and open to the public. We can’t wait to see 
- you there!\n\nSource: https://www.visitrhodeisland.com/event/risd-craft-fa
- ll-2026/111690/
-LOCATION:Benefit St.\, Benefit Street\, Providence\, 02903 Time: 10:00 AM 
- to 4:00 PM
-URL:https://www.visitrhodeisland.com/event/risd-craft-fall-2026/111690/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tour de Vino Wine Dinner
-DTSTART;VALUE=DATE:20261008
-DTEND;VALUE=DATE:20261009
-DTSTAMP:20261008T173530Z
-UID:fd8d67be157c1b1662a909070181@visitri-calendar
-DESCRIPTION:Tour de Vino will be at The Brook Kitchen + Bar on October 22.
-  Join us for an intimate four-course wine dinner featuring carefully selec
- ted pairings from Hope Family Wines. This event is part of a traveling win
- e dinner series across nine Coury Hospitality properties. Enjoy an excepti
- onal evening of food\, wine\, and conversation at The Brook.\n\nSource: ht
- tps://www.visitrhodeisland.com/event/tour-de-vino-wine-dinner/111939/
-LOCATION:The Brook Kitchen & Bar\, 400 Knight Street\, Warwick\, RI 02886
-URL:https://www.visitrhodeisland.com/event/tour-de-vino-wine-dinner/111939
- /
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:2026 Autumnfest
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
-DTSTAMP:20261008T173530Z
+DTSTAMP:20261009T171050Z
 UID:a2d09522ca26cb23a52126961053@visitri-calendar
 DESCRIPTION:Join us in 2026! Autumnfest is a family-friendly fall festival
   held annually in Woonsocket\, Rhode Island\, celebrating the spirit of No
@@ -443,10 +213,167 @@ LOCATION:WWII Veterans Memorial Park\, 209 E School St\, Woonsocket\, 0289
 URL:https://www.visitrhodeisland.com/event/2026-autumnfest/111948/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:A New England Thanksgiving
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+DTSTAMP:20261009T171050Z
+UID:ad9b7f9baed8998ddde9d120e19e@visitri-calendar
+DESCRIPTION:Join the Coggeshall staff as we prepare a Thanksgiving meal ov
+ er the hearth in our historic farmhouse. The late 18th century was before 
+ the official start of Thanksgiving as a national holiday\, but the day was
+  still celebrated with food and prayer in New England. Watch our costumed 
+ historians make chicken on a string\, bake a pie in the hot coals\, mash t
+ urnips and churn butter. In the woodshop we will also demonstrate carving 
+ wooden spoons. Explore the garden to see the last of the fall harvest. Wal
+ k the nature trail and look for signs of wild turkey\, see musket demonstr
+ ations and try your aim with rubber band targets. Please note: This is not
+  a Thanksgiving meal for visitors to eat. Food prepared in the historic Fa
+ rmhouse Kitchen does not meet modern health and food preparation codes for
+  public consumption.\n\nSource: https://www.visitrhodeisland.com/event/a-n
+ ew-england-thanksgiving/112116/
+LOCATION:Coggeshall Farm Museum\, 1 Colt Drive\, Bristol\, 02809 Time: 10:
+ 00 AM to 4:00 PM
+URL:https://www.visitrhodeisland.com/event/a-new-england-thanksgiving/1121
+ 16/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Annual Harvest Festival at Newport Vineyards
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+DTSTAMP:20261009T171050Z
+UID:a86ddcb381ae22cc2d250bdecdc9@visitri-calendar
+DESCRIPTION:Celebrate the 9 th Annual Harvest Festival with Newport Vineya
+ rds! When: Sunday\, October 25th More details to be announced! General Adm
+ ission and Non-Tasting Admission Tickets will be available\n\nSource: http
+ s://www.visitrhodeisland.com/event/annual-harvest-festival-at-newport-vine
+ yards/111769/
+LOCATION:Newport Vineyards\, 909 East Main Road\, Middletown\, RI 02842 Ti
+ me: Festival time to be announced.
+URL:https://www.visitrhodeisland.com/event/annual-harvest-festival-at-newp
+ ort-vineyards/111769/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Annual Sidewalk Sale in Bowen's Wharf
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+DTSTAMP:20261009T171050Z
+UID:4f2298381bad3803062c0912d417@visitri-calendar
+DESCRIPTION:Bowen's Wharf Annual Sidewalk Sale Date: Friday\, October 9 th
+  through Monday\, October 12 th 2026 Shopping addicts\, make your way to t
+ he waterfront for holiday weekend specials! Forget the mall\, Shop Small 
+ — stroll along Bowen's Wharf for great deals on end-of-season items. Bro
+ ught to you by the Bowen's Wharf Merchants Association. Free Admission! Fi
+ nd a list of participating shops on Facebook.\n\nSource: https://www.visit
+ rhodeisland.com/event/annual-sidewalk-sale-in-bowens-wharf/109515/
+LOCATION:Bowen's Wharf\, 13 Bowen's Wharf\, Newport\, RI 02840 Time: 10:00
+  AM to 5:00 PM
+URL:https://www.visitrhodeisland.com/event/annual-sidewalk-sale-in-bowens-
+ wharf/109515/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Celine Dion Tribute - Celebrating Celine
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+DTSTAMP:20261009T171050Z
+UID:c8b2978490a24502d60b98bc402c@visitri-calendar
+DESCRIPTION:Celebrating Celine with Jenene Caramielo is a premier musical 
+ tribute to Celine Dion. Be amazed as Jenene effortlessly recreates Celine
+ ’s iconic power ballads such as “My Heart Will Go On\,” “It's All 
+ Coming Back to Me Now\,” “Because You Loved Me” and many more. Befor
+ e traveling the globe as a sought-after headliner on luxury cruise lines R
+ egent\, Oceania and Crystal\, or selling out top cabaret rooms such as Fei
+ nstein’s 54 Below in New York City and the Royal Room in Palm Beach\, Je
+ nene Caramielo honed her craft with a wide variety of experiences and educ
+ ation. From her early work in regional theater musicals such as The Music 
+ Man and Fiddler on the Roof\, to opera workshops including Aida\, to lead 
+ vocalist in pop music-packed theme park productions\, Jenene’s lifelong 
+ training and work in voice\, dance\, piano\, and acting &amp\; improvisati
+ on has delighted audiences the world over. Jenene studied classical voice 
+ at the Civic Light Opera in Pittsburgh\, as well as Carnegie Mellon Univer
+ sity\, and graduated with a Bachelor of Fine Arts in Musical Theater from 
+ Shenandoah Conservatory. A true crossover entertainer\, she is as adept at
+  belting a Celine Dion or Whitney Houston song as she is performing an ari
+ a or captivating audiences with Broadway show tunes. Jenene has shared a s
+ tage with Chicago\, opened for the Beach Boys\, kicked off Major League Ba
+ seball games with our national anthem\, sung for celebrities and world lea
+ ders\, and performed at some of the most exclusive private country clubs i
+ n the United States. She says\, though\, that her greatest honor to date w
+ as performing at the Governor’s Ball at The White House backed by the Un
+ ited States Marine Band\, Navy Sea Chanters\, and Air Force Singing Sergea
+ nts. Tickets: $31\, $36\, $41 The Stadium Theatre is not responsible for f
+ ulfillment or refund for any purchases made from a third party website.\n
+ \nSource: https://www.visitrhodeisland.com/event/celine-dion-tribute-celeb
+ rating-celine/111602/
+LOCATION:Stadium Theatre\, 28 Monument Square\, Woonsocket\, 02895 Time: 8
+ :00 PM to 10:00 PM
+URL:https://www.visitrhodeisland.com/event/celine-dion-tribute-celebrating
+ -celine/111602/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fall Fest at The Loom Hotel
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+DTSTAMP:20261009T171050Z
+UID:47f0982d49df287bc119c3859f07@visitri-calendar
+DESCRIPTION:Celebrate fall at The Loom with seasonal drinks\, local vendor
+ s\, festive activities\, and riverside views. Celebrate fall along the riv
+ er at Fall Fest at The Loom Hotel! Join us on the Riverview Deck for an af
+ ternoon of seasonal drinks\, local makers\, fall-inspired activities\, and
+  some of our favorite Rhode Island businesses. Shop\, sip\, snack\, and di
+ scover a curated lineup of local businesses\, including: Koncocted Bloom B
+ ar Experience - Grab beautiful handcrafted bouquets or create your own wit
+ h local Rhode Island-grown farm-fresh flowers &amp\; thrifted vases. Bijou
+ x Brie Permanent Jewelry &#8211\; Find your new favorite piece with custom
+ -fit permanent jewelry. Herbs and Mylk Luxury Botanical Skincare &#8211\; 
+ Shop handcrafted botanical skincare and self-care favorites. Holiday by Na
+ y &#8211\; Enjoy homemade baked goods by Danasia. Hammer and Stain by Craf
+ ty Girls DIY &#8211\; A mobile craft business. Sammallas - Vintage and Han
+ dmade Jewelry Come sip\, shop\, snack\, and support local while enjoying a
+ n October afternoon by the river at The Loom. 🍂\n\nSource: https://www.
+ visitrhodeisland.com/event/fall-fest-at-the-loom-hotel/111938/
+LOCATION:The Loom Hotel Tapestry Collection by Hilton - Warwick\, 400 Knig
+ ht Street\, Warwick\, RI 02886
+URL:https://www.visitrhodeisland.com/event/fall-fest-at-the-loom-hotel/111
+ 938/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RISD Craft Fall 2026
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+DTSTAMP:20261009T171050Z
+UID:0cfac462372d824f2913f42f5c05@visitri-calendar
+DESCRIPTION:Join us for our annual community-favorite event\, RISD Craft\,
+  happening outdoors on Providence’s historic Benefit Street during RISD 
+ Families Weekend. Engage with more than 120 alumni and student artists\, d
+ esigners and craftspeople as you browse the unique and handmade items for 
+ sale. RISD Craft is free\, and open to the public. We can’t wait to see 
+ you there!\n\nSource: https://www.visitrhodeisland.com/event/risd-craft-fa
+ ll-2026/111690/
+LOCATION:Benefit St.\, Benefit Street\, Providence\, 02903 Time: 10:00 AM 
+ to 4:00 PM
+URL:https://www.visitrhodeisland.com/event/risd-craft-fall-2026/111690/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tour de Vino Wine Dinner
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+DTSTAMP:20261009T171050Z
+UID:35ac7e6dde2ff405bb8b6a83898a@visitri-calendar
+DESCRIPTION:Tour de Vino will be at The Brook Kitchen + Bar on October 22.
+  Join us for an intimate four-course wine dinner featuring carefully selec
+ ted pairings from Hope Family Wines. This event is part of a traveling win
+ e dinner series across nine Coury Hospitality properties. Enjoy an excepti
+ onal evening of food\, wine\, and conversation at The Brook.\n\nSource: ht
+ tps://www.visitrhodeisland.com/event/tour-de-vino-wine-dinner/111939/
+LOCATION:The Brook Kitchen & Bar\, 400 Knight Street\, Warwick\, RI 02886
+URL:https://www.visitrhodeisland.com/event/tour-de-vino-wine-dinner/111939
+ /
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:2026 Autumnfest
 DTSTART;VALUE=DATE:20261010
 DTEND;VALUE=DATE:20261011
-DTSTAMP:20261008T173530Z
+DTSTAMP:20261009T171050Z
 UID:132c20b3c276757ef130a0a768c5@visitri-calendar
 DESCRIPTION:Join us in 2026! Autumnfest is a family-friendly fall festival
   held annually in Woonsocket\, Rhode Island\, celebrating the spirit of No
@@ -481,7 +408,7 @@ BEGIN:VEVENT
 SUMMARY:2026 Scituate Art Festival
 DTSTART;VALUE=DATE:20261010
 DTEND;VALUE=DATE:20261011
-DTSTAMP:20261008T173530Z
+DTSTAMP:20261009T171050Z
 UID:79b4728723e69fc14ceeff860335@visitri-calendar
 DESCRIPTION:Festival Update: Come celebrate the fall season by visiting us
   on the Village Green in North Scituate. Browse and buy original fine art
@@ -513,39 +440,56 @@ URL:https://www.visitrhodeisland.com/event/2026-scituate-art-festival/1119
  50/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Early Bird Museum Highlight Tour at Newport Car Museum
+SUMMARY:Annual Sidewalk Sale in Bowen's Wharf
 DTSTART;VALUE=DATE:20261010
 DTEND;VALUE=DATE:20261011
-DTSTAMP:20261008T173530Z
-UID:48c971e5cb750cbf6664f28fb8eb@visitri-calendar
-DESCRIPTION:Early Bird Highlight Tour For 90 minutes (8:30 &#8211\; 10:00 
- AM) prior to Museum opening. Call to book: +1 (401) 848-2277 Price $75.00 
- per person (minimum 2\, maximum 6 ppl) Offered Wednesday\, Thursday\, and 
- Saturday only April 1 - December 31\, 2026. General admission is included 
- with price. 72-hour advance notice is suggested. Only one group will be ho
- sted on any given morning. This is your chance to have the Newport Car Mus
- eum all to yourself with a private guide to share with you the not-to-miss
-  highlights in seven expansive galleries. With over 100 iconic\, rare and 
- exotic cars on display at one time\, this private collection is bursting w
- ith history\, provenance and color\, not to mention the breathtaking sculp
- tural beauty of automotive designs starting with the 1950s and finishing w
- ith new models from the 21 st Century. After 90 minutes with your private
- \, continue to explore at your own pace so that you can further examine yo
- ur favorites from the Ford/Shelby\, Corvette\, World Car\, Porsche\, Fin C
- ar\, American Muscle and Mopar exhibits while enjoying immersive videos\, 
- artwork and the Museum’s eclectic collection of Mid-Century Modern Furni
- ture.\n\nSource: https://www.visitrhodeisland.com/event/early-bird-museum-
- highlight-tour-at-newport-car-museum/109638/
-LOCATION:Newport Car Museum\, Enter at Light 1947 West Main Road\, Portsmo
- uth\, RI 02871
-URL:https://www.visitrhodeisland.com/event/early-bird-museum-highlight-tou
- r-at-newport-car-museum/109638/
+DTSTAMP:20261009T171050Z
+UID:2374cb13815fbf8e5d890631370c@visitri-calendar
+DESCRIPTION:Bowen's Wharf Annual Sidewalk Sale Date: Friday\, October 9 th
+  through Monday\, October 12 th 2026 Shopping addicts\, make your way to t
+ he waterfront for holiday weekend specials! Forget the mall\, Shop Small 
+ — stroll along Bowen's Wharf for great deals on end-of-season items. Bro
+ ught to you by the Bowen's Wharf Merchants Association. Free Admission! Fi
+ nd a list of participating shops on Facebook.\n\nSource: https://www.visit
+ rhodeisland.com/event/annual-sidewalk-sale-in-bowens-wharf/109515/
+LOCATION:Bowen's Wharf\, 13 Bowen's Wharf\, Newport\, RI 02840 Time: 10:00
+  AM to 5:00 PM
+URL:https://www.visitrhodeisland.com/event/annual-sidewalk-sale-in-bowens-
+ wharf/109515/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dueling Pianos at the Top of Pelham
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+DTSTAMP:20261009T171050Z
+UID:c9208bf7e43f47553e6b7b4ec2ab@visitri-calendar
+DESCRIPTION:Dueling Pianos at the Top of Pelham Please check your dates an
+ d times — show start times vary. For more dates and showtimes\, check ou
+ t Eventbrite. Located directly above One Pelham East\, the Top Of Pelham i
+ s proud to be the only venue in Newport\, Rhode Island\, hosting a live Du
+ eling Pianos Show! Situated across from Bowen’s Wharf on historic Thames
+  Street\, The Top delivers exceptional live entertainment featuring nation
+ ally known performers\, with a stunning view of the world-famous Newport H
+ arbor. Every weekend\, our stage is filled with two grand pianos as entert
+ ainers perform audience requests from every genre and era imaginable. Thro
+ ughout the show\, audience members are invited on stage for toasts and spe
+ cial dedication songs\, creating an unforgettable evening. This live music
+  experience is ideal for a night out in town\, bachelorette parties\, birt
+ hday celebrations\, and corporate events. No matter the occasion\, a great
+  time is guaranteed! Please note\, all events are strictly for individuals
+  aged 21 and over. Disclaimer: Due to rare last-minute scheduling conflict
+ s\, piano players are subject to change.\n\nSource: https://www.visitrhode
+ island.com/event/dueling-pianos-at-the-top-of-pelham/109832/
+LOCATION:Dueling Pianos at the Top of Pelham\, 3 Pelham Street\, Newport\,
+  RI 02840
+URL:https://www.visitrhodeisland.com/event/dueling-pianos-at-the-top-of-pe
+ lham/109832/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Fall Fest at The Loom Hotel
 DTSTART;VALUE=DATE:20261010
 DTEND;VALUE=DATE:20261011
-DTSTAMP:20261008T173530Z
+DTSTAMP:20261009T171050Z
 UID:63ea241659fdd4c11238c92bb974@visitri-calendar
 DESCRIPTION:Celebrate fall at The Loom with seasonal drinks\, local vendor
  s\, festive activities\, and riverside views. Celebrate fall along the riv
@@ -572,7 +516,7 @@ BEGIN:VEVENT
 SUMMARY:RISD Craft Fall 2026
 DTSTART;VALUE=DATE:20261010
 DTEND;VALUE=DATE:20261011
-DTSTAMP:20261008T173530Z
+DTSTAMP:20261009T171050Z
 UID:d6d4d2a739ccdae1769d70accc32@visitri-calendar
 DESCRIPTION:Join us for our annual community-favorite event\, RISD Craft\,
   happening outdoors on Providence’s historic Benefit Street during RISD 
@@ -589,7 +533,7 @@ BEGIN:VEVENT
 SUMMARY:2026 Autumnfest
 DTSTART;VALUE=DATE:20261011
 DTEND;VALUE=DATE:20261012
-DTSTAMP:20261008T173530Z
+DTSTAMP:20261009T171050Z
 UID:1c68a5ef706c0175e9f51cf0035f@visitri-calendar
 DESCRIPTION:Join us in 2026! Autumnfest is a family-friendly fall festival
   held annually in Woonsocket\, Rhode Island\, celebrating the spirit of No
@@ -624,7 +568,7 @@ BEGIN:VEVENT
 SUMMARY:2026 Scituate Art Festival
 DTSTART;VALUE=DATE:20261011
 DTEND;VALUE=DATE:20261012
-DTSTAMP:20261008T173530Z
+DTSTAMP:20261009T171050Z
 UID:880ea78ffd1d3f5a02ad1b4d6dcf@visitri-calendar
 DESCRIPTION:Festival Update: Come celebrate the fall season by visiting us
   on the Village Green in North Scituate. Browse and buy original fine art
@@ -656,10 +600,28 @@ URL:https://www.visitrhodeisland.com/event/2026-scituate-art-festival/1119
  50/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Annual Sidewalk Sale in Bowen's Wharf
+DTSTART;VALUE=DATE:20261011
+DTEND;VALUE=DATE:20261012
+DTSTAMP:20261009T171050Z
+UID:6180d24ae4dd7a88d35ac7802602@visitri-calendar
+DESCRIPTION:Bowen's Wharf Annual Sidewalk Sale Date: Friday\, October 9 th
+  through Monday\, October 12 th 2026 Shopping addicts\, make your way to t
+ he waterfront for holiday weekend specials! Forget the mall\, Shop Small 
+ — stroll along Bowen's Wharf for great deals on end-of-season items. Bro
+ ught to you by the Bowen's Wharf Merchants Association. Free Admission! Fi
+ nd a list of participating shops on Facebook.\n\nSource: https://www.visit
+ rhodeisland.com/event/annual-sidewalk-sale-in-bowens-wharf/109515/
+LOCATION:Bowen's Wharf\, 13 Bowen's Wharf\, Newport\, RI 02840 Time: 10:00
+  AM to 5:00 PM
+URL:https://www.visitrhodeisland.com/event/annual-sidewalk-sale-in-bowens-
+ wharf/109515/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:2026 Autumnfest
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261013
-DTSTAMP:20261008T173530Z
+DTSTAMP:20261009T171050Z
 UID:6f6c4450fd947ffc7512680cc155@visitri-calendar
 DESCRIPTION:Join us in 2026! Autumnfest is a family-friendly fall festival
   held annually in Woonsocket\, Rhode Island\, celebrating the spirit of No
@@ -694,7 +656,7 @@ BEGIN:VEVENT
 SUMMARY:2026 Scituate Art Festival
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261013
-DTSTAMP:20261008T173530Z
+DTSTAMP:20261009T171050Z
 UID:a57830b8782a337068ab3be90fba@visitri-calendar
 DESCRIPTION:Festival Update: Come celebrate the fall season by visiting us
   on the Village Green in North Scituate. Browse and buy original fine art
@@ -726,52 +688,28 @@ URL:https://www.visitrhodeisland.com/event/2026-scituate-art-festival/1119
  50/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Explore Chepstow's Ties to America's Founding Families
-DTSTART;VALUE=DATE:20261015
-DTEND;VALUE=DATE:20261016
-DTSTAMP:20261008T173530Z
-UID:a59fff2cef23cdf7eeb13657bbae@visitri-calendar
-DESCRIPTION:Explore Chepstow’s Ties to America’s Founding Families Whe
- n: Thursdays\, October 8th and October 15th from 11:00 AM to 12:00 PM Wher
- e: Chepstow\, 120 Narragansett Avenue\, Newport Cost: $20 Members $25 Non-
- Members Preservation Society Archives Fellow\, Grace Acton\, highlights co
- nnections between the Morris family archives and furnishings collected by 
- Alletta Morris McBean at Chepstow. Get to know the people behind the paint
- ings\, documents and decor on view at Chepstow. From religious leaders to 
- revolutionaries\, politicians to socialites\, learn about the many ways th
- at Mrs. McBean’s ancestors influenced American history\, and how the wom
- en of Chepstow preserved their family history for future generations. Grac
- e Acton\, Preservation Society Archival Research Fellow\, graduated Summa 
- Cum Laude and Phi Beta Kappa in Interdisciplinary Studies from Bates Colle
- ge in Lewiston\, Maine\, and earned an MA with Distinction in Digital Huma
- nities from Lancaster University\, where she was awarded the Chancellor’
- s Medal and Iredell Prize. In addition to her coursework\, Grace has excel
- led in roles which require critical thinking and data analysis to address 
- complex collections management problems as a Synergy Collections Managemen
- t Intern for Bates College Museum of Art\, Collections Steward and Digitiz
- ation Intern for the Maine Maritime Museum\, and Dorothy W. Sanborn Summer
-  Intern at the Rufus Porter Museum of Art and Ingenuity. Acton has also pr
- esented at numerous conferences\, offering papers which demonstrate her fa
- cility with archives management and digital humanities\, such as “Into t
- he Zooniverse: Crowdsourcing Data for the Bates Museum of Art Collection
- ” at the 2023 Bates College Mount David Summit\; and “Rufus’s Advent
- ures in Cyberspace: Bringing Rufus Porter School Art into the World of Dig
- ital History” as a webinar for the Rufus Porter Museum of Art and Ingenu
- ity. She is a member of the New England Archivists\, Society of American A
- rchivists and Digital Preservation Coalition\; is conversational in Russia
- n and bi-literate in Spanish\; and programs in R and HTML/XML.\n\nSource: 
- https://www.visitrhodeisland.com/event/explore-chepstows-ties-to-americas-
- founding-families/111746/
-LOCATION:Chepstow\, 120 Narragansett Avenue\, Newport\, RI 02840 Time: 11:
- 00 AM to 12:00 PM
-URL:https://www.visitrhodeisland.com/event/explore-chepstows-ties-to-ameri
- cas-founding-families/111746/
+SUMMARY:Annual Sidewalk Sale in Bowen's Wharf
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
+DTSTAMP:20261009T171050Z
+UID:6a1a9d5fceff5122dbbd1cf953e3@visitri-calendar
+DESCRIPTION:Bowen's Wharf Annual Sidewalk Sale Date: Friday\, October 9 th
+  through Monday\, October 12 th 2026 Shopping addicts\, make your way to t
+ he waterfront for holiday weekend specials! Forget the mall\, Shop Small 
+ — stroll along Bowen's Wharf for great deals on end-of-season items. Bro
+ ught to you by the Bowen's Wharf Merchants Association. Free Admission! Fi
+ nd a list of participating shops on Facebook.\n\nSource: https://www.visit
+ rhodeisland.com/event/annual-sidewalk-sale-in-bowens-wharf/109515/
+LOCATION:Bowen's Wharf\, 13 Bowen's Wharf\, Newport\, RI 02840 Time: 10:00
+  AM to 5:00 PM
+URL:https://www.visitrhodeisland.com/event/annual-sidewalk-sale-in-bowens-
+ wharf/109515/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Live Music by Logan Vale
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261018
-DTSTAMP:20261008T173530Z
+DTSTAMP:20261009T171050Z
 UID:2241186137b505cf7c814cd90b60@visitri-calendar
 DESCRIPTION:The music of Logan Vale! Dinner reservations required either o
  nline or call 401.861.3850 x. 3\n\nSource: https://www.visitrhodeisland.co
@@ -785,7 +723,7 @@ BEGIN:VEVENT
 SUMMARY:Tour de Vino Wine Dinner
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261023
-DTSTAMP:20261008T173530Z
+DTSTAMP:20261009T171050Z
 UID:cb727bd087bb1926972b6366d20d@visitri-calendar
 DESCRIPTION:Tour de Vino will be at The Brook Kitchen + Bar on October 22.
   Join us for an intimate four-course wine dinner featuring carefully selec
@@ -801,7 +739,7 @@ BEGIN:VEVENT
 SUMMARY:"Nocturnes" Exhibit at Spring Bull Gallery
 DTSTART;VALUE=DATE:20261025
 DTEND;VALUE=DATE:20261026
-DTSTAMP:20261008T173530Z
+DTSTAMP:20261009T171050Z
 UID:945340681c00f5d79c305667c5c8@visitri-calendar
 DESCRIPTION:"Nocturnes" An Art Exhibit at Spring Bull Gallery When: Septem
  ber 19 - October 25\, 2026 from 12:00 to 5:00 PM Opening Reception: Sunday
@@ -823,7 +761,7 @@ BEGIN:VEVENT
 SUMMARY:Annual Harvest Festival at Newport Vineyards
 DTSTART;VALUE=DATE:20261025
 DTEND;VALUE=DATE:20261026
-DTSTAMP:20261008T173530Z
+DTSTAMP:20261009T171050Z
 UID:3f036be2c60a1a4587e7b53ef705@visitri-calendar
 DESCRIPTION:Celebrate the 9 th Annual Harvest Festival with Newport Vineya
  rds! When: Sunday\, October 25th More details to be announced! General Adm
@@ -839,7 +777,7 @@ BEGIN:VEVENT
 SUMMARY:Coastal Cruisers - The Golden Hour
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
-DTSTAMP:20261008T173530Z
+DTSTAMP:20261009T171050Z
 UID:a33f7731698b5451e05ba44e42fd@visitri-calendar
 DESCRIPTION:Experience the Island in our Coastal Cruisers\, Newport’s pr
  ivate chauffeured luxury tour\, dedicated to providing a sophisticated way
@@ -869,7 +807,7 @@ BEGIN:VEVENT
 SUMMARY:Jack-O-Lantern Spectacular
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
-DTSTAMP:20261008T173530Z
+DTSTAMP:20261009T171050Z
 UID:ddc52d2e1f830141a3c1c36cbc2b@visitri-calendar
 DESCRIPTION:Jack-O-Lantern Spectacular: The Great Pun-Kin Trail\, presente
  d by Citizens\, returns October 1 &#8211\; November 1 with an all-new trai
@@ -894,7 +832,7 @@ BEGIN:VEVENT
 SUMMARY:A New England Thanksgiving
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
-DTSTAMP:20261008T173530Z
+DTSTAMP:20261009T171050Z
 UID:21d35714802ba10832a84ed3bbac@visitri-calendar
 DESCRIPTION:Join the Coggeshall staff as we prepare a Thanksgiving meal ov
  er the hearth in our historic farmhouse. The late 18th century was before 
@@ -918,7 +856,7 @@ BEGIN:VEVENT
 SUMMARY:The Intentional Celebration: Holiday Edition
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
-DTSTAMP:20261008T173530Z
+DTSTAMP:20261009T171050Z
 UID:6f484250684bf2271dde2a31e276@visitri-calendar
 DESCRIPTION:The Intentional Celebration: Holiday Edition is a two-day indo
  or holiday market and immersive Christmas experience taking place December
@@ -948,7 +886,7 @@ BEGIN:VEVENT
 SUMMARY:The Intentional Celebration: Holiday Edition
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
-DTSTAMP:20261008T173530Z
+DTSTAMP:20261009T171050Z
 UID:f0031a8c4f9ec38b7e0300063594@visitri-calendar
 DESCRIPTION:The Intentional Celebration: Holiday Edition is a two-day indo
  or holiday market and immersive Christmas experience taking place December
@@ -975,10 +913,38 @@ URL:https://www.visitrhodeisland.com/event/the-intentional-celebration%3a-
  holiday-edition/111943/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Dueling Pianos at the Top of Pelham
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+DTSTAMP:20261009T171050Z
+UID:0cba8ebd768886603d449b31b8c5@visitri-calendar
+DESCRIPTION:Dueling Pianos at the Top of Pelham Please check your dates an
+ d times — show start times vary. For more dates and showtimes\, check ou
+ t Eventbrite. Located directly above One Pelham East\, the Top Of Pelham i
+ s proud to be the only venue in Newport\, Rhode Island\, hosting a live Du
+ eling Pianos Show! Situated across from Bowen’s Wharf on historic Thames
+  Street\, The Top delivers exceptional live entertainment featuring nation
+ ally known performers\, with a stunning view of the world-famous Newport H
+ arbor. Every weekend\, our stage is filled with two grand pianos as entert
+ ainers perform audience requests from every genre and era imaginable. Thro
+ ughout the show\, audience members are invited on stage for toasts and spe
+ cial dedication songs\, creating an unforgettable evening. This live music
+  experience is ideal for a night out in town\, bachelorette parties\, birt
+ hday celebrations\, and corporate events. No matter the occasion\, a great
+  time is guaranteed! Please note\, all events are strictly for individuals
+  aged 21 and over. Disclaimer: Due to rare last-minute scheduling conflict
+ s\, piano players are subject to change.\n\nSource: https://www.visitrhode
+ island.com/event/dueling-pianos-at-the-top-of-pelham/109832/
+LOCATION:Dueling Pianos at the Top of Pelham\, 3 Pelham Street\, Newport\,
+  RI 02840
+URL:https://www.visitrhodeisland.com/event/dueling-pianos-at-the-top-of-pe
+ lham/109832/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Beyond the Brewhouse Tour
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
-DTSTAMP:20261008T173530Z
+DTSTAMP:20261009T171050Z
 UID:c7b48636db9ede5f5acbbb263d31@visitri-calendar
 DESCRIPTION:Beyond the Brewhouse Where: Newport Craft Brewing and Distilli
  ng\, 293 JT Connell Road\, Newport 45 minutes: $20 per person Did you know
@@ -997,7 +963,7 @@ BEGIN:VEVENT
 SUMMARY:Burritos & Bowls—Lunch Specials at Yellow Door Taqueria!
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
-DTSTAMP:20261008T173530Z
+DTSTAMP:20261009T171050Z
 UID:a47385cf36c194bcd701d4733276@visitri-calendar
 DESCRIPTION:Our new Burrito &amp\; Bowl lunch specials have arrived at Yel
  low Door Taqueria in downtown Providence! Perfect for dining in or taking 
@@ -1010,34 +976,5 @@ LOCATION:Yellow Door Taqueria\, 191 Dorrance Street\, Providence\, RI 0290
  3
 URL:https://www.visitrhodeisland.com/event/burritos-%26-bowls%e2%80%94lunc
  h-specials-at-yellow-door-taqueria!/111544/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Early Bird Museum Highlight Tour at Newport Car Museum
-DTSTART;VALUE=DATE:20261231
-DTEND;VALUE=DATE:20270101
-DTSTAMP:20261008T173530Z
-UID:2f06cece69080ebb1042b1f38a6b@visitri-calendar
-DESCRIPTION:Early Bird Highlight Tour For 90 minutes (8:30 &#8211\; 10:00 
- AM) prior to Museum opening. Call to book: +1 (401) 848-2277 Price $75.00 
- per person (minimum 2\, maximum 6 ppl) Offered Wednesday\, Thursday\, and 
- Saturday only April 1 - December 31\, 2026. General admission is included 
- with price. 72-hour advance notice is suggested. Only one group will be ho
- sted on any given morning. This is your chance to have the Newport Car Mus
- eum all to yourself with a private guide to share with you the not-to-miss
-  highlights in seven expansive galleries. With over 100 iconic\, rare and 
- exotic cars on display at one time\, this private collection is bursting w
- ith history\, provenance and color\, not to mention the breathtaking sculp
- tural beauty of automotive designs starting with the 1950s and finishing w
- ith new models from the 21 st Century. After 90 minutes with your private
- \, continue to explore at your own pace so that you can further examine yo
- ur favorites from the Ford/Shelby\, Corvette\, World Car\, Porsche\, Fin C
- ar\, American Muscle and Mopar exhibits while enjoying immersive videos\, 
- artwork and the Museum’s eclectic collection of Mid-Century Modern Furni
- ture.\n\nSource: https://www.visitrhodeisland.com/event/early-bird-museum-
- highlight-tour-at-newport-car-museum/109638/
-LOCATION:Newport Car Museum\, Enter at Light 1947 West Main Road\, Portsmo
- uth\, RI 02871
-URL:https://www.visitrhodeisland.com/event/early-bird-museum-highlight-tou
- r-at-newport-car-museum/109638/
 END:VEVENT
 END:VCALENDAR
