@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:$15 Moonshine Flights & Moonshine Tasting
 DTSTART;VALUE=DATE:20250615
 DTEND;VALUE=DATE:20250616
-DTSTAMP:20261010T155734Z
+DTSTAMP:20261011T162533Z
 UID:b6432d870f2c0958f26453a40d59@visitri-calendar
 DESCRIPTION:Try a Moonshine Flight tasting at Moonshine Alley! Moonshine F
  lights are available daily for just $15! We have over 13 flavors to choose
@@ -23,7 +23,7 @@ BEGIN:VEVENT
 SUMMARY:Beyond the Brewhouse Tour
 DTSTART;VALUE=DATE:20260515
 DTEND;VALUE=DATE:20260516
-DTSTAMP:20261010T155734Z
+DTSTAMP:20261011T162533Z
 UID:acc9d8e1d1bdab34c6766b602473@visitri-calendar
 DESCRIPTION:Beyond the Brewhouse Where: Newport Craft Brewing and Distilli
  ng\, 293 JT Connell Road\, Newport 45 minutes: $20 per person Did you know
@@ -39,10 +39,49 @@ URL:https://www.visitrhodeisland.com/event/beyond-the-brewhouse-tour/11015
  3/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Alger Mitchell at SALTwater Harborside Dining
+DTSTART;VALUE=DATE:20260524
+DTEND;VALUE=DATE:20260525
+DTSTAMP:20261011T162533Z
+UID:56651fdef385ddc5772b8f8d401e@visitri-calendar
+DESCRIPTION:Alger Mitchell at SALTwater Harborside Dining Sundays from 4:0
+ 0 to 7:00 PM Alger Mitchell is a dynamic song stylist\, songwriter\, and v
+ ocalist\, delivering captivating performances with guitar and harmonica. B
+ oasting a remarkable repertoire of approximately 250 songs performed entir
+ ely from memory\, Alger's music is 100% live\, free of electronic enhancem
+ ents. His versatile setlist spans the timeless classics of The Great Ameri
+ can Songbook\, from Broadway to Hollywood\, alongside beloved jazz and pop
+  standards\, classic country\, oldies\, and his own original compositions.
+  With infectious energy\, his live performances invite optional dancing\, 
+ making it nearly impossible to resist moving to the music! Keep a smile on
+  your face and a song in your heart!\n\nSource: https://www.visitrhodeisla
+ nd.com/event/alger-mitchell-at-saltwater-harborside-dining/110157/
+LOCATION:Saltwater at The Newport Harbor Hotel & Marina\, 49 America's Cup
+  Avenue\, Newport\, RI 02840 Time: 4:00 PM to 7:00 PM 49 America's Cup Ave
+ nue\, Newport\, RI 02840 OFFICIAL RHODE ISLAND TRAVEL GUIDE Get Guide Get 
+ news from Visit Rhode Island in your inbox. Industry Partner Leisure Trave
+ l Sign Up Ratings Powered by Press Industry Travel Trade Meetings & Conven
+ tions Contact Privacy Policy Sitemap Partner Portal SMS Privacy Policy SMS
+  Terms & Conditions UGC Terms and Conditions Wedding Planning Press Photos
+  Story Ideas Fun-Sized Rhode Island Rhode Island in the News Free Travel G
+ uide Contact Visit Rhode Island Industry Travel Trade Ideas & Itineraries 
+ Downton Abbey Lifestyle Rhode Island Foodways Hidden Gems Image Library Fr
+ ee Travel Guide Contact Visit Rhode Island Meetings & Conventions Contact 
+ Privacy Policy Sitemap Partner Portal SMS Privacy Policy SMS Terms & Condi
+ tions UGC Terms and Conditions Wedding Planning Weddings - Venues Wedding 
+ - Catering Wedding - Cakes Wedding - Attire Wedding - Florists Wedding - J
+ ewelers Wedding - Transportation © 2026 Rhode Island Commerce Corporation
+  Special Offers Offers Here Looking to plan your next visit to Rhode Islan
+ d\, check out some of the current special offers and enjoy savings\, extra
+  perks and more! Offers Here
+URL:https://www.visitrhodeisland.com/event/alger-mitchell-at-saltwater-har
+ borside-dining/110157/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:$15 Moonshine Flights & Moonshine Tasting
 DTSTART;VALUE=DATE:20260721
 DTEND;VALUE=DATE:20260722
-DTSTAMP:20261010T155734Z
+DTSTAMP:20261011T162533Z
 UID:6ac059c408c431eceb1c3c855c19@visitri-calendar
 DESCRIPTION:Try a Moonshine Flight tasting at Moonshine Alley! Moonshine F
  lights are available daily for just $15! We have over 13 flavors to choose
@@ -58,7 +97,7 @@ BEGIN:VEVENT
 SUMMARY:"Nocturnes" Exhibit at Spring Bull Gallery
 DTSTART;VALUE=DATE:20260913
 DTEND;VALUE=DATE:20260914
-DTSTAMP:20261010T155734Z
+DTSTAMP:20261011T162533Z
 UID:b3a6362c63e2fad1624808d0342f@visitri-calendar
 DESCRIPTION:"Nocturnes" An Art Exhibit at Spring Bull Gallery When: Septem
  ber 19 - October 25\, 2026 from 12:00 to 5:00 PM Opening Reception: Sunday
@@ -80,7 +119,7 @@ BEGIN:VEVENT
 SUMMARY:Jack-O-Lantern Spectacular
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
-DTSTAMP:20261010T155734Z
+DTSTAMP:20261011T162533Z
 UID:a11cb847b167f6db3762e7d7aba4@visitri-calendar
 DESCRIPTION:Jack-O-Lantern Spectacular: The Great Pun-Kin Trail\, presente
  d by Citizens\, returns October 1 &#8211\; November 1 with an all-new trai
@@ -105,7 +144,7 @@ BEGIN:VEVENT
 SUMMARY:2026 Autumnfest
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
-DTSTAMP:20261010T155734Z
+DTSTAMP:20261011T162533Z
 UID:a2d09522ca26cb23a52126961053@visitri-calendar
 DESCRIPTION:Join us in 2026! Autumnfest is a family-friendly fall festival
   held annually in Woonsocket\, Rhode Island\, celebrating the spirit of No
@@ -140,7 +179,7 @@ BEGIN:VEVENT
 SUMMARY:Annual Sidewalk Sale in Bowen's Wharf
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
-DTSTAMP:20261010T155734Z
+DTSTAMP:20261011T162533Z
 UID:4f2298381bad3803062c0912d417@visitri-calendar
 DESCRIPTION:Bowen's Wharf Annual Sidewalk Sale Date: Friday\, October 9 th
   through Monday\, October 12 th 2026 Shopping addicts\, make your way to t
@@ -158,7 +197,7 @@ BEGIN:VEVENT
 SUMMARY:2026 Autumnfest
 DTSTART;VALUE=DATE:20261010
 DTEND;VALUE=DATE:20261011
-DTSTAMP:20261010T155734Z
+DTSTAMP:20261011T162533Z
 UID:132c20b3c276757ef130a0a768c5@visitri-calendar
 DESCRIPTION:Join us in 2026! Autumnfest is a family-friendly fall festival
   held annually in Woonsocket\, Rhode Island\, celebrating the spirit of No
@@ -193,7 +232,7 @@ BEGIN:VEVENT
 SUMMARY:2026 Scituate Art Festival
 DTSTART;VALUE=DATE:20261010
 DTEND;VALUE=DATE:20261011
-DTSTAMP:20261010T155734Z
+DTSTAMP:20261011T162533Z
 UID:79b4728723e69fc14ceeff860335@visitri-calendar
 DESCRIPTION:Festival Update: Come celebrate the fall season by visiting us
   on the Village Green in North Scituate. Browse and buy original fine art
@@ -225,158 +264,10 @@ URL:https://www.visitrhodeisland.com/event/2026-scituate-art-festival/1119
  50/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:2nd Annual Langworthy Winery Fallfest
-DTSTART;VALUE=DATE:20261010
-DTEND;VALUE=DATE:20261011
-DTSTAMP:20261010T155734Z
-UID:ad63d41948f455356f4a96ce2520@visitri-calendar
-DESCRIPTION:Spend a fall afternoon enjoying local artisan booths\, grape s
- tomping\, live music from Sarah LuAnn Thompson\, horse‑drawn carriage ri
- des\, and pet adoptions with Anchor Paws Rescue. Food and treats are avail
- able from W’s Wood Fired Pizza Oven and the Two Scoops Cafe ice cream tr
- uck\, with Langworthy wine poured throughout the day. Come hungry\, sip wi
- ne\, browse handmade goods\, enjoy the music\, take a carriage ride\, stom
- p grapes\, and soak in a beautiful New England fall afternoon.\n\nSource: 
- https://www.visitrhodeisland.com/event/2nd-annual-langworthy-winery-fallfe
- st/111825/
-LOCATION:Langworthy Farm Winery\, 308 Shore Road\, Westerly\, RI 02891
-URL:https://www.visitrhodeisland.com/event/2nd-annual-langworthy-winery-fa
- llfest/111825/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A New England Thanksgiving
-DTSTART;VALUE=DATE:20261010
-DTEND;VALUE=DATE:20261011
-DTSTAMP:20261010T155734Z
-UID:75f1278119b584c205e5b4e9e0ff@visitri-calendar
-DESCRIPTION:Join the Coggeshall staff as we prepare a Thanksgiving meal ov
- er the hearth in our historic farmhouse. The late 18th century was before 
- the official start of Thanksgiving as a national holiday\, but the day was
-  still celebrated with food and prayer in New England. Watch our costumed 
- historians make chicken on a string\, bake a pie in the hot coals\, mash t
- urnips and churn butter. In the woodshop we will also demonstrate carving 
- wooden spoons. Explore the garden to see the last of the fall harvest. Wal
- k the nature trail and look for signs of wild turkey\, see musket demonstr
- ations and try your aim with rubber band targets. Please note: This is not
-  a Thanksgiving meal for visitors to eat. Food prepared in the historic Fa
- rmhouse Kitchen does not meet modern health and food preparation codes for
-  public consumption.\n\nSource: https://www.visitrhodeisland.com/event/a-n
- ew-england-thanksgiving/112116/
-LOCATION:Coggeshall Farm Museum\, 1 Colt Drive\, Bristol\, 02809 Time: 10:
- 00 AM to 4:00 PM
-URL:https://www.visitrhodeisland.com/event/a-new-england-thanksgiving/1121
- 16/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Alasdair Fraser
-DTSTART;VALUE=DATE:20261010
-DTEND;VALUE=DATE:20261011
-DTSTAMP:20261010T155734Z
-UID:de8b30364d074a668fe4f104c6d9@visitri-calendar
-DESCRIPTION:Blackstone River Theatre is thrilled to present a solo concert
-  with Alasdair Fraser\, “the Michael Jordan of Scottish fiddling\,” sp
- anning the full spectrum between intimate chamber music and ecstatic dance
-  energy. Over several decades\, Fraser has truly set the standard for fidd
- le traditional music\, thrilling audiences internationally with virtuosic 
- playing and the joyful spontaneity and sheer physical presence of his musi
- c. In recognition of his services to traditional music he was inducted int
- o the Scottish Traditional Music Hall of Fame in 2011. Since 2003 Alasdair
-  has been featured in a duo with cellist Natalie Haas\, restoring the wee 
- fiddle and big fiddle partnership that flourished in eighteenth century Sc
- otland to contemporary prominence. Fraser has a concert and recording care
- er spanning over 30 years\, with a long list of awards\, accolades\, radio
-  and television credits\, and feature performances on top movie soundtrack
- s including “Last of the Mohicans\,” “Titanic\,” and more. Alasdai
- r has also guested with The Chieftains\, The Waterboys\, and Itzhak Perlma
- n and has appeared on innumerable broadcasts including A Prairie Home Comp
- anion and CBS TV’s Kennedy Center Honors.\n\nSource: https://www.visitrh
- odeisland.com/event/alasdair-fraser/111060/
-LOCATION:Blackstone River Theatre\, 549 Broad Street\, Cumberland\, RI 028
- 64
-URL:https://www.visitrhodeisland.com/event/alasdair-fraser/111060/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:All Over at the Charlestown Rathskeller 2026
-DTSTART;VALUE=DATE:20261010
-DTEND;VALUE=DATE:20261011
-DTSTAMP:20261010T155734Z
-UID:ebfc4d9f9e1d3791459009738859@visitri-calendar
-DESCRIPTION:Join us at the legendary Charlestown Rathskeller for a live pe
- rformance by All Over . Time: Saturday\, October 10\, 2026 from 8:00 - 11:
- 00 pm Location: The Charlestown Rathskeller Tavern\, Charlestown\, RI What
- : Get ready for a night of high-energy music and non-stop dancing! Join us
-  at the legendary Charlestown Rathskeller for a live performance by All Ov
- er. They deliver an incredible mix of party anthems\, rock classics\, and 
- crowd-pleasing hits that will have everyone out on the dance floor! Ticket
- s &amp\; Info: $10 online (plus EventBrite fees) and $15 at the door! Come
-  early for dinner and drinks — stay for the music. Tickets may go fast\,
-  so grab yours at the link below soon and rally your crew for a night to r
- emember! Purchase Tickets About the Venue: The Charlestown Rathskeller isn
- ’t just a restaurant — it’s a local legend nestled in the woods of C
- harlestown since 1933. This historic tavern features a meticulously restor
- ed dining room\, a beautiful outdoor patio\, and "Down Back"\, a rustic ou
- tdoor music venue complete with a summer stage\, a roaring bonfire\, and b
- ackyard games like cornhole and bocce. Whether you're grabbing deliciously
-  grilled steaks\, burgers\, or drinks from the indoor and outdoor bars\, i
- t's the perfect backdrop for a night of live music and good times. About t
- he Band: All Over is a dynamic cover group dedicated to playing the best u
- pbeat hits across multiple genres. With stellar musicianship and an infect
- ious stage presence\, they guarantee a fun\, high-energy live music experi
- ence that provides the perfect weekend soundtrack. Check them out online: 
- https://www.allovertheband.com/ 🔥 Outdoor vibes. 🎶 Killer music. 
- 🍻 Great eats. Let’s make Saturday\, October 10 legendary with All Ove
- r Band at The Charlestown Rathskeller! Ready to rock? Get your tickets onl
- ine now via Eventbrite!\n\nSource: https://www.visitrhodeisland.com/event/
- all-over-at-the-charlestown-rathskeller-2026/112036/
-LOCATION:The Charlestown Rathskeller Tavern\, Charlestown\, RI What: Get r
- eady for a night of high-energy music and non-stop dancing! Join us at the
-  legendary Charlestown Rathskeller for a live performance by All Over. The
- y deliver an incredible mix of party anthems\, rock classics\, and crowd-p
- leasing hits that will have everyone out on the dance floor! Tickets & Inf
- o: $10 online (plus EventBrite fees) and $15 at the door! Come early for d
- inner and drinks — stay for the music. Tickets may go fast\, so grab you
- rs at the link below soon and rally your crew for a night to remember! Pur
- chase Tickets About the Venue: The Charlestown Rathskeller isn’t just a 
- restaurant — it’s a local legend nestled in the woods of Charlestown s
- ince 1933. This historic tavern features a meticulously restored dining ro
- om\, a beautiful outdoor patio\, and "Down Back"\, a rustic outdoor music 
- venue complete with a summer stage\, a roaring bonfire\, and backyard game
- s like cornhole and bocce. Whether you're grabbing deliciously grilled ste
- aks\, burgers\, or drinks from the indoor and outdoor bars\, it's the perf
- ect backdrop for a night of live music and good times. About the Band: All
-  Over is a dynamic cover group dedicated to playing the best upbeat hits a
- cross multiple genres. With stellar musicianship and an infectious stage p
- resence\, they guarantee a fun\, high-energy live music experience that pr
- ovides the perfect weekend soundtrack. Check them out online: https://www.
- allovertheband.com/ 🔥 Outdoor vibes. 🎶 Killer music. 🍻 Great eats
- . Let’s make Saturday\, October 10 legendary with All Over Band at The C
- harlestown Rathskeller! Ready to rock? Get your tickets online now via Eve
- ntbrite! Show More View Website 1 / 1 Additional Information\, 489a Old Co
- ach Road\, Charlestown\, 02813 Time: 8:00 PM to 11:00 PM
-URL:https://www.visitrhodeisland.com/event/all-over-at-the-charlestown-rat
- hskeller-2026/112036/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Annual Harvest Festival at Newport Vineyards
-DTSTART;VALUE=DATE:20261010
-DTEND;VALUE=DATE:20261011
-DTSTAMP:20261010T155734Z
-UID:900b182c55e049cd8938289e4a79@visitri-calendar
-DESCRIPTION:Celebrate the 9 th Annual Harvest Festival with Newport Vineya
- rds! When: Sunday\, October 25th More details to be announced! General Adm
- ission and Non-Tasting Admission Tickets will be available\n\nSource: http
- s://www.visitrhodeisland.com/event/annual-harvest-festival-at-newport-vine
- yards/111769/
-LOCATION:Newport Vineyards\, 909 East Main Road\, Middletown\, RI 02842 Ti
- me: Festival time to be announced.
-URL:https://www.visitrhodeisland.com/event/annual-harvest-festival-at-newp
- ort-vineyards/111769/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Annual Sidewalk Sale in Bowen's Wharf
 DTSTART;VALUE=DATE:20261010
 DTEND;VALUE=DATE:20261011
-DTSTAMP:20261010T155734Z
+DTSTAMP:20261011T162533Z
 UID:2374cb13815fbf8e5d890631370c@visitri-calendar
 DESCRIPTION:Bowen's Wharf Annual Sidewalk Sale Date: Friday\, October 9 th
   through Monday\, October 12 th 2026 Shopping addicts\, make your way to t
@@ -391,86 +282,31 @@ URL:https://www.visitrhodeisland.com/event/annual-sidewalk-sale-in-bowens-
  wharf/109515/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Art Auction
-DTSTART;VALUE=DATE:20261010
-DTEND;VALUE=DATE:20261011
-DTSTAMP:20261010T155734Z
-UID:f9330ef0f69bbe8e4dd57be346c5@visitri-calendar
-DESCRIPTION:Don’t miss our 4th Annual Silent Art Auction for a chance to
-  win your favorite local artist’s art work of art. Many artists represen
- ted in a large variety of mediums. Paintings\, ceramics\, photography\, je
- welry and more. Please join us for our End of Season Celebration on Sat. O
- ct. 10\, 5&#8211\;7 pm. Live music by Elaina Smith\, refreshments\, everyo
- ne welcome.\n\nSource: https://www.visitrhodeisland.com/event/art-auction/
- 112044/
-LOCATION:Spring Street Gallery\, 105 Spring St.\, Block Island\, 02807
-URL:https://www.visitrhodeisland.com/event/art-auction/112044/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fall Fest at The Loom Hotel
-DTSTART;VALUE=DATE:20261010
-DTEND;VALUE=DATE:20261011
-DTSTAMP:20261010T155734Z
-UID:63ea241659fdd4c11238c92bb974@visitri-calendar
-DESCRIPTION:Celebrate fall at The Loom with seasonal drinks\, local vendor
- s\, festive activities\, and riverside views. Celebrate fall along the riv
- er at Fall Fest at The Loom Hotel! Join us on the Riverview Deck for an af
- ternoon of seasonal drinks\, local makers\, fall-inspired activities\, and
-  some of our favorite Rhode Island businesses. Shop\, sip\, snack\, and di
- scover a curated lineup of local businesses\, including: Koncocted Bloom B
- ar Experience - Grab beautiful handcrafted bouquets or create your own wit
- h local Rhode Island-grown farm-fresh flowers &amp\; thrifted vases. Bijou
- x Brie Permanent Jewelry &#8211\; Find your new favorite piece with custom
- -fit permanent jewelry. Herbs and Mylk Luxury Botanical Skincare &#8211\; 
- Shop handcrafted botanical skincare and self-care favorites. Holiday by Na
- y &#8211\; Enjoy homemade baked goods by Danasia. Hammer and Stain by Craf
- ty Girls DIY &#8211\; A mobile craft business. Sammallas - Vintage and Han
- dmade Jewelry Come sip\, shop\, snack\, and support local while enjoying a
- n October afternoon by the river at The Loom. 🍂\n\nSource: https://www.
- visitrhodeisland.com/event/fall-fest-at-the-loom-hotel/111938/
-LOCATION:The Loom Hotel Tapestry Collection by Hilton - Warwick\, 400 Knig
- ht Street\, Warwick\, RI 02886
-URL:https://www.visitrhodeisland.com/event/fall-fest-at-the-loom-hotel/111
- 938/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:RISD Craft Fall 2026
-DTSTART;VALUE=DATE:20261010
-DTEND;VALUE=DATE:20261011
-DTSTAMP:20261010T155734Z
-UID:d6d4d2a739ccdae1769d70accc32@visitri-calendar
-DESCRIPTION:Join us for our annual community-favorite event\, RISD Craft\,
-  happening outdoors on Providence’s historic Benefit Street during RISD 
- Families Weekend. Engage with more than 120 alumni and student artists\, d
- esigners and craftspeople as you browse the unique and handmade items for 
- sale. RISD Craft is free\, and open to the public. We can’t wait to see 
- you there!\n\nSource: https://www.visitrhodeisland.com/event/risd-craft-fa
- ll-2026/111690/
-LOCATION:Benefit St.\, Benefit Street\, Providence\, 02903 Time: 10:00 AM 
- to 4:00 PM
-URL:https://www.visitrhodeisland.com/event/risd-craft-fall-2026/111690/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tour de Vino Wine Dinner
-DTSTART;VALUE=DATE:20261010
-DTEND;VALUE=DATE:20261011
-DTSTAMP:20261010T155734Z
-UID:3bf388534eb38701745551c8f9f3@visitri-calendar
-DESCRIPTION:Tour de Vino will be at The Brook Kitchen + Bar on October 22.
-  Join us for an intimate four-course wine dinner featuring carefully selec
- ted pairings from Hope Family Wines. This event is part of a traveling win
- e dinner series across nine Coury Hospitality properties. Enjoy an excepti
- onal evening of food\, wine\, and conversation at The Brook.\n\nSource: ht
- tps://www.visitrhodeisland.com/event/tour-de-vino-wine-dinner/111939/
-LOCATION:The Brook Kitchen & Bar\, 400 Knight Street\, Warwick\, RI 02886
-URL:https://www.visitrhodeisland.com/event/tour-de-vino-wine-dinner/111939
- /
+SUMMARY:&Livy Pop-Up Sculpt with Never Leaving Newport
+DTSTART;VALUE=DATE:20261011
+DTEND;VALUE=DATE:20261012
+DTSTAMP:20261011T162533Z
+UID:ae2400a9c837fe38300aa503f745@visitri-calendar
+DESCRIPTION:&amp\;Livy Pop-Up Sculpt with Never Leaving Newport When: Sund
+ ay\, October 11th 9:45 AM Yoga Sculpt Class - $25 Drop-In per person (via 
+ Venmo) Followed by shopping and socializing at &amp\;Livy and Bowen's Whar
+ f Where: Bowen's Wharf\, Newport\, RI 02840 45-minute Yoga Sculpt designed
+  to leave your mind and body feeling energized\, strong\, and refreshed. T
+ hen\, stay after class for 20% off Kate Hickman's Hydrangea Charm at &amp
+ \;Livy. Enjoy complimentary goodies\, Springline Coffee and the Columbus D
+ ay weekend Sidewalk Sale on Bowen's Wharf. :) All levels welcome - mats in
+ cluded!\n\nSource: https://www.visitrhodeisland.com/event/%26livy-pop-up-s
+ culpt-with-never-leaving-newport/112205/
+LOCATION:&Livy Intention Shop\, Bowen's Wharf\, Newport\, RI 02840 Time: 9
+ :45 AM to 10:30 AM
+URL:https://www.visitrhodeisland.com/event/%26livy-pop-up-sculpt-with-neve
+ r-leaving-newport/112205/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2026 Autumnfest
 DTSTART;VALUE=DATE:20261011
 DTEND;VALUE=DATE:20261012
-DTSTAMP:20261010T155734Z
+DTSTAMP:20261011T162533Z
 UID:1c68a5ef706c0175e9f51cf0035f@visitri-calendar
 DESCRIPTION:Join us in 2026! Autumnfest is a family-friendly fall festival
   held annually in Woonsocket\, Rhode Island\, celebrating the spirit of No
@@ -505,7 +341,7 @@ BEGIN:VEVENT
 SUMMARY:2026 Scituate Art Festival
 DTSTART;VALUE=DATE:20261011
 DTEND;VALUE=DATE:20261012
-DTSTAMP:20261010T155734Z
+DTSTAMP:20261011T162533Z
 UID:880ea78ffd1d3f5a02ad1b4d6dcf@visitri-calendar
 DESCRIPTION:Festival Update: Come celebrate the fall season by visiting us
   on the Village Green in North Scituate. Browse and buy original fine art
@@ -537,10 +373,73 @@ URL:https://www.visitrhodeisland.com/event/2026-scituate-art-festival/1119
  50/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:A New England Thanksgiving
+DTSTART;VALUE=DATE:20261011
+DTEND;VALUE=DATE:20261012
+DTSTAMP:20261011T162533Z
+UID:2f89d79ad9a0a55aa8f1d503e3e3@visitri-calendar
+DESCRIPTION:Join the Coggeshall staff as we prepare a Thanksgiving meal ov
+ er the hearth in our historic farmhouse. The late 18th century was before 
+ the official start of Thanksgiving as a national holiday\, but the day was
+  still celebrated with food and prayer in New England. Watch our costumed 
+ historians make chicken on a string\, bake a pie in the hot coals\, mash t
+ urnips and churn butter. In the woodshop we will also demonstrate carving 
+ wooden spoons. Explore the garden to see the last of the fall harvest. Wal
+ k the nature trail and look for signs of wild turkey\, see musket demonstr
+ ations and try your aim with rubber band targets. Please note: This is not
+  a Thanksgiving meal for visitors to eat. Food prepared in the historic Fa
+ rmhouse Kitchen does not meet modern health and food preparation codes for
+  public consumption.\n\nSource: https://www.visitrhodeisland.com/event/a-n
+ ew-england-thanksgiving/112116/
+LOCATION:Coggeshall Farm Museum\, 1 Colt Drive\, Bristol\, 02809 Time: 10:
+ 00 AM to 4:00 PM
+URL:https://www.visitrhodeisland.com/event/a-new-england-thanksgiving/1121
+ 16/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Andre De Freitas at The Comedy Connection
+DTSTART;VALUE=DATE:20261011
+DTEND;VALUE=DATE:20261012
+DTSTAMP:20261011T162533Z
+UID:bbbbe0997f163778fabb278d92f8@visitri-calendar
+DESCRIPTION:Critically acclaimed comedian André De Freitas returns with h
+ is second hour of stand-up\, Public Display of Affection. After spending m
+ ost of his adult life chasing dreams around the world\, André is forced t
+ o confront an uncomfortable possibility: maybe he isn’t the hero of his 
+ own story. When his mum gets sick\, he begins looking differently at the p
+ eople closest to him—from the parents he’s never told “I love you”
+ \, to the relationship he couldn’t let go of\, the friends who know who 
+ he really is\, and a family that considers a thumbs-up emoji a perfectly a
+ cceptable display of emotion. A funny\, sharp and unexpectedly heartfelt h
+ our about growing up\, learning to see your parents as people\, and discov
+ ering that sometimes love isn’t about how you feel—it’s about whethe
+ r you actually show up.\n\nSource: https://www.visitrhodeisland.com/event/
+ andre-de-freitas-at-the-comedy-connection/111877/
+LOCATION:Comedy Connection\, 39 Warren Avenue\, East Providence\, RI 02914
+URL:https://www.visitrhodeisland.com/event/andre-de-freitas-at-the-comedy-
+ connection/111877/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Annual Harvest Festival at Newport Vineyards
+DTSTART;VALUE=DATE:20261011
+DTEND;VALUE=DATE:20261012
+DTSTAMP:20261011T162533Z
+UID:96e39f26202903b9e07373d5225a@visitri-calendar
+DESCRIPTION:Celebrate the 9 th Annual Harvest Festival with Newport Vineya
+ rds! When: Sunday\, October 25th More details to be announced! General Adm
+ ission and Non-Tasting Admission Tickets will be available\n\nSource: http
+ s://www.visitrhodeisland.com/event/annual-harvest-festival-at-newport-vine
+ yards/111769/
+LOCATION:Newport Vineyards\, 909 East Main Road\, Middletown\, RI 02842 Ti
+ me: Festival time to be announced.
+URL:https://www.visitrhodeisland.com/event/annual-harvest-festival-at-newp
+ ort-vineyards/111769/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Annual Sidewalk Sale in Bowen's Wharf
 DTSTART;VALUE=DATE:20261011
 DTEND;VALUE=DATE:20261012
-DTSTAMP:20261010T155734Z
+DTSTAMP:20261011T162533Z
 UID:6180d24ae4dd7a88d35ac7802602@visitri-calendar
 DESCRIPTION:Bowen's Wharf Annual Sidewalk Sale Date: Friday\, October 9 th
   through Monday\, October 12 th 2026 Shopping addicts\, make your way to t
@@ -555,10 +454,72 @@ URL:https://www.visitrhodeisland.com/event/annual-sidewalk-sale-in-bowens-
  wharf/109515/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Assembly of Food Trucks 2026
+DTSTART;VALUE=DATE:20261011
+DTEND;VALUE=DATE:20261012
+DTSTAMP:20261011T162533Z
+UID:513fd5f29524fcf922392a4653c9@visitri-calendar
+DESCRIPTION:The return to the the Assembly Theatre in 2026 will be a memor
+ able and fun series of Sunday nights out! Details and food truck lineup at
+  https://www.foodtrucksin.com/assemblyburrillville This vibrant evening wh
+ ere food trucks line the walkway\, takes place on the grounds against the 
+ backdrop of the Nipmuc River. Nearby\, the Harrisville Pond cascades over 
+ a grand stone dam\, creating a rhythmic backdrop as water tumbles down in 
+ a whitewater dance. Enjoy good eats\, beats\, and beers and the sight of t
+ he falls\, in this picturesque setting. Make yourself at home on the lawn.
+  Bring chairs\, and blankets and enjoy the evening with family and friends
+ . Enjoy a dozen or more food trucks at each event from a rotation of over 
+ 75 food trucks🚚🌮🍔. In addition to great food\, there will be 🎵
+ 🎵🎵 live bands and Good Vibes Beverages will be serving up will be se
+ rving up local beer and wine\, mocktails and more. 🍺🍻🍷 Attendance
+  is free\, just pay for what you eat and drink. Tickets are not necessary.
+  All food trucks accept cash\, credit\, and debit cards 💳💰. 🚫Smok
+ ing\, vaping and e-cigarettes are prohibited.. 🚫Guests are not permitte
+ d to bring their own coolers with alcohol. 🐾 Pets are not encouraged. 
+ 🌍 Let's care for our environment together - please take recyclable item
+ s home with you.\n\nSource: https://www.visitrhodeisland.com/event/assembl
+ y-of-food-trucks-2026/108618/
+LOCATION:26 East Ave\, Burrillville\, RI 02830 Time: 4:30 PM to 8:00 PM 26
+  East Ave\, Burrillville\, RI 02830 OFFICIAL RHODE ISLAND TRAVEL GUIDE Get
+  Guide Get news from Visit Rhode Island in your inbox. Industry Partner Le
+ isure Travel Sign Up Ratings Powered by Press Industry Travel Trade Meetin
+ gs & Conventions Contact Privacy Policy Sitemap Partner Portal SMS Privacy
+  Policy SMS Terms & Conditions UGC Terms and Conditions Wedding Planning P
+ ress Photos Story Ideas Fun-Sized Rhode Island Rhode Island in the News Fr
+ ee Travel Guide Contact Visit Rhode Island Industry Travel Trade Ideas & I
+ tineraries Downton Abbey Lifestyle Rhode Island Foodways Hidden Gems Image
+  Library Free Travel Guide Contact Visit Rhode Island Meetings & Conventio
+ ns Contact Privacy Policy Sitemap Partner Portal SMS Privacy Policy SMS Te
+ rms & Conditions UGC Terms and Conditions Wedding Planning Weddings - Venu
+ es Wedding - Catering Wedding - Cakes Wedding - Attire Wedding - Florists 
+ Wedding - Jewelers Wedding - Transportation © 2026 Rhode Island Commerce 
+ Corporation Special Offers Offers Here Looking to plan your next visit to 
+ Rhode Island\, check out some of the current special offers and enjoy savi
+ ngs\, extra perks and more! Offers Here
+URL:https://www.visitrhodeisland.com/event/assembly-of-food-trucks-2026/10
+ 8618/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tour de Vino Wine Dinner
+DTSTART;VALUE=DATE:20261011
+DTEND;VALUE=DATE:20261012
+DTSTAMP:20261011T162533Z
+UID:99bfa8cf21a1509cf422ced3e0d0@visitri-calendar
+DESCRIPTION:Tour de Vino will be at The Brook Kitchen + Bar on October 22.
+  Join us for an intimate four-course wine dinner featuring carefully selec
+ ted pairings from Hope Family Wines. This event is part of a traveling win
+ e dinner series across nine Coury Hospitality properties. Enjoy an excepti
+ onal evening of food\, wine\, and conversation at The Brook.\n\nSource: ht
+ tps://www.visitrhodeisland.com/event/tour-de-vino-wine-dinner/111939/
+LOCATION:The Brook Kitchen & Bar\, 400 Knight Street\, Warwick\, RI 02886
+URL:https://www.visitrhodeisland.com/event/tour-de-vino-wine-dinner/111939
+ /
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:2026 Autumnfest
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261013
-DTSTAMP:20261010T155734Z
+DTSTAMP:20261011T162533Z
 UID:6f6c4450fd947ffc7512680cc155@visitri-calendar
 DESCRIPTION:Join us in 2026! Autumnfest is a family-friendly fall festival
   held annually in Woonsocket\, Rhode Island\, celebrating the spirit of No
@@ -593,7 +554,7 @@ BEGIN:VEVENT
 SUMMARY:2026 Scituate Art Festival
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261013
-DTSTAMP:20261010T155734Z
+DTSTAMP:20261011T162533Z
 UID:a57830b8782a337068ab3be90fba@visitri-calendar
 DESCRIPTION:Festival Update: Come celebrate the fall season by visiting us
   on the Village Green in North Scituate. Browse and buy original fine art
@@ -628,7 +589,7 @@ BEGIN:VEVENT
 SUMMARY:Annual Sidewalk Sale in Bowen's Wharf
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261013
-DTSTAMP:20261010T155734Z
+DTSTAMP:20261011T162533Z
 UID:6a1a9d5fceff5122dbbd1cf953e3@visitri-calendar
 DESCRIPTION:Bowen's Wharf Annual Sidewalk Sale Date: Friday\, October 9 th
   through Monday\, October 12 th 2026 Shopping addicts\, make your way to t
@@ -646,7 +607,7 @@ BEGIN:VEVENT
 SUMMARY:Live Music by Logan Vale
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261018
-DTSTAMP:20261010T155734Z
+DTSTAMP:20261011T162533Z
 UID:2241186137b505cf7c814cd90b60@visitri-calendar
 DESCRIPTION:The music of Logan Vale! Dinner reservations required either o
  nline or call 401.861.3850 x. 3\n\nSource: https://www.visitrhodeisland.co
@@ -660,7 +621,7 @@ BEGIN:VEVENT
 SUMMARY:Tour de Vino Wine Dinner
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261023
-DTSTAMP:20261010T155734Z
+DTSTAMP:20261011T162533Z
 UID:cb727bd087bb1926972b6366d20d@visitri-calendar
 DESCRIPTION:Tour de Vino will be at The Brook Kitchen + Bar on October 22.
   Join us for an intimate four-course wine dinner featuring carefully selec
@@ -676,7 +637,7 @@ BEGIN:VEVENT
 SUMMARY:"Nocturnes" Exhibit at Spring Bull Gallery
 DTSTART;VALUE=DATE:20261025
 DTEND;VALUE=DATE:20261026
-DTSTAMP:20261010T155734Z
+DTSTAMP:20261011T162533Z
 UID:945340681c00f5d79c305667c5c8@visitri-calendar
 DESCRIPTION:"Nocturnes" An Art Exhibit at Spring Bull Gallery When: Septem
  ber 19 - October 25\, 2026 from 12:00 to 5:00 PM Opening Reception: Sunday
@@ -695,10 +656,49 @@ URL:https://www.visitrhodeisland.com/event/nocturnes-exhibit-at-spring-bul
  l-gallery/111782/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Alger Mitchell at SALTwater Harborside Dining
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+DTSTAMP:20261011T162533Z
+UID:c8707a642277214ae36e5ea850d3@visitri-calendar
+DESCRIPTION:Alger Mitchell at SALTwater Harborside Dining Sundays from 4:0
+ 0 to 7:00 PM Alger Mitchell is a dynamic song stylist\, songwriter\, and v
+ ocalist\, delivering captivating performances with guitar and harmonica. B
+ oasting a remarkable repertoire of approximately 250 songs performed entir
+ ely from memory\, Alger's music is 100% live\, free of electronic enhancem
+ ents. His versatile setlist spans the timeless classics of The Great Ameri
+ can Songbook\, from Broadway to Hollywood\, alongside beloved jazz and pop
+  standards\, classic country\, oldies\, and his own original compositions.
+  With infectious energy\, his live performances invite optional dancing\, 
+ making it nearly impossible to resist moving to the music! Keep a smile on
+  your face and a song in your heart!\n\nSource: https://www.visitrhodeisla
+ nd.com/event/alger-mitchell-at-saltwater-harborside-dining/110157/
+LOCATION:Saltwater at The Newport Harbor Hotel & Marina\, 49 America's Cup
+  Avenue\, Newport\, RI 02840 Time: 4:00 PM to 7:00 PM 49 America's Cup Ave
+ nue\, Newport\, RI 02840 OFFICIAL RHODE ISLAND TRAVEL GUIDE Get Guide Get 
+ news from Visit Rhode Island in your inbox. Industry Partner Leisure Trave
+ l Sign Up Ratings Powered by Press Industry Travel Trade Meetings & Conven
+ tions Contact Privacy Policy Sitemap Partner Portal SMS Privacy Policy SMS
+  Terms & Conditions UGC Terms and Conditions Wedding Planning Press Photos
+  Story Ideas Fun-Sized Rhode Island Rhode Island in the News Free Travel G
+ uide Contact Visit Rhode Island Industry Travel Trade Ideas & Itineraries 
+ Downton Abbey Lifestyle Rhode Island Foodways Hidden Gems Image Library Fr
+ ee Travel Guide Contact Visit Rhode Island Meetings & Conventions Contact 
+ Privacy Policy Sitemap Partner Portal SMS Privacy Policy SMS Terms & Condi
+ tions UGC Terms and Conditions Wedding Planning Weddings - Venues Wedding 
+ - Catering Wedding - Cakes Wedding - Attire Wedding - Florists Wedding - J
+ ewelers Wedding - Transportation © 2026 Rhode Island Commerce Corporation
+  Special Offers Offers Here Looking to plan your next visit to Rhode Islan
+ d\, check out some of the current special offers and enjoy savings\, extra
+  perks and more! Offers Here
+URL:https://www.visitrhodeisland.com/event/alger-mitchell-at-saltwater-har
+ borside-dining/110157/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Annual Harvest Festival at Newport Vineyards
 DTSTART;VALUE=DATE:20261025
 DTEND;VALUE=DATE:20261026
-DTSTAMP:20261010T155734Z
+DTSTAMP:20261011T162533Z
 UID:3f036be2c60a1a4587e7b53ef705@visitri-calendar
 DESCRIPTION:Celebrate the 9 th Annual Harvest Festival with Newport Vineya
  rds! When: Sunday\, October 25th More details to be announced! General Adm
@@ -714,7 +714,7 @@ BEGIN:VEVENT
 SUMMARY:Jack-O-Lantern Spectacular
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
-DTSTAMP:20261010T155734Z
+DTSTAMP:20261011T162533Z
 UID:ddc52d2e1f830141a3c1c36cbc2b@visitri-calendar
 DESCRIPTION:Jack-O-Lantern Spectacular: The Great Pun-Kin Trail\, presente
  d by Citizens\, returns October 1 &#8211\; November 1 with an all-new trai
@@ -739,7 +739,7 @@ BEGIN:VEVENT
 SUMMARY:A New England Thanksgiving
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
-DTSTAMP:20261010T155734Z
+DTSTAMP:20261011T162533Z
 UID:21d35714802ba10832a84ed3bbac@visitri-calendar
 DESCRIPTION:Join the Coggeshall staff as we prepare a Thanksgiving meal ov
  er the hearth in our historic farmhouse. The late 18th century was before 
@@ -763,7 +763,7 @@ BEGIN:VEVENT
 SUMMARY:The Intentional Celebration: Holiday Edition
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
-DTSTAMP:20261010T155734Z
+DTSTAMP:20261011T162533Z
 UID:6f484250684bf2271dde2a31e276@visitri-calendar
 DESCRIPTION:The Intentional Celebration: Holiday Edition is a two-day indo
  or holiday market and immersive Christmas experience taking place December
@@ -793,7 +793,7 @@ BEGIN:VEVENT
 SUMMARY:The Intentional Celebration: Holiday Edition
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
-DTSTAMP:20261010T155734Z
+DTSTAMP:20261011T162533Z
 UID:f0031a8c4f9ec38b7e0300063594@visitri-calendar
 DESCRIPTION:The Intentional Celebration: Holiday Edition is a two-day indo
  or holiday market and immersive Christmas experience taking place December
@@ -823,7 +823,7 @@ BEGIN:VEVENT
 SUMMARY:Beyond the Brewhouse Tour
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
-DTSTAMP:20261010T155734Z
+DTSTAMP:20261011T162533Z
 UID:c7b48636db9ede5f5acbbb263d31@visitri-calendar
 DESCRIPTION:Beyond the Brewhouse Where: Newport Craft Brewing and Distilli
  ng\, 293 JT Connell Road\, Newport 45 minutes: $20 per person Did you know
