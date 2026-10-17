@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:$15 Moonshine Flights & Moonshine Tasting
 DTSTART;VALUE=DATE:20250615
 DTEND;VALUE=DATE:20250616
-DTSTAMP:20261016T150029Z
+DTSTAMP:20261017T135427Z
 UID:b6432d870f2c0958f26453a40d59@visitri-calendar
 DESCRIPTION:Try a Moonshine Flight tasting at Moonshine Alley! Moonshine F
  lights are available daily for just $15! We have over 13 flavors to choose
@@ -23,7 +23,7 @@ BEGIN:VEVENT
 SUMMARY:Coastal Cruisers - The Golden Hour
 DTSTART;VALUE=DATE:20260501
 DTEND;VALUE=DATE:20260502
-DTSTAMP:20261016T150029Z
+DTSTAMP:20261017T135427Z
 UID:9f3864060ce7679e35293700f37c@visitri-calendar
 DESCRIPTION:Experience the Island in our Coastal Cruisers\, Newport’s pr
  ivate chauffeured luxury tour\, dedicated to providing a sophisticated way
@@ -53,7 +53,7 @@ BEGIN:VEVENT
 SUMMARY:Beyond the Brewhouse Tour
 DTSTART;VALUE=DATE:20260515
 DTEND;VALUE=DATE:20260516
-DTSTAMP:20261016T150029Z
+DTSTAMP:20261017T135427Z
 UID:acc9d8e1d1bdab34c6766b602473@visitri-calendar
 DESCRIPTION:Beyond the Brewhouse Where: Newport Craft Brewing and Distilli
  ng\, 293 JT Connell Road\, Newport 45 minutes: $20 per person Did you know
@@ -72,7 +72,7 @@ BEGIN:VEVENT
 SUMMARY:$15 Moonshine Flights & Moonshine Tasting
 DTSTART;VALUE=DATE:20260721
 DTEND;VALUE=DATE:20260722
-DTSTAMP:20261016T150029Z
+DTSTAMP:20261017T135427Z
 UID:6ac059c408c431eceb1c3c855c19@visitri-calendar
 DESCRIPTION:Try a Moonshine Flight tasting at Moonshine Alley! Moonshine F
  lights are available daily for just $15! We have over 13 flavors to choose
@@ -85,28 +85,10 @@ URL:https://www.visitrhodeisland.com/event/%2415-moonshine-flights-%26-moo
  nshine-tasting/105663/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Burritos & Bowls—Lunch Specials at Yellow Door Taqueria!
-DTSTART;VALUE=DATE:20260826
-DTEND;VALUE=DATE:20260827
-DTSTAMP:20261016T150029Z
-UID:cd9e59bf1148392bbbdd7c30628e@visitri-calendar
-DESCRIPTION:Our new Burrito &amp\; Bowl lunch specials have arrived at Yel
- low Door Taqueria in downtown Providence! Perfect for dining in or taking 
- back to the office\, turn your favorite taco into a delicious bowl or try 
- a specialty burrito! Check out the full menu on our website! Available Mon
- day-Friday\, 11:30 AM-5 PM!\n\nSource: https://www.visitrhodeisland.com/ev
- ent/burritos-%26-bowls%e2%80%94lunch-specials-at-yellow-door-taqueria!/111
- 544/
-LOCATION:Yellow Door Taqueria\, 191 Dorrance Street\, Providence\, RI 0290
- 3
-URL:https://www.visitrhodeisland.com/event/burritos-%26-bowls%e2%80%94lunc
- h-specials-at-yellow-door-taqueria!/111544/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:"Nocturnes" Exhibit at Spring Bull Gallery
 DTSTART;VALUE=DATE:20260913
 DTEND;VALUE=DATE:20260914
-DTSTAMP:20261016T150029Z
+DTSTAMP:20261017T135427Z
 UID:b3a6362c63e2fad1624808d0342f@visitri-calendar
 DESCRIPTION:"Nocturnes" An Art Exhibit at Spring Bull Gallery When: Septem
  ber 19 - October 25\, 2026 from 12:00 to 5:00 PM Opening Reception: Sunday
@@ -128,7 +110,7 @@ BEGIN:VEVENT
 SUMMARY:Jack-O-Lantern Spectacular
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
-DTSTAMP:20261016T150029Z
+DTSTAMP:20261017T135427Z
 UID:a11cb847b167f6db3762e7d7aba4@visitri-calendar
 DESCRIPTION:Jack-O-Lantern Spectacular: The Great Pun-Kin Trail\, presente
  d by Citizens\, returns October 1 &#8211\; November 1 with an all-new trai
@@ -150,31 +132,10 @@ URL:https://www.visitrhodeisland.com/event/jack-o-lantern-spectacular/9207
  1/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Dracula Bites! A Comedy at Spoooooky Sprague Mansion
-DTSTART;VALUE=DATE:20261015
-DTEND;VALUE=DATE:20261016
-DTSTAMP:20261016T150029Z
-UID:92a5360290a1c4e727ea2d59576b@visitri-calendar
-DESCRIPTION:October 15 to 18 at 7 pm. Dracula Bites! Performancea by RI Sh
- akespeare Co.\, a comedy directed by Joseph Wallace at the Spoooooky Sprag
- ue Mansion. Come to the performances to get you in the spirit for Hallowee
- n festivities just around the corner. Watch out behind you! Limited seatin
- g. Tickets at the door. Light refreshments available. For info text: mamat
- racy2004@hotmail.com. A food truck may be on premise before showtime. A fu
- ndraising event at Sprague Mansion 944-9226. Accessible and parking in bac
- k of Mansion. Enter at 1353 Cranton St. grand ballroom entrance. www.faceb
- ook.com/cranstonhistoricalsociety\n\nSource: https://www.visitrhodeisland.
- com/event/dracula-bites!-a-comedy-at-spoooooky-sprague-mansion/111677/
-LOCATION:Governor Sprague Mansion\, 1353 Cranston Street\, grand ballroom 
- entrance\, Cranston\, 02920
-URL:https://www.visitrhodeisland.com/event/dracula-bites!-a-comedy-at-spoo
- oooky-sprague-mansion/111677/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:"Kaleidoscope" Performance at Newport Elks Lodge
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
-DTSTAMP:20261016T150029Z
+DTSTAMP:20261017T135427Z
 UID:fb6c780f416a47360483a1f9b4da@visitri-calendar
 DESCRIPTION:"Kaleidoscope" Performance by Newport Contemporary Ballet at E
  lks Lodge in Newport When: Friday\, October 16th at 7:00 PM Saturday\, Oct
@@ -198,102 +159,10 @@ URL:https://www.visitrhodeisland.com/event/kaleidoscope-performance-at-new
  port-elks-lodge/111845/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:A New England Thanksgiving
-DTSTART;VALUE=DATE:20261016
-DTEND;VALUE=DATE:20261017
-DTSTAMP:20261016T150029Z
-UID:88ebfc840530ff13441617b08908@visitri-calendar
-DESCRIPTION:Join the Coggeshall staff as we prepare a Thanksgiving meal ov
- er the hearth in our historic farmhouse. The late 18th century was before 
- the official start of Thanksgiving as a national holiday\, but the day was
-  still celebrated with food and prayer in New England. Watch our costumed 
- historians make chicken on a string\, bake a pie in the hot coals\, mash t
- urnips and churn butter. In the woodshop we will also demonstrate carving 
- wooden spoons. Explore the garden to see the last of the fall harvest. Wal
- k the nature trail and look for signs of wild turkey\, see musket demonstr
- ations and try your aim with rubber band targets. Please note: This is not
-  a Thanksgiving meal for visitors to eat. Food prepared in the historic Fa
- rmhouse Kitchen does not meet modern health and food preparation codes for
-  public consumption.\n\nSource: https://www.visitrhodeisland.com/event/a-n
- ew-england-thanksgiving/112116/
-LOCATION:Coggeshall Farm Museum\, 1 Colt Drive\, Bristol\, 02809 Time: 10:
- 00 AM to 4:00 PM
-URL:https://www.visitrhodeisland.com/event/a-new-england-thanksgiving/1121
- 16/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Annual Harvest Festival at Newport Vineyards
-DTSTART;VALUE=DATE:20261016
-DTEND;VALUE=DATE:20261017
-DTSTAMP:20261016T150029Z
-UID:d65efffb7007eb0e963d5422c5a6@visitri-calendar
-DESCRIPTION:Celebrate the 9 th Annual Harvest Festival with Newport Vineya
- rds! When: Sunday\, October 25th More details to be announced! General Adm
- ission and Non-Tasting Admission Tickets will be available\n\nSource: http
- s://www.visitrhodeisland.com/event/annual-harvest-festival-at-newport-vine
- yards/111769/
-LOCATION:Newport Vineyards\, 909 East Main Road\, Middletown\, RI 02842 Ti
- me: Festival time to be announced.
-URL:https://www.visitrhodeisland.com/event/annual-harvest-festival-at-newp
- ort-vineyards/111769/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Candlelight: Coldplay & Imagine Dragons
-DTSTART;VALUE=DATE:20261016
-DTEND;VALUE=DATE:20261017
-DTSTAMP:20261016T150029Z
-UID:bc931cbe7d3df0ec0dec14cb2713@visitri-calendar
-DESCRIPTION:Candlelight concerts bring the magic of a live\, multi-sensory
-  musical experience to awe-inspiring locations like never seen before in P
- rovidence\n\nSource: https://www.visitrhodeisland.com/event/candlelight%3a
- -coldplay-%26-imagine-dragons/111665/
-LOCATION:Bishop McVinney Auditorium\, 43 Dave Gavitt Way\, Providence\, 02
- 903
-URL:https://www.visitrhodeisland.com/event/candlelight%3a-coldplay-%26-ima
- gine-dragons/111665/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dracula Bites! A Comedy at Spoooooky Sprague Mansion
-DTSTART;VALUE=DATE:20261016
-DTEND;VALUE=DATE:20261017
-DTSTAMP:20261016T150029Z
-UID:c4d3687373154e323c27f416024b@visitri-calendar
-DESCRIPTION:October 15 to 18 at 7 pm. Dracula Bites! Performancea by RI Sh
- akespeare Co.\, a comedy directed by Joseph Wallace at the Spoooooky Sprag
- ue Mansion. Come to the performances to get you in the spirit for Hallowee
- n festivities just around the corner. Watch out behind you! Limited seatin
- g. Tickets at the door. Light refreshments available. For info text: mamat
- racy2004@hotmail.com. A food truck may be on premise before showtime. A fu
- ndraising event at Sprague Mansion 944-9226. Accessible and parking in bac
- k of Mansion. Enter at 1353 Cranton St. grand ballroom entrance. www.faceb
- ook.com/cranstonhistoricalsociety\n\nSource: https://www.visitrhodeisland.
- com/event/dracula-bites!-a-comedy-at-spoooooky-sprague-mansion/111677/
-LOCATION:Governor Sprague Mansion\, 1353 Cranston Street\, grand ballroom 
- entrance\, Cranston\, 02920
-URL:https://www.visitrhodeisland.com/event/dracula-bites!-a-comedy-at-spoo
- oooky-sprague-mansion/111677/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tour de Vino Wine Dinner
-DTSTART;VALUE=DATE:20261016
-DTEND;VALUE=DATE:20261017
-DTSTAMP:20261016T150029Z
-UID:fede99b909cce779b079d2902fed@visitri-calendar
-DESCRIPTION:Tour de Vino will be at The Brook Kitchen + Bar on October 22.
-  Join us for an intimate four-course wine dinner featuring carefully selec
- ted pairings from Hope Family Wines. This event is part of a traveling win
- e dinner series across nine Coury Hospitality properties. Enjoy an excepti
- onal evening of food\, wine\, and conversation at The Brook.\n\nSource: ht
- tps://www.visitrhodeisland.com/event/tour-de-vino-wine-dinner/111939/
-LOCATION:The Brook Kitchen & Bar\, 400 Knight Street\, Warwick\, RI 02886
-URL:https://www.visitrhodeisland.com/event/tour-de-vino-wine-dinner/111939
- /
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:"Kaleidoscope" Performance at Newport Elks Lodge
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261018
-DTSTAMP:20261016T150029Z
+DTSTAMP:20261017T135427Z
 UID:860fd16034257a74d07f5a34dba9@visitri-calendar
 DESCRIPTION:"Kaleidoscope" Performance by Newport Contemporary Ballet at E
  lks Lodge in Newport When: Friday\, October 16th at 7:00 PM Saturday\, Oct
@@ -317,31 +186,142 @@ URL:https://www.visitrhodeisland.com/event/kaleidoscope-performance-at-new
  port-elks-lodge/111845/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Dracula Bites! A Comedy at Spoooooky Sprague Mansion
+SUMMARY:2nd Annual Jazz Fest
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261018
-DTSTAMP:20261016T150029Z
-UID:f11efc1b0b96e5fcba351b474017@visitri-calendar
-DESCRIPTION:October 15 to 18 at 7 pm. Dracula Bites! Performancea by RI Sh
- akespeare Co.\, a comedy directed by Joseph Wallace at the Spoooooky Sprag
- ue Mansion. Come to the performances to get you in the spirit for Hallowee
- n festivities just around the corner. Watch out behind you! Limited seatin
- g. Tickets at the door. Light refreshments available. For info text: mamat
- racy2004@hotmail.com. A food truck may be on premise before showtime. A fu
- ndraising event at Sprague Mansion 944-9226. Accessible and parking in bac
- k of Mansion. Enter at 1353 Cranton St. grand ballroom entrance. www.faceb
- ook.com/cranstonhistoricalsociety\n\nSource: https://www.visitrhodeisland.
- com/event/dracula-bites!-a-comedy-at-spoooooky-sprague-mansion/111677/
-LOCATION:Governor Sprague Mansion\, 1353 Cranston Street\, grand ballroom 
- entrance\, Cranston\, 02920
-URL:https://www.visitrhodeisland.com/event/dracula-bites!-a-comedy-at-spoo
- oooky-sprague-mansion/111677/
+DTSTAMP:20261017T135427Z
+UID:5cd661a8956f973a5990fb08cdec@visitri-calendar
+DESCRIPTION:Some of RI's finest jazz musicians play all afternoon. Full Ba
+ r menu with food served as well. Bring a lawn chair and enjoy the music.\n
+ \nSource: https://www.visitrhodeisland.com/event/2nd-annual-jazz-fest/1119
+ 58/
+LOCATION:General Stanton Inn\, 4115 Old Post Road\, Charlestown\, RI 02813
+  4115 Old Post Road\, Charlestown\, RI 02813 OFFICIAL RHODE ISLAND TRAVEL 
+ GUIDE Get Guide Get news from Visit Rhode Island in your inbox. Industry P
+ artner Leisure Travel Sign Up Ratings Powered by Press Industry Travel Tra
+ de Meetings & Conventions Contact Privacy Policy Sitemap Partner Portal SM
+ S Privacy Policy SMS Terms & Conditions UGC Terms and Conditions Wedding P
+ lanning Press Photos Story Ideas Fun-Sized Rhode Island Rhode Island in th
+ e News Free Travel Guide Contact Visit Rhode Island Industry Travel Trade 
+ Ideas & Itineraries Downton Abbey Lifestyle Rhode Island Foodways Hidden G
+ ems Image Library Free Travel Guide Contact Visit Rhode Island Meetings & 
+ Conventions Contact Privacy Policy Sitemap Partner Portal SMS Privacy Poli
+ cy SMS Terms & Conditions UGC Terms and Conditions Wedding Planning Weddin
+ gs - Venues Wedding - Catering Wedding - Cakes Wedding - Attire Wedding - 
+ Florists Wedding - Jewelers Wedding - Transportation © 2026 Rhode Island 
+ Commerce Corporation Special Offers Offers Here Looking to plan your next 
+ visit to Rhode Island\, check out some of the current special offers and e
+ njoy savings\, extra perks and more! Offers Here
+URL:https://www.visitrhodeisland.com/event/2nd-annual-jazz-fest/111958/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:5th Annual Fallfest and Pumpkin Stroll at Wilcox Park
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+DTSTAMP:20261017T135427Z
+UID:a865a28b0d20ec7de7e6969daafd@visitri-calendar
+DESCRIPTION:Check out the 5th Annual Pumpkin Stroll\, with pumpkins decora
+ ted and competing by members of the public. Enjoy free cider and doughnuts
+ and a variety of activities in the park\, including games and activities f
+ or kids\, and photo opportunities. Attendees are encouraged to come dresse
+ d in your Halloween costume\, and to show it off during the Costume Parade
+  at 5:00 PM.\n\nSource: https://www.visitrhodeisland.com/event/5th-annual-
+ fallfest-and-pumpkin-stroll-at-wilcox-park/111902/
+LOCATION:Wilcox Park\, 71 1/2 High St.\, Westerly\, RI 02891 Time: 4:00 PM
+  to 6:00 PM 71 1/2 High St.\, Westerly\, RI 02891 OFFICIAL RHODE ISLAND TR
+ AVEL GUIDE Get Guide Get news from Visit Rhode Island in your inbox. Indus
+ try Partner Leisure Travel Sign Up Ratings Powered by Press Industry Trave
+ l Trade Meetings & Conventions Contact Privacy Policy Sitemap Partner Port
+ al SMS Privacy Policy SMS Terms & Conditions UGC Terms and Conditions Wedd
+ ing Planning Press Photos Story Ideas Fun-Sized Rhode Island Rhode Island 
+ in the News Free Travel Guide Contact Visit Rhode Island Industry Travel T
+ rade Ideas & Itineraries Downton Abbey Lifestyle Rhode Island Foodways Hid
+ den Gems Image Library Free Travel Guide Contact Visit Rhode Island Meetin
+ gs & Conventions Contact Privacy Policy Sitemap Partner Portal SMS Privacy
+  Policy SMS Terms & Conditions UGC Terms and Conditions Wedding Planning W
+ eddings - Venues Wedding - Catering Wedding - Cakes Wedding - Attire Weddi
+ ng - Florists Wedding - Jewelers Wedding - Transportation © 2026 Rhode Is
+ land Commerce Corporation Special Offers Offers Here Looking to plan your 
+ next visit to Rhode Island\, check out some of the current special offers 
+ and enjoy savings\, extra perks and more! Offers Here
+URL:https://www.visitrhodeisland.com/event/5th-annual-fallfest-and-pumpkin
+ -stroll-at-wilcox-park/111902/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A New England Thanksgiving
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+DTSTAMP:20261017T135427Z
+UID:2ca4e1108cad35215c6fb09ca0f2@visitri-calendar
+DESCRIPTION:Join the Coggeshall staff as we prepare a Thanksgiving meal ov
+ er the hearth in our historic farmhouse. The late 18th century was before 
+ the official start of Thanksgiving as a national holiday\, but the day was
+  still celebrated with food and prayer in New England. Watch our costumed 
+ historians make chicken on a string\, bake a pie in the hot coals\, mash t
+ urnips and churn butter. In the woodshop we will also demonstrate carving 
+ wooden spoons. Explore the garden to see the last of the fall harvest. Wal
+ k the nature trail and look for signs of wild turkey\, see musket demonstr
+ ations and try your aim with rubber band targets. Please note: This is not
+  a Thanksgiving meal for visitors to eat. Food prepared in the historic Fa
+ rmhouse Kitchen does not meet modern health and food preparation codes for
+  public consumption.\n\nSource: https://www.visitrhodeisland.com/event/a-n
+ ew-england-thanksgiving/112116/
+LOCATION:Coggeshall Farm Museum\, 1 Colt Drive\, Bristol\, 02809 Time: 10:
+ 00 AM to 4:00 PM
+URL:https://www.visitrhodeisland.com/event/a-new-england-thanksgiving/1121
+ 16/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Annual Harvest Festival at Newport Vineyards
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+DTSTAMP:20261017T135427Z
+UID:8b9e15eb3441deee4d791a9ae7b9@visitri-calendar
+DESCRIPTION:Celebrate the 9 th Annual Harvest Festival with Newport Vineya
+ rds! When: Sunday\, October 25th More details to be announced! General Adm
+ ission and Non-Tasting Admission Tickets will be available\n\nSource: http
+ s://www.visitrhodeisland.com/event/annual-harvest-festival-at-newport-vine
+ yards/111769/
+LOCATION:Newport Vineyards\, 909 East Main Road\, Middletown\, RI 02842 Ti
+ me: Festival time to be announced.
+URL:https://www.visitrhodeisland.com/event/annual-harvest-festival-at-newp
+ ort-vineyards/111769/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bowen’s Wharf Seafood Festival
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+DTSTAMP:20261017T135427Z
+UID:484c2a9c60d0710266c77d9de9f2@visitri-calendar
+DESCRIPTION:Celebrate the Harvest of the Sea at the 35th Annual Bowen’s 
+ Wharf Seafood Festival! Named one of Coastal Living Magazine’s “10 Fab
+ ulous Fall Festivals on the Coast\,” this beloved autumn tradition invit
+ es everyone to return to the waterfront after the summer rush for two days
+  of fresh seafood\, live music\, and family fun. Savor local favorites inc
+ luding fish tacos\, lobster rolls\, stuffies\, chowder\, fried calamari\, 
+ clams\, oysters\, and more—plus signature cocktails and cold beer beneat
+ h Bowen’s Wharf’s colorful tents. Neighboring restaurants and fisherme
+ n’s associations serve up their most celebrated seafood dishes\, along w
+ ith a few tasty options for landlubbers and kids. Save room for sweet trea
+ ts like fresh donuts\, kettle corn and chocolate covered fruit! Bring your
+  dancing shoes and enjoy continuous live music throughout the weekend feat
+ uring folk\, surf rock and blues bands that are sure to get your toes tapp
+ ing. Café-style seating is available throughout the wharf\, and a portion
+  of proceeds from the festival bars benefits Child &amp\; Family. Bring th
+ e whole family and join locals and visitors alike for this unforgettable w
+ aterfront celebration of coastal flavors\, community spirit\, and Newport 
+ charm.\n\nSource: https://www.visitrhodeisland.com/event/bowen%e2%80%99s-w
+ harf-seafood-festival/109514/
+LOCATION:Bowen's Wharf\, 13 Bowen's Wharf\, Newport\, RI 02840 Time: 11:00
+  AM to 6:00 PM
+URL:https://www.visitrhodeisland.com/event/bowen%e2%80%99s-wharf-seafood-f
+ estival/109514/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Live Music by Logan Vale
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261018
-DTSTAMP:20261016T150029Z
+DTSTAMP:20261017T135427Z
 UID:2241186137b505cf7c814cd90b60@visitri-calendar
 DESCRIPTION:The music of Logan Vale! Dinner reservations required either o
  nline or call 401.861.3850 x. 3\n\nSource: https://www.visitrhodeisland.co
@@ -352,10 +332,26 @@ URL:https://www.visitrhodeisland.com/event/live-music-by-logan-vale/110313
  /
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Tour de Vino Wine Dinner
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+DTSTAMP:20261017T135427Z
+UID:e36cc998720bce3315a61604801e@visitri-calendar
+DESCRIPTION:Tour de Vino will be at The Brook Kitchen + Bar on October 22.
+  Join us for an intimate four-course wine dinner featuring carefully selec
+ ted pairings from Hope Family Wines. This event is part of a traveling win
+ e dinner series across nine Coury Hospitality properties. Enjoy an excepti
+ onal evening of food\, wine\, and conversation at The Brook.\n\nSource: ht
+ tps://www.visitrhodeisland.com/event/tour-de-vino-wine-dinner/111939/
+LOCATION:The Brook Kitchen & Bar\, 400 Knight Street\, Warwick\, RI 02886
+URL:https://www.visitrhodeisland.com/event/tour-de-vino-wine-dinner/111939
+ /
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:"Kaleidoscope" Performance at Newport Elks Lodge
 DTSTART;VALUE=DATE:20261018
 DTEND;VALUE=DATE:20261019
-DTSTAMP:20261016T150029Z
+DTSTAMP:20261017T135427Z
 UID:97ce1866aa0f01342b66914dea83@visitri-calendar
 DESCRIPTION:"Kaleidoscope" Performance by Newport Contemporary Ballet at E
  lks Lodge in Newport When: Friday\, October 16th at 7:00 PM Saturday\, Oct
@@ -379,31 +375,40 @@ URL:https://www.visitrhodeisland.com/event/kaleidoscope-performance-at-new
  port-elks-lodge/111845/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Dracula Bites! A Comedy at Spoooooky Sprague Mansion
+SUMMARY:Bowen’s Wharf Seafood Festival
 DTSTART;VALUE=DATE:20261018
 DTEND;VALUE=DATE:20261019
-DTSTAMP:20261016T150029Z
-UID:645dd7e9f249bf3f349afe2288d0@visitri-calendar
-DESCRIPTION:October 15 to 18 at 7 pm. Dracula Bites! Performancea by RI Sh
- akespeare Co.\, a comedy directed by Joseph Wallace at the Spoooooky Sprag
- ue Mansion. Come to the performances to get you in the spirit for Hallowee
- n festivities just around the corner. Watch out behind you! Limited seatin
- g. Tickets at the door. Light refreshments available. For info text: mamat
- racy2004@hotmail.com. A food truck may be on premise before showtime. A fu
- ndraising event at Sprague Mansion 944-9226. Accessible and parking in bac
- k of Mansion. Enter at 1353 Cranton St. grand ballroom entrance. www.faceb
- ook.com/cranstonhistoricalsociety\n\nSource: https://www.visitrhodeisland.
- com/event/dracula-bites!-a-comedy-at-spoooooky-sprague-mansion/111677/
-LOCATION:Governor Sprague Mansion\, 1353 Cranston Street\, grand ballroom 
- entrance\, Cranston\, 02920
-URL:https://www.visitrhodeisland.com/event/dracula-bites!-a-comedy-at-spoo
- oooky-sprague-mansion/111677/
+DTSTAMP:20261017T135427Z
+UID:778553d9630d20f7b0b12f6d4f38@visitri-calendar
+DESCRIPTION:Celebrate the Harvest of the Sea at the 35th Annual Bowen’s 
+ Wharf Seafood Festival! Named one of Coastal Living Magazine’s “10 Fab
+ ulous Fall Festivals on the Coast\,” this beloved autumn tradition invit
+ es everyone to return to the waterfront after the summer rush for two days
+  of fresh seafood\, live music\, and family fun. Savor local favorites inc
+ luding fish tacos\, lobster rolls\, stuffies\, chowder\, fried calamari\, 
+ clams\, oysters\, and more—plus signature cocktails and cold beer beneat
+ h Bowen’s Wharf’s colorful tents. Neighboring restaurants and fisherme
+ n’s associations serve up their most celebrated seafood dishes\, along w
+ ith a few tasty options for landlubbers and kids. Save room for sweet trea
+ ts like fresh donuts\, kettle corn and chocolate covered fruit! Bring your
+  dancing shoes and enjoy continuous live music throughout the weekend feat
+ uring folk\, surf rock and blues bands that are sure to get your toes tapp
+ ing. Café-style seating is available throughout the wharf\, and a portion
+  of proceeds from the festival bars benefits Child &amp\; Family. Bring th
+ e whole family and join locals and visitors alike for this unforgettable w
+ aterfront celebration of coastal flavors\, community spirit\, and Newport 
+ charm.\n\nSource: https://www.visitrhodeisland.com/event/bowen%e2%80%99s-w
+ harf-seafood-festival/109514/
+LOCATION:Bowen's Wharf\, 13 Bowen's Wharf\, Newport\, RI 02840 Time: 11:00
+  AM to 6:00 PM
+URL:https://www.visitrhodeisland.com/event/bowen%e2%80%99s-wharf-seafood-f
+ estival/109514/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tour de Vino Wine Dinner
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261023
-DTSTAMP:20261016T150029Z
+DTSTAMP:20261017T135427Z
 UID:cb727bd087bb1926972b6366d20d@visitri-calendar
 DESCRIPTION:Tour de Vino will be at The Brook Kitchen + Bar on October 22.
   Join us for an intimate four-course wine dinner featuring carefully selec
@@ -419,7 +424,7 @@ BEGIN:VEVENT
 SUMMARY:"Nocturnes" Exhibit at Spring Bull Gallery
 DTSTART;VALUE=DATE:20261025
 DTEND;VALUE=DATE:20261026
-DTSTAMP:20261016T150029Z
+DTSTAMP:20261017T135427Z
 UID:945340681c00f5d79c305667c5c8@visitri-calendar
 DESCRIPTION:"Nocturnes" An Art Exhibit at Spring Bull Gallery When: Septem
  ber 19 - October 25\, 2026 from 12:00 to 5:00 PM Opening Reception: Sunday
@@ -441,7 +446,7 @@ BEGIN:VEVENT
 SUMMARY:Annual Harvest Festival at Newport Vineyards
 DTSTART;VALUE=DATE:20261025
 DTEND;VALUE=DATE:20261026
-DTSTAMP:20261016T150029Z
+DTSTAMP:20261017T135427Z
 UID:3f036be2c60a1a4587e7b53ef705@visitri-calendar
 DESCRIPTION:Celebrate the 9 th Annual Harvest Festival with Newport Vineya
  rds! When: Sunday\, October 25th More details to be announced! General Adm
@@ -457,7 +462,7 @@ BEGIN:VEVENT
 SUMMARY:Coastal Cruisers - The Golden Hour
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
-DTSTAMP:20261016T150029Z
+DTSTAMP:20261017T135427Z
 UID:a33f7731698b5451e05ba44e42fd@visitri-calendar
 DESCRIPTION:Experience the Island in our Coastal Cruisers\, Newport’s pr
  ivate chauffeured luxury tour\, dedicated to providing a sophisticated way
@@ -487,7 +492,7 @@ BEGIN:VEVENT
 SUMMARY:Jack-O-Lantern Spectacular
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
-DTSTAMP:20261016T150029Z
+DTSTAMP:20261017T135427Z
 UID:ddc52d2e1f830141a3c1c36cbc2b@visitri-calendar
 DESCRIPTION:Jack-O-Lantern Spectacular: The Great Pun-Kin Trail\, presente
  d by Citizens\, returns October 1 &#8211\; November 1 with an all-new trai
@@ -512,7 +517,7 @@ BEGIN:VEVENT
 SUMMARY:A New England Thanksgiving
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
-DTSTAMP:20261016T150029Z
+DTSTAMP:20261017T135427Z
 UID:21d35714802ba10832a84ed3bbac@visitri-calendar
 DESCRIPTION:Join the Coggeshall staff as we prepare a Thanksgiving meal ov
  er the hearth in our historic farmhouse. The late 18th century was before 
@@ -536,7 +541,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
-DTSTAMP:20261016T150029Z
+DTSTAMP:20261017T135427Z
 UID:d5932912a26459263f74067ed3d2@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -564,7 +569,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
-DTSTAMP:20261016T150029Z
+DTSTAMP:20261017T135427Z
 UID:f83dbecb85872dc3b9715683d412@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -592,7 +597,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
-DTSTAMP:20261016T150029Z
+DTSTAMP:20261017T135427Z
 UID:b086f1bd58d78d3d3eb4b27c4e80@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -620,7 +625,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
-DTSTAMP:20261016T150029Z
+DTSTAMP:20261017T135427Z
 UID:a07e4e611fb4e8a3b793ee3d6baa@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -648,7 +653,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
-DTSTAMP:20261016T150029Z
+DTSTAMP:20261017T135427Z
 UID:0e0d137da86e729e9b7c503df973@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -676,7 +681,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
-DTSTAMP:20261016T150029Z
+DTSTAMP:20261017T135427Z
 UID:ccc9d94ce27546581c6bf2b71fd9@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -704,7 +709,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
-DTSTAMP:20261016T150029Z
+DTSTAMP:20261017T135427Z
 UID:db8b766041237fea9b154b360279@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -732,7 +737,7 @@ BEGIN:VEVENT
 SUMMARY:The Intentional Celebration: Holiday Edition
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
-DTSTAMP:20261016T150029Z
+DTSTAMP:20261017T135427Z
 UID:6f484250684bf2271dde2a31e276@visitri-calendar
 DESCRIPTION:The Intentional Celebration: Holiday Edition is a two-day indo
  or holiday market and immersive Christmas experience taking place December
@@ -762,7 +767,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
-DTSTAMP:20261016T150029Z
+DTSTAMP:20261017T135427Z
 UID:4b643200b30e60635e855ddfbcdb@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -790,7 +795,7 @@ BEGIN:VEVENT
 SUMMARY:The Intentional Celebration: Holiday Edition
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
-DTSTAMP:20261016T150029Z
+DTSTAMP:20261017T135427Z
 UID:f0031a8c4f9ec38b7e0300063594@visitri-calendar
 DESCRIPTION:The Intentional Celebration: Holiday Edition is a two-day indo
  or holiday market and immersive Christmas experience taking place December
@@ -820,7 +825,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261211
-DTSTAMP:20261016T150029Z
+DTSTAMP:20261017T135427Z
 UID:f1266d72481edfcb924f687a42f0@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -848,7 +853,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
-DTSTAMP:20261016T150029Z
+DTSTAMP:20261017T135427Z
 UID:b2668ced84621f351ee2e743ffd9@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -876,7 +881,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
-DTSTAMP:20261016T150029Z
+DTSTAMP:20261017T135427Z
 UID:756ae7e966f3899cb85d7657b4e5@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -904,7 +909,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261213
 DTEND;VALUE=DATE:20261214
-DTSTAMP:20261016T150029Z
+DTSTAMP:20261017T135427Z
 UID:6926863c714413a4b343c291725f@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -932,7 +937,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
-DTSTAMP:20261016T150029Z
+DTSTAMP:20261017T135427Z
 UID:10f1f0a03ceb6ce5b9d0f1112413@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -960,7 +965,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261220
 DTEND;VALUE=DATE:20261221
-DTSTAMP:20261016T150029Z
+DTSTAMP:20261017T135427Z
 UID:4b4bda68b74fdf0bae1d4834ec2b@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -988,7 +993,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261221
 DTEND;VALUE=DATE:20261222
-DTSTAMP:20261016T150029Z
+DTSTAMP:20261017T135427Z
 UID:5cc6a0eb17a87a57c77fb4a1ee98@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -1016,7 +1021,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261222
 DTEND;VALUE=DATE:20261223
-DTSTAMP:20261016T150029Z
+DTSTAMP:20261017T135427Z
 UID:8b50234eb8215ed0c936d7b3f2fd@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -1044,7 +1049,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261223
 DTEND;VALUE=DATE:20261224
-DTSTAMP:20261016T150029Z
+DTSTAMP:20261017T135427Z
 UID:64494d8f54810a3b19a989acc268@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -1072,7 +1077,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261226
 DTEND;VALUE=DATE:20261227
-DTSTAMP:20261016T150029Z
+DTSTAMP:20261017T135427Z
 UID:d9203cb0c583483c1e644796bce0@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -1100,7 +1105,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261227
 DTEND;VALUE=DATE:20261228
-DTSTAMP:20261016T150029Z
+DTSTAMP:20261017T135427Z
 UID:ecdbb4492e88d8b279d5f0235b57@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -1128,7 +1133,7 @@ BEGIN:VEVENT
 SUMMARY:Beyond the Brewhouse Tour
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
-DTSTAMP:20261016T150029Z
+DTSTAMP:20261017T135427Z
 UID:c7b48636db9ede5f5acbbb263d31@visitri-calendar
 DESCRIPTION:Beyond the Brewhouse Where: Newport Craft Brewing and Distilli
  ng\, 293 JT Connell Road\, Newport 45 minutes: $20 per person Did you know
@@ -1142,23 +1147,5 @@ LOCATION:Newport Craft Brewing & Distilling Company\, 293 JT Connell Road
  \, Newport\, RI 02840 Time: 45 minutes: Tour start time varies by booking.
 URL:https://www.visitrhodeisland.com/event/beyond-the-brewhouse-tour/11015
  3/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Burritos & Bowls—Lunch Specials at Yellow Door Taqueria!
-DTSTART;VALUE=DATE:20261231
-DTEND;VALUE=DATE:20270101
-DTSTAMP:20261016T150029Z
-UID:a47385cf36c194bcd701d4733276@visitri-calendar
-DESCRIPTION:Our new Burrito &amp\; Bowl lunch specials have arrived at Yel
- low Door Taqueria in downtown Providence! Perfect for dining in or taking 
- back to the office\, turn your favorite taco into a delicious bowl or try 
- a specialty burrito! Check out the full menu on our website! Available Mon
- day-Friday\, 11:30 AM-5 PM!\n\nSource: https://www.visitrhodeisland.com/ev
- ent/burritos-%26-bowls%e2%80%94lunch-specials-at-yellow-door-taqueria!/111
- 544/
-LOCATION:Yellow Door Taqueria\, 191 Dorrance Street\, Providence\, RI 0290
- 3
-URL:https://www.visitrhodeisland.com/event/burritos-%26-bowls%e2%80%94lunc
- h-specials-at-yellow-door-taqueria!/111544/
 END:VEVENT
 END:VCALENDAR
