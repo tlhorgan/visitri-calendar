@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:$15 Moonshine Flights & Moonshine Tasting
 DTSTART;VALUE=DATE:20250615
 DTEND;VALUE=DATE:20250616
-DTSTAMP:20261018T140841Z
+DTSTAMP:20261019T170919Z
 UID:b6432d870f2c0958f26453a40d59@visitri-calendar
 DESCRIPTION:Try a Moonshine Flight tasting at Moonshine Alley! Moonshine F
  lights are available daily for just $15! We have over 13 flavors to choose
@@ -20,10 +20,56 @@ URL:https://www.visitrhodeisland.com/event/%2415-moonshine-flights-%26-moo
  nshine-tasting/105663/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Children's Weekly Storytime
+DTSTART;VALUE=DATE:20260330
+DTEND;VALUE=DATE:20260331
+DTSTAMP:20261019T170919Z
+UID:6a42c90422362e83701e98f899c2@visitri-calendar
+DESCRIPTION:Children's Storytime Join Elizabeth as she hosts storytime on 
+ Monday mornings at 10:30 AM. Every Monday\, Elizabeth will chose a book co
+ rrelating with the season or holiday. All children and their families are 
+ welcome to join!\n\nSource: https://www.visitrhodeisland.com/event/childre
+ ns-weekly-storytime/109524/
+LOCATION:Charter Books\, 8 Broadway\, Newport\, RI 02840 Time: 10:30 AM to
+  11:00 AM
+URL:https://www.visitrhodeisland.com/event/childrens-weekly-storytime/1095
+ 24/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Coastal Cruisers - The Golden Hour
+DTSTART;VALUE=DATE:20260501
+DTEND;VALUE=DATE:20260502
+DTSTAMP:20261019T170919Z
+UID:9f3864060ce7679e35293700f37c@visitri-calendar
+DESCRIPTION:Experience the Island in our Coastal Cruisers\, Newport’s pr
+ ivate chauffeured luxury tour\, dedicated to providing a sophisticated way
+  to experience our beloved island. We blend elegance\, fun &amp\; storytel
+ ling into a bespoke tour of Newport. For us\, it is about fostering experi
+ ences that create lasting memorable moments. From chasing golden sunsets t
+ o experiencing salty-breeze adventures\, Coastal Cruisers treats every tou
+ r as an opportunity to provide exceptional service &amp\; a personal conne
+ ction that lasts well beyond the journey. Offer 3 tour options and hourly 
+ bookings. Tour Option: The Golden Hour A private\, bespoke guided excursio
+ n designed to highlight Newport's most magnificent sunset vistas. This dis
+ tinctive experience is meticulously orchestrated\, ensuring optimal positi
+ oning at prime viewing locations for capturing striking photographs &amp\;
+  securing a truly memorable occasion. Your experienced guide will navigate
+  picturesque coastal thoroughfares and Newport's charming bridge view neig
+ hborhoods\, making stops at both lesser-known vantage points &amp\; renown
+ ed landmarks celebrated for their exceptional 'golden hour' illumination &
+ amp\; sweeping ocean panoramas. 7:00 PM Tour (75 minutes) $150 per person 
+ Available: Daily\, May 1 - December 31\, 2026 (Unavailable May 23 and May 
+ 31)\n\nSource: https://www.visitrhodeisland.com/event/coastal-cruisers-the
+ -golden-hour/109827/
+LOCATION:Coastal Cruisers\, 478 Thames Street\, Newport\, RI 02840
+URL:https://www.visitrhodeisland.com/event/coastal-cruisers-the-golden-hou
+ r/109827/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Beyond the Brewhouse Tour
 DTSTART;VALUE=DATE:20260515
 DTEND;VALUE=DATE:20260516
-DTSTAMP:20261018T140841Z
+DTSTAMP:20261019T170919Z
 UID:acc9d8e1d1bdab34c6766b602473@visitri-calendar
 DESCRIPTION:Beyond the Brewhouse Where: Newport Craft Brewing and Distilli
  ng\, 293 JT Connell Road\, Newport 45 minutes: $20 per person Did you know
@@ -39,49 +85,10 @@ URL:https://www.visitrhodeisland.com/event/beyond-the-brewhouse-tour/11015
  3/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Alger Mitchell at SALTwater Harborside Dining
-DTSTART;VALUE=DATE:20260524
-DTEND;VALUE=DATE:20260525
-DTSTAMP:20261018T140841Z
-UID:56651fdef385ddc5772b8f8d401e@visitri-calendar
-DESCRIPTION:Alger Mitchell at SALTwater Harborside Dining Sundays from 4:0
- 0 to 7:00 PM Alger Mitchell is a dynamic song stylist\, songwriter\, and v
- ocalist\, delivering captivating performances with guitar and harmonica. B
- oasting a remarkable repertoire of approximately 250 songs performed entir
- ely from memory\, Alger's music is 100% live\, free of electronic enhancem
- ents. His versatile setlist spans the timeless classics of The Great Ameri
- can Songbook\, from Broadway to Hollywood\, alongside beloved jazz and pop
-  standards\, classic country\, oldies\, and his own original compositions.
-  With infectious energy\, his live performances invite optional dancing\, 
- making it nearly impossible to resist moving to the music! Keep a smile on
-  your face and a song in your heart!\n\nSource: https://www.visitrhodeisla
- nd.com/event/alger-mitchell-at-saltwater-harborside-dining/110157/
-LOCATION:Saltwater at The Newport Harbor Hotel & Marina\, 49 America's Cup
-  Avenue\, Newport\, RI 02840 Time: 4:00 PM to 7:00 PM 49 America's Cup Ave
- nue\, Newport\, RI 02840 OFFICIAL RHODE ISLAND TRAVEL GUIDE Get Guide Get 
- news from Visit Rhode Island in your inbox. Industry Partner Leisure Trave
- l Sign Up Ratings Powered by Press Industry Travel Trade Meetings & Conven
- tions Contact Privacy Policy Sitemap Partner Portal SMS Privacy Policy SMS
-  Terms & Conditions UGC Terms and Conditions Wedding Planning Press Photos
-  Story Ideas Fun-Sized Rhode Island Rhode Island in the News Free Travel G
- uide Contact Visit Rhode Island Industry Travel Trade Ideas & Itineraries 
- Downton Abbey Lifestyle Rhode Island Foodways Hidden Gems Image Library Fr
- ee Travel Guide Contact Visit Rhode Island Meetings & Conventions Contact 
- Privacy Policy Sitemap Partner Portal SMS Privacy Policy SMS Terms & Condi
- tions UGC Terms and Conditions Wedding Planning Weddings - Venues Wedding 
- - Catering Wedding - Cakes Wedding - Attire Wedding - Florists Wedding - J
- ewelers Wedding - Transportation © 2026 Rhode Island Commerce Corporation
-  Special Offers Offers Here Looking to plan your next visit to Rhode Islan
- d\, check out some of the current special offers and enjoy savings\, extra
-  perks and more! Offers Here
-URL:https://www.visitrhodeisland.com/event/alger-mitchell-at-saltwater-har
- borside-dining/110157/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:$15 Moonshine Flights & Moonshine Tasting
 DTSTART;VALUE=DATE:20260721
 DTEND;VALUE=DATE:20260722
-DTSTAMP:20261018T140841Z
+DTSTAMP:20261019T170919Z
 UID:6ac059c408c431eceb1c3c855c19@visitri-calendar
 DESCRIPTION:Try a Moonshine Flight tasting at Moonshine Alley! Moonshine F
  lights are available daily for just $15! We have over 13 flavors to choose
@@ -94,10 +101,46 @@ URL:https://www.visitrhodeisland.com/event/%2415-moonshine-flights-%26-moo
  nshine-tasting/105663/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Half Price Tacos and House Margs at Yellow Door Taqueria!
+DTSTART;VALUE=DATE:20260731
+DTEND;VALUE=DATE:20260801
+DTSTAMP:20261019T170919Z
+UID:e0d95b06c7be4290562a81ad7ad5@visitri-calendar
+DESCRIPTION:Join us EVERY DAY at Yellow Door Taqueria from 3-6 PM at the b
+ ar for half price select tacos and house margaritas! It's the perfect way 
+ to wrap up your work day or grab a drink with friends! Choose from any of 
+ our scratch-made house margarita flavors and six of our favorite tacos! *D
+ ine in only\, select items only from 3-6 PM every day. Bar seating only*\n
+ \nSource: https://www.visitrhodeisland.com/event/half-price-tacos-and-hous
+ e-margs-at-yellow-door-taqueria!/111221/
+LOCATION:Yellow Door Taqueria\, 191 Dorrance Street\, Providence\, RI 0290
+ 3
+URL:https://www.visitrhodeisland.com/event/half-price-tacos-and-house-marg
+ s-at-yellow-door-taqueria!/111221/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Burritos & Bowls—Lunch Specials at Yellow Door Taqueria!
+DTSTART;VALUE=DATE:20260826
+DTEND;VALUE=DATE:20260827
+DTSTAMP:20261019T170919Z
+UID:cd9e59bf1148392bbbdd7c30628e@visitri-calendar
+DESCRIPTION:Our new Burrito &amp\; Bowl lunch specials have arrived at Yel
+ low Door Taqueria in downtown Providence! Perfect for dining in or taking 
+ back to the office\, turn your favorite taco into a delicious bowl or try 
+ a specialty burrito! Check out the full menu on our website! Available Mon
+ day-Friday\, 11:30 AM-5 PM!\n\nSource: https://www.visitrhodeisland.com/ev
+ ent/burritos-%26-bowls%e2%80%94lunch-specials-at-yellow-door-taqueria!/111
+ 544/
+LOCATION:Yellow Door Taqueria\, 191 Dorrance Street\, Providence\, RI 0290
+ 3
+URL:https://www.visitrhodeisland.com/event/burritos-%26-bowls%e2%80%94lunc
+ h-specials-at-yellow-door-taqueria!/111544/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:"Nocturnes" Exhibit at Spring Bull Gallery
 DTSTART;VALUE=DATE:20260913
 DTEND;VALUE=DATE:20260914
-DTSTAMP:20261018T140841Z
+DTSTAMP:20261019T170919Z
 UID:b3a6362c63e2fad1624808d0342f@visitri-calendar
 DESCRIPTION:"Nocturnes" An Art Exhibit at Spring Bull Gallery When: Septem
  ber 19 - October 25\, 2026 from 12:00 to 5:00 PM Opening Reception: Sunday
@@ -119,7 +162,7 @@ BEGIN:VEVENT
 SUMMARY:Jack-O-Lantern Spectacular
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
-DTSTAMP:20261018T140841Z
+DTSTAMP:20261019T170919Z
 UID:a11cb847b167f6db3762e7d7aba4@visitri-calendar
 DESCRIPTION:Jack-O-Lantern Spectacular: The Great Pun-Kin Trail\, presente
  d by Citizens\, returns October 1 &#8211\; November 1 with an all-new trai
@@ -141,95 +184,11 @@ URL:https://www.visitrhodeisland.com/event/jack-o-lantern-spectacular/9207
  1/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Bowen’s Wharf Seafood Festival
-DTSTART;VALUE=DATE:20261017
-DTEND;VALUE=DATE:20261018
-DTSTAMP:20261018T140841Z
-UID:484c2a9c60d0710266c77d9de9f2@visitri-calendar
-DESCRIPTION:Celebrate the Harvest of the Sea at the 35th Annual Bowen’s 
- Wharf Seafood Festival! Named one of Coastal Living Magazine’s “10 Fab
- ulous Fall Festivals on the Coast\,” this beloved autumn tradition invit
- es everyone to return to the waterfront after the summer rush for two days
-  of fresh seafood\, live music\, and family fun. Savor local favorites inc
- luding fish tacos\, lobster rolls\, stuffies\, chowder\, fried calamari\, 
- clams\, oysters\, and more—plus signature cocktails and cold beer beneat
- h Bowen’s Wharf’s colorful tents. Neighboring restaurants and fisherme
- n’s associations serve up their most celebrated seafood dishes\, along w
- ith a few tasty options for landlubbers and kids. Save room for sweet trea
- ts like fresh donuts\, kettle corn and chocolate covered fruit! Bring your
-  dancing shoes and enjoy continuous live music throughout the weekend feat
- uring folk\, surf rock and blues bands that are sure to get your toes tapp
- ing. Café-style seating is available throughout the wharf\, and a portion
-  of proceeds from the festival bars benefits Child &amp\; Family. Bring th
- e whole family and join locals and visitors alike for this unforgettable w
- aterfront celebration of coastal flavors\, community spirit\, and Newport 
- charm.\n\nSource: https://www.visitrhodeisland.com/event/bowen%e2%80%99s-w
- harf-seafood-festival/109514/
-LOCATION:Bowen's Wharf\, 13 Bowen's Wharf\, Newport\, RI 02840 Time: 11:00
-  AM to 6:00 PM
-URL:https://www.visitrhodeisland.com/event/bowen%e2%80%99s-wharf-seafood-f
- estival/109514/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:"Kaleidoscope" Performance at Newport Elks Lodge
-DTSTART;VALUE=DATE:20261018
-DTEND;VALUE=DATE:20261019
-DTSTAMP:20261018T140841Z
-UID:97ce1866aa0f01342b66914dea83@visitri-calendar
-DESCRIPTION:"Kaleidoscope" Performance by Newport Contemporary Ballet at E
- lks Lodge in Newport When: Friday\, October 16th at 7:00 PM Saturday\, Oct
- ober 17th at 7:00 PM Sunday\, October 18th at 2:00 PM Where: Newport Elks 
- Lodge\, 141 Pelham Street\, Newport Kaleidoscope is an ever-evolving mosai
- c of dance and emotion. As we bring our focus to the stage\, the world shi
- fts and expands before our eyes. Each work acts as a unique shard of glass
-  that is vibrant\, distinct\, and beautiful on its own and then comes toge
- ther with the others to form a beautifully intricate masterpiece. Opening 
- our 45th Season\, Kaleidoscope features world premiere works by internatio
- nally renowned choreographer\, Katarzyna Skarpetowska\, former NCB dancer
- \, Lauren Difede\, and Artistic &amp\; Executive Director\, Danielle Genes
- t. NCB’s Rehearsal Director\, Emily Baker’s powerful piece Shattered G
- lass will round out this fascinating program by a phenomenal group of fema
- le choreographers. There will be a short moderated “Talk Back” followi
- ng the opening night performance of Kaleidoscope.\n\nSource: https://www.v
- isitrhodeisland.com/event/kaleidoscope-performance-at-newport-elks-lodge/1
- 11845/
-LOCATION:Elks Lodge\, 141 Pelham Street\, Newport\, RI 02840
-URL:https://www.visitrhodeisland.com/event/kaleidoscope-performance-at-new
- port-elks-lodge/111845/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:4th Annual Garlic and Apple Roast
-DTSTART;VALUE=DATE:20261018
-DTEND;VALUE=DATE:20261019
-DTSTAMP:20261018T140841Z
-UID:f8013f65a2aa1b96ac9a1e27d15a@visitri-calendar
-DESCRIPTION:4th Annual Garlic and Apple Roast When: Sunday\, October 18th 
- from 10:00 AM to 2:00 PM Where: Tiverton Middle School\, 10 Quintal Drive
- \, Tiverton\, R.I. Join us on Sunday October 18th\, 2026 from 10:00 AM to 
- 2:00 PM for our 4th Annual Garlic &amp\; Apple Roast. Garlic might be scar
- ce this season\, so we are adding in the beloved apple. Let’s celebrate 
- the season's harvest! Vendors will be Infusing garlic and apples into uniq
- ue food &amp\; dishes and sharing them with you. Get out\, socialize and t
- ry something new and delicious. More details to come. Event will be moving
-  INSIDE this year at the Tiverton Middle School Cafeteria\, located at 10 
- Quintal Drive\, Tiverton\, RI 02878. Sponsored by The Bay Magazine. Event 
- is free and open to the public. Location: Tiverton Middle School Cafeteria
- \, 10 Quintal Drive\, Tiverton\, RI 02878. Hours: 10am - 2pm.\n\nSource: h
- ttps://www.visitrhodeisland.com/event/4th-annual-garlic-and-apple-roast/11
- 1795/
-LOCATION:Tiverton Middle School Cafeteria\, 10 Quintal Drive\, Tiverton\, 
- RI 02878. Hours: 10am - 2pm. Show More View Website | Email 1 / 1 Addition
- al Information\, 10 Quintal Drive\, Tiverton Middle School\, Tiverton\, RI
-  02878
-URL:https://www.visitrhodeisland.com/event/4th-annual-garlic-and-apple-roa
- st/111795/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:A New England Thanksgiving
-DTSTART;VALUE=DATE:20261018
-DTEND;VALUE=DATE:20261019
-DTSTAMP:20261018T140841Z
-UID:045d082951d5ecc2b958cb870f3d@visitri-calendar
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+DTSTAMP:20261019T170919Z
+UID:2a59fa503853da41a75c3afff660@visitri-calendar
 DESCRIPTION:Join the Coggeshall staff as we prepare a Thanksgiving meal ov
  er the hearth in our historic farmhouse. The late 18th century was before 
  the official start of Thanksgiving as a national holiday\, but the day was
@@ -250,10 +209,10 @@ URL:https://www.visitrhodeisland.com/event/a-new-england-thanksgiving/1121
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Annual Harvest Festival at Newport Vineyards
-DTSTART;VALUE=DATE:20261018
-DTEND;VALUE=DATE:20261019
-DTSTAMP:20261018T140841Z
-UID:726f043e05daf5c523a3bc53da28@visitri-calendar
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+DTSTAMP:20261019T170919Z
+UID:0e12b1380fc4d577799c199b2386@visitri-calendar
 DESCRIPTION:Celebrate the 9 th Annual Harvest Festival with Newport Vineya
  rds! When: Sunday\, October 25th More details to be announced! General Adm
  ission and Non-Tasting Admission Tickets will be available\n\nSource: http
@@ -265,55 +224,50 @@ URL:https://www.visitrhodeisland.com/event/annual-harvest-festival-at-newp
  ort-vineyards/111769/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Autumn Arts Open House
-DTSTART;VALUE=DATE:20261018
-DTEND;VALUE=DATE:20261019
-DTSTAMP:20261018T140841Z
-UID:3d11a5ab40c66648920830be6832@visitri-calendar
-DESCRIPTION:Welcome fall with hands-on art making\, artist demonstrations
- \, and seasonal favorites. Free | All Ages | Drop-in Whether you’re at J
- AC every week or have never been\, this Open House is a great reason to co
- me see what’s happening at JAC!\n\nSource: https://www.visitrhodeisland.
- com/event/autumn-arts-open-house/111685/
-LOCATION:Jamestown Arts Center\, 18 Valley Street\, Jamestown\, 02835
-URL:https://www.visitrhodeisland.com/event/autumn-arts-open-house/111685/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bowen’s Wharf Seafood Festival
-DTSTART;VALUE=DATE:20261018
-DTEND;VALUE=DATE:20261019
-DTSTAMP:20261018T140841Z
-UID:778553d9630d20f7b0b12f6d4f38@visitri-calendar
-DESCRIPTION:Celebrate the Harvest of the Sea at the 35th Annual Bowen’s 
- Wharf Seafood Festival! Named one of Coastal Living Magazine’s “10 Fab
- ulous Fall Festivals on the Coast\,” this beloved autumn tradition invit
- es everyone to return to the waterfront after the summer rush for two days
-  of fresh seafood\, live music\, and family fun. Savor local favorites inc
- luding fish tacos\, lobster rolls\, stuffies\, chowder\, fried calamari\, 
- clams\, oysters\, and more—plus signature cocktails and cold beer beneat
- h Bowen’s Wharf’s colorful tents. Neighboring restaurants and fisherme
- n’s associations serve up their most celebrated seafood dishes\, along w
- ith a few tasty options for landlubbers and kids. Save room for sweet trea
- ts like fresh donuts\, kettle corn and chocolate covered fruit! Bring your
-  dancing shoes and enjoy continuous live music throughout the weekend feat
- uring folk\, surf rock and blues bands that are sure to get your toes tapp
- ing. Café-style seating is available throughout the wharf\, and a portion
-  of proceeds from the festival bars benefits Child &amp\; Family. Bring th
- e whole family and join locals and visitors alike for this unforgettable w
- aterfront celebration of coastal flavors\, community spirit\, and Newport 
- charm.\n\nSource: https://www.visitrhodeisland.com/event/bowen%e2%80%99s-w
- harf-seafood-festival/109514/
-LOCATION:Bowen's Wharf\, 13 Bowen's Wharf\, Newport\, RI 02840 Time: 11:00
-  AM to 6:00 PM
-URL:https://www.visitrhodeisland.com/event/bowen%e2%80%99s-wharf-seafood-f
- estival/109514/
+SUMMARY:Haywagon Tours at Norman Bird
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+DTSTAMP:20261019T170919Z
+UID:f315f666a1985533def9dbcf6395@visitri-calendar
+DESCRIPTION:Haywagon Tours at Norman Bird Sanctuary Date: Select dates fro
+ m 3:00 to 5:00 PM Thursday\, October 15th Monday\, October 19th Wednesday
+ \, October 21st Location: Norman Bird Sanctuary\, 583 Third Beach Road\, M
+ iddletown\, RI 02842 Cost: Member $200 | Non-Member $250 (Cost is based on
+  private group reservation for up to 15 people). Register Here! Two time s
+ lots are available for reservation at 3:00 p.m. and 4:00 p.m. Round up you
+ r family and friends for a 45-minute fall haywagon adventure at Norman Bir
+ d Sanctuary! Gather your favorite people and climb aboard for a haywagon a
+ dventure through the shrublands and open fields of Norman Bird Sanctuary. 
+ Each reservation includes the entire haywagon\, so bring your family and f
+ riends and enjoy the ride together as a private group of up to 15 people. 
+ It’s a wonderful way to spend a crisp autumn day together and experience
+  the Sanctuary from a different perspective. Bundle up and take in the cha
+ nging landscape\, crisp autumn air\, and sights and sounds of the season a
+ s you travel through the Sanctuary together.\n\nSource: https://www.visitr
+ hodeisland.com/event/haywagon-tours-at-norman-bird/112328/
+LOCATION:Norman Bird Sanctuary\, 583 Third Beach Road\, Middletown\, RI 02
+ 842 Cost: Member $200 | Non-Member $250 (Cost is based on private group re
+ servation for up to 15 people). Register Here! Two time slots are availabl
+ e for reservation at 3:00 p.m. and 4:00 p.m. Round up your family and frie
+ nds for a 45-minute fall haywagon adventure at Norman Bird Sanctuary! Gath
+ er your favorite people and climb aboard for a haywagon adventure through 
+ the shrublands and open fields of Norman Bird Sanctuary. Each reservation 
+ includes the entire haywagon\, so bring your family and friends and enjoy 
+ the ride together as a private group of up to 15 people. It’s a wonderfu
+ l way to spend a crisp autumn day together and experience the Sanctuary fr
+ om a different perspective. Bundle up and take in the changing landscape\,
+  crisp autumn air\, and sights and sounds of the season as you travel thro
+ ugh the Sanctuary together. Show More View Website | Email 1 / 1 Additiona
+ l Information\, 583 Third Beach Road\, Middletown\, RI 02842
+URL:https://www.visitrhodeisland.com/event/haywagon-tours-at-norman-bird/1
+ 12328/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tour de Vino Wine Dinner
-DTSTART;VALUE=DATE:20261018
-DTEND;VALUE=DATE:20261019
-DTSTAMP:20261018T140841Z
-UID:80657a75a1f561cc4c9d1896ef0e@visitri-calendar
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+DTSTAMP:20261019T170919Z
+UID:201175336e82811e9b2caf4d090e@visitri-calendar
 DESCRIPTION:Tour de Vino will be at The Brook Kitchen + Bar on October 22.
   Join us for an intimate four-course wine dinner featuring carefully selec
  ted pairings from Hope Family Wines. This event is part of a traveling win
@@ -325,10 +279,49 @@ URL:https://www.visitrhodeisland.com/event/tour-de-vino-wine-dinner/111939
  /
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Haywagon Tours at Norman Bird
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+DTSTAMP:20261019T170919Z
+UID:d6416c930c8e19772c0aa5b24700@visitri-calendar
+DESCRIPTION:Haywagon Tours at Norman Bird Sanctuary Date: Select dates fro
+ m 3:00 to 5:00 PM Thursday\, October 15th Monday\, October 19th Wednesday
+ \, October 21st Location: Norman Bird Sanctuary\, 583 Third Beach Road\, M
+ iddletown\, RI 02842 Cost: Member $200 | Non-Member $250 (Cost is based on
+  private group reservation for up to 15 people). Register Here! Two time s
+ lots are available for reservation at 3:00 p.m. and 4:00 p.m. Round up you
+ r family and friends for a 45-minute fall haywagon adventure at Norman Bir
+ d Sanctuary! Gather your favorite people and climb aboard for a haywagon a
+ dventure through the shrublands and open fields of Norman Bird Sanctuary. 
+ Each reservation includes the entire haywagon\, so bring your family and f
+ riends and enjoy the ride together as a private group of up to 15 people. 
+ It’s a wonderful way to spend a crisp autumn day together and experience
+  the Sanctuary from a different perspective. Bundle up and take in the cha
+ nging landscape\, crisp autumn air\, and sights and sounds of the season a
+ s you travel through the Sanctuary together.\n\nSource: https://www.visitr
+ hodeisland.com/event/haywagon-tours-at-norman-bird/112328/
+LOCATION:Norman Bird Sanctuary\, 583 Third Beach Road\, Middletown\, RI 02
+ 842 Cost: Member $200 | Non-Member $250 (Cost is based on private group re
+ servation for up to 15 people). Register Here! Two time slots are availabl
+ e for reservation at 3:00 p.m. and 4:00 p.m. Round up your family and frie
+ nds for a 45-minute fall haywagon adventure at Norman Bird Sanctuary! Gath
+ er your favorite people and climb aboard for a haywagon adventure through 
+ the shrublands and open fields of Norman Bird Sanctuary. Each reservation 
+ includes the entire haywagon\, so bring your family and friends and enjoy 
+ the ride together as a private group of up to 15 people. It’s a wonderfu
+ l way to spend a crisp autumn day together and experience the Sanctuary fr
+ om a different perspective. Bundle up and take in the changing landscape\,
+  crisp autumn air\, and sights and sounds of the season as you travel thro
+ ugh the Sanctuary together. Show More View Website | Email 1 / 1 Additiona
+ l Information\, 583 Third Beach Road\, Middletown\, RI 02842
+URL:https://www.visitrhodeisland.com/event/haywagon-tours-at-norman-bird/1
+ 12328/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Tour de Vino Wine Dinner
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261023
-DTSTAMP:20261018T140841Z
+DTSTAMP:20261019T170919Z
 UID:cb727bd087bb1926972b6366d20d@visitri-calendar
 DESCRIPTION:Tour de Vino will be at The Brook Kitchen + Bar on October 22.
   Join us for an intimate four-course wine dinner featuring carefully selec
@@ -344,7 +337,7 @@ BEGIN:VEVENT
 SUMMARY:"Nocturnes" Exhibit at Spring Bull Gallery
 DTSTART;VALUE=DATE:20261025
 DTEND;VALUE=DATE:20261026
-DTSTAMP:20261018T140841Z
+DTSTAMP:20261019T170919Z
 UID:945340681c00f5d79c305667c5c8@visitri-calendar
 DESCRIPTION:"Nocturnes" An Art Exhibit at Spring Bull Gallery When: Septem
  ber 19 - October 25\, 2026 from 12:00 to 5:00 PM Opening Reception: Sunday
@@ -363,49 +356,10 @@ URL:https://www.visitrhodeisland.com/event/nocturnes-exhibit-at-spring-bul
  l-gallery/111782/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Alger Mitchell at SALTwater Harborside Dining
-DTSTART;VALUE=DATE:20261025
-DTEND;VALUE=DATE:20261026
-DTSTAMP:20261018T140841Z
-UID:c8707a642277214ae36e5ea850d3@visitri-calendar
-DESCRIPTION:Alger Mitchell at SALTwater Harborside Dining Sundays from 4:0
- 0 to 7:00 PM Alger Mitchell is a dynamic song stylist\, songwriter\, and v
- ocalist\, delivering captivating performances with guitar and harmonica. B
- oasting a remarkable repertoire of approximately 250 songs performed entir
- ely from memory\, Alger's music is 100% live\, free of electronic enhancem
- ents. His versatile setlist spans the timeless classics of The Great Ameri
- can Songbook\, from Broadway to Hollywood\, alongside beloved jazz and pop
-  standards\, classic country\, oldies\, and his own original compositions.
-  With infectious energy\, his live performances invite optional dancing\, 
- making it nearly impossible to resist moving to the music! Keep a smile on
-  your face and a song in your heart!\n\nSource: https://www.visitrhodeisla
- nd.com/event/alger-mitchell-at-saltwater-harborside-dining/110157/
-LOCATION:Saltwater at The Newport Harbor Hotel & Marina\, 49 America's Cup
-  Avenue\, Newport\, RI 02840 Time: 4:00 PM to 7:00 PM 49 America's Cup Ave
- nue\, Newport\, RI 02840 OFFICIAL RHODE ISLAND TRAVEL GUIDE Get Guide Get 
- news from Visit Rhode Island in your inbox. Industry Partner Leisure Trave
- l Sign Up Ratings Powered by Press Industry Travel Trade Meetings & Conven
- tions Contact Privacy Policy Sitemap Partner Portal SMS Privacy Policy SMS
-  Terms & Conditions UGC Terms and Conditions Wedding Planning Press Photos
-  Story Ideas Fun-Sized Rhode Island Rhode Island in the News Free Travel G
- uide Contact Visit Rhode Island Industry Travel Trade Ideas & Itineraries 
- Downton Abbey Lifestyle Rhode Island Foodways Hidden Gems Image Library Fr
- ee Travel Guide Contact Visit Rhode Island Meetings & Conventions Contact 
- Privacy Policy Sitemap Partner Portal SMS Privacy Policy SMS Terms & Condi
- tions UGC Terms and Conditions Wedding Planning Weddings - Venues Wedding 
- - Catering Wedding - Cakes Wedding - Attire Wedding - Florists Wedding - J
- ewelers Wedding - Transportation © 2026 Rhode Island Commerce Corporation
-  Special Offers Offers Here Looking to plan your next visit to Rhode Islan
- d\, check out some of the current special offers and enjoy savings\, extra
-  perks and more! Offers Here
-URL:https://www.visitrhodeisland.com/event/alger-mitchell-at-saltwater-har
- borside-dining/110157/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Annual Harvest Festival at Newport Vineyards
 DTSTART;VALUE=DATE:20261025
 DTEND;VALUE=DATE:20261026
-DTSTAMP:20261018T140841Z
+DTSTAMP:20261019T170919Z
 UID:3f036be2c60a1a4587e7b53ef705@visitri-calendar
 DESCRIPTION:Celebrate the 9 th Annual Harvest Festival with Newport Vineya
  rds! When: Sunday\, October 25th More details to be announced! General Adm
@@ -418,10 +372,58 @@ URL:https://www.visitrhodeisland.com/event/annual-harvest-festival-at-newp
  ort-vineyards/111769/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Coastal Cruisers - The Golden Hour
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+DTSTAMP:20261019T170919Z
+UID:a33f7731698b5451e05ba44e42fd@visitri-calendar
+DESCRIPTION:Experience the Island in our Coastal Cruisers\, Newport’s pr
+ ivate chauffeured luxury tour\, dedicated to providing a sophisticated way
+  to experience our beloved island. We blend elegance\, fun &amp\; storytel
+ ling into a bespoke tour of Newport. For us\, it is about fostering experi
+ ences that create lasting memorable moments. From chasing golden sunsets t
+ o experiencing salty-breeze adventures\, Coastal Cruisers treats every tou
+ r as an opportunity to provide exceptional service &amp\; a personal conne
+ ction that lasts well beyond the journey. Offer 3 tour options and hourly 
+ bookings. Tour Option: The Golden Hour A private\, bespoke guided excursio
+ n designed to highlight Newport's most magnificent sunset vistas. This dis
+ tinctive experience is meticulously orchestrated\, ensuring optimal positi
+ oning at prime viewing locations for capturing striking photographs &amp\;
+  securing a truly memorable occasion. Your experienced guide will navigate
+  picturesque coastal thoroughfares and Newport's charming bridge view neig
+ hborhoods\, making stops at both lesser-known vantage points &amp\; renown
+ ed landmarks celebrated for their exceptional 'golden hour' illumination &
+ amp\; sweeping ocean panoramas. 7:00 PM Tour (75 minutes) $150 per person 
+ Available: Daily\, May 1 - December 31\, 2026 (Unavailable May 23 and May 
+ 31)\n\nSource: https://www.visitrhodeisland.com/event/coastal-cruisers-the
+ -golden-hour/109827/
+LOCATION:Coastal Cruisers\, 478 Thames Street\, Newport\, RI 02840
+URL:https://www.visitrhodeisland.com/event/coastal-cruisers-the-golden-hou
+ r/109827/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Half Price Tacos and House Margs at Yellow Door Taqueria!
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+DTSTAMP:20261019T170919Z
+UID:9e3061f0648341ee71e7158e4b15@visitri-calendar
+DESCRIPTION:Join us EVERY DAY at Yellow Door Taqueria from 3-6 PM at the b
+ ar for half price select tacos and house margaritas! It's the perfect way 
+ to wrap up your work day or grab a drink with friends! Choose from any of 
+ our scratch-made house margarita flavors and six of our favorite tacos! *D
+ ine in only\, select items only from 3-6 PM every day. Bar seating only*\n
+ \nSource: https://www.visitrhodeisland.com/event/half-price-tacos-and-hous
+ e-margs-at-yellow-door-taqueria!/111221/
+LOCATION:Yellow Door Taqueria\, 191 Dorrance Street\, Providence\, RI 0290
+ 3
+URL:https://www.visitrhodeisland.com/event/half-price-tacos-and-house-marg
+ s-at-yellow-door-taqueria!/111221/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Jack-O-Lantern Spectacular
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
-DTSTAMP:20261018T140841Z
+DTSTAMP:20261019T170919Z
 UID:ddc52d2e1f830141a3c1c36cbc2b@visitri-calendar
 DESCRIPTION:Jack-O-Lantern Spectacular: The Great Pun-Kin Trail\, presente
  d by Citizens\, returns October 1 &#8211\; November 1 with an all-new trai
@@ -446,7 +448,7 @@ BEGIN:VEVENT
 SUMMARY:A New England Thanksgiving
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
-DTSTAMP:20261018T140841Z
+DTSTAMP:20261019T170919Z
 UID:21d35714802ba10832a84ed3bbac@visitri-calendar
 DESCRIPTION:Join the Coggeshall staff as we prepare a Thanksgiving meal ov
  er the hearth in our historic farmhouse. The late 18th century was before 
@@ -470,7 +472,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
-DTSTAMP:20261018T140841Z
+DTSTAMP:20261019T170919Z
 UID:d5932912a26459263f74067ed3d2@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -498,7 +500,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
-DTSTAMP:20261018T140841Z
+DTSTAMP:20261019T170919Z
 UID:f83dbecb85872dc3b9715683d412@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -526,7 +528,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
-DTSTAMP:20261018T140841Z
+DTSTAMP:20261019T170919Z
 UID:b086f1bd58d78d3d3eb4b27c4e80@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -554,7 +556,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
-DTSTAMP:20261018T140841Z
+DTSTAMP:20261019T170919Z
 UID:a07e4e611fb4e8a3b793ee3d6baa@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -582,7 +584,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
-DTSTAMP:20261018T140841Z
+DTSTAMP:20261019T170919Z
 UID:0e0d137da86e729e9b7c503df973@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -610,7 +612,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
-DTSTAMP:20261018T140841Z
+DTSTAMP:20261019T170919Z
 UID:ccc9d94ce27546581c6bf2b71fd9@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -638,7 +640,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
-DTSTAMP:20261018T140841Z
+DTSTAMP:20261019T170919Z
 UID:db8b766041237fea9b154b360279@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -666,7 +668,7 @@ BEGIN:VEVENT
 SUMMARY:The Intentional Celebration: Holiday Edition
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
-DTSTAMP:20261018T140841Z
+DTSTAMP:20261019T170919Z
 UID:6f484250684bf2271dde2a31e276@visitri-calendar
 DESCRIPTION:The Intentional Celebration: Holiday Edition is a two-day indo
  or holiday market and immersive Christmas experience taking place December
@@ -696,7 +698,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
-DTSTAMP:20261018T140841Z
+DTSTAMP:20261019T170919Z
 UID:4b643200b30e60635e855ddfbcdb@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -724,7 +726,7 @@ BEGIN:VEVENT
 SUMMARY:The Intentional Celebration: Holiday Edition
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
-DTSTAMP:20261018T140841Z
+DTSTAMP:20261019T170919Z
 UID:f0031a8c4f9ec38b7e0300063594@visitri-calendar
 DESCRIPTION:The Intentional Celebration: Holiday Edition is a two-day indo
  or holiday market and immersive Christmas experience taking place December
@@ -754,7 +756,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261211
-DTSTAMP:20261018T140841Z
+DTSTAMP:20261019T170919Z
 UID:f1266d72481edfcb924f687a42f0@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -782,7 +784,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
-DTSTAMP:20261018T140841Z
+DTSTAMP:20261019T170919Z
 UID:b2668ced84621f351ee2e743ffd9@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -810,7 +812,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
-DTSTAMP:20261018T140841Z
+DTSTAMP:20261019T170919Z
 UID:756ae7e966f3899cb85d7657b4e5@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -838,7 +840,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261213
 DTEND;VALUE=DATE:20261214
-DTSTAMP:20261018T140841Z
+DTSTAMP:20261019T170919Z
 UID:6926863c714413a4b343c291725f@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -866,7 +868,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
-DTSTAMP:20261018T140841Z
+DTSTAMP:20261019T170919Z
 UID:10f1f0a03ceb6ce5b9d0f1112413@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -894,7 +896,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261220
 DTEND;VALUE=DATE:20261221
-DTSTAMP:20261018T140841Z
+DTSTAMP:20261019T170919Z
 UID:4b4bda68b74fdf0bae1d4834ec2b@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -919,10 +921,26 @@ URL:https://www.visitrhodeisland.com/event/sparkling-lights-at-the-breaker
  s/112249/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Children's Weekly Storytime
+DTSTART;VALUE=DATE:20261221
+DTEND;VALUE=DATE:20261222
+DTSTAMP:20261019T170919Z
+UID:505c13cc68dfd1161c6032fdf540@visitri-calendar
+DESCRIPTION:Children's Storytime Join Elizabeth as she hosts storytime on 
+ Monday mornings at 10:30 AM. Every Monday\, Elizabeth will chose a book co
+ rrelating with the season or holiday. All children and their families are 
+ welcome to join!\n\nSource: https://www.visitrhodeisland.com/event/childre
+ ns-weekly-storytime/109524/
+LOCATION:Charter Books\, 8 Broadway\, Newport\, RI 02840 Time: 10:30 AM to
+  11:00 AM
+URL:https://www.visitrhodeisland.com/event/childrens-weekly-storytime/1095
+ 24/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261221
 DTEND;VALUE=DATE:20261222
-DTSTAMP:20261018T140841Z
+DTSTAMP:20261019T170919Z
 UID:5cc6a0eb17a87a57c77fb4a1ee98@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -950,7 +968,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261222
 DTEND;VALUE=DATE:20261223
-DTSTAMP:20261018T140841Z
+DTSTAMP:20261019T170919Z
 UID:8b50234eb8215ed0c936d7b3f2fd@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -978,7 +996,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261223
 DTEND;VALUE=DATE:20261224
-DTSTAMP:20261018T140841Z
+DTSTAMP:20261019T170919Z
 UID:64494d8f54810a3b19a989acc268@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -1006,7 +1024,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261226
 DTEND;VALUE=DATE:20261227
-DTSTAMP:20261018T140841Z
+DTSTAMP:20261019T170919Z
 UID:d9203cb0c583483c1e644796bce0@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -1034,7 +1052,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261227
 DTEND;VALUE=DATE:20261228
-DTSTAMP:20261018T140841Z
+DTSTAMP:20261019T170919Z
 UID:ecdbb4492e88d8b279d5f0235b57@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -1062,7 +1080,7 @@ BEGIN:VEVENT
 SUMMARY:Beyond the Brewhouse Tour
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
-DTSTAMP:20261018T140841Z
+DTSTAMP:20261019T170919Z
 UID:c7b48636db9ede5f5acbbb263d31@visitri-calendar
 DESCRIPTION:Beyond the Brewhouse Where: Newport Craft Brewing and Distilli
  ng\, 293 JT Connell Road\, Newport 45 minutes: $20 per person Did you know
@@ -1076,5 +1094,23 @@ LOCATION:Newport Craft Brewing & Distilling Company\, 293 JT Connell Road
  \, Newport\, RI 02840 Time: 45 minutes: Tour start time varies by booking.
 URL:https://www.visitrhodeisland.com/event/beyond-the-brewhouse-tour/11015
  3/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Burritos & Bowls—Lunch Specials at Yellow Door Taqueria!
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+DTSTAMP:20261019T170919Z
+UID:a47385cf36c194bcd701d4733276@visitri-calendar
+DESCRIPTION:Our new Burrito &amp\; Bowl lunch specials have arrived at Yel
+ low Door Taqueria in downtown Providence! Perfect for dining in or taking 
+ back to the office\, turn your favorite taco into a delicious bowl or try 
+ a specialty burrito! Check out the full menu on our website! Available Mon
+ day-Friday\, 11:30 AM-5 PM!\n\nSource: https://www.visitrhodeisland.com/ev
+ ent/burritos-%26-bowls%e2%80%94lunch-specials-at-yellow-door-taqueria!/111
+ 544/
+LOCATION:Yellow Door Taqueria\, 191 Dorrance Street\, Providence\, RI 0290
+ 3
+URL:https://www.visitrhodeisland.com/event/burritos-%26-bowls%e2%80%94lunc
+ h-specials-at-yellow-door-taqueria!/111544/
 END:VEVENT
 END:VCALENDAR
