@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:$15 Moonshine Flights & Moonshine Tasting
 DTSTART;VALUE=DATE:20250615
 DTEND;VALUE=DATE:20250616
-DTSTAMP:20261020T152139Z
+DTSTAMP:20261021T153430Z
 UID:b6432d870f2c0958f26453a40d59@visitri-calendar
 DESCRIPTION:Try a Moonshine Flight tasting at Moonshine Alley! Moonshine F
  lights are available daily for just $15! We have over 13 flavors to choose
@@ -20,10 +20,39 @@ URL:https://www.visitrhodeisland.com/event/%2415-moonshine-flights-%26-moo
  nshine-tasting/105663/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Early Bird Museum Highlight Tour at Newport Car Museum
+DTSTART;VALUE=DATE:20260401
+DTEND;VALUE=DATE:20260402
+DTSTAMP:20261021T153430Z
+UID:75253880a8c565d95c2d97a759c9@visitri-calendar
+DESCRIPTION:Early Bird Highlight Tour For 90 minutes (8:30 &#8211\; 10:00 
+ AM) prior to Museum opening. Call to book: +1 (401) 848-2277 Price $75.00 
+ per person (minimum 2\, maximum 6 ppl) Offered Wednesday\, Thursday\, and 
+ Saturday only April 1 - December 31\, 2026. General admission is included 
+ with price. 72-hour advance notice is suggested. Only one group will be ho
+ sted on any given morning. This is your chance to have the Newport Car Mus
+ eum all to yourself with a private guide to share with you the not-to-miss
+  highlights in seven expansive galleries. With over 100 iconic\, rare and 
+ exotic cars on display at one time\, this private collection is bursting w
+ ith history\, provenance and color\, not to mention the breathtaking sculp
+ tural beauty of automotive designs starting with the 1950s and finishing w
+ ith new models from the 21 st Century. After 90 minutes with your private
+ \, continue to explore at your own pace so that you can further examine yo
+ ur favorites from the Ford/Shelby\, Corvette\, World Car\, Porsche\, Fin C
+ ar\, American Muscle and Mopar exhibits while enjoying immersive videos\, 
+ artwork and the Museum’s eclectic collection of Mid-Century Modern Furni
+ ture.\n\nSource: https://www.visitrhodeisland.com/event/early-bird-museum-
+ highlight-tour-at-newport-car-museum/109638/
+LOCATION:Newport Car Museum\, Enter at Light 1947 West Main Road\, Portsmo
+ uth\, RI 02871
+URL:https://www.visitrhodeisland.com/event/early-bird-museum-highlight-tou
+ r-at-newport-car-museum/109638/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Coastal Cruisers - The Golden Hour
 DTSTART;VALUE=DATE:20260501
 DTEND;VALUE=DATE:20260502
-DTSTAMP:20261020T152139Z
+DTSTAMP:20261021T153430Z
 UID:9f3864060ce7679e35293700f37c@visitri-calendar
 DESCRIPTION:Experience the Island in our Coastal Cruisers\, Newport’s pr
  ivate chauffeured luxury tour\, dedicated to providing a sophisticated way
@@ -53,7 +82,7 @@ BEGIN:VEVENT
 SUMMARY:Beyond the Brewhouse Tour
 DTSTART;VALUE=DATE:20260515
 DTEND;VALUE=DATE:20260516
-DTSTAMP:20261020T152139Z
+DTSTAMP:20261021T153430Z
 UID:acc9d8e1d1bdab34c6766b602473@visitri-calendar
 DESCRIPTION:Beyond the Brewhouse Where: Newport Craft Brewing and Distilli
  ng\, 293 JT Connell Road\, Newport 45 minutes: $20 per person Did you know
@@ -69,43 +98,10 @@ URL:https://www.visitrhodeisland.com/event/beyond-the-brewhouse-tour/11015
  3/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Adult Beginner Ballet
-DTSTART;VALUE=DATE:20260601
-DTEND;VALUE=DATE:20260602
-DTSTAMP:20261020T152139Z
-UID:cf5e0e692bc1d2ae6c129cad8dd4@visitri-calendar
-DESCRIPTION:Adult Beginner Ballet When: Tuesdays\, September 22\, 2026 - J
- une 1\, 2027 Where: The Academy at Newport Contemporary Ballet\, 3 Charles
-  Street\, Newport Our adult division welcomes adult dancers of all ages an
- d abilities. Adult classes are designed to provide a relaxed\, supportive
- \, and fun atmosphere while learning new skills and and providing a great 
- physical workout. Adult classes are filled with adults who have either dan
- ced when they were young or have always wanted to dance but never had the 
- opportunity. No dress code is required. Classes are designed to welcome ad
- ult dancers of all ages and abilities. These classes offer a fun way for d
- ancers to exercise\, meet new friends\, and enjoy movement! ($18-20/class
- \, 1 hr 15 min) (Instagram: @theacademyatncb) Adult Classes: Adults of any
-  age and level are welcome to experience the joy of dance with the Academy
- ! We understand it can be nerve wracking walking into a dance studio full 
- of mirrors but not to worry\, the Academy offers a nurturing environment w
- here adult students will feel supported\, challenged\, and fulfilled. Our 
- teachers are caring\, patient and will give corrections. Adult students ne
- w to dance will enjoy our Adult Absolute Beginner class. Adults who have d
- ance experience are welcome to join Monday level 4 classes as well as any 
- Adult classes on pointe. Classes may be paid with dance cards (10 classes 
- paid in advance) or as single drop in class to accommodate your busy sched
- ule. Adults can wear comfortable clothing of their choice. We do suggest w
- earing socks or ballet slippers and pulling back long hair.\n\nSource: htt
- ps://www.visitrhodeisland.com/event/adult-beginner-ballet/112082/
-LOCATION:The Academy at Newport Contemporary Ballet\, 3 Charles Street\, N
- ewport\, RI 02840 Time: 7:00 PM to 8:15 PM
-URL:https://www.visitrhodeisland.com/event/adult-beginner-ballet/112082/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:$15 Moonshine Flights & Moonshine Tasting
 DTSTART;VALUE=DATE:20260721
 DTEND;VALUE=DATE:20260722
-DTSTAMP:20261020T152139Z
+DTSTAMP:20261021T153430Z
 UID:6ac059c408c431eceb1c3c855c19@visitri-calendar
 DESCRIPTION:Try a Moonshine Flight tasting at Moonshine Alley! Moonshine F
  lights are available daily for just $15! We have over 13 flavors to choose
@@ -118,28 +114,10 @@ URL:https://www.visitrhodeisland.com/event/%2415-moonshine-flights-%26-moo
  nshine-tasting/105663/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Half Price Tacos and House Margs at Yellow Door Taqueria!
-DTSTART;VALUE=DATE:20260731
-DTEND;VALUE=DATE:20260801
-DTSTAMP:20261020T152139Z
-UID:e0d95b06c7be4290562a81ad7ad5@visitri-calendar
-DESCRIPTION:Join us EVERY DAY at Yellow Door Taqueria from 3-6 PM at the b
- ar for half price select tacos and house margaritas! It's the perfect way 
- to wrap up your work day or grab a drink with friends! Choose from any of 
- our scratch-made house margarita flavors and six of our favorite tacos! *D
- ine in only\, select items only from 3-6 PM every day. Bar seating only*\n
- \nSource: https://www.visitrhodeisland.com/event/half-price-tacos-and-hous
- e-margs-at-yellow-door-taqueria!/111221/
-LOCATION:Yellow Door Taqueria\, 191 Dorrance Street\, Providence\, RI 0290
- 3
-URL:https://www.visitrhodeisland.com/event/half-price-tacos-and-house-marg
- s-at-yellow-door-taqueria!/111221/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Burritos & Bowls—Lunch Specials at Yellow Door Taqueria!
 DTSTART;VALUE=DATE:20260826
 DTEND;VALUE=DATE:20260827
-DTSTAMP:20261020T152139Z
+DTSTAMP:20261021T153430Z
 UID:cd9e59bf1148392bbbdd7c30628e@visitri-calendar
 DESCRIPTION:Our new Burrito &amp\; Bowl lunch specials have arrived at Yel
  low Door Taqueria in downtown Providence! Perfect for dining in or taking 
@@ -157,7 +135,7 @@ BEGIN:VEVENT
 SUMMARY:"Nocturnes" Exhibit at Spring Bull Gallery
 DTSTART;VALUE=DATE:20260913
 DTEND;VALUE=DATE:20260914
-DTSTAMP:20261020T152139Z
+DTSTAMP:20261021T153430Z
 UID:b3a6362c63e2fad1624808d0342f@visitri-calendar
 DESCRIPTION:"Nocturnes" An Art Exhibit at Spring Bull Gallery When: Septem
  ber 19 - October 25\, 2026 from 12:00 to 5:00 PM Opening Reception: Sunday
@@ -176,43 +154,10 @@ URL:https://www.visitrhodeisland.com/event/nocturnes-exhibit-at-spring-bul
  l-gallery/111782/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Adult Beginner Ballet
-DTSTART;VALUE=DATE:20260922
-DTEND;VALUE=DATE:20260923
-DTSTAMP:20261020T152139Z
-UID:7e591f9df77dfbc5621af793da77@visitri-calendar
-DESCRIPTION:Adult Beginner Ballet When: Tuesdays\, September 22\, 2026 - J
- une 1\, 2027 Where: The Academy at Newport Contemporary Ballet\, 3 Charles
-  Street\, Newport Our adult division welcomes adult dancers of all ages an
- d abilities. Adult classes are designed to provide a relaxed\, supportive
- \, and fun atmosphere while learning new skills and and providing a great 
- physical workout. Adult classes are filled with adults who have either dan
- ced when they were young or have always wanted to dance but never had the 
- opportunity. No dress code is required. Classes are designed to welcome ad
- ult dancers of all ages and abilities. These classes offer a fun way for d
- ancers to exercise\, meet new friends\, and enjoy movement! ($18-20/class
- \, 1 hr 15 min) (Instagram: @theacademyatncb) Adult Classes: Adults of any
-  age and level are welcome to experience the joy of dance with the Academy
- ! We understand it can be nerve wracking walking into a dance studio full 
- of mirrors but not to worry\, the Academy offers a nurturing environment w
- here adult students will feel supported\, challenged\, and fulfilled. Our 
- teachers are caring\, patient and will give corrections. Adult students ne
- w to dance will enjoy our Adult Absolute Beginner class. Adults who have d
- ance experience are welcome to join Monday level 4 classes as well as any 
- Adult classes on pointe. Classes may be paid with dance cards (10 classes 
- paid in advance) or as single drop in class to accommodate your busy sched
- ule. Adults can wear comfortable clothing of their choice. We do suggest w
- earing socks or ballet slippers and pulling back long hair.\n\nSource: htt
- ps://www.visitrhodeisland.com/event/adult-beginner-ballet/112082/
-LOCATION:The Academy at Newport Contemporary Ballet\, 3 Charles Street\, N
- ewport\, RI 02840 Time: 7:00 PM to 8:15 PM
-URL:https://www.visitrhodeisland.com/event/adult-beginner-ballet/112082/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Jack-O-Lantern Spectacular
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
-DTSTAMP:20261020T152139Z
+DTSTAMP:20261021T153430Z
 UID:a11cb847b167f6db3762e7d7aba4@visitri-calendar
 DESCRIPTION:Jack-O-Lantern Spectacular: The Great Pun-Kin Trail\, presente
  d by Citizens\, returns October 1 &#8211\; November 1 with an all-new trai
@@ -234,30 +179,98 @@ URL:https://www.visitrhodeisland.com/event/jack-o-lantern-spectacular/9207
  1/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:2026 Festival of Meals
-DTSTART;VALUE=DATE:20261020
-DTEND;VALUE=DATE:20261021
-DTSTAMP:20261020T152139Z
-UID:28f04cccff5bc6746629da4703be@visitri-calendar
-DESCRIPTION:Hosted by Meals on Wheels of Rhode Island\, the Festival of Me
- als reflects the organization's continued evolution from a home-delivered 
- meal program into a statewide healthcare partner advancing a Food Is Medic
- ine approach to care. Guests will enjoy: - A plated lunch and dessert - Me
- aningful networking opportunities with community leaders\, partners\, and 
- supporters - An engaging speaking program highlighting the impact of nutri
- tion on health\, independence\, and quality of life - Opportunities to hel
- p ensure every Rhode Islander has a place at the table\n\nSource: https://
- www.visitrhodeisland.com/event/2026-festival-of-meals/110914/
-LOCATION:Crowne Plaza Providence Warwick\, 801 Greenwich Avenue\, Warwick
- \, 02886 Time: 11:30 AM to 1:30 PM
-URL:https://www.visitrhodeisland.com/event/2026-festival-of-meals/110914/
+SUMMARY:Fall Watercolor Series with Artist Mary Ellen Dwyer
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+DTSTAMP:20261021T153430Z
+UID:eb2bd5dc2ee4f356e5affbed90bc@visitri-calendar
+DESCRIPTION:Fall Watercolor Series with Artist Mary Ellen Dwyer Wednesdays
+  | October 14 &#8211\; November 18 10:00 AM &#8211\; 12:00 PM Location: Ed
+ ucation Room in Visitor’s Center Discover the joy of watercolor painting
+  in this beginner/intermediate six-class series. Through demonstrations\, 
+ learn the basics of watercolor tools\, color\, composition\, and paint app
+ lications as you learn new techniques and work on developing your inner ta
+ lent. Individualized instruction will guide each student in creating beaut
+ iful watercolor paintings. Materials not included. See list of suggested m
+ aterials below. Mary Ellen is a Signature artist of the RI Watercolor Soci
+ ety and has been teaching for many years. Maximum of 10 students. Material
+ s not included. These classes are for adults. Pre-registration is required
+ . $210 Members | $250 Non-Members Register Here Suggested Supply List for 
+ Watercolor Class If you have painted before\, please bring what you have. 
+ Those supplies in boldface are essential for starting out: #2 Pencil or so
+ fter (B) Sketchbook (any size) Kneaded eraser Brushes: sable or synthetic 
+ or a combination of both: 1” flat\, ½” flat and #2 and #6 round Paint
+ : Alizarin crimson\, cadmium yellow\, cobalt blue\, cadmium red\, French u
+ ltramarine blue\, sap green\, viridian\, cerulean blue\, burnt sienna\, Pa
+ yne’s gray\, raw umber\, raw sienna\, Naples yellow (or yellow ochre)\, 
+ permanent rose\, new gamboge or lemon yellow. Palette: Mijello Fusion Pale
+ tte or palette with large center for mixing (John Pike suggested)\, but an
+ y will do such as inexpensive plastic palettes from craft or art stores. 1
+ 40lb cold press paper (good paper is essential!) Suggest “Arches” pape
+ r: single sheets to be cut to size or any size watercolor block of paper (
+ suggested). The Canson 9×12”\, 140 lb. watercolor pad is also acceptabl
+ e for beginners. Support: which can be any lightweight board on which to t
+ ape or clip paper (Masonite\, MDF board\, Styrofoam\, etc) and masking tap
+ e or bull clips. A support is necessary only if you buy sheets of watercol
+ or paper but not necessary if you buy a watercolor block.) Blocks come in 
+ various sizes and are very convenient. Any size to start. Paper towels Pla
+ stic container for water (such as recycled from take-out\, cottage cheese
+ \, etc.) Other non-essential supplies: Natural sponge\, spray bottle for w
+ ater\, masking fluid\, ruler\, white gouache. The use of these will be dem
+ onstrated. If you have questions please do not hesitate to contact me at d
+ wyermaryellen@gmail.com Good sources: Jerry’s Artarama or Blick/Urecht i
+ n Providence or online\; Cheap Joe’s Art Stuff (online) or your local ar
+ t supply shop. (Riverside Art in Somerset. Some of the supplies may be ava
+ ilable at AC Moore\, Michael’s or Hobby Lobby.)\n\nSource: https://www.v
+ isitrhodeisland.com/event/fall-watercolor-series-with-artist-mary-ellen-dw
+ yer/111927/
+LOCATION:Education Room in Visitor’s Center Discover the joy of watercol
+ or painting in this beginner/intermediate six-class series. Through demons
+ trations\, learn the basics of watercolor tools\, color\, composition\, an
+ d paint applications as you learn new techniques and work on developing yo
+ ur inner talent. Individualized instruction will guide each student in cre
+ ating beautiful watercolor paintings. Materials not included. See list of 
+ suggested materials below. Mary Ellen is a Signature artist of the RI Wate
+ rcolor Society and has been teaching for many years. Maximum of 10 student
+ s. Materials not included. These classes are for adults. Pre-registration 
+ is required. $210 Members | $250 Non-Members Register Here Suggested Suppl
+ y List for Watercolor Class If you have painted before\, please bring what
+  you have. Those supplies in boldface are essential for starting out: #2 P
+ encil or softer (B) Sketchbook (any size) Kneaded eraser Brushes: sable or
+  synthetic or a combination of both: 1” flat\, ½” flat and #2 and #6 
+ round Paint: Alizarin crimson\, cadmium yellow\, cobalt blue \, cadmium re
+ d\, French ultramarine blue\, sap green\, viridian\, cerulean blue\, burnt
+  sienna\, Payne’s gray\, raw umber\, raw sienna\, Naples yellow (or yell
+ ow ochre)\, permanent rose\, new gamboge or lemon yellow. Palette: Mijello
+  Fusion Palette or palette with large center for mixing (John Pike suggest
+ ed)\, but any will do such as inexpensive plastic palettes from craft or a
+ rt stores. 140lb cold press paper (good paper is essential!) Suggest “Ar
+ ches” paper: single sheets to be cut to size or any size watercolor bloc
+ k of paper (suggested). The Canson 9×12”\, 140 lb. watercolor pad is al
+ so acceptable for beginners. Support: which can be any lightweight board o
+ n which to tape or clip paper (Masonite\, MDF board\, Styrofoam\, etc) and
+  masking tape or bull clips. A support is necessary only if you buy sheets
+  of watercolor paper but not necessary if you buy a watercolor block.) Blo
+ cks come in various sizes and are very convenient. Any size to start. Pape
+ r towels Plastic container for water (such as recycled from take-out\, cot
+ tage cheese\, etc.) Other non-essential supplies: Natural sponge\, spray b
+ ottle for water\, masking fluid\, ruler\, white gouache. The use of these 
+ will be demonstrated. If you have questions please do not hesitate to cont
+ act me at dwyermaryellen@gmail.com Good sources: Jerry’s Artarama or Bli
+ ck/Urecht in Providence or online\; Cheap Joe’s Art Stuff (online) or yo
+ ur local art supply shop. (Riverside Art in Somerset. Some of the supplies
+  may be available at AC Moore\, Michael’s or Hobby Lobby.) Show More Vie
+ w Website | Email 1 / 1 Additional Information\, 101 Ferry Road\, Bristol
+ \, RI 02809
+URL:https://www.visitrhodeisland.com/event/fall-watercolor-series-with-art
+ ist-mary-ellen-dwyer/111927/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:A New England Thanksgiving
-DTSTART;VALUE=DATE:20261020
-DTEND;VALUE=DATE:20261021
-DTSTAMP:20261020T152139Z
-UID:31f0ce757b1407b6fae005358ca2@visitri-calendar
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+DTSTAMP:20261021T153430Z
+UID:adbb486d4bd77f3ce4c5d4269126@visitri-calendar
 DESCRIPTION:Join the Coggeshall staff as we prepare a Thanksgiving meal ov
  er the hearth in our historic farmhouse. The late 18th century was before 
  the official start of Thanksgiving as a national holiday\, but the day was
@@ -278,10 +291,10 @@ URL:https://www.visitrhodeisland.com/event/a-new-england-thanksgiving/1121
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Annual Harvest Festival at Newport Vineyards
-DTSTART;VALUE=DATE:20261020
-DTEND;VALUE=DATE:20261021
-DTSTAMP:20261020T152139Z
-UID:05164da3ff8850288f03d5276620@visitri-calendar
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+DTSTAMP:20261021T153430Z
+UID:3f5b712c8914e2343c8173a2ff6e@visitri-calendar
 DESCRIPTION:Celebrate the 9 th Annual Harvest Festival with Newport Vineya
  rds! When: Sunday\, October 25th More details to be announced! General Adm
  ission and Non-Tasting Admission Tickets will be available\n\nSource: http
@@ -294,10 +307,10 @@ URL:https://www.visitrhodeisland.com/event/annual-harvest-festival-at-newp
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tour de Vino Wine Dinner
-DTSTART;VALUE=DATE:20261020
-DTEND;VALUE=DATE:20261021
-DTSTAMP:20261020T152139Z
-UID:356126923af556412d38f88d690f@visitri-calendar
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+DTSTAMP:20261021T153430Z
+UID:358e7f98a03b538a02a0ac1aabad@visitri-calendar
 DESCRIPTION:Tour de Vino will be at The Brook Kitchen + Bar on October 22.
   Join us for an intimate four-course wine dinner featuring carefully selec
  ted pairings from Hope Family Wines. This event is part of a traveling win
@@ -309,10 +322,39 @@ URL:https://www.visitrhodeisland.com/event/tour-de-vino-wine-dinner/111939
  /
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Early Bird Museum Highlight Tour at Newport Car Museum
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261023
+DTSTAMP:20261021T153430Z
+UID:4af47c05246e279db2c0210f5b51@visitri-calendar
+DESCRIPTION:Early Bird Highlight Tour For 90 minutes (8:30 &#8211\; 10:00 
+ AM) prior to Museum opening. Call to book: +1 (401) 848-2277 Price $75.00 
+ per person (minimum 2\, maximum 6 ppl) Offered Wednesday\, Thursday\, and 
+ Saturday only April 1 - December 31\, 2026. General admission is included 
+ with price. 72-hour advance notice is suggested. Only one group will be ho
+ sted on any given morning. This is your chance to have the Newport Car Mus
+ eum all to yourself with a private guide to share with you the not-to-miss
+  highlights in seven expansive galleries. With over 100 iconic\, rare and 
+ exotic cars on display at one time\, this private collection is bursting w
+ ith history\, provenance and color\, not to mention the breathtaking sculp
+ tural beauty of automotive designs starting with the 1950s and finishing w
+ ith new models from the 21 st Century. After 90 minutes with your private
+ \, continue to explore at your own pace so that you can further examine yo
+ ur favorites from the Ford/Shelby\, Corvette\, World Car\, Porsche\, Fin C
+ ar\, American Muscle and Mopar exhibits while enjoying immersive videos\, 
+ artwork and the Museum’s eclectic collection of Mid-Century Modern Furni
+ ture.\n\nSource: https://www.visitrhodeisland.com/event/early-bird-museum-
+ highlight-tour-at-newport-car-museum/109638/
+LOCATION:Newport Car Museum\, Enter at Light 1947 West Main Road\, Portsmo
+ uth\, RI 02871
+URL:https://www.visitrhodeisland.com/event/early-bird-museum-highlight-tou
+ r-at-newport-car-museum/109638/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Tour de Vino Wine Dinner
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261023
-DTSTAMP:20261020T152139Z
+DTSTAMP:20261021T153430Z
 UID:cb727bd087bb1926972b6366d20d@visitri-calendar
 DESCRIPTION:Tour de Vino will be at The Brook Kitchen + Bar on October 22.
   Join us for an intimate four-course wine dinner featuring carefully selec
@@ -325,10 +367,39 @@ URL:https://www.visitrhodeisland.com/event/tour-de-vino-wine-dinner/111939
  /
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Early Bird Museum Highlight Tour at Newport Car Museum
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+DTSTAMP:20261021T153430Z
+UID:24c3197782306ddad79e40c802e7@visitri-calendar
+DESCRIPTION:Early Bird Highlight Tour For 90 minutes (8:30 &#8211\; 10:00 
+ AM) prior to Museum opening. Call to book: +1 (401) 848-2277 Price $75.00 
+ per person (minimum 2\, maximum 6 ppl) Offered Wednesday\, Thursday\, and 
+ Saturday only April 1 - December 31\, 2026. General admission is included 
+ with price. 72-hour advance notice is suggested. Only one group will be ho
+ sted on any given morning. This is your chance to have the Newport Car Mus
+ eum all to yourself with a private guide to share with you the not-to-miss
+  highlights in seven expansive galleries. With over 100 iconic\, rare and 
+ exotic cars on display at one time\, this private collection is bursting w
+ ith history\, provenance and color\, not to mention the breathtaking sculp
+ tural beauty of automotive designs starting with the 1950s and finishing w
+ ith new models from the 21 st Century. After 90 minutes with your private
+ \, continue to explore at your own pace so that you can further examine yo
+ ur favorites from the Ford/Shelby\, Corvette\, World Car\, Porsche\, Fin C
+ ar\, American Muscle and Mopar exhibits while enjoying immersive videos\, 
+ artwork and the Museum’s eclectic collection of Mid-Century Modern Furni
+ ture.\n\nSource: https://www.visitrhodeisland.com/event/early-bird-museum-
+ highlight-tour-at-newport-car-museum/109638/
+LOCATION:Newport Car Museum\, Enter at Light 1947 West Main Road\, Portsmo
+ uth\, RI 02871
+URL:https://www.visitrhodeisland.com/event/early-bird-museum-highlight-tou
+ r-at-newport-car-museum/109638/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:"Nocturnes" Exhibit at Spring Bull Gallery
 DTSTART;VALUE=DATE:20261025
 DTEND;VALUE=DATE:20261026
-DTSTAMP:20261020T152139Z
+DTSTAMP:20261021T153430Z
 UID:945340681c00f5d79c305667c5c8@visitri-calendar
 DESCRIPTION:"Nocturnes" An Art Exhibit at Spring Bull Gallery When: Septem
  ber 19 - October 25\, 2026 from 12:00 to 5:00 PM Opening Reception: Sunday
@@ -350,7 +421,7 @@ BEGIN:VEVENT
 SUMMARY:Annual Harvest Festival at Newport Vineyards
 DTSTART;VALUE=DATE:20261025
 DTEND;VALUE=DATE:20261026
-DTSTAMP:20261020T152139Z
+DTSTAMP:20261021T153430Z
 UID:3f036be2c60a1a4587e7b53ef705@visitri-calendar
 DESCRIPTION:Celebrate the 9 th Annual Harvest Festival with Newport Vineya
  rds! When: Sunday\, October 25th More details to be announced! General Adm
@@ -366,7 +437,7 @@ BEGIN:VEVENT
 SUMMARY:Coastal Cruisers - The Golden Hour
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
-DTSTAMP:20261020T152139Z
+DTSTAMP:20261021T153430Z
 UID:a33f7731698b5451e05ba44e42fd@visitri-calendar
 DESCRIPTION:Experience the Island in our Coastal Cruisers\, Newport’s pr
  ivate chauffeured luxury tour\, dedicated to providing a sophisticated way
@@ -393,28 +464,10 @@ URL:https://www.visitrhodeisland.com/event/coastal-cruisers-the-golden-hou
  r/109827/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Half Price Tacos and House Margs at Yellow Door Taqueria!
-DTSTART;VALUE=DATE:20261031
-DTEND;VALUE=DATE:20261101
-DTSTAMP:20261020T152139Z
-UID:9e3061f0648341ee71e7158e4b15@visitri-calendar
-DESCRIPTION:Join us EVERY DAY at Yellow Door Taqueria from 3-6 PM at the b
- ar for half price select tacos and house margaritas! It's the perfect way 
- to wrap up your work day or grab a drink with friends! Choose from any of 
- our scratch-made house margarita flavors and six of our favorite tacos! *D
- ine in only\, select items only from 3-6 PM every day. Bar seating only*\n
- \nSource: https://www.visitrhodeisland.com/event/half-price-tacos-and-hous
- e-margs-at-yellow-door-taqueria!/111221/
-LOCATION:Yellow Door Taqueria\, 191 Dorrance Street\, Providence\, RI 0290
- 3
-URL:https://www.visitrhodeisland.com/event/half-price-tacos-and-house-marg
- s-at-yellow-door-taqueria!/111221/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Jack-O-Lantern Spectacular
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
-DTSTAMP:20261020T152139Z
+DTSTAMP:20261021T153430Z
 UID:ddc52d2e1f830141a3c1c36cbc2b@visitri-calendar
 DESCRIPTION:Jack-O-Lantern Spectacular: The Great Pun-Kin Trail\, presente
  d by Citizens\, returns October 1 &#8211\; November 1 with an all-new trai
@@ -436,10 +489,97 @@ URL:https://www.visitrhodeisland.com/event/jack-o-lantern-spectacular/9207
  1/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Fall Watercolor Series with Artist Mary Ellen Dwyer
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+DTSTAMP:20261021T153430Z
+UID:25a45931f23d5e6972a9ca15cc1d@visitri-calendar
+DESCRIPTION:Fall Watercolor Series with Artist Mary Ellen Dwyer Wednesdays
+  | October 14 &#8211\; November 18 10:00 AM &#8211\; 12:00 PM Location: Ed
+ ucation Room in Visitor’s Center Discover the joy of watercolor painting
+  in this beginner/intermediate six-class series. Through demonstrations\, 
+ learn the basics of watercolor tools\, color\, composition\, and paint app
+ lications as you learn new techniques and work on developing your inner ta
+ lent. Individualized instruction will guide each student in creating beaut
+ iful watercolor paintings. Materials not included. See list of suggested m
+ aterials below. Mary Ellen is a Signature artist of the RI Watercolor Soci
+ ety and has been teaching for many years. Maximum of 10 students. Material
+ s not included. These classes are for adults. Pre-registration is required
+ . $210 Members | $250 Non-Members Register Here Suggested Supply List for 
+ Watercolor Class If you have painted before\, please bring what you have. 
+ Those supplies in boldface are essential for starting out: #2 Pencil or so
+ fter (B) Sketchbook (any size) Kneaded eraser Brushes: sable or synthetic 
+ or a combination of both: 1” flat\, ½” flat and #2 and #6 round Paint
+ : Alizarin crimson\, cadmium yellow\, cobalt blue\, cadmium red\, French u
+ ltramarine blue\, sap green\, viridian\, cerulean blue\, burnt sienna\, Pa
+ yne’s gray\, raw umber\, raw sienna\, Naples yellow (or yellow ochre)\, 
+ permanent rose\, new gamboge or lemon yellow. Palette: Mijello Fusion Pale
+ tte or palette with large center for mixing (John Pike suggested)\, but an
+ y will do such as inexpensive plastic palettes from craft or art stores. 1
+ 40lb cold press paper (good paper is essential!) Suggest “Arches” pape
+ r: single sheets to be cut to size or any size watercolor block of paper (
+ suggested). The Canson 9×12”\, 140 lb. watercolor pad is also acceptabl
+ e for beginners. Support: which can be any lightweight board on which to t
+ ape or clip paper (Masonite\, MDF board\, Styrofoam\, etc) and masking tap
+ e or bull clips. A support is necessary only if you buy sheets of watercol
+ or paper but not necessary if you buy a watercolor block.) Blocks come in 
+ various sizes and are very convenient. Any size to start. Paper towels Pla
+ stic container for water (such as recycled from take-out\, cottage cheese
+ \, etc.) Other non-essential supplies: Natural sponge\, spray bottle for w
+ ater\, masking fluid\, ruler\, white gouache. The use of these will be dem
+ onstrated. If you have questions please do not hesitate to contact me at d
+ wyermaryellen@gmail.com Good sources: Jerry’s Artarama or Blick/Urecht i
+ n Providence or online\; Cheap Joe’s Art Stuff (online) or your local ar
+ t supply shop. (Riverside Art in Somerset. Some of the supplies may be ava
+ ilable at AC Moore\, Michael’s or Hobby Lobby.)\n\nSource: https://www.v
+ isitrhodeisland.com/event/fall-watercolor-series-with-artist-mary-ellen-dw
+ yer/111927/
+LOCATION:Education Room in Visitor’s Center Discover the joy of watercol
+ or painting in this beginner/intermediate six-class series. Through demons
+ trations\, learn the basics of watercolor tools\, color\, composition\, an
+ d paint applications as you learn new techniques and work on developing yo
+ ur inner talent. Individualized instruction will guide each student in cre
+ ating beautiful watercolor paintings. Materials not included. See list of 
+ suggested materials below. Mary Ellen is a Signature artist of the RI Wate
+ rcolor Society and has been teaching for many years. Maximum of 10 student
+ s. Materials not included. These classes are for adults. Pre-registration 
+ is required. $210 Members | $250 Non-Members Register Here Suggested Suppl
+ y List for Watercolor Class If you have painted before\, please bring what
+  you have. Those supplies in boldface are essential for starting out: #2 P
+ encil or softer (B) Sketchbook (any size) Kneaded eraser Brushes: sable or
+  synthetic or a combination of both: 1” flat\, ½” flat and #2 and #6 
+ round Paint: Alizarin crimson\, cadmium yellow\, cobalt blue \, cadmium re
+ d\, French ultramarine blue\, sap green\, viridian\, cerulean blue\, burnt
+  sienna\, Payne’s gray\, raw umber\, raw sienna\, Naples yellow (or yell
+ ow ochre)\, permanent rose\, new gamboge or lemon yellow. Palette: Mijello
+  Fusion Palette or palette with large center for mixing (John Pike suggest
+ ed)\, but any will do such as inexpensive plastic palettes from craft or a
+ rt stores. 140lb cold press paper (good paper is essential!) Suggest “Ar
+ ches” paper: single sheets to be cut to size or any size watercolor bloc
+ k of paper (suggested). The Canson 9×12”\, 140 lb. watercolor pad is al
+ so acceptable for beginners. Support: which can be any lightweight board o
+ n which to tape or clip paper (Masonite\, MDF board\, Styrofoam\, etc) and
+  masking tape or bull clips. A support is necessary only if you buy sheets
+  of watercolor paper but not necessary if you buy a watercolor block.) Blo
+ cks come in various sizes and are very convenient. Any size to start. Pape
+ r towels Plastic container for water (such as recycled from take-out\, cot
+ tage cheese\, etc.) Other non-essential supplies: Natural sponge\, spray b
+ ottle for water\, masking fluid\, ruler\, white gouache. The use of these 
+ will be demonstrated. If you have questions please do not hesitate to cont
+ act me at dwyermaryellen@gmail.com Good sources: Jerry’s Artarama or Bli
+ ck/Urecht in Providence or online\; Cheap Joe’s Art Stuff (online) or yo
+ ur local art supply shop. (Riverside Art in Somerset. Some of the supplies
+  may be available at AC Moore\, Michael’s or Hobby Lobby.) Show More Vie
+ w Website | Email 1 / 1 Additional Information\, 101 Ferry Road\, Bristol
+ \, RI 02809
+URL:https://www.visitrhodeisland.com/event/fall-watercolor-series-with-art
+ ist-mary-ellen-dwyer/111927/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:A New England Thanksgiving
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
-DTSTAMP:20261020T152139Z
+DTSTAMP:20261021T153430Z
 UID:21d35714802ba10832a84ed3bbac@visitri-calendar
 DESCRIPTION:Join the Coggeshall staff as we prepare a Thanksgiving meal ov
  er the hearth in our historic farmhouse. The late 18th century was before 
@@ -463,7 +603,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
-DTSTAMP:20261020T152139Z
+DTSTAMP:20261021T153430Z
 UID:d5932912a26459263f74067ed3d2@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -491,7 +631,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
-DTSTAMP:20261020T152139Z
+DTSTAMP:20261021T153430Z
 UID:f83dbecb85872dc3b9715683d412@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -519,7 +659,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
-DTSTAMP:20261020T152139Z
+DTSTAMP:20261021T153430Z
 UID:b086f1bd58d78d3d3eb4b27c4e80@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -547,7 +687,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
-DTSTAMP:20261020T152139Z
+DTSTAMP:20261021T153430Z
 UID:a07e4e611fb4e8a3b793ee3d6baa@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -575,7 +715,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
-DTSTAMP:20261020T152139Z
+DTSTAMP:20261021T153430Z
 UID:0e0d137da86e729e9b7c503df973@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -603,7 +743,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
-DTSTAMP:20261020T152139Z
+DTSTAMP:20261021T153430Z
 UID:ccc9d94ce27546581c6bf2b71fd9@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -631,7 +771,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
-DTSTAMP:20261020T152139Z
+DTSTAMP:20261021T153430Z
 UID:db8b766041237fea9b154b360279@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -659,7 +799,7 @@ BEGIN:VEVENT
 SUMMARY:The Intentional Celebration: Holiday Edition
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
-DTSTAMP:20261020T152139Z
+DTSTAMP:20261021T153430Z
 UID:6f484250684bf2271dde2a31e276@visitri-calendar
 DESCRIPTION:The Intentional Celebration: Holiday Edition is a two-day indo
  or holiday market and immersive Christmas experience taking place December
@@ -689,7 +829,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
-DTSTAMP:20261020T152139Z
+DTSTAMP:20261021T153430Z
 UID:4b643200b30e60635e855ddfbcdb@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -717,7 +857,7 @@ BEGIN:VEVENT
 SUMMARY:The Intentional Celebration: Holiday Edition
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
-DTSTAMP:20261020T152139Z
+DTSTAMP:20261021T153430Z
 UID:f0031a8c4f9ec38b7e0300063594@visitri-calendar
 DESCRIPTION:The Intentional Celebration: Holiday Edition is a two-day indo
  or holiday market and immersive Christmas experience taking place December
@@ -747,7 +887,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261211
-DTSTAMP:20261020T152139Z
+DTSTAMP:20261021T153430Z
 UID:f1266d72481edfcb924f687a42f0@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -775,7 +915,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
-DTSTAMP:20261020T152139Z
+DTSTAMP:20261021T153430Z
 UID:b2668ced84621f351ee2e743ffd9@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -803,7 +943,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
-DTSTAMP:20261020T152139Z
+DTSTAMP:20261021T153430Z
 UID:756ae7e966f3899cb85d7657b4e5@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -831,7 +971,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261213
 DTEND;VALUE=DATE:20261214
-DTSTAMP:20261020T152139Z
+DTSTAMP:20261021T153430Z
 UID:6926863c714413a4b343c291725f@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -859,7 +999,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
-DTSTAMP:20261020T152139Z
+DTSTAMP:20261021T153430Z
 UID:10f1f0a03ceb6ce5b9d0f1112413@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -887,7 +1027,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261220
 DTEND;VALUE=DATE:20261221
-DTSTAMP:20261020T152139Z
+DTSTAMP:20261021T153430Z
 UID:4b4bda68b74fdf0bae1d4834ec2b@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -915,7 +1055,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261221
 DTEND;VALUE=DATE:20261222
-DTSTAMP:20261020T152139Z
+DTSTAMP:20261021T153430Z
 UID:5cc6a0eb17a87a57c77fb4a1ee98@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -943,7 +1083,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261222
 DTEND;VALUE=DATE:20261223
-DTSTAMP:20261020T152139Z
+DTSTAMP:20261021T153430Z
 UID:8b50234eb8215ed0c936d7b3f2fd@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -971,7 +1111,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261223
 DTEND;VALUE=DATE:20261224
-DTSTAMP:20261020T152139Z
+DTSTAMP:20261021T153430Z
 UID:64494d8f54810a3b19a989acc268@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -999,7 +1139,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261226
 DTEND;VALUE=DATE:20261227
-DTSTAMP:20261020T152139Z
+DTSTAMP:20261021T153430Z
 UID:d9203cb0c583483c1e644796bce0@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -1027,7 +1167,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261227
 DTEND;VALUE=DATE:20261228
-DTSTAMP:20261020T152139Z
+DTSTAMP:20261021T153430Z
 UID:ecdbb4492e88d8b279d5f0235b57@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -1055,7 +1195,7 @@ BEGIN:VEVENT
 SUMMARY:Beyond the Brewhouse Tour
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
-DTSTAMP:20261020T152139Z
+DTSTAMP:20261021T153430Z
 UID:c7b48636db9ede5f5acbbb263d31@visitri-calendar
 DESCRIPTION:Beyond the Brewhouse Where: Newport Craft Brewing and Distilli
  ng\, 293 JT Connell Road\, Newport 45 minutes: $20 per person Did you know
@@ -1074,7 +1214,7 @@ BEGIN:VEVENT
 SUMMARY:Burritos & Bowls—Lunch Specials at Yellow Door Taqueria!
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
-DTSTAMP:20261020T152139Z
+DTSTAMP:20261021T153430Z
 UID:a47385cf36c194bcd701d4733276@visitri-calendar
 DESCRIPTION:Our new Burrito &amp\; Bowl lunch specials have arrived at Yel
  low Door Taqueria in downtown Providence! Perfect for dining in or taking 
@@ -1087,5 +1227,34 @@ LOCATION:Yellow Door Taqueria\, 191 Dorrance Street\, Providence\, RI 0290
  3
 URL:https://www.visitrhodeisland.com/event/burritos-%26-bowls%e2%80%94lunc
  h-specials-at-yellow-door-taqueria!/111544/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Early Bird Museum Highlight Tour at Newport Car Museum
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+DTSTAMP:20261021T153430Z
+UID:2f06cece69080ebb1042b1f38a6b@visitri-calendar
+DESCRIPTION:Early Bird Highlight Tour For 90 minutes (8:30 &#8211\; 10:00 
+ AM) prior to Museum opening. Call to book: +1 (401) 848-2277 Price $75.00 
+ per person (minimum 2\, maximum 6 ppl) Offered Wednesday\, Thursday\, and 
+ Saturday only April 1 - December 31\, 2026. General admission is included 
+ with price. 72-hour advance notice is suggested. Only one group will be ho
+ sted on any given morning. This is your chance to have the Newport Car Mus
+ eum all to yourself with a private guide to share with you the not-to-miss
+  highlights in seven expansive galleries. With over 100 iconic\, rare and 
+ exotic cars on display at one time\, this private collection is bursting w
+ ith history\, provenance and color\, not to mention the breathtaking sculp
+ tural beauty of automotive designs starting with the 1950s and finishing w
+ ith new models from the 21 st Century. After 90 minutes with your private
+ \, continue to explore at your own pace so that you can further examine yo
+ ur favorites from the Ford/Shelby\, Corvette\, World Car\, Porsche\, Fin C
+ ar\, American Muscle and Mopar exhibits while enjoying immersive videos\, 
+ artwork and the Museum’s eclectic collection of Mid-Century Modern Furni
+ ture.\n\nSource: https://www.visitrhodeisland.com/event/early-bird-museum-
+ highlight-tour-at-newport-car-museum/109638/
+LOCATION:Newport Car Museum\, Enter at Light 1947 West Main Road\, Portsmo
+ uth\, RI 02871
+URL:https://www.visitrhodeisland.com/event/early-bird-museum-highlight-tou
+ r-at-newport-car-museum/109638/
 END:VEVENT
 END:VCALENDAR
