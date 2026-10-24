@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:$15 Moonshine Flights & Moonshine Tasting
 DTSTART;VALUE=DATE:20250615
 DTEND;VALUE=DATE:20250616
-DTSTAMP:20261023T153620Z
+DTSTAMP:20261024T140708Z
 UID:b6432d870f2c0958f26453a40d59@visitri-calendar
 DESCRIPTION:Try a Moonshine Flight tasting at Moonshine Alley! Moonshine F
  lights are available daily for just $15! We have over 13 flavors to choose
@@ -23,7 +23,7 @@ BEGIN:VEVENT
 SUMMARY:Coastal Cruisers - The Golden Hour
 DTSTART;VALUE=DATE:20260501
 DTEND;VALUE=DATE:20260502
-DTSTAMP:20261023T153620Z
+DTSTAMP:20261024T140708Z
 UID:9f3864060ce7679e35293700f37c@visitri-calendar
 DESCRIPTION:Experience the Island in our Coastal Cruisers\, Newport’s pr
  ivate chauffeured luxury tour\, dedicated to providing a sophisticated way
@@ -53,7 +53,7 @@ BEGIN:VEVENT
 SUMMARY:Dueling Pianos at the Top of Pelham
 DTSTART;VALUE=DATE:20260501
 DTEND;VALUE=DATE:20260502
-DTSTAMP:20261023T153620Z
+DTSTAMP:20261024T140708Z
 UID:60db075f3503c7ed2d6aa2d4f46a@visitri-calendar
 DESCRIPTION:Dueling Pianos at the Top of Pelham Please check your dates an
  d times — show start times vary. For more dates and showtimes\, check ou
@@ -81,7 +81,7 @@ BEGIN:VEVENT
 SUMMARY:Beyond the Brewhouse Tour
 DTSTART;VALUE=DATE:20260515
 DTEND;VALUE=DATE:20260516
-DTSTAMP:20261023T153620Z
+DTSTAMP:20261024T140708Z
 UID:acc9d8e1d1bdab34c6766b602473@visitri-calendar
 DESCRIPTION:Beyond the Brewhouse Where: Newport Craft Brewing and Distilli
  ng\, 293 JT Connell Road\, Newport 45 minutes: $20 per person Did you know
@@ -97,32 +97,10 @@ URL:https://www.visitrhodeisland.com/event/beyond-the-brewhouse-tour/11015
  3/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Friday Crafternoons in Warren
-DTSTART;VALUE=DATE:20260702
-DTEND;VALUE=DATE:20260703
-DTSTAMP:20261023T153620Z
-UID:6056297e9c3d60141656e066fb46@visitri-calendar
-DESCRIPTION:Friday Crafternoons Unwind from the week at Friday Crafternoon
- \, a free weekly social circle for fiber arts enthusiasts. Grab your proje
- ct bags and join fellow makers for a relaxing afternoon of knitting\, croc
- het\, embroidery\, cross-stitch\, or any portable needlework. Whether you 
- are starting a fresh project or fixing a dropped stitch\, our complimentar
- y on-site Stitch Support is here to troubleshoot tricky patterns and guide
-  beginners. Drop in at any time to connect with local makers who share a p
- assion for handmade things. 📅 When: Every Friday | 3:00 PM &#8211\; 6:0
- 0 PM 📍 Where: The Craftery Studio | 450 Main St\, Unit A\, Warren\, RI 
- 02885 💰 Cost: Completely free to attend\n\nSource: https://www.visitrho
- deisland.com/event/friday-crafternoons-in-warren/111788/
-LOCATION:The Craftery Studio\, 450 Main Street\, Unit A\, Warren\, RI 0288
- 5
-URL:https://www.visitrhodeisland.com/event/friday-crafternoons-in-warren/1
- 11788/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:$15 Moonshine Flights & Moonshine Tasting
 DTSTART;VALUE=DATE:20260721
 DTEND;VALUE=DATE:20260722
-DTSTAMP:20261023T153620Z
+DTSTAMP:20261024T140708Z
 UID:6ac059c408c431eceb1c3c855c19@visitri-calendar
 DESCRIPTION:Try a Moonshine Flight tasting at Moonshine Alley! Moonshine F
  lights are available daily for just $15! We have over 13 flavors to choose
@@ -135,50 +113,10 @@ URL:https://www.visitrhodeisland.com/event/%2415-moonshine-flights-%26-moo
  nshine-tasting/105663/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Burritos & Bowls—Lunch Specials at Yellow Door Taqueria!
-DTSTART;VALUE=DATE:20260826
-DTEND;VALUE=DATE:20260827
-DTSTAMP:20261023T153620Z
-UID:cd9e59bf1148392bbbdd7c30628e@visitri-calendar
-DESCRIPTION:Our new Burrito &amp\; Bowl lunch specials have arrived at Yel
- low Door Taqueria in downtown Providence! Perfect for dining in or taking 
- back to the office\, turn your favorite taco into a delicious bowl or try 
- a specialty burrito! Check out the full menu on our website! Available Mon
- day-Friday\, 11:30 AM-5 PM!\n\nSource: https://www.visitrhodeisland.com/ev
- ent/burritos-%26-bowls%e2%80%94lunch-specials-at-yellow-door-taqueria!/111
- 544/
-LOCATION:Yellow Door Taqueria\, 191 Dorrance Street\, Providence\, RI 0290
- 3
-URL:https://www.visitrhodeisland.com/event/burritos-%26-bowls%e2%80%94lunc
- h-specials-at-yellow-door-taqueria!/111544/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Friday Crafternoons in Warren
-DTSTART;VALUE=DATE:20260904
-DTEND;VALUE=DATE:20260905
-DTSTAMP:20261023T153620Z
-UID:a9d3eb2ff235bd34c35a9a418c00@visitri-calendar
-DESCRIPTION:Friday Crafternoons Unwind from the week at Friday Crafternoon
- \, a free weekly social circle for fiber arts enthusiasts. Grab your proje
- ct bags and join fellow makers for a relaxing afternoon of knitting\, croc
- het\, embroidery\, cross-stitch\, or any portable needlework. Whether you 
- are starting a fresh project or fixing a dropped stitch\, our complimentar
- y on-site Stitch Support is here to troubleshoot tricky patterns and guide
-  beginners. Drop in at any time to connect with local makers who share a p
- assion for handmade things. 📅 When: Every Friday | 3:00 PM &#8211\; 6:0
- 0 PM 📍 Where: The Craftery Studio | 450 Main St\, Unit A\, Warren\, RI 
- 02885 💰 Cost: Completely free to attend\n\nSource: https://www.visitrho
- deisland.com/event/friday-crafternoons-in-warren/111788/
-LOCATION:The Craftery Studio\, 450 Main Street\, Unit A\, Warren\, RI 0288
- 5
-URL:https://www.visitrhodeisland.com/event/friday-crafternoons-in-warren/1
- 11788/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:"Nocturnes" Exhibit at Spring Bull Gallery
 DTSTART;VALUE=DATE:20260913
 DTEND;VALUE=DATE:20260914
-DTSTAMP:20261023T153620Z
+DTSTAMP:20261024T140708Z
 UID:b3a6362c63e2fad1624808d0342f@visitri-calendar
 DESCRIPTION:"Nocturnes" An Art Exhibit at Spring Bull Gallery When: Septem
  ber 19 - October 25\, 2026 from 12:00 to 5:00 PM Opening Reception: Sunday
@@ -200,7 +138,7 @@ BEGIN:VEVENT
 SUMMARY:Jack-O-Lantern Spectacular
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
-DTSTAMP:20261023T153620Z
+DTSTAMP:20261024T140708Z
 UID:a11cb847b167f6db3762e7d7aba4@visitri-calendar
 DESCRIPTION:Jack-O-Lantern Spectacular: The Great Pun-Kin Trail\, presente
  d by Citizens\, returns October 1 &#8211\; November 1 with an all-new trai
@@ -223,10 +161,10 @@ URL:https://www.visitrhodeisland.com/event/jack-o-lantern-spectacular/9207
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:A New England Thanksgiving
-DTSTART;VALUE=DATE:20261023
-DTEND;VALUE=DATE:20261024
-DTSTAMP:20261023T153620Z
-UID:dc16b2f705589aa57b71721e4f70@visitri-calendar
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+DTSTAMP:20261024T140708Z
+UID:7c98ec905b6cafd40661a6ad2374@visitri-calendar
 DESCRIPTION:Join the Coggeshall staff as we prepare a Thanksgiving meal ov
  er the hearth in our historic farmhouse. The late 18th century was before 
  the official start of Thanksgiving as a national holiday\, but the day was
@@ -247,10 +185,10 @@ URL:https://www.visitrhodeisland.com/event/a-new-england-thanksgiving/1121
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Annual Harvest Festival at Newport Vineyards
-DTSTART;VALUE=DATE:20261023
-DTEND;VALUE=DATE:20261024
-DTSTAMP:20261023T153620Z
-UID:659986248e1bcccfa8ea8e37e8ad@visitri-calendar
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+DTSTAMP:20261024T140708Z
+UID:d6d4f942536704e99ee257be0c20@visitri-calendar
 DESCRIPTION:Celebrate the 9 th Annual Harvest Festival with Newport Vineya
  rds! When: Sunday\, October 25th More details to be announced! General Adm
  ission and Non-Tasting Admission Tickets will be available\n\nSource: http
@@ -262,48 +200,116 @@ URL:https://www.visitrhodeisland.com/event/annual-harvest-festival-at-newp
  ort-vineyards/111769/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Charlie the Butler Ghost Party with Jared the Magician and Mentali
- st at Gov. Sprague Mansion
-DTSTART;VALUE=DATE:20261023
-DTEND;VALUE=DATE:20261024
-DTSTAMP:20261023T153620Z
-UID:5db5fc402b7a28c8ff89881d0de3@visitri-calendar
-DESCRIPTION:Oct. 23 at 7pm. Rhode Island’s Jared the Magician and Mental
- ist will entertain guests at the spoooooky Governor Sprague Mansion on FRI
- DAY\, OCTOBER 23 at 7:00 p.m. The Cranston Historical Society invites you 
- to their annual Charlie the Butler Ghost Party fundraising event. Maybe Ch
- arlie will make an appearance. See for yourself if Jared really can read y
- our mind. To purchase tickets and reserve your place at $20 call (401) 944
- -9226. Seating limited. The Ghost Party at the Governor Sprague Mansion ha
- s been a fundraising event for over 14 years. Jared the Magician and Menta
- list will amuse guests with an ‘. . . array of eye-popping slight-of-han
- d miracles -- join him for mind-bending experiments through reading\, meta
- l bending\, and persuasion &#8211\; Seemingly impossible predictions are r
- evealed”. Jared Dubois from Warwick\, has performed his mystifying illus
- ions across the country. You will wonder how he does his magical phenomeno
- n! Listen . . .Is someone upstairs? Find out after Jared performs and enjo
- y a hauntingly good time roaming some of the mansion rooms. Costumes are o
- ptional &#8211\; please no masks. Have your future read by intriguing read
- er Ms. Mallory -- The Beachlady3 for a separate fee. Enjoy the Mansion’s
-  special Blood Punch! Age appropriate for 14 years. Send your check by Oct
- ober 20 payable to Cranston Historical Society\, 1351 Cranston Street\, Cr
- anston\, RI 02920 (401) 944-9226. (After October 20 call Charlie the Butle
- r to make sure tickets are still available.) Cranston Historical Society i
- s a 501 (c)(3) nonprofit historical and educational organization. To host 
- your next special event\, meeting or tea call (401)944-9226. Celebrating C
- ranston 250.\n\nSource: https://www.visitrhodeisland.com/event/charlie-the
- -butler-ghost-party-with-jared-the-magician-and-mentalist-at-gov-sprague-m
- ansion/112024/
-LOCATION:Governor Sprague Mansion\, 1351 Cranston Street\, Cranston\, 0292
- 0
-URL:https://www.visitrhodeisland.com/event/charlie-the-butler-ghost-party-
- with-jared-the-magician-and-mentalist-at-gov-sprague-mansion/112024/
+SUMMARY:Books\, Bites\, & Bubbles Book Club
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+DTSTAMP:20261024T140708Z
+UID:c8dd8ef2d1cef541f6d9c7f058dc@visitri-calendar
+DESCRIPTION:Books\, Bites &amp\; Bubbles Book Club If you’re looking to 
+ build community\, read books\, and taste wine\, join the NWCG Books\, Bite
+ s &amp\; Bubbles Book Club. Light bites and complimentary wine will be pro
+ vided. Walk-ins are welcome\, reservations are encouraged. Please come wit
+ h your own copy of the book and an open mind. We look forward to diving in
+ to books and wine with you! (Click the links below to learn more and regis
+ ter!) "Care and Feeding" by Laruie Woolever - Sunday\, September 20th from
+  1:00 to 2:00 PM Where: Newport Wine Cellar &amp\; Gourmet\, 5 Merton Road
+ \, Newport We will be reading Care and Feeding by Laurie Woolever at this 
+ meeting. Consider buying your copy from Matriarch at 468 Thames St. to con
+ tinue to support female creators. We hope to see you there! "The Golden Sp
+ oon" by Jessa Maxwell - Saturday\, October 24th from 12:00 to 1:00 PM We w
+ ill be reading The Golden Spoon by Newport local author Jessa Maxwell\, wh
+ o will also be joining us at this book club! Consider buying your copy fro
+ m Matriarch at 468 Thames St. to continue to support female creators. We h
+ ope to see you there! Upcoming: Sunday\, December 6th 2026: Widow Clicquot
+  Sunday\, February 7th 2027: Grape Juice Sunday\, March 14th 2027: The Sch
+ ool of Essential Ingredients\n\nSource: https://www.visitrhodeisland.com/e
+ vent/books-bites-%26-bubbles-book-club/112077/
+LOCATION:Newport Wine Cellar and Gourmet\, 5 Merton Road\, Newport\, RI 02
+ 840 Time: Varies by book club date.
+URL:https://www.visitrhodeisland.com/event/books-bites-%26-bubbles-book-cl
+ ub/112077/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bronze Casting at Herreshoff Marine Museum
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+DTSTAMP:20261024T140708Z
+UID:f5927aa4038f5e4c632b87944dc5@visitri-calendar
+DESCRIPTION:Bronze Casting When: Saturday\, October 24th and Sunday\, Octo
+ ber 25th from 9:00 AM to 5:00 PM Where: Herreshoff Marine Museum\, 1 Burns
+ ide Street\, Bristol Tuition: $350 Learn bronze casting techniques to make
+  your own hardware\, such as oarlocks and cleats. This two-day program tea
+ ches the basics of bronze casting. We’ll begin by making small basswood 
+ cleats to be sand cast. We’ll explore the language of pattern making\, u
+ ndercuts\, sand preparation and venting before pouring britannia metal int
+ o our sand casts to learn the forms and practice. Techniques reviewed will
+  include: pattern-making\, sand-casting\, pouring Britannia metal and bron
+ ze\, patina and finishing. All tools and materials will be provided. Doug 
+ Borkman is excited to bring his popular bronze casting workshop to the Her
+ reshoff Marine Museum. Doug is a sculptor/designer and has taught wood and
+  metal shop practice\, casting and welding for the Rhode Island School of 
+ Design Sculpture programs for 30 years. He has previously taught at Haysta
+ ck Mountain School of Crafts\, the Apprenticeshop\, Nantucket Historical S
+ ociety\, and for the Bridge in Shanghai\, China. He has worked on many des
+ ign and sculpture projects\, including for the Boston Red Sox\, Fidelity i
+ nvestments and many private collections. Doug is also an avid sailor and a
+ ctively tries to keep his art practice connected to history and sailing. M
+ ore about Doug: douglasborkman.com This two-day workshop is held on the He
+ rreshoff Marine Museum campus in the historic HMCo. shop buildings. Tuitio
+ n includes a private 45 minute tour of the Museum and N.G.H. Model Room on
+  day two of the workshop\, with a particular focus on HMCo. hardware and p
+ atterns. This workshop is for Adults 21+ and is limited to 10 participants
+  over two days. Tuition: $350 (including materials + membership) Material 
+ cost is $95 per student and is included in the registration fee. This incl
+ udes the casting sand\, parting talc\, crucibles\, britannia metal\, bronz
+ e\, patina chemicals and consumables. Members receive a $50 discount to re
+ gistration. Upcoming Dates: 9:00 AM to 5:00 PM\, October 24 &amp\; 25\, 20
+ 26 Contact Education Director Kirk Cusic for questions: k.cusic@herreshoff
+ .org\, 401-396-5834.\n\nSource: https://www.visitrhodeisland.com/event/bro
+ nze-casting-at-herreshoff-marine-museum/111834/
+LOCATION:Herreshoff Marine Museum\, 1 Burnside Street\, Bristol\, RI 02809
+URL:https://www.visitrhodeisland.com/event/bronze-casting-at-herreshoff-ma
+ rine-museum/111834/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Curious Creatures Day at Norman Bird
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+DTSTAMP:20261024T140708Z
+UID:d7e94be4e5821de0c8f90bf76b58@visitri-calendar
+DESCRIPTION:Curious Creatures Date: Saturday\, October 24th from 12:00 to 
+ 3:00 PM Location: Norman Bird Sanctuary\, 583 Third Beach Road\, Middletow
+ n\, RI 02842 Cost: Free\, registration required Register Here! Curious cre
+ atures are everywhere—under rocks\, lurking in the water\, hiding in the
+  dark\, and even under a microscope! Join us in the Curiosity Lab for a da
+ y of creepy critters\, mysterious specimens\, Halloween crafts\, sweet tre
+ ats\, and curious discoveries. Meet some of the Sanctuary’s fascinating 
+ creatures\, make your own\, and explore the strange and wonderful world al
+ l around us. Fish feeding and fish facts kick things off at 10:00 AM\, fol
+ lowed by storytime with The Bat at 12:30 PM. Then\, at 2:00 PM\, our curio
+ us creatures take over the dance floor for a costume parade and dance part
+ y!\n\nSource: https://www.visitrhodeisland.com/event/curious-creatures-day
+ -at-norman-bird/112329/
+LOCATION:Norman Bird Sanctuary\, 583 Third Beach Road\, Middletown\, RI 02
+ 842 Cost: Free\, registration required Register Here! Curious creatures ar
+ e everywhere—under rocks\, lurking in the water\, hiding in the dark\, a
+ nd even under a microscope! Join us in the Curiosity Lab for a day of cree
+ py critters\, mysterious specimens\, Halloween crafts\, sweet treats\, and
+  curious discoveries. Meet some of the Sanctuary’s fascinating creatures
+ \, make your own\, and explore the strange and wonderful world all around 
+ us. Fish feeding and fish facts kick things off at 10:00 AM\, followed by 
+ storytime with The Bat at 12:30 PM. Then\, at 2:00 PM\, our curious creatu
+ res take over the dance floor for a costume parade and dance party! Show M
+ ore View Website | Email 1 / 1 Additional Information\, 583 Third Beach Ro
+ ad\, Middletown\, RI 02842
+URL:https://www.visitrhodeisland.com/event/curious-creatures-day-at-norman
+ -bird/112329/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Dueling Pianos at the Top of Pelham
 DTSTART;VALUE=DATE:20261024
 DTEND;VALUE=DATE:20261025
-DTSTAMP:20261023T153620Z
+DTSTAMP:20261024T140708Z
 UID:3e2ade1cac5f8363388973f526aa@visitri-calendar
 DESCRIPTION:Dueling Pianos at the Top of Pelham Please check your dates an
  d times — show start times vary. For more dates and showtimes\, check ou
@@ -331,7 +337,7 @@ BEGIN:VEVENT
 SUMMARY:"Nocturnes" Exhibit at Spring Bull Gallery
 DTSTART;VALUE=DATE:20261025
 DTEND;VALUE=DATE:20261026
-DTSTAMP:20261023T153620Z
+DTSTAMP:20261024T140708Z
 UID:945340681c00f5d79c305667c5c8@visitri-calendar
 DESCRIPTION:"Nocturnes" An Art Exhibit at Spring Bull Gallery When: Septem
  ber 19 - October 25\, 2026 from 12:00 to 5:00 PM Opening Reception: Sunday
@@ -353,7 +359,7 @@ BEGIN:VEVENT
 SUMMARY:Annual Harvest Festival at Newport Vineyards
 DTSTART;VALUE=DATE:20261025
 DTEND;VALUE=DATE:20261026
-DTSTAMP:20261023T153620Z
+DTSTAMP:20261024T140708Z
 UID:3f036be2c60a1a4587e7b53ef705@visitri-calendar
 DESCRIPTION:Celebrate the 9 th Annual Harvest Festival with Newport Vineya
  rds! When: Sunday\, October 25th More details to be announced! General Adm
@@ -366,10 +372,52 @@ URL:https://www.visitrhodeisland.com/event/annual-harvest-festival-at-newp
  ort-vineyards/111769/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Bronze Casting at Herreshoff Marine Museum
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+DTSTAMP:20261024T140708Z
+UID:6ea666f42836adb9508224a42af3@visitri-calendar
+DESCRIPTION:Bronze Casting When: Saturday\, October 24th and Sunday\, Octo
+ ber 25th from 9:00 AM to 5:00 PM Where: Herreshoff Marine Museum\, 1 Burns
+ ide Street\, Bristol Tuition: $350 Learn bronze casting techniques to make
+  your own hardware\, such as oarlocks and cleats. This two-day program tea
+ ches the basics of bronze casting. We’ll begin by making small basswood 
+ cleats to be sand cast. We’ll explore the language of pattern making\, u
+ ndercuts\, sand preparation and venting before pouring britannia metal int
+ o our sand casts to learn the forms and practice. Techniques reviewed will
+  include: pattern-making\, sand-casting\, pouring Britannia metal and bron
+ ze\, patina and finishing. All tools and materials will be provided. Doug 
+ Borkman is excited to bring his popular bronze casting workshop to the Her
+ reshoff Marine Museum. Doug is a sculptor/designer and has taught wood and
+  metal shop practice\, casting and welding for the Rhode Island School of 
+ Design Sculpture programs for 30 years. He has previously taught at Haysta
+ ck Mountain School of Crafts\, the Apprenticeshop\, Nantucket Historical S
+ ociety\, and for the Bridge in Shanghai\, China. He has worked on many des
+ ign and sculpture projects\, including for the Boston Red Sox\, Fidelity i
+ nvestments and many private collections. Doug is also an avid sailor and a
+ ctively tries to keep his art practice connected to history and sailing. M
+ ore about Doug: douglasborkman.com This two-day workshop is held on the He
+ rreshoff Marine Museum campus in the historic HMCo. shop buildings. Tuitio
+ n includes a private 45 minute tour of the Museum and N.G.H. Model Room on
+  day two of the workshop\, with a particular focus on HMCo. hardware and p
+ atterns. This workshop is for Adults 21+ and is limited to 10 participants
+  over two days. Tuition: $350 (including materials + membership) Material 
+ cost is $95 per student and is included in the registration fee. This incl
+ udes the casting sand\, parting talc\, crucibles\, britannia metal\, bronz
+ e\, patina chemicals and consumables. Members receive a $50 discount to re
+ gistration. Upcoming Dates: 9:00 AM to 5:00 PM\, October 24 &amp\; 25\, 20
+ 26 Contact Education Director Kirk Cusic for questions: k.cusic@herreshoff
+ .org\, 401-396-5834.\n\nSource: https://www.visitrhodeisland.com/event/bro
+ nze-casting-at-herreshoff-marine-museum/111834/
+LOCATION:Herreshoff Marine Museum\, 1 Burnside Street\, Bristol\, RI 02809
+URL:https://www.visitrhodeisland.com/event/bronze-casting-at-herreshoff-ma
+ rine-museum/111834/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Coastal Cruisers - The Golden Hour
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
-DTSTAMP:20261023T153620Z
+DTSTAMP:20261024T140708Z
 UID:a33f7731698b5451e05ba44e42fd@visitri-calendar
 DESCRIPTION:Experience the Island in our Coastal Cruisers\, Newport’s pr
  ivate chauffeured luxury tour\, dedicated to providing a sophisticated way
@@ -399,7 +447,7 @@ BEGIN:VEVENT
 SUMMARY:Jack-O-Lantern Spectacular
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
-DTSTAMP:20261023T153620Z
+DTSTAMP:20261024T140708Z
 UID:ddc52d2e1f830141a3c1c36cbc2b@visitri-calendar
 DESCRIPTION:Jack-O-Lantern Spectacular: The Great Pun-Kin Trail\, presente
  d by Citizens\, returns October 1 &#8211\; November 1 with an all-new trai
@@ -424,7 +472,7 @@ BEGIN:VEVENT
 SUMMARY:A New England Thanksgiving
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
-DTSTAMP:20261023T153620Z
+DTSTAMP:20261024T140708Z
 UID:21d35714802ba10832a84ed3bbac@visitri-calendar
 DESCRIPTION:Join the Coggeshall staff as we prepare a Thanksgiving meal ov
  er the hearth in our historic farmhouse. The late 18th century was before 
@@ -448,7 +496,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
-DTSTAMP:20261023T153620Z
+DTSTAMP:20261024T140708Z
 UID:d5932912a26459263f74067ed3d2@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -476,7 +524,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
-DTSTAMP:20261023T153620Z
+DTSTAMP:20261024T140708Z
 UID:f83dbecb85872dc3b9715683d412@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -504,7 +552,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
-DTSTAMP:20261023T153620Z
+DTSTAMP:20261024T140708Z
 UID:b086f1bd58d78d3d3eb4b27c4e80@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -532,7 +580,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
-DTSTAMP:20261023T153620Z
+DTSTAMP:20261024T140708Z
 UID:a07e4e611fb4e8a3b793ee3d6baa@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -560,7 +608,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
-DTSTAMP:20261023T153620Z
+DTSTAMP:20261024T140708Z
 UID:0e0d137da86e729e9b7c503df973@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -588,7 +636,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
-DTSTAMP:20261023T153620Z
+DTSTAMP:20261024T140708Z
 UID:ccc9d94ce27546581c6bf2b71fd9@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -616,7 +664,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
-DTSTAMP:20261023T153620Z
+DTSTAMP:20261024T140708Z
 UID:db8b766041237fea9b154b360279@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -644,7 +692,7 @@ BEGIN:VEVENT
 SUMMARY:The Intentional Celebration: Holiday Edition
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
-DTSTAMP:20261023T153620Z
+DTSTAMP:20261024T140708Z
 UID:6f484250684bf2271dde2a31e276@visitri-calendar
 DESCRIPTION:The Intentional Celebration: Holiday Edition is a two-day indo
  or holiday market and immersive Christmas experience taking place December
@@ -671,10 +719,40 @@ URL:https://www.visitrhodeisland.com/event/the-intentional-celebration%3a-
  holiday-edition/111943/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Books\, Bites\, & Bubbles Book Club
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+DTSTAMP:20261024T140708Z
+UID:7d2ed4f84bf58d4e3e93466f19dc@visitri-calendar
+DESCRIPTION:Books\, Bites &amp\; Bubbles Book Club If you’re looking to 
+ build community\, read books\, and taste wine\, join the NWCG Books\, Bite
+ s &amp\; Bubbles Book Club. Light bites and complimentary wine will be pro
+ vided. Walk-ins are welcome\, reservations are encouraged. Please come wit
+ h your own copy of the book and an open mind. We look forward to diving in
+ to books and wine with you! (Click the links below to learn more and regis
+ ter!) "Care and Feeding" by Laruie Woolever - Sunday\, September 20th from
+  1:00 to 2:00 PM Where: Newport Wine Cellar &amp\; Gourmet\, 5 Merton Road
+ \, Newport We will be reading Care and Feeding by Laurie Woolever at this 
+ meeting. Consider buying your copy from Matriarch at 468 Thames St. to con
+ tinue to support female creators. We hope to see you there! "The Golden Sp
+ oon" by Jessa Maxwell - Saturday\, October 24th from 12:00 to 1:00 PM We w
+ ill be reading The Golden Spoon by Newport local author Jessa Maxwell\, wh
+ o will also be joining us at this book club! Consider buying your copy fro
+ m Matriarch at 468 Thames St. to continue to support female creators. We h
+ ope to see you there! Upcoming: Sunday\, December 6th 2026: Widow Clicquot
+  Sunday\, February 7th 2027: Grape Juice Sunday\, March 14th 2027: The Sch
+ ool of Essential Ingredients\n\nSource: https://www.visitrhodeisland.com/e
+ vent/books-bites-%26-bubbles-book-club/112077/
+LOCATION:Newport Wine Cellar and Gourmet\, 5 Merton Road\, Newport\, RI 02
+ 840 Time: Varies by book club date.
+URL:https://www.visitrhodeisland.com/event/books-bites-%26-bubbles-book-cl
+ ub/112077/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
-DTSTAMP:20261023T153620Z
+DTSTAMP:20261024T140708Z
 UID:4b643200b30e60635e855ddfbcdb@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -702,7 +780,7 @@ BEGIN:VEVENT
 SUMMARY:The Intentional Celebration: Holiday Edition
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
-DTSTAMP:20261023T153620Z
+DTSTAMP:20261024T140708Z
 UID:f0031a8c4f9ec38b7e0300063594@visitri-calendar
 DESCRIPTION:The Intentional Celebration: Holiday Edition is a two-day indo
  or holiday market and immersive Christmas experience taking place December
@@ -732,7 +810,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261211
-DTSTAMP:20261023T153620Z
+DTSTAMP:20261024T140708Z
 UID:f1266d72481edfcb924f687a42f0@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -760,7 +838,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
-DTSTAMP:20261023T153620Z
+DTSTAMP:20261024T140708Z
 UID:b2668ced84621f351ee2e743ffd9@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -788,7 +866,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
-DTSTAMP:20261023T153620Z
+DTSTAMP:20261024T140708Z
 UID:756ae7e966f3899cb85d7657b4e5@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -816,7 +894,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261213
 DTEND;VALUE=DATE:20261214
-DTSTAMP:20261023T153620Z
+DTSTAMP:20261024T140708Z
 UID:6926863c714413a4b343c291725f@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -844,7 +922,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
-DTSTAMP:20261023T153620Z
+DTSTAMP:20261024T140708Z
 UID:10f1f0a03ceb6ce5b9d0f1112413@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -872,7 +950,7 @@ BEGIN:VEVENT
 SUMMARY:Dueling Pianos at the Top of Pelham
 DTSTART;VALUE=DATE:20261219
 DTEND;VALUE=DATE:20261220
-DTSTAMP:20261023T153620Z
+DTSTAMP:20261024T140708Z
 UID:0cba8ebd768886603d449b31b8c5@visitri-calendar
 DESCRIPTION:Dueling Pianos at the Top of Pelham Please check your dates an
  d times — show start times vary. For more dates and showtimes\, check ou
@@ -900,7 +978,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261220
 DTEND;VALUE=DATE:20261221
-DTSTAMP:20261023T153620Z
+DTSTAMP:20261024T140708Z
 UID:4b4bda68b74fdf0bae1d4834ec2b@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -928,7 +1006,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261221
 DTEND;VALUE=DATE:20261222
-DTSTAMP:20261023T153620Z
+DTSTAMP:20261024T140708Z
 UID:5cc6a0eb17a87a57c77fb4a1ee98@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -956,7 +1034,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261222
 DTEND;VALUE=DATE:20261223
-DTSTAMP:20261023T153620Z
+DTSTAMP:20261024T140708Z
 UID:8b50234eb8215ed0c936d7b3f2fd@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -984,7 +1062,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261223
 DTEND;VALUE=DATE:20261224
-DTSTAMP:20261023T153620Z
+DTSTAMP:20261024T140708Z
 UID:64494d8f54810a3b19a989acc268@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -1012,7 +1090,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261226
 DTEND;VALUE=DATE:20261227
-DTSTAMP:20261023T153620Z
+DTSTAMP:20261024T140708Z
 UID:d9203cb0c583483c1e644796bce0@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -1040,7 +1118,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261227
 DTEND;VALUE=DATE:20261228
-DTSTAMP:20261023T153620Z
+DTSTAMP:20261024T140708Z
 UID:ecdbb4492e88d8b279d5f0235b57@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -1068,7 +1146,7 @@ BEGIN:VEVENT
 SUMMARY:Beyond the Brewhouse Tour
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
-DTSTAMP:20261023T153620Z
+DTSTAMP:20261024T140708Z
 UID:c7b48636db9ede5f5acbbb263d31@visitri-calendar
 DESCRIPTION:Beyond the Brewhouse Where: Newport Craft Brewing and Distilli
  ng\, 293 JT Connell Road\, Newport 45 minutes: $20 per person Did you know
@@ -1084,21 +1162,63 @@ URL:https://www.visitrhodeisland.com/event/beyond-the-brewhouse-tour/11015
  3/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Burritos & Bowls—Lunch Specials at Yellow Door Taqueria!
-DTSTART;VALUE=DATE:20261231
-DTEND;VALUE=DATE:20270101
-DTSTAMP:20261023T153620Z
-UID:a47385cf36c194bcd701d4733276@visitri-calendar
-DESCRIPTION:Our new Burrito &amp\; Bowl lunch specials have arrived at Yel
- low Door Taqueria in downtown Providence! Perfect for dining in or taking 
- back to the office\, turn your favorite taco into a delicious bowl or try 
- a specialty burrito! Check out the full menu on our website! Available Mon
- day-Friday\, 11:30 AM-5 PM!\n\nSource: https://www.visitrhodeisland.com/ev
- ent/burritos-%26-bowls%e2%80%94lunch-specials-at-yellow-door-taqueria!/111
- 544/
-LOCATION:Yellow Door Taqueria\, 191 Dorrance Street\, Providence\, RI 0290
- 3
-URL:https://www.visitrhodeisland.com/event/burritos-%26-bowls%e2%80%94lunc
- h-specials-at-yellow-door-taqueria!/111544/
+SUMMARY:Books\, Bites\, & Bubbles Book Club
+DTSTART;VALUE=DATE:20270207
+DTEND;VALUE=DATE:20270208
+DTSTAMP:20261024T140708Z
+UID:29ae8c565374a84ee9973f731d0c@visitri-calendar
+DESCRIPTION:Books\, Bites &amp\; Bubbles Book Club If you’re looking to 
+ build community\, read books\, and taste wine\, join the NWCG Books\, Bite
+ s &amp\; Bubbles Book Club. Light bites and complimentary wine will be pro
+ vided. Walk-ins are welcome\, reservations are encouraged. Please come wit
+ h your own copy of the book and an open mind. We look forward to diving in
+ to books and wine with you! (Click the links below to learn more and regis
+ ter!) "Care and Feeding" by Laruie Woolever - Sunday\, September 20th from
+  1:00 to 2:00 PM Where: Newport Wine Cellar &amp\; Gourmet\, 5 Merton Road
+ \, Newport We will be reading Care and Feeding by Laurie Woolever at this 
+ meeting. Consider buying your copy from Matriarch at 468 Thames St. to con
+ tinue to support female creators. We hope to see you there! "The Golden Sp
+ oon" by Jessa Maxwell - Saturday\, October 24th from 12:00 to 1:00 PM We w
+ ill be reading The Golden Spoon by Newport local author Jessa Maxwell\, wh
+ o will also be joining us at this book club! Consider buying your copy fro
+ m Matriarch at 468 Thames St. to continue to support female creators. We h
+ ope to see you there! Upcoming: Sunday\, December 6th 2026: Widow Clicquot
+  Sunday\, February 7th 2027: Grape Juice Sunday\, March 14th 2027: The Sch
+ ool of Essential Ingredients\n\nSource: https://www.visitrhodeisland.com/e
+ vent/books-bites-%26-bubbles-book-club/112077/
+LOCATION:Newport Wine Cellar and Gourmet\, 5 Merton Road\, Newport\, RI 02
+ 840 Time: Varies by book club date.
+URL:https://www.visitrhodeisland.com/event/books-bites-%26-bubbles-book-cl
+ ub/112077/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Books\, Bites\, & Bubbles Book Club
+DTSTART;VALUE=DATE:20270314
+DTEND;VALUE=DATE:20270315
+DTSTAMP:20261024T140708Z
+UID:9eec5b16e5558c2c6738ac60c511@visitri-calendar
+DESCRIPTION:Books\, Bites &amp\; Bubbles Book Club If you’re looking to 
+ build community\, read books\, and taste wine\, join the NWCG Books\, Bite
+ s &amp\; Bubbles Book Club. Light bites and complimentary wine will be pro
+ vided. Walk-ins are welcome\, reservations are encouraged. Please come wit
+ h your own copy of the book and an open mind. We look forward to diving in
+ to books and wine with you! (Click the links below to learn more and regis
+ ter!) "Care and Feeding" by Laruie Woolever - Sunday\, September 20th from
+  1:00 to 2:00 PM Where: Newport Wine Cellar &amp\; Gourmet\, 5 Merton Road
+ \, Newport We will be reading Care and Feeding by Laurie Woolever at this 
+ meeting. Consider buying your copy from Matriarch at 468 Thames St. to con
+ tinue to support female creators. We hope to see you there! "The Golden Sp
+ oon" by Jessa Maxwell - Saturday\, October 24th from 12:00 to 1:00 PM We w
+ ill be reading The Golden Spoon by Newport local author Jessa Maxwell\, wh
+ o will also be joining us at this book club! Consider buying your copy fro
+ m Matriarch at 468 Thames St. to continue to support female creators. We h
+ ope to see you there! Upcoming: Sunday\, December 6th 2026: Widow Clicquot
+  Sunday\, February 7th 2027: Grape Juice Sunday\, March 14th 2027: The Sch
+ ool of Essential Ingredients\n\nSource: https://www.visitrhodeisland.com/e
+ vent/books-bites-%26-bubbles-book-club/112077/
+LOCATION:Newport Wine Cellar and Gourmet\, 5 Merton Road\, Newport\, RI 02
+ 840 Time: Varies by book club date.
+URL:https://www.visitrhodeisland.com/event/books-bites-%26-bubbles-book-cl
+ ub/112077/
 END:VEVENT
 END:VCALENDAR
