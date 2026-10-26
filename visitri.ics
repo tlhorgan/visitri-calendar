@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:$15 Moonshine Flights & Moonshine Tasting
 DTSTART;VALUE=DATE:20250615
 DTEND;VALUE=DATE:20250616
-DTSTAMP:20261025T143341Z
+DTSTAMP:20261026T165800Z
 UID:b6432d870f2c0958f26453a40d59@visitri-calendar
 DESCRIPTION:Try a Moonshine Flight tasting at Moonshine Alley! Moonshine F
  lights are available daily for just $15! We have over 13 flavors to choose
@@ -20,10 +20,56 @@ URL:https://www.visitrhodeisland.com/event/%2415-moonshine-flights-%26-moo
  nshine-tasting/105663/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Children's Weekly Storytime
+DTSTART;VALUE=DATE:20260330
+DTEND;VALUE=DATE:20260331
+DTSTAMP:20261026T165800Z
+UID:6a42c90422362e83701e98f899c2@visitri-calendar
+DESCRIPTION:Children's Storytime Join Elizabeth as she hosts storytime on 
+ Monday mornings at 10:30 AM. Every Monday\, Elizabeth will chose a book co
+ rrelating with the season or holiday. All children and their families are 
+ welcome to join!\n\nSource: https://www.visitrhodeisland.com/event/childre
+ ns-weekly-storytime/109524/
+LOCATION:Charter Books\, 8 Broadway\, Newport\, RI 02840 Time: 10:30 AM to
+  11:00 AM
+URL:https://www.visitrhodeisland.com/event/childrens-weekly-storytime/1095
+ 24/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Coastal Cruisers - The Golden Hour
+DTSTART;VALUE=DATE:20260501
+DTEND;VALUE=DATE:20260502
+DTSTAMP:20261026T165800Z
+UID:9f3864060ce7679e35293700f37c@visitri-calendar
+DESCRIPTION:Experience the Island in our Coastal Cruisers\, Newport’s pr
+ ivate chauffeured luxury tour\, dedicated to providing a sophisticated way
+  to experience our beloved island. We blend elegance\, fun &amp\; storytel
+ ling into a bespoke tour of Newport. For us\, it is about fostering experi
+ ences that create lasting memorable moments. From chasing golden sunsets t
+ o experiencing salty-breeze adventures\, Coastal Cruisers treats every tou
+ r as an opportunity to provide exceptional service &amp\; a personal conne
+ ction that lasts well beyond the journey. Offer 3 tour options and hourly 
+ bookings. Tour Option: The Golden Hour A private\, bespoke guided excursio
+ n designed to highlight Newport's most magnificent sunset vistas. This dis
+ tinctive experience is meticulously orchestrated\, ensuring optimal positi
+ oning at prime viewing locations for capturing striking photographs &amp\;
+  securing a truly memorable occasion. Your experienced guide will navigate
+  picturesque coastal thoroughfares and Newport's charming bridge view neig
+ hborhoods\, making stops at both lesser-known vantage points &amp\; renown
+ ed landmarks celebrated for their exceptional 'golden hour' illumination &
+ amp\; sweeping ocean panoramas. 7:00 PM Tour (75 minutes) $150 per person 
+ Available: Daily\, May 1 - December 31\, 2026 (Unavailable May 23 and May 
+ 31)\n\nSource: https://www.visitrhodeisland.com/event/coastal-cruisers-the
+ -golden-hour/109827/
+LOCATION:Coastal Cruisers\, 478 Thames Street\, Newport\, RI 02840
+URL:https://www.visitrhodeisland.com/event/coastal-cruisers-the-golden-hou
+ r/109827/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Beyond the Brewhouse Tour
 DTSTART;VALUE=DATE:20260515
 DTEND;VALUE=DATE:20260516
-DTSTAMP:20261025T143341Z
+DTSTAMP:20261026T165800Z
 UID:acc9d8e1d1bdab34c6766b602473@visitri-calendar
 DESCRIPTION:Beyond the Brewhouse Where: Newport Craft Brewing and Distilli
  ng\, 293 JT Connell Road\, Newport 45 minutes: $20 per person Did you know
@@ -39,49 +85,10 @@ URL:https://www.visitrhodeisland.com/event/beyond-the-brewhouse-tour/11015
  3/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Alger Mitchell at SALTwater Harborside Dining
-DTSTART;VALUE=DATE:20260524
-DTEND;VALUE=DATE:20260525
-DTSTAMP:20261025T143341Z
-UID:56651fdef385ddc5772b8f8d401e@visitri-calendar
-DESCRIPTION:Alger Mitchell at SALTwater Harborside Dining Sundays from 4:0
- 0 to 7:00 PM Alger Mitchell is a dynamic song stylist\, songwriter\, and v
- ocalist\, delivering captivating performances with guitar and harmonica. B
- oasting a remarkable repertoire of approximately 250 songs performed entir
- ely from memory\, Alger's music is 100% live\, free of electronic enhancem
- ents. His versatile setlist spans the timeless classics of The Great Ameri
- can Songbook\, from Broadway to Hollywood\, alongside beloved jazz and pop
-  standards\, classic country\, oldies\, and his own original compositions.
-  With infectious energy\, his live performances invite optional dancing\, 
- making it nearly impossible to resist moving to the music! Keep a smile on
-  your face and a song in your heart!\n\nSource: https://www.visitrhodeisla
- nd.com/event/alger-mitchell-at-saltwater-harborside-dining/110157/
-LOCATION:Saltwater at The Newport Harbor Hotel & Marina\, 49 America's Cup
-  Avenue\, Newport\, RI 02840 Time: 4:00 PM to 7:00 PM 49 America's Cup Ave
- nue\, Newport\, RI 02840 OFFICIAL RHODE ISLAND TRAVEL GUIDE Get Guide Get 
- news from Visit Rhode Island in your inbox. Industry Partner Leisure Trave
- l Sign Up Ratings Powered by Press Industry Travel Trade Meetings & Conven
- tions Contact Privacy Policy Sitemap Partner Portal SMS Privacy Policy SMS
-  Terms & Conditions UGC Terms and Conditions Wedding Planning Press Photos
-  Story Ideas Fun-Sized Rhode Island Rhode Island in the News Free Travel G
- uide Contact Visit Rhode Island Industry Travel Trade Ideas & Itineraries 
- Downton Abbey Lifestyle Rhode Island Foodways Hidden Gems Image Library Fr
- ee Travel Guide Contact Visit Rhode Island Meetings & Conventions Contact 
- Privacy Policy Sitemap Partner Portal SMS Privacy Policy SMS Terms & Condi
- tions UGC Terms and Conditions Wedding Planning Weddings - Venues Wedding 
- - Catering Wedding - Cakes Wedding - Attire Wedding - Florists Wedding - J
- ewelers Wedding - Transportation © 2026 Rhode Island Commerce Corporation
-  Special Offers Offers Here Looking to plan your next visit to Rhode Islan
- d\, check out some of the current special offers and enjoy savings\, extra
-  perks and more! Offers Here
-URL:https://www.visitrhodeisland.com/event/alger-mitchell-at-saltwater-har
- borside-dining/110157/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:$15 Moonshine Flights & Moonshine Tasting
 DTSTART;VALUE=DATE:20260721
 DTEND;VALUE=DATE:20260722
-DTSTAMP:20261025T143341Z
+DTSTAMP:20261026T165800Z
 UID:6ac059c408c431eceb1c3c855c19@visitri-calendar
 DESCRIPTION:Try a Moonshine Flight tasting at Moonshine Alley! Moonshine F
  lights are available daily for just $15! We have over 13 flavors to choose
@@ -94,32 +101,28 @@ URL:https://www.visitrhodeisland.com/event/%2415-moonshine-flights-%26-moo
  nshine-tasting/105663/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:"Nocturnes" Exhibit at Spring Bull Gallery
-DTSTART;VALUE=DATE:20260913
-DTEND;VALUE=DATE:20260914
-DTSTAMP:20261025T143341Z
-UID:b3a6362c63e2fad1624808d0342f@visitri-calendar
-DESCRIPTION:"Nocturnes" An Art Exhibit at Spring Bull Gallery When: Septem
- ber 19 - October 25\, 2026 from 12:00 to 5:00 PM Opening Reception: Sunday
- \, September 20th from 3:00 to 5:00 PM\, Awards announced at 4:00 PM Sprin
- g Bull Gallery will celebrate the music of the night with our juried exhib
- ition\, “Nocturnes.” Artist Tatiana Roulin\, whose luscious nocturnes 
- have received numerous awards\, will serve as juror. Cash awards presented
-  at the opening reception. Image: “Moon and Fog” by Tatiana Roulin ”
-  Spring Bull Gallery Exceptional Fine Art Since 1990 Open daily except Tue
- sdays\, 12:00 to 5:00 PM 55 Bellevue Ave\, Newport\, RI 02840 401-849-9166
- \n\nSource: https://www.visitrhodeisland.com/event/nocturnes-exhibit-at-sp
- ring-bull-gallery/111782/
-LOCATION:Spring Bull Studio & Gallery\, 55 Bellevue Avenue\, Newport\, RI 
- 02840
-URL:https://www.visitrhodeisland.com/event/nocturnes-exhibit-at-spring-bul
- l-gallery/111782/
+SUMMARY:Burritos & Bowls—Lunch Specials at Yellow Door Taqueria!
+DTSTART;VALUE=DATE:20260826
+DTEND;VALUE=DATE:20260827
+DTSTAMP:20261026T165800Z
+UID:cd9e59bf1148392bbbdd7c30628e@visitri-calendar
+DESCRIPTION:Our new Burrito &amp\; Bowl lunch specials have arrived at Yel
+ low Door Taqueria in downtown Providence! Perfect for dining in or taking 
+ back to the office\, turn your favorite taco into a delicious bowl or try 
+ a specialty burrito! Check out the full menu on our website! Available Mon
+ day-Friday\, 11:30 AM-5 PM!\n\nSource: https://www.visitrhodeisland.com/ev
+ ent/burritos-%26-bowls%e2%80%94lunch-specials-at-yellow-door-taqueria!/111
+ 544/
+LOCATION:Yellow Door Taqueria\, 191 Dorrance Street\, Providence\, RI 0290
+ 3
+URL:https://www.visitrhodeisland.com/event/burritos-%26-bowls%e2%80%94lunc
+ h-specials-at-yellow-door-taqueria!/111544/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Jack-O-Lantern Spectacular
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
-DTSTAMP:20261025T143341Z
+DTSTAMP:20261026T165800Z
 UID:a11cb847b167f6db3762e7d7aba4@visitri-calendar
 DESCRIPTION:Jack-O-Lantern Spectacular: The Great Pun-Kin Trail\, presente
  d by Citizens\, returns October 1 &#8211\; November 1 with an all-new trai
@@ -141,99 +144,48 @@ URL:https://www.visitrhodeisland.com/event/jack-o-lantern-spectacular/9207
  1/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:"Nocturnes" Exhibit at Spring Bull Gallery
-DTSTART;VALUE=DATE:20261025
-DTEND;VALUE=DATE:20261026
-DTSTAMP:20261025T143341Z
-UID:945340681c00f5d79c305667c5c8@visitri-calendar
-DESCRIPTION:"Nocturnes" An Art Exhibit at Spring Bull Gallery When: Septem
- ber 19 - October 25\, 2026 from 12:00 to 5:00 PM Opening Reception: Sunday
- \, September 20th from 3:00 to 5:00 PM\, Awards announced at 4:00 PM Sprin
- g Bull Gallery will celebrate the music of the night with our juried exhib
- ition\, “Nocturnes.” Artist Tatiana Roulin\, whose luscious nocturnes 
- have received numerous awards\, will serve as juror. Cash awards presented
-  at the opening reception. Image: “Moon and Fog” by Tatiana Roulin ”
-  Spring Bull Gallery Exceptional Fine Art Since 1990 Open daily except Tue
- sdays\, 12:00 to 5:00 PM 55 Bellevue Ave\, Newport\, RI 02840 401-849-9166
- \n\nSource: https://www.visitrhodeisland.com/event/nocturnes-exhibit-at-sp
- ring-bull-gallery/111782/
-LOCATION:Spring Bull Studio & Gallery\, 55 Bellevue Avenue\, Newport\, RI 
- 02840
-URL:https://www.visitrhodeisland.com/event/nocturnes-exhibit-at-spring-bul
- l-gallery/111782/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2026 Ocean State Rhode Races - Marathon\, Half Marathon and 5k
-DTSTART;VALUE=DATE:20261025
-DTEND;VALUE=DATE:20261026
-DTSTAMP:20261025T143341Z
-UID:ee431aa342e639190043a7943e5c@visitri-calendar
-DESCRIPTION:The 9th Annual Ocean State Rhode Races in Narragansett\, RI wi
- ll be held on Sunday\, October 25\, 2026. Race weekend features a Marathon
- \, Half Marathon\, and 5k Race. The Marathon will start at 7:30 am\, the H
- alf Marathon will start at 8:00 AM\, and the 5k at 8:15 am\, all on Sunday
- . This boutique Rhode Island marathon will showcase what is great about th
- e Ocean State. Not only does the course feature classic Rhode Island beaut
- y\, our post-race festival will include an authentic RI experience at icon
- ic Narragansett Town Beach. For runners and by runners\, the event offers 
- direct access to the race directors who promise timely communication and p
- ersonal touches throughout your race experience. URLs: Facebook: https://g
- o.evvnt.com/3346151-2?pid=10404 Instagram: https://go.evvnt.com/3346151-3?
- pid=10404 YouTube: https://go.evvnt.com/3346151-4?pid=10404 Date and Time:
-  On Sun\, 25 Oct 2026 07:30 - Sun\, 25 Oct 2026 13:30 Venue details: Narra
- gansett Town Beach\, 39 Boston Neck Road\, Narragansett\, Rhode Island\, 0
- 2882\, United States Category: Sports / Leisure | Running Price: Entry Fee
- s start at: USD 25.00\n\nSource: https://www.visitrhodeisland.com/event/20
- 26-ocean-state-rhode-races-marathon-half-marathon-and-5k/107684/
-LOCATION:Narragansett Town Beach\, 39 Boston Neck Road\, Narragansett\, RI
- \, 02882
-URL:https://www.visitrhodeisland.com/event/2026-ocean-state-rhode-races-ma
- rathon-half-marathon-and-5k/107684/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:43rd Annual Taste of Newport
-DTSTART;VALUE=DATE:20261025
-DTEND;VALUE=DATE:20261026
-DTSTAMP:20261025T143341Z
-UID:79e6b141a8a484d21961e5ab06a2@visitri-calendar
-DESCRIPTION:The wait is over. Taste of Newport is back and better than eve
- r! Join us at the Newport Marriott Hotel &amp\; Spa for an unforgettable e
- vening celebrating Rhode Island's vibrant culinary scene while supporting 
- Child &amp\; Family. Indulge in unlimited tastings from some of the region
- 's top restaurants\, wineries\, breweries\, and beverage partners. Enjoy l
- ive entertainment\, bid on exciting items in our Silent Auction\, and take
-  your chance in our much-loved Wine Raffle. For more than 160 years\, Chil
- d &amp\; Family has helped children\, families\, and older adults build st
- ronger\, healthier futures through compassionate community-based programs.
-  Every ticket purchased helps support these life-changing services right h
- ere in Rhode Island. Come hungry\, bring your friends\, and join us for an
-  evening of great food\, drinks\, entertainment\, and community impact. 
- 📅 Sunday\, October 25 🕠 5:30 PM - 8:00 PM 📍 Newport Marriott Hote
- l &amp\; Spa 🎟️ Tickets: https://onecau.se/_n2rt41 We are incredibly 
- grateful to this year’s sponsors thus far for helping make Taste of Newp
- ort possible: Aramli Foundation and BedJet • BankNewport • Delta Denta
- l • Family Service of Rhode Island (FSRI) • Bowen’s Wharf • DBS Bu
- ilding Solutions • Secure Networks • People’s Credit Union • Saccu
- cci Honda • Hilb Group • Beeline • Rippling • Newport Marriott Hot
- el &amp\; Spa • Centreville Bank • Figure It Out Today • Regan Heati
- ng &amp\; Air • World Insurance Associates • Eastern Bank • Edward J
- ones • FJ Scott Painting • Mancini Beverages Interested in being part 
- of Taste of Newport? Restaurants\, caterers\, beverage partners\, and orga
- nizations interested in participating or supporting the event can learn mo
- re at https://lnkd.in/g27WFW4N Taste. Celebrate. Make a Difference. ❤️
- \n\nSource: https://www.visitrhodeisland.com/event/43rd-annual-taste-of-ne
- wport/112123/
-LOCATION:Newport Marriot & Spa\, 25 America's Cup Ave\, Newport\, RI 02840
- \, Newport\, 02840
-URL:https://www.visitrhodeisland.com/event/43rd-annual-taste-of-newport/11
- 2123/
+SUMMARY:Coastal Cruisers Fall Foliage Tours (+ Cider & Donuts)
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+DTSTAMP:20261026T165800Z
+UID:6d1f100e0388a1db3baa480bef75@visitri-calendar
+DESCRIPTION:Coastal Cruisers Fall Foliage Tours (+ Cider &amp\; Donuts) Ex
+ perience Newport at its most beautiful on our 2-hour Fall Foliage Tour. Tr
+ avel along historic Bellevue Avenue\, past iconic estates\, and through sc
+ enic\, tree-lined backroads showcasing classic New England fall colors. Yo
+ ur local guide will share Newport’s history while taking you beyond the 
+ traditional tourist routes\, with scenic stops for photos along the way. T
+ o complete the fall experience\, enjoy complimentary apple cider and fresh
+  apple cider donuts while taking in the crisp autumn air and beautiful New
+ port scenery. 🍎🍩 What's Included Apple Cider and Donuts Itinerary Hi
+ storic Bellevue Avenue: Cruise past Newport’s famous Gilded Age mansions
+  surrounded by beautiful fall colors. Newport’s Scenic Backroads: Leave 
+ the traditional tourist route and explore quiet\, tree-lined roads\, histo
+ ric stone walls\, and classic New England scenery. Newport Country Club &a
+ mp\; Ocean Drive Area: Travel through some of Newport’s most picturesque
+  areas\, with sweeping landscapes and seasonal foliage. Scenic Photo Stops
+ : Stop at select locations along the way for photos and time to take in th
+ e fall scenery. Return Through Historic Newport: Finish the experience wit
+ h more Newport history and views as we make our way back. Highlights 🍂 
+ Newport’s Best Fall Scenery: Experience colorful tree-lined roads\, hist
+ oric stone walls\, and classic New England landscapes. 🏛️ Gilded Age 
+ Newport: Travel along Bellevue Avenue and see Newport’s iconic mansions 
+ surrounded by autumn colors. 🌳 Beyond the Traditional Tour Route: Explo
+ re quieter backroads and scenic areas near Newport Country Club that many 
+ visitors never see. 📸 Picture-Perfect Stops: Enjoy opportunities to ste
+ p out\, take photos\, and experience Newport during its most colorful seas
+ on.\n\nSource: https://www.visitrhodeisland.com/event/coastal-cruisers-fal
+ l-foliage-tours-(%2b-cider-%26-donuts)/112431/
+LOCATION:Coastal Cruisers\, 478 Thames Street\, Newport\, RI 02840
+URL:https://www.visitrhodeisland.com/event/coastal-cruisers-fall-foliage-t
+ ours-(%2b-cider-%26-donuts)/112431/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:A New England Thanksgiving
-DTSTART;VALUE=DATE:20261025
-DTEND;VALUE=DATE:20261026
-DTSTAMP:20261025T143341Z
-UID:3cd0eb43e4347b6d8aa62ae9c565@visitri-calendar
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+DTSTAMP:20261026T165800Z
+UID:aa134d2beb4420287fbab1db55a5@visitri-calendar
 DESCRIPTION:Join the Coggeshall staff as we prepare a Thanksgiving meal ov
  er the hearth in our historic farmhouse. The late 18th century was before 
  the official start of Thanksgiving as a national holiday\, but the day was
@@ -253,119 +205,149 @@ URL:https://www.visitrhodeisland.com/event/a-new-england-thanksgiving/1121
  16/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Alger Mitchell at SALTwater Harborside Dining
-DTSTART;VALUE=DATE:20261025
-DTEND;VALUE=DATE:20261026
-DTSTAMP:20261025T143341Z
-UID:c8707a642277214ae36e5ea850d3@visitri-calendar
-DESCRIPTION:Alger Mitchell at SALTwater Harborside Dining Sundays from 4:0
- 0 to 7:00 PM Alger Mitchell is a dynamic song stylist\, songwriter\, and v
- ocalist\, delivering captivating performances with guitar and harmonica. B
- oasting a remarkable repertoire of approximately 250 songs performed entir
- ely from memory\, Alger's music is 100% live\, free of electronic enhancem
- ents. His versatile setlist spans the timeless classics of The Great Ameri
- can Songbook\, from Broadway to Hollywood\, alongside beloved jazz and pop
-  standards\, classic country\, oldies\, and his own original compositions.
-  With infectious energy\, his live performances invite optional dancing\, 
- making it nearly impossible to resist moving to the music! Keep a smile on
-  your face and a song in your heart!\n\nSource: https://www.visitrhodeisla
- nd.com/event/alger-mitchell-at-saltwater-harborside-dining/110157/
-LOCATION:Saltwater at The Newport Harbor Hotel & Marina\, 49 America's Cup
-  Avenue\, Newport\, RI 02840 Time: 4:00 PM to 7:00 PM 49 America's Cup Ave
- nue\, Newport\, RI 02840 OFFICIAL RHODE ISLAND TRAVEL GUIDE Get Guide Get 
- news from Visit Rhode Island in your inbox. Industry Partner Leisure Trave
- l Sign Up Ratings Powered by Press Industry Travel Trade Meetings & Conven
- tions Contact Privacy Policy Sitemap Partner Portal SMS Privacy Policy SMS
-  Terms & Conditions UGC Terms and Conditions Wedding Planning Press Photos
-  Story Ideas Fun-Sized Rhode Island Rhode Island in the News Free Travel G
- uide Contact Visit Rhode Island Industry Travel Trade Ideas & Itineraries 
- Downton Abbey Lifestyle Rhode Island Foodways Hidden Gems Image Library Fr
- ee Travel Guide Contact Visit Rhode Island Meetings & Conventions Contact 
- Privacy Policy Sitemap Partner Portal SMS Privacy Policy SMS Terms & Condi
- tions UGC Terms and Conditions Wedding Planning Weddings - Venues Wedding 
- - Catering Wedding - Cakes Wedding - Attire Wedding - Florists Wedding - J
- ewelers Wedding - Transportation © 2026 Rhode Island Commerce Corporation
-  Special Offers Offers Here Looking to plan your next visit to Rhode Islan
- d\, check out some of the current special offers and enjoy savings\, extra
-  perks and more! Offers Here
-URL:https://www.visitrhodeisland.com/event/alger-mitchell-at-saltwater-har
- borside-dining/110157/
+SUMMARY:Blood Moon (With LED Lights) - Painting Class
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+DTSTAMP:20261026T165800Z
+UID:13b93d9f8e2c328ec2773b63e4a7@visitri-calendar
+DESCRIPTION:🖌️ IN-STUDIO SESSION DETAILS Reserve your spot and enjoy 
+ a complimentary beverage—choose from soda\, beer\, or wine (21+ with val
+ id ID). Additional drinks will be available for purchase. Immerse yourself
+  in a fun and creative atmosphere while painting your own unique masterpie
+ ce! Recommended for ages 14 and up. ⏰ ARRIVAL TIME Our studio opens 30 m
+ inutes prior to class time. We recommend arriving 15&#8211\;30 minutes ear
+ ly to find parking\, grab a drink\, and get settled. Please note: If you a
+ rrive late\, the artist may not be able to fill you in on the steps you mi
+ ssed\, as they will be focused on guiding the rest of the class. If you ar
+ rive more than 20 minutes late\, we kindly ask that you do not join the se
+ ssion. Late arrivals can be disruptive and may not have enough time to com
+ plete the painting. Unfortunately\, we cannot offer refunds or reschedules
+  for late arrivals. 🚗 PARKING INFO Our studio is located at 150 Main St
+ reet (rear entrance)\, Pawtucket\, Rhode Island\, and we have two FREE par
+ king lots: 🚗 One directly attached to our entrance 🚗 A second lot ju
+ st one building down on the same side of the street — clearly labeled 
+ 🪑 WANT TO SIT WITH FRIENDS? If you purchased 2 or more tickets in one t
+ ransaction\, we’ll automatically seat your group together. If you booked
+  separately but want to sit with someone\, please include their first and 
+ last names in the “Additional Information / Order Notes” field during 
+ checkout. 🔄 RESCHEDULING &amp\; CANCELLATION POLICY All reservations ar
+ e non-refundable. However\, if you need to reschedule\, you may request a 
+ reschedule voucher at least 48 hours before your session. You can do this 
+ easily on our website — just [click here]. No-shows cannot be reschedule
+ d. 🚨 CLASS CANCELLATION Classes may be canceled due to low attendance. 
+ In this case\, we’ll notify you and issue a voucher for a future session
+ . We appreciate your understanding and look forward to welcoming you to a 
+ future class! ❄️ INCLEMENT WEATHER POLICY Because New England weather 
+ can be unpredictable\, we typically wait until a few hours before class to
+  make final decisions. If we cancel due to snow or other severe weather\, 
+ we’ll email you a voucher for a future session. Have more questions? Che
+ ck out our [Frequently Asked Questions] page — just [click here].\n\nSou
+ rce: https://www.visitrhodeisland.com/event/blood-moon-(with-led-lights)-p
+ ainting-class/111663/
+LOCATION:Paint & Vino\, 150 Main Street\, Pawtucket\, 02860
+URL:https://www.visitrhodeisland.com/event/blood-moon-(with-led-lights)-pa
+ inting-class/111663/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Annual Harvest Festival at Newport Vineyards
-DTSTART;VALUE=DATE:20261025
-DTEND;VALUE=DATE:20261026
-DTSTAMP:20261025T143341Z
-UID:3f036be2c60a1a4587e7b53ef705@visitri-calendar
-DESCRIPTION:Celebrate the 9 th Annual Harvest Festival with Newport Vineya
- rds! When: Sunday\, October 25th More details to be announced! General Adm
- ission and Non-Tasting Admission Tickets will be available\n\nSource: http
- s://www.visitrhodeisland.com/event/annual-harvest-festival-at-newport-vine
- yards/111769/
-LOCATION:Newport Vineyards\, 909 East Main Road\, Middletown\, RI 02842 Ti
- me: Festival time to be announced.
-URL:https://www.visitrhodeisland.com/event/annual-harvest-festival-at-newp
- ort-vineyards/111769/
+SUMMARY:Full Moon Bike Rides in 2026 🚲
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+DTSTAMP:20261026T165800Z
+UID:fa1a26f564edb25279ff613a44d2@visitri-calendar
+DESCRIPTION:Full Moon Rides: The Ocean Loop by Sunset and Moonrise Newport
+  feels a lot different at night\, especially in the silver glow of a full 
+ moon with the line of bike lights piercing the evening twilight and the dr
+ umbeat of waves lapping on the rocky shore. Our monthly Full Moon Rides &#
+ 8211\; Sponsored by AARP Rhode Island have returned for the 2026 season. T
+ hese scenic evening group rides wind along the Newport shoreline\, delight
+ ing first-timers and returning riders alike. A Full Moon Ride is social an
+ d easygoing\; the pace is patient\, nobody gets left behind\, and particip
+ ants are welcome to finish their journey with food and libations. The Full
+  Moon Ride coastal route will bring us past scenic harbor\, bay\, and ocea
+ n views &#8211\; lit first by the setting sun\, and then by the rising moo
+ n. We’ll ride 15 miles on Newport’s scenic roads and coastline\, aroun
+ d the beautiful Ocean Loop\, and and back into town. These rides have limi
+ ted capacity\, so be sure to register as each date’s tickets become avai
+ lable. All of the 2026 dates are listed below! Suggested Donation: $10 per
+  Rider. Donations are not a requirement. Donations of all sizes are welcom
+ e\, and support Bike Newport’s inclusive programs for bike safety educat
+ ion and advocacy. Thank you! We require all riders to kindly pre-register 
+ on Eventbrite for our ride-planning purposes. Riders must be at least 18 y
+ ears of age. Registration for subsequent dates becomes available as soon a
+ s the preceding ride has ended. Please bookmark this page in your web brow
+ ser to refer back for all the relevant registration links\, updates\, and 
+ announcements. All the Details: 20-30 minutes before the start of each rid
+ e we’ll gather at Equality Park on Broadway in downtown Newport\, as mar
+ ked by the star on the map\, adjacent to Parlor Bar &amp\; Kitchen (at 200
+  Broadway). The ride lasts roughly two hours from departure\, returning to
+  our starting spot. Wednesday\, April 1: Pink Moon - gather 6:10pm\, start
+  6:40\, sunset 7:10\, moonrise 7:03 Friday\, May 1: Flower Moon - gather 6
+ :40pm\, start 7:10\, sunset 7:43\, moonrise at 8:07 Sunday\, May 31: Blue 
+ Moon/Micro Full Moon - gather 7:30pm\, start 8:00\, sunset 8:12\, moonrise
+  9:04 Monday\, June 29: Strawberry Moon/ Micro Full Moon - gather 7:10pm\,
+  start 7:40\, sunset 8:23\, moonrise 8:40 Wednesday\, July 29: Buck Moon -
+  gather 6:55pm\, start 7:25\, sunset 8:05\, moonrise 8:23 Thursday\, Augus
+ t 27: Sturgeon Moon - gather 5:45pm\, start 6:15\, sunset 7:26\, moonrise 
+ 7:15 Saturday\, September 26: Corn Moon - gather 4:55pm\, start 5:25\, sun
+ set 6:35\, moonrise 6:23 Monday\, October 26: Hunter's Moon - gather 4:15p
+ m\, start 4:45\, sunset 5:47\, moonrise 5:45 You can access the route here
+ . The route begins at Equality Park. Once we reach King’s Park\, our coa
+ stal route will bring us past scenic harbor\, bay\, and ocean views &#8211
+ \; lit first by the setting sun\, and then by the rising full moon. Requir
+ ements: Important: You must be able to ride 15 miles comfortably at 10mph 
+ with traffic and know how to use your gears for hills (there are several.)
+ This is a NIGHT ride\, we will be riding on dark roads. A helmet\, bright 
+ front headlight\, and rear red blinking light are required to participate.
+  Ensure your bike is in good working order before arriving. Be sure your l
+ ights are well charged. If riding an e-bike\, ensure it is charged and in 
+ fully working condition Please also bring your high viz vest/jacket\, wate
+ r bottle\, and bicycle lock. Check your air pressure\, brakes\, and gears 
+ If you start on the ride and are then not able to continue on the ride\, y
+ ou are responsible for getting yourself home. Suggested Donation: $10 per 
+ Rider. Dress for the weather! We will cancel the ride if weather/road cond
+ itions are not safe and attempt a reschedule within 3 days. Keep an eye on
+  our social media @BikeNewportRI and check this web page for updates.\n\nS
+ ource: https://www.visitrhodeisland.com/event/full-moon-bike-rides-in-2026
+ -%f0%9f%9a%b2/109471/
+LOCATION:Equality Park\, Equality Park W\, Newport\, RI 02840
+URL:https://www.visitrhodeisland.com/event/full-moon-bike-rides-in-2026-%f
+ 0%9f%9a%b2/109471/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Beads to Jewelry - October
-DTSTART;VALUE=DATE:20261025
-DTEND;VALUE=DATE:20261026
-DTSTAMP:20261025T143341Z
-UID:64da68c89ede4bb9a5e81bea28eb@visitri-calendar
-DESCRIPTION:Turn Handmade Glass Beads into Wearable Art You've created bea
- utiful beads—now it's time to transform them into stunning\, wearable je
- welry. In this hands-on workshop\, professional glass and metal jeweler Am
- anda will guide students through the process of designing and assembling f
- inished jewelry using lampworked glass beads. Whether you've spent the pas
- t few months filling your bead collection in our flameworking classes or y
- ou're completely new to lampworked beads\, this class is for you. You do n
- ot need to have made your own beads to participate. Students are welcome t
- o bring beads they've created\, use beads they've collected elsewhere\, or
-  purchase handmade lampworked beads from the studio on the day of class. T
- hroughout the workshop\, students will learn how to thoughtfully combine g
- lass beads with metal findings\, accent beads\, and wire elements to creat
- e balanced\, professional-quality jewelry. Amanda will demonstrate a varie
- ty of finishing techniques while discussing design\, proportion\, color ba
- lance\, and the hardware that transforms individual beads into elegant nec
- klaces\, bracelets\, and earrings. Some larger-hole beads may be fitted wi
- th sterling silver cores for a refined\, finished appearance\, while other
- s can be ground and prepared for assembly using head pins\, eye pins\, wir
- e wrapping\, and decorative metal accents. Students will also explore simp
- le wire embellishments that add both beauty and structural support to thei
- r finished pieces. By the end of class\, you'll leave wearing—or ready t
- o gift—a one-of-a-kind piece of jewelry featuring handcrafted glass bead
- s assembled with professional techniques. Students Will Learn Basic jewelr
- y design principles and composition Selecting complementary beads and meta
- l findings Using head pins\, eye pins\, jump rings\, and wire components C
- reating balanced necklaces\, bracelets\, or earrings Incorporating decorat
- ive wire details When and how to use sterling silver bead cores Preparing 
- lampworked beads for jewelry assembly Professional finishing techniques fo
- r durable\, wearable jewelry No Previous Beadmaking Experience Required Th
- is class is open to everyone! While it's the perfect follow-up for student
- s who have completed our lampworking bead classes\, you do not need to hav
- e made your own beads to participate. We offer a beautiful selection of ha
- ndmade lampworked glass beads available for purchase during class\, making
-  it easy to create a unique piece of jewelry even if this is your very fir
- st visit. Studio-made beads are available for $3 each and may be purchased
-  on the day of class. Students are also welcome to bring their own handmad
- e beads or favorite specialty beads from home. Whether you're preserving m
- emories from your beadmaking journey or simply looking for a fun introduct
- ion to jewelry design\, this class is a wonderful way to transform beautif
- ul glass into finished pieces you'll treasure for years to come. This is a
-  5 hour class. It is for students 12 and up. Max 8 students per class.\n\n
- Source: https://www.visitrhodeisland.com/event/beads-to-jewelry-october/11
- 1447/
-LOCATION:Blackstone River Glass Center\, 30 Meeting Street\, Cumberland\, 
- RI 20864
-URL:https://www.visitrhodeisland.com/event/beads-to-jewelry-october/111447
- /
+SUMMARY:Coastal Cruisers - The Golden Hour
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+DTSTAMP:20261026T165800Z
+UID:a33f7731698b5451e05ba44e42fd@visitri-calendar
+DESCRIPTION:Experience the Island in our Coastal Cruisers\, Newport’s pr
+ ivate chauffeured luxury tour\, dedicated to providing a sophisticated way
+  to experience our beloved island. We blend elegance\, fun &amp\; storytel
+ ling into a bespoke tour of Newport. For us\, it is about fostering experi
+ ences that create lasting memorable moments. From chasing golden sunsets t
+ o experiencing salty-breeze adventures\, Coastal Cruisers treats every tou
+ r as an opportunity to provide exceptional service &amp\; a personal conne
+ ction that lasts well beyond the journey. Offer 3 tour options and hourly 
+ bookings. Tour Option: The Golden Hour A private\, bespoke guided excursio
+ n designed to highlight Newport's most magnificent sunset vistas. This dis
+ tinctive experience is meticulously orchestrated\, ensuring optimal positi
+ oning at prime viewing locations for capturing striking photographs &amp\;
+  securing a truly memorable occasion. Your experienced guide will navigate
+  picturesque coastal thoroughfares and Newport's charming bridge view neig
+ hborhoods\, making stops at both lesser-known vantage points &amp\; renown
+ ed landmarks celebrated for their exceptional 'golden hour' illumination &
+ amp\; sweeping ocean panoramas. 7:00 PM Tour (75 minutes) $150 per person 
+ Available: Daily\, May 1 - December 31\, 2026 (Unavailable May 23 and May 
+ 31)\n\nSource: https://www.visitrhodeisland.com/event/coastal-cruisers-the
+ -golden-hour/109827/
+LOCATION:Coastal Cruisers\, 478 Thames Street\, Newport\, RI 02840
+URL:https://www.visitrhodeisland.com/event/coastal-cruisers-the-golden-hou
+ r/109827/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Jack-O-Lantern Spectacular
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
-DTSTAMP:20261025T143341Z
+DTSTAMP:20261026T165800Z
 UID:ddc52d2e1f830141a3c1c36cbc2b@visitri-calendar
 DESCRIPTION:Jack-O-Lantern Spectacular: The Great Pun-Kin Trail\, presente
  d by Citizens\, returns October 1 &#8211\; November 1 with an all-new trai
@@ -387,10 +369,47 @@ URL:https://www.visitrhodeisland.com/event/jack-o-lantern-spectacular/9207
  1/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Coastal Cruisers Fall Foliage Tours (+ Cider & Donuts)
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+DTSTAMP:20261026T165800Z
+UID:e1fcc4c4473790f87586b7c6c5bf@visitri-calendar
+DESCRIPTION:Coastal Cruisers Fall Foliage Tours (+ Cider &amp\; Donuts) Ex
+ perience Newport at its most beautiful on our 2-hour Fall Foliage Tour. Tr
+ avel along historic Bellevue Avenue\, past iconic estates\, and through sc
+ enic\, tree-lined backroads showcasing classic New England fall colors. Yo
+ ur local guide will share Newport’s history while taking you beyond the 
+ traditional tourist routes\, with scenic stops for photos along the way. T
+ o complete the fall experience\, enjoy complimentary apple cider and fresh
+  apple cider donuts while taking in the crisp autumn air and beautiful New
+ port scenery. 🍎🍩 What's Included Apple Cider and Donuts Itinerary Hi
+ storic Bellevue Avenue: Cruise past Newport’s famous Gilded Age mansions
+  surrounded by beautiful fall colors. Newport’s Scenic Backroads: Leave 
+ the traditional tourist route and explore quiet\, tree-lined roads\, histo
+ ric stone walls\, and classic New England scenery. Newport Country Club &a
+ mp\; Ocean Drive Area: Travel through some of Newport’s most picturesque
+  areas\, with sweeping landscapes and seasonal foliage. Scenic Photo Stops
+ : Stop at select locations along the way for photos and time to take in th
+ e fall scenery. Return Through Historic Newport: Finish the experience wit
+ h more Newport history and views as we make our way back. Highlights 🍂 
+ Newport’s Best Fall Scenery: Experience colorful tree-lined roads\, hist
+ oric stone walls\, and classic New England landscapes. 🏛️ Gilded Age 
+ Newport: Travel along Bellevue Avenue and see Newport’s iconic mansions 
+ surrounded by autumn colors. 🌳 Beyond the Traditional Tour Route: Explo
+ re quieter backroads and scenic areas near Newport Country Club that many 
+ visitors never see. 📸 Picture-Perfect Stops: Enjoy opportunities to ste
+ p out\, take photos\, and experience Newport during its most colorful seas
+ on.\n\nSource: https://www.visitrhodeisland.com/event/coastal-cruisers-fal
+ l-foliage-tours-(%2b-cider-%26-donuts)/112431/
+LOCATION:Coastal Cruisers\, 478 Thames Street\, Newport\, RI 02840
+URL:https://www.visitrhodeisland.com/event/coastal-cruisers-fall-foliage-t
+ ours-(%2b-cider-%26-donuts)/112431/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:A New England Thanksgiving
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
-DTSTAMP:20261025T143341Z
+DTSTAMP:20261026T165800Z
 UID:21d35714802ba10832a84ed3bbac@visitri-calendar
 DESCRIPTION:Join the Coggeshall staff as we prepare a Thanksgiving meal ov
  er the hearth in our historic farmhouse. The late 18th century was before 
@@ -414,7 +433,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
-DTSTAMP:20261025T143341Z
+DTSTAMP:20261026T165800Z
 UID:d5932912a26459263f74067ed3d2@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -442,7 +461,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
-DTSTAMP:20261025T143341Z
+DTSTAMP:20261026T165800Z
 UID:f83dbecb85872dc3b9715683d412@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -470,7 +489,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
-DTSTAMP:20261025T143341Z
+DTSTAMP:20261026T165800Z
 UID:b086f1bd58d78d3d3eb4b27c4e80@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -498,7 +517,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
-DTSTAMP:20261025T143341Z
+DTSTAMP:20261026T165800Z
 UID:a07e4e611fb4e8a3b793ee3d6baa@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -526,7 +545,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
-DTSTAMP:20261025T143341Z
+DTSTAMP:20261026T165800Z
 UID:0e0d137da86e729e9b7c503df973@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -554,7 +573,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
-DTSTAMP:20261025T143341Z
+DTSTAMP:20261026T165800Z
 UID:ccc9d94ce27546581c6bf2b71fd9@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -582,7 +601,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
-DTSTAMP:20261025T143341Z
+DTSTAMP:20261026T165800Z
 UID:db8b766041237fea9b154b360279@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -610,7 +629,7 @@ BEGIN:VEVENT
 SUMMARY:The Intentional Celebration: Holiday Edition
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
-DTSTAMP:20261025T143341Z
+DTSTAMP:20261026T165800Z
 UID:6f484250684bf2271dde2a31e276@visitri-calendar
 DESCRIPTION:The Intentional Celebration: Holiday Edition is a two-day indo
  or holiday market and immersive Christmas experience taking place December
@@ -640,7 +659,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
-DTSTAMP:20261025T143341Z
+DTSTAMP:20261026T165800Z
 UID:4b643200b30e60635e855ddfbcdb@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -668,7 +687,7 @@ BEGIN:VEVENT
 SUMMARY:The Intentional Celebration: Holiday Edition
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
-DTSTAMP:20261025T143341Z
+DTSTAMP:20261026T165800Z
 UID:f0031a8c4f9ec38b7e0300063594@visitri-calendar
 DESCRIPTION:The Intentional Celebration: Holiday Edition is a two-day indo
  or holiday market and immersive Christmas experience taking place December
@@ -698,7 +717,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261211
-DTSTAMP:20261025T143341Z
+DTSTAMP:20261026T165800Z
 UID:f1266d72481edfcb924f687a42f0@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -726,7 +745,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
-DTSTAMP:20261025T143341Z
+DTSTAMP:20261026T165800Z
 UID:b2668ced84621f351ee2e743ffd9@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -754,7 +773,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
-DTSTAMP:20261025T143341Z
+DTSTAMP:20261026T165800Z
 UID:756ae7e966f3899cb85d7657b4e5@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -782,7 +801,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261213
 DTEND;VALUE=DATE:20261214
-DTSTAMP:20261025T143341Z
+DTSTAMP:20261026T165800Z
 UID:6926863c714413a4b343c291725f@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -810,7 +829,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
-DTSTAMP:20261025T143341Z
+DTSTAMP:20261026T165800Z
 UID:10f1f0a03ceb6ce5b9d0f1112413@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -838,7 +857,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261220
 DTEND;VALUE=DATE:20261221
-DTSTAMP:20261025T143341Z
+DTSTAMP:20261026T165800Z
 UID:4b4bda68b74fdf0bae1d4834ec2b@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -863,10 +882,26 @@ URL:https://www.visitrhodeisland.com/event/sparkling-lights-at-the-breaker
  s/112249/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Children's Weekly Storytime
+DTSTART;VALUE=DATE:20261221
+DTEND;VALUE=DATE:20261222
+DTSTAMP:20261026T165800Z
+UID:505c13cc68dfd1161c6032fdf540@visitri-calendar
+DESCRIPTION:Children's Storytime Join Elizabeth as she hosts storytime on 
+ Monday mornings at 10:30 AM. Every Monday\, Elizabeth will chose a book co
+ rrelating with the season or holiday. All children and their families are 
+ welcome to join!\n\nSource: https://www.visitrhodeisland.com/event/childre
+ ns-weekly-storytime/109524/
+LOCATION:Charter Books\, 8 Broadway\, Newport\, RI 02840 Time: 10:30 AM to
+  11:00 AM
+URL:https://www.visitrhodeisland.com/event/childrens-weekly-storytime/1095
+ 24/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261221
 DTEND;VALUE=DATE:20261222
-DTSTAMP:20261025T143341Z
+DTSTAMP:20261026T165800Z
 UID:5cc6a0eb17a87a57c77fb4a1ee98@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -894,7 +929,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261222
 DTEND;VALUE=DATE:20261223
-DTSTAMP:20261025T143341Z
+DTSTAMP:20261026T165800Z
 UID:8b50234eb8215ed0c936d7b3f2fd@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -922,7 +957,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261223
 DTEND;VALUE=DATE:20261224
-DTSTAMP:20261025T143341Z
+DTSTAMP:20261026T165800Z
 UID:64494d8f54810a3b19a989acc268@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -950,7 +985,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261226
 DTEND;VALUE=DATE:20261227
-DTSTAMP:20261025T143341Z
+DTSTAMP:20261026T165800Z
 UID:d9203cb0c583483c1e644796bce0@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -978,7 +1013,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261227
 DTEND;VALUE=DATE:20261228
-DTSTAMP:20261025T143341Z
+DTSTAMP:20261026T165800Z
 UID:ecdbb4492e88d8b279d5f0235b57@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -1006,7 +1041,7 @@ BEGIN:VEVENT
 SUMMARY:Beyond the Brewhouse Tour
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
-DTSTAMP:20261025T143341Z
+DTSTAMP:20261026T165800Z
 UID:c7b48636db9ede5f5acbbb263d31@visitri-calendar
 DESCRIPTION:Beyond the Brewhouse Where: Newport Craft Brewing and Distilli
  ng\, 293 JT Connell Road\, Newport 45 minutes: $20 per person Did you know
@@ -1020,5 +1055,23 @@ LOCATION:Newport Craft Brewing & Distilling Company\, 293 JT Connell Road
  \, Newport\, RI 02840 Time: 45 minutes: Tour start time varies by booking.
 URL:https://www.visitrhodeisland.com/event/beyond-the-brewhouse-tour/11015
  3/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Burritos & Bowls—Lunch Specials at Yellow Door Taqueria!
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+DTSTAMP:20261026T165800Z
+UID:a47385cf36c194bcd701d4733276@visitri-calendar
+DESCRIPTION:Our new Burrito &amp\; Bowl lunch specials have arrived at Yel
+ low Door Taqueria in downtown Providence! Perfect for dining in or taking 
+ back to the office\, turn your favorite taco into a delicious bowl or try 
+ a specialty burrito! Check out the full menu on our website! Available Mon
+ day-Friday\, 11:30 AM-5 PM!\n\nSource: https://www.visitrhodeisland.com/ev
+ ent/burritos-%26-bowls%e2%80%94lunch-specials-at-yellow-door-taqueria!/111
+ 544/
+LOCATION:Yellow Door Taqueria\, 191 Dorrance Street\, Providence\, RI 0290
+ 3
+URL:https://www.visitrhodeisland.com/event/burritos-%26-bowls%e2%80%94lunc
+ h-specials-at-yellow-door-taqueria!/111544/
 END:VEVENT
 END:VCALENDAR
