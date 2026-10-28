@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:$15 Moonshine Flights & Moonshine Tasting
 DTSTART;VALUE=DATE:20250615
 DTEND;VALUE=DATE:20250616
-DTSTAMP:20261027T161120Z
+DTSTAMP:20261028T164839Z
 UID:b6432d870f2c0958f26453a40d59@visitri-calendar
 DESCRIPTION:Try a Moonshine Flight tasting at Moonshine Alley! Moonshine F
  lights are available daily for just $15! We have over 13 flavors to choose
@@ -23,7 +23,7 @@ BEGIN:VEVENT
 SUMMARY:Coastal Cruisers - The Golden Hour
 DTSTART;VALUE=DATE:20260501
 DTEND;VALUE=DATE:20260502
-DTSTAMP:20261027T161120Z
+DTSTAMP:20261028T164839Z
 UID:9f3864060ce7679e35293700f37c@visitri-calendar
 DESCRIPTION:Experience the Island in our Coastal Cruisers\, Newport’s pr
  ivate chauffeured luxury tour\, dedicated to providing a sophisticated way
@@ -53,7 +53,7 @@ BEGIN:VEVENT
 SUMMARY:Beyond the Brewhouse Tour
 DTSTART;VALUE=DATE:20260515
 DTEND;VALUE=DATE:20260516
-DTSTAMP:20261027T161120Z
+DTSTAMP:20261028T164839Z
 UID:acc9d8e1d1bdab34c6766b602473@visitri-calendar
 DESCRIPTION:Beyond the Brewhouse Where: Newport Craft Brewing and Distilli
  ng\, 293 JT Connell Road\, Newport 45 minutes: $20 per person Did you know
@@ -69,43 +69,10 @@ URL:https://www.visitrhodeisland.com/event/beyond-the-brewhouse-tour/11015
  3/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Adult Beginner Ballet
-DTSTART;VALUE=DATE:20260601
-DTEND;VALUE=DATE:20260602
-DTSTAMP:20261027T161120Z
-UID:cf5e0e692bc1d2ae6c129cad8dd4@visitri-calendar
-DESCRIPTION:Adult Beginner Ballet When: Tuesdays\, September 22\, 2026 - J
- une 1\, 2027 Where: The Academy at Newport Contemporary Ballet\, 3 Charles
-  Street\, Newport Our adult division welcomes adult dancers of all ages an
- d abilities. Adult classes are designed to provide a relaxed\, supportive
- \, and fun atmosphere while learning new skills and and providing a great 
- physical workout. Adult classes are filled with adults who have either dan
- ced when they were young or have always wanted to dance but never had the 
- opportunity. No dress code is required. Classes are designed to welcome ad
- ult dancers of all ages and abilities. These classes offer a fun way for d
- ancers to exercise\, meet new friends\, and enjoy movement! ($18-20/class
- \, 1 hr 15 min) (Instagram: @theacademyatncb) Adult Classes: Adults of any
-  age and level are welcome to experience the joy of dance with the Academy
- ! We understand it can be nerve wracking walking into a dance studio full 
- of mirrors but not to worry\, the Academy offers a nurturing environment w
- here adult students will feel supported\, challenged\, and fulfilled. Our 
- teachers are caring\, patient and will give corrections. Adult students ne
- w to dance will enjoy our Adult Absolute Beginner class. Adults who have d
- ance experience are welcome to join Monday level 4 classes as well as any 
- Adult classes on pointe. Classes may be paid with dance cards (10 classes 
- paid in advance) or as single drop in class to accommodate your busy sched
- ule. Adults can wear comfortable clothing of their choice. We do suggest w
- earing socks or ballet slippers and pulling back long hair.\n\nSource: htt
- ps://www.visitrhodeisland.com/event/adult-beginner-ballet/112082/
-LOCATION:The Academy at Newport Contemporary Ballet\, 3 Charles Street\, N
- ewport\, RI 02840 Time: 7:00 PM to 8:15 PM
-URL:https://www.visitrhodeisland.com/event/adult-beginner-ballet/112082/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:$15 Moonshine Flights & Moonshine Tasting
 DTSTART;VALUE=DATE:20260721
 DTEND;VALUE=DATE:20260722
-DTSTAMP:20261027T161120Z
+DTSTAMP:20261028T164839Z
 UID:6ac059c408c431eceb1c3c855c19@visitri-calendar
 DESCRIPTION:Try a Moonshine Flight tasting at Moonshine Alley! Moonshine F
  lights are available daily for just $15! We have over 13 flavors to choose
@@ -118,28 +85,10 @@ URL:https://www.visitrhodeisland.com/event/%2415-moonshine-flights-%26-moo
  nshine-tasting/105663/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Half Price Tacos and House Margs at Yellow Door Taqueria!
-DTSTART;VALUE=DATE:20260731
-DTEND;VALUE=DATE:20260801
-DTSTAMP:20261027T161120Z
-UID:e0d95b06c7be4290562a81ad7ad5@visitri-calendar
-DESCRIPTION:Join us EVERY DAY at Yellow Door Taqueria from 3-6 PM at the b
- ar for half price select tacos and house margaritas! It's the perfect way 
- to wrap up your work day or grab a drink with friends! Choose from any of 
- our scratch-made house margarita flavors and six of our favorite tacos! *D
- ine in only\, select items only from 3-6 PM every day. Bar seating only*\n
- \nSource: https://www.visitrhodeisland.com/event/half-price-tacos-and-hous
- e-margs-at-yellow-door-taqueria!/111221/
-LOCATION:Yellow Door Taqueria\, 191 Dorrance Street\, Providence\, RI 0290
- 3
-URL:https://www.visitrhodeisland.com/event/half-price-tacos-and-house-marg
- s-at-yellow-door-taqueria!/111221/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Burritos & Bowls—Lunch Specials at Yellow Door Taqueria!
 DTSTART;VALUE=DATE:20260826
 DTEND;VALUE=DATE:20260827
-DTSTAMP:20261027T161120Z
+DTSTAMP:20261028T164839Z
 UID:cd9e59bf1148392bbbdd7c30628e@visitri-calendar
 DESCRIPTION:Our new Burrito &amp\; Bowl lunch specials have arrived at Yel
  low Door Taqueria in downtown Providence! Perfect for dining in or taking 
@@ -154,43 +103,10 @@ URL:https://www.visitrhodeisland.com/event/burritos-%26-bowls%e2%80%94lunc
  h-specials-at-yellow-door-taqueria!/111544/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Adult Beginner Ballet
-DTSTART;VALUE=DATE:20260922
-DTEND;VALUE=DATE:20260923
-DTSTAMP:20261027T161120Z
-UID:7e591f9df77dfbc5621af793da77@visitri-calendar
-DESCRIPTION:Adult Beginner Ballet When: Tuesdays\, September 22\, 2026 - J
- une 1\, 2027 Where: The Academy at Newport Contemporary Ballet\, 3 Charles
-  Street\, Newport Our adult division welcomes adult dancers of all ages an
- d abilities. Adult classes are designed to provide a relaxed\, supportive
- \, and fun atmosphere while learning new skills and and providing a great 
- physical workout. Adult classes are filled with adults who have either dan
- ced when they were young or have always wanted to dance but never had the 
- opportunity. No dress code is required. Classes are designed to welcome ad
- ult dancers of all ages and abilities. These classes offer a fun way for d
- ancers to exercise\, meet new friends\, and enjoy movement! ($18-20/class
- \, 1 hr 15 min) (Instagram: @theacademyatncb) Adult Classes: Adults of any
-  age and level are welcome to experience the joy of dance with the Academy
- ! We understand it can be nerve wracking walking into a dance studio full 
- of mirrors but not to worry\, the Academy offers a nurturing environment w
- here adult students will feel supported\, challenged\, and fulfilled. Our 
- teachers are caring\, patient and will give corrections. Adult students ne
- w to dance will enjoy our Adult Absolute Beginner class. Adults who have d
- ance experience are welcome to join Monday level 4 classes as well as any 
- Adult classes on pointe. Classes may be paid with dance cards (10 classes 
- paid in advance) or as single drop in class to accommodate your busy sched
- ule. Adults can wear comfortable clothing of their choice. We do suggest w
- earing socks or ballet slippers and pulling back long hair.\n\nSource: htt
- ps://www.visitrhodeisland.com/event/adult-beginner-ballet/112082/
-LOCATION:The Academy at Newport Contemporary Ballet\, 3 Charles Street\, N
- ewport\, RI 02840 Time: 7:00 PM to 8:15 PM
-URL:https://www.visitrhodeisland.com/event/adult-beginner-ballet/112082/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Jack-O-Lantern Spectacular
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
-DTSTAMP:20261027T161120Z
+DTSTAMP:20261028T164839Z
 UID:a11cb847b167f6db3762e7d7aba4@visitri-calendar
 DESCRIPTION:Jack-O-Lantern Spectacular: The Great Pun-Kin Trail\, presente
  d by Citizens\, returns October 1 &#8211\; November 1 with an all-new trai
@@ -215,7 +131,7 @@ BEGIN:VEVENT
 SUMMARY:Coastal Cruisers Fall Foliage Tours (+ Cider & Donuts)
 DTSTART;VALUE=DATE:20261021
 DTEND;VALUE=DATE:20261022
-DTSTAMP:20261027T161120Z
+DTSTAMP:20261028T164839Z
 UID:6d1f100e0388a1db3baa480bef75@visitri-calendar
 DESCRIPTION:Coastal Cruisers Fall Foliage Tours (+ Cider &amp\; Donuts) Ex
  perience Newport at its most beautiful on our 2-hour Fall Foliage Tour. Tr
@@ -250,10 +166,10 @@ URL:https://www.visitrhodeisland.com/event/coastal-cruisers-fall-foliage-t
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:A New England Thanksgiving
-DTSTART;VALUE=DATE:20261027
-DTEND;VALUE=DATE:20261028
-DTSTAMP:20261027T161120Z
-UID:687c8227f1b7db6f59cd9e038781@visitri-calendar
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+DTSTAMP:20261028T164839Z
+UID:c920b700ee6b0297b2c41185dc19@visitri-calendar
 DESCRIPTION:Join the Coggeshall staff as we prepare a Thanksgiving meal ov
  er the hearth in our historic farmhouse. The late 18th century was before 
  the official start of Thanksgiving as a national holiday\, but the day was
@@ -273,11 +189,62 @@ URL:https://www.visitrhodeisland.com/event/a-new-england-thanksgiving/1121
  16/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:American Gothic: Dark Stories for a Young Nation
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+DTSTAMP:20261028T164839Z
+UID:c98a0bb5cd7a807c82e1890d460b@visitri-calendar
+DESCRIPTION:As our commemoration of the 250th continues\, join us on Wedne
+ sday\, October 28th at 6 pm for “American Gothic: Dark Stories for a You
+ ng Nation” as we explore some of America’s best-known dark literature 
+ and its New England roots. Together with Brown University English Professo
+ r Jim Egan\, we will examine the literary and historical contexts behind c
+ lassic 19th-century stories by essential American authors Washington Irvin
+ g\, Nathaniel Hawthorne\, and Edgar Allan Poe. We will also be joined by r
+ etired National Park Ranger John McNiff\, who will help to bring this genr
+ e to life by reading selections from “The Legend of Sleepy Hollow\,” 
+ “Young Goodman Brown\,” and the entirety of “The Tell-Tale Heart.”
+  The program begins at 6 pm. Guests may arrive at 5:30pm for a wine and ch
+ eese reception. Egan is a Professor of English at Brown University. He spe
+ cializes in 17th- and 18th-century colonial British-American literature\, 
+ and he studies various aspects of the role of literature in an information
+  age. Guests can register here. Tickets are $10 for RIHS members and $15 f
+ or non-members.\n\nSource: https://www.visitrhodeisland.com/event/american
+ -gothic%3a-dark-stories-for-a-young-nation/112021/
+LOCATION:Rhode Island Historical Society\, Aldrich House\, 110 Benevolent 
+ Street\, Providence\, RI 02906
+URL:https://www.visitrhodeisland.com/event/american-gothic%3a-dark-stories
+ -for-a-young-nation/112021/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Aperitivo! Wines of New Zealand
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+DTSTAMP:20261028T164839Z
+UID:54150adc73da782d3247e600f5ed@visitri-calendar
+DESCRIPTION:Join us at the Center for Wine and Culinary Arts at Ocean Hous
+ e for a delightful Aperitivo Class featuring the unique wines and flavors 
+ of New Zealand. In this immersive class\, our expert sommelier will guide 
+ you through a selection of wines. Each wine will be thoughtfully paired wi
+ th small bites. The expertly crafted pairings will perfectly complement th
+ e bold\, nuanced flavors of the wines\, offering a true taste of New Zeala
+ nd. Whether you’re looking to deepen your knowledge of wines or simply e
+ njoy an evening of delicious pairings and conversation\, this Aperitivo Cl
+ ass promises to be a memorable experience. Reservations are recommended\, 
+ as space is limited. Please note: Tickets purchased for this event are non
+ -refundable.\n\nSource: https://www.visitrhodeisland.com/event/aperitivo!-
+ wines-of-new-zealand/112369/
+LOCATION:Ocean House\, 1 Bluff Avenue\, Westerly\, 02891 Time: 5:30 PM to 
+ 10:30 PM
+URL:https://www.visitrhodeisland.com/event/aperitivo!-wines-of-new-zealand
+ /112369/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Santa Magic in Long Wharf
-DTSTART;VALUE=DATE:20261027
-DTEND;VALUE=DATE:20261028
-DTSTAMP:20261027T161120Z
-UID:011079d6fe0115366454fdebe5e1@visitri-calendar
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+DTSTAMP:20261028T164839Z
+UID:28ac69b35762d2d3f0b55bd51999@visitri-calendar
 DESCRIPTION:🎄✨ Holiday Tree Lighting Event!✨🎄 Mark your calendar
  s! The holiday season is kicking off at the Shops of Long Wharf\, and you 
  won’t want to miss it! 🎅🎁 📅 When: Saturday\, November 28th Rain
@@ -300,7 +267,7 @@ BEGIN:VEVENT
 SUMMARY:Coastal Cruisers - The Golden Hour
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
-DTSTAMP:20261027T161120Z
+DTSTAMP:20261028T164839Z
 UID:a33f7731698b5451e05ba44e42fd@visitri-calendar
 DESCRIPTION:Experience the Island in our Coastal Cruisers\, Newport’s pr
  ivate chauffeured luxury tour\, dedicated to providing a sophisticated way
@@ -327,28 +294,10 @@ URL:https://www.visitrhodeisland.com/event/coastal-cruisers-the-golden-hou
  r/109827/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Half Price Tacos and House Margs at Yellow Door Taqueria!
-DTSTART;VALUE=DATE:20261031
-DTEND;VALUE=DATE:20261101
-DTSTAMP:20261027T161120Z
-UID:9e3061f0648341ee71e7158e4b15@visitri-calendar
-DESCRIPTION:Join us EVERY DAY at Yellow Door Taqueria from 3-6 PM at the b
- ar for half price select tacos and house margaritas! It's the perfect way 
- to wrap up your work day or grab a drink with friends! Choose from any of 
- our scratch-made house margarita flavors and six of our favorite tacos! *D
- ine in only\, select items only from 3-6 PM every day. Bar seating only*\n
- \nSource: https://www.visitrhodeisland.com/event/half-price-tacos-and-hous
- e-margs-at-yellow-door-taqueria!/111221/
-LOCATION:Yellow Door Taqueria\, 191 Dorrance Street\, Providence\, RI 0290
- 3
-URL:https://www.visitrhodeisland.com/event/half-price-tacos-and-house-marg
- s-at-yellow-door-taqueria!/111221/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Jack-O-Lantern Spectacular
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
-DTSTAMP:20261027T161120Z
+DTSTAMP:20261028T164839Z
 UID:ddc52d2e1f830141a3c1c36cbc2b@visitri-calendar
 DESCRIPTION:Jack-O-Lantern Spectacular: The Great Pun-Kin Trail\, presente
  d by Citizens\, returns October 1 &#8211\; November 1 with an all-new trai
@@ -373,7 +322,7 @@ BEGIN:VEVENT
 SUMMARY:Coastal Cruisers Fall Foliage Tours (+ Cider & Donuts)
 DTSTART;VALUE=DATE:20261108
 DTEND;VALUE=DATE:20261109
-DTSTAMP:20261027T161120Z
+DTSTAMP:20261028T164839Z
 UID:e1fcc4c4473790f87586b7c6c5bf@visitri-calendar
 DESCRIPTION:Coastal Cruisers Fall Foliage Tours (+ Cider &amp\; Donuts) Ex
  perience Newport at its most beautiful on our 2-hour Fall Foliage Tour. Tr
@@ -410,7 +359,7 @@ BEGIN:VEVENT
 SUMMARY:A New England Thanksgiving
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
-DTSTAMP:20261027T161120Z
+DTSTAMP:20261028T164839Z
 UID:21d35714802ba10832a84ed3bbac@visitri-calendar
 DESCRIPTION:Join the Coggeshall staff as we prepare a Thanksgiving meal ov
  er the hearth in our historic farmhouse. The late 18th century was before 
@@ -434,7 +383,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
-DTSTAMP:20261027T161120Z
+DTSTAMP:20261028T164839Z
 UID:d5932912a26459263f74067ed3d2@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -462,7 +411,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
-DTSTAMP:20261027T161120Z
+DTSTAMP:20261028T164839Z
 UID:f83dbecb85872dc3b9715683d412@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -490,7 +439,7 @@ BEGIN:VEVENT
 SUMMARY:Santa Magic in Long Wharf
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
-DTSTAMP:20261027T161120Z
+DTSTAMP:20261028T164839Z
 UID:87475b86156a7bb04dfea6f34ef6@visitri-calendar
 DESCRIPTION:🎄✨ Holiday Tree Lighting Event!✨🎄 Mark your calendar
  s! The holiday season is kicking off at the Shops of Long Wharf\, and you 
@@ -514,7 +463,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
-DTSTAMP:20261027T161120Z
+DTSTAMP:20261028T164839Z
 UID:b086f1bd58d78d3d3eb4b27c4e80@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -542,7 +491,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
-DTSTAMP:20261027T161120Z
+DTSTAMP:20261028T164839Z
 UID:a07e4e611fb4e8a3b793ee3d6baa@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -570,7 +519,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
-DTSTAMP:20261027T161120Z
+DTSTAMP:20261028T164839Z
 UID:0e0d137da86e729e9b7c503df973@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -598,7 +547,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
-DTSTAMP:20261027T161120Z
+DTSTAMP:20261028T164839Z
 UID:ccc9d94ce27546581c6bf2b71fd9@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -626,7 +575,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
-DTSTAMP:20261027T161120Z
+DTSTAMP:20261028T164839Z
 UID:db8b766041237fea9b154b360279@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -654,7 +603,7 @@ BEGIN:VEVENT
 SUMMARY:The Intentional Celebration: Holiday Edition
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
-DTSTAMP:20261027T161120Z
+DTSTAMP:20261028T164839Z
 UID:6f484250684bf2271dde2a31e276@visitri-calendar
 DESCRIPTION:The Intentional Celebration: Holiday Edition is a two-day indo
  or holiday market and immersive Christmas experience taking place December
@@ -684,7 +633,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
-DTSTAMP:20261027T161120Z
+DTSTAMP:20261028T164839Z
 UID:4b643200b30e60635e855ddfbcdb@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -712,7 +661,7 @@ BEGIN:VEVENT
 SUMMARY:The Intentional Celebration: Holiday Edition
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
-DTSTAMP:20261027T161120Z
+DTSTAMP:20261028T164839Z
 UID:f0031a8c4f9ec38b7e0300063594@visitri-calendar
 DESCRIPTION:The Intentional Celebration: Holiday Edition is a two-day indo
  or holiday market and immersive Christmas experience taking place December
@@ -742,7 +691,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261211
-DTSTAMP:20261027T161120Z
+DTSTAMP:20261028T164839Z
 UID:f1266d72481edfcb924f687a42f0@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -770,7 +719,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
-DTSTAMP:20261027T161120Z
+DTSTAMP:20261028T164839Z
 UID:b2668ced84621f351ee2e743ffd9@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -798,7 +747,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
-DTSTAMP:20261027T161120Z
+DTSTAMP:20261028T164839Z
 UID:756ae7e966f3899cb85d7657b4e5@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -826,7 +775,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261213
 DTEND;VALUE=DATE:20261214
-DTSTAMP:20261027T161120Z
+DTSTAMP:20261028T164839Z
 UID:6926863c714413a4b343c291725f@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -854,7 +803,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
-DTSTAMP:20261027T161120Z
+DTSTAMP:20261028T164839Z
 UID:10f1f0a03ceb6ce5b9d0f1112413@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -882,7 +831,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261220
 DTEND;VALUE=DATE:20261221
-DTSTAMP:20261027T161120Z
+DTSTAMP:20261028T164839Z
 UID:4b4bda68b74fdf0bae1d4834ec2b@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -910,7 +859,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261221
 DTEND;VALUE=DATE:20261222
-DTSTAMP:20261027T161120Z
+DTSTAMP:20261028T164839Z
 UID:5cc6a0eb17a87a57c77fb4a1ee98@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -938,7 +887,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261222
 DTEND;VALUE=DATE:20261223
-DTSTAMP:20261027T161120Z
+DTSTAMP:20261028T164839Z
 UID:8b50234eb8215ed0c936d7b3f2fd@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -966,7 +915,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261223
 DTEND;VALUE=DATE:20261224
-DTSTAMP:20261027T161120Z
+DTSTAMP:20261028T164839Z
 UID:64494d8f54810a3b19a989acc268@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -994,7 +943,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261226
 DTEND;VALUE=DATE:20261227
-DTSTAMP:20261027T161120Z
+DTSTAMP:20261028T164839Z
 UID:d9203cb0c583483c1e644796bce0@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -1022,7 +971,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261227
 DTEND;VALUE=DATE:20261228
-DTSTAMP:20261027T161120Z
+DTSTAMP:20261028T164839Z
 UID:ecdbb4492e88d8b279d5f0235b57@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -1050,7 +999,7 @@ BEGIN:VEVENT
 SUMMARY:Beyond the Brewhouse Tour
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
-DTSTAMP:20261027T161120Z
+DTSTAMP:20261028T164839Z
 UID:c7b48636db9ede5f5acbbb263d31@visitri-calendar
 DESCRIPTION:Beyond the Brewhouse Where: Newport Craft Brewing and Distilli
  ng\, 293 JT Connell Road\, Newport 45 minutes: $20 per person Did you know
@@ -1069,7 +1018,7 @@ BEGIN:VEVENT
 SUMMARY:Burritos & Bowls—Lunch Specials at Yellow Door Taqueria!
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
-DTSTAMP:20261027T161120Z
+DTSTAMP:20261028T164839Z
 UID:a47385cf36c194bcd701d4733276@visitri-calendar
 DESCRIPTION:Our new Burrito &amp\; Bowl lunch specials have arrived at Yel
  low Door Taqueria in downtown Providence! Perfect for dining in or taking 
