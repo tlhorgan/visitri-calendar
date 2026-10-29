@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:$15 Moonshine Flights & Moonshine Tasting
 DTSTART;VALUE=DATE:20250615
 DTEND;VALUE=DATE:20250616
-DTSTAMP:20261028T164839Z
+DTSTAMP:20261029T170358Z
 UID:b6432d870f2c0958f26453a40d59@visitri-calendar
 DESCRIPTION:Try a Moonshine Flight tasting at Moonshine Alley! Moonshine F
  lights are available daily for just $15! We have over 13 flavors to choose
@@ -20,10 +20,68 @@ URL:https://www.visitrhodeisland.com/event/%2415-moonshine-flights-%26-moo
  nshine-tasting/105663/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Federal Hill Dinner Stroll
+DTSTART;VALUE=DATE:20251231
+DTEND;VALUE=DATE:20260101
+DTSTAMP:20261029T170358Z
+UID:0f7c9cd3871a48273390ed565571@visitri-calendar
+DESCRIPTION:A Guided Italian Dinner Experience Unwind after a long day wit
+ h the Federal Hill Dinner Stroll—a decadent evening walk through Provide
+ nce’s legendary Little Italy\, guided by a warm and knowledgeable host. 
+ This immersive\, multi-course dining experience replaces the usual restaur
+ ant routine with a handpicked lineup of top-tier small plates and drinks f
+ rom some of the Hill’s most iconic spots. From seafood to house-made pas
+ tas and cheeses to unforgettable desserts\, every stop is a celebration of
+  one of the best culinary neighborhoods in New England. Food\, tax\, and t
+ ip are all included\, so all you’ll need to think about is what to sip a
+ long the way. As the streets glow under string lights and the smell of fre
+ sh bread fills the air\, you’ll be treated to an evening that’s equal 
+ parts indulgent and effortless. Your dedicated host is there just for your
+  group—welcoming you at each stop\, handling every detail\, and making s
+ ure you feel taken care of from the first bite to the last. With bold flav
+ ors\, rich traditions\, and the warm hum of the neighborhood around you\, 
+ it’s more than just dinner\; it’s a chance to step into the rhythm of 
+ a place where food is a way of life.\n\nSource: https://www.visitrhodeisla
+ nd.com/event/federal-hill-dinner-stroll/106097/
+LOCATION:Cassarino's Ristorante\, 177 Atwells Avenue\, Providence\, RI 029
+ 03
+URL:https://www.visitrhodeisland.com/event/federal-hill-dinner-stroll/1060
+ 97/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Early Bird Museum Highlight Tour at Newport Car Museum
+DTSTART;VALUE=DATE:20260401
+DTEND;VALUE=DATE:20260402
+DTSTAMP:20261029T170358Z
+UID:75253880a8c565d95c2d97a759c9@visitri-calendar
+DESCRIPTION:Early Bird Highlight Tour For 90 minutes (8:30 &#8211\; 10:00 
+ AM) prior to Museum opening. Call to book: +1 (401) 848-2277 Price $75.00 
+ per person (minimum 2\, maximum 6 ppl) Offered Wednesday\, Thursday\, and 
+ Saturday only April 1 - December 31\, 2026. General admission is included 
+ with price. 72-hour advance notice is suggested. Only one group will be ho
+ sted on any given morning. This is your chance to have the Newport Car Mus
+ eum all to yourself with a private guide to share with you the not-to-miss
+  highlights in seven expansive galleries. With over 100 iconic\, rare and 
+ exotic cars on display at one time\, this private collection is bursting w
+ ith history\, provenance and color\, not to mention the breathtaking sculp
+ tural beauty of automotive designs starting with the 1950s and finishing w
+ ith new models from the 21 st Century. After 90 minutes with your private
+ \, continue to explore at your own pace so that you can further examine yo
+ ur favorites from the Ford/Shelby\, Corvette\, World Car\, Porsche\, Fin C
+ ar\, American Muscle and Mopar exhibits while enjoying immersive videos\, 
+ artwork and the Museum’s eclectic collection of Mid-Century Modern Furni
+ ture.\n\nSource: https://www.visitrhodeisland.com/event/early-bird-museum-
+ highlight-tour-at-newport-car-museum/109638/
+LOCATION:Newport Car Museum\, Enter at Light 1947 West Main Road\, Portsmo
+ uth\, RI 02871
+URL:https://www.visitrhodeisland.com/event/early-bird-museum-highlight-tou
+ r-at-newport-car-museum/109638/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Coastal Cruisers - The Golden Hour
 DTSTART;VALUE=DATE:20260501
 DTEND;VALUE=DATE:20260502
-DTSTAMP:20261028T164839Z
+DTSTAMP:20261029T170358Z
 UID:9f3864060ce7679e35293700f37c@visitri-calendar
 DESCRIPTION:Experience the Island in our Coastal Cruisers\, Newport’s pr
  ivate chauffeured luxury tour\, dedicated to providing a sophisticated way
@@ -53,7 +111,7 @@ BEGIN:VEVENT
 SUMMARY:Beyond the Brewhouse Tour
 DTSTART;VALUE=DATE:20260515
 DTEND;VALUE=DATE:20260516
-DTSTAMP:20261028T164839Z
+DTSTAMP:20261029T170358Z
 UID:acc9d8e1d1bdab34c6766b602473@visitri-calendar
 DESCRIPTION:Beyond the Brewhouse Where: Newport Craft Brewing and Distilli
  ng\, 293 JT Connell Road\, Newport 45 minutes: $20 per person Did you know
@@ -72,7 +130,7 @@ BEGIN:VEVENT
 SUMMARY:$15 Moonshine Flights & Moonshine Tasting
 DTSTART;VALUE=DATE:20260721
 DTEND;VALUE=DATE:20260722
-DTSTAMP:20261028T164839Z
+DTSTAMP:20261029T170358Z
 UID:6ac059c408c431eceb1c3c855c19@visitri-calendar
 DESCRIPTION:Try a Moonshine Flight tasting at Moonshine Alley! Moonshine F
  lights are available daily for just $15! We have over 13 flavors to choose
@@ -88,7 +146,7 @@ BEGIN:VEVENT
 SUMMARY:Burritos & Bowls—Lunch Specials at Yellow Door Taqueria!
 DTSTART;VALUE=DATE:20260826
 DTEND;VALUE=DATE:20260827
-DTSTAMP:20261028T164839Z
+DTSTAMP:20261029T170358Z
 UID:cd9e59bf1148392bbbdd7c30628e@visitri-calendar
 DESCRIPTION:Our new Burrito &amp\; Bowl lunch specials have arrived at Yel
  low Door Taqueria in downtown Providence! Perfect for dining in or taking 
@@ -103,10 +161,39 @@ URL:https://www.visitrhodeisland.com/event/burritos-%26-bowls%e2%80%94lunc
  h-specials-at-yellow-door-taqueria!/111544/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Federal Hill Dinner Stroll
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260905
+DTSTAMP:20261029T170358Z
+UID:1ba0809acb5925117d6bfead8fd2@visitri-calendar
+DESCRIPTION:A Guided Italian Dinner Experience Unwind after a long day wit
+ h the Federal Hill Dinner Stroll—a decadent evening walk through Provide
+ nce’s legendary Little Italy\, guided by a warm and knowledgeable host. 
+ This immersive\, multi-course dining experience replaces the usual restaur
+ ant routine with a handpicked lineup of top-tier small plates and drinks f
+ rom some of the Hill’s most iconic spots. From seafood to house-made pas
+ tas and cheeses to unforgettable desserts\, every stop is a celebration of
+  one of the best culinary neighborhoods in New England. Food\, tax\, and t
+ ip are all included\, so all you’ll need to think about is what to sip a
+ long the way. As the streets glow under string lights and the smell of fre
+ sh bread fills the air\, you’ll be treated to an evening that’s equal 
+ parts indulgent and effortless. Your dedicated host is there just for your
+  group—welcoming you at each stop\, handling every detail\, and making s
+ ure you feel taken care of from the first bite to the last. With bold flav
+ ors\, rich traditions\, and the warm hum of the neighborhood around you\, 
+ it’s more than just dinner\; it’s a chance to step into the rhythm of 
+ a place where food is a way of life.\n\nSource: https://www.visitrhodeisla
+ nd.com/event/federal-hill-dinner-stroll/106097/
+LOCATION:Cassarino's Ristorante\, 177 Atwells Avenue\, Providence\, RI 029
+ 03
+URL:https://www.visitrhodeisland.com/event/federal-hill-dinner-stroll/1060
+ 97/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Jack-O-Lantern Spectacular
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
-DTSTAMP:20261028T164839Z
+DTSTAMP:20261029T170358Z
 UID:a11cb847b167f6db3762e7d7aba4@visitri-calendar
 DESCRIPTION:Jack-O-Lantern Spectacular: The Great Pun-Kin Trail\, presente
  d by Citizens\, returns October 1 &#8211\; November 1 with an all-new trai
@@ -131,7 +218,7 @@ BEGIN:VEVENT
 SUMMARY:Coastal Cruisers Fall Foliage Tours (+ Cider & Donuts)
 DTSTART;VALUE=DATE:20261021
 DTEND;VALUE=DATE:20261022
-DTSTAMP:20261028T164839Z
+DTSTAMP:20261029T170358Z
 UID:6d1f100e0388a1db3baa480bef75@visitri-calendar
 DESCRIPTION:Coastal Cruisers Fall Foliage Tours (+ Cider &amp\; Donuts) Ex
  perience Newport at its most beautiful on our 2-hour Fall Foliage Tour. Tr
@@ -166,10 +253,10 @@ URL:https://www.visitrhodeisland.com/event/coastal-cruisers-fall-foliage-t
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:A New England Thanksgiving
-DTSTART;VALUE=DATE:20261028
-DTEND;VALUE=DATE:20261029
-DTSTAMP:20261028T164839Z
-UID:c920b700ee6b0297b2c41185dc19@visitri-calendar
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+DTSTAMP:20261029T170358Z
+UID:dce1e9743af97543e69f0075f596@visitri-calendar
 DESCRIPTION:Join the Coggeshall staff as we prepare a Thanksgiving meal ov
  er the hearth in our historic farmhouse. The late 18th century was before 
  the official start of Thanksgiving as a national holiday\, but the day was
@@ -189,62 +276,74 @@ URL:https://www.visitrhodeisland.com/event/a-new-england-thanksgiving/1121
  16/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:American Gothic: Dark Stories for a Young Nation
-DTSTART;VALUE=DATE:20261028
-DTEND;VALUE=DATE:20261029
-DTSTAMP:20261028T164839Z
-UID:c98a0bb5cd7a807c82e1890d460b@visitri-calendar
-DESCRIPTION:As our commemoration of the 250th continues\, join us on Wedne
- sday\, October 28th at 6 pm for “American Gothic: Dark Stories for a You
- ng Nation” as we explore some of America’s best-known dark literature 
- and its New England roots. Together with Brown University English Professo
- r Jim Egan\, we will examine the literary and historical contexts behind c
- lassic 19th-century stories by essential American authors Washington Irvin
- g\, Nathaniel Hawthorne\, and Edgar Allan Poe. We will also be joined by r
- etired National Park Ranger John McNiff\, who will help to bring this genr
- e to life by reading selections from “The Legend of Sleepy Hollow\,” 
- “Young Goodman Brown\,” and the entirety of “The Tell-Tale Heart.”
-  The program begins at 6 pm. Guests may arrive at 5:30pm for a wine and ch
- eese reception. Egan is a Professor of English at Brown University. He spe
- cializes in 17th- and 18th-century colonial British-American literature\, 
- and he studies various aspects of the role of literature in an information
-  age. Guests can register here. Tickets are $10 for RIHS members and $15 f
- or non-members.\n\nSource: https://www.visitrhodeisland.com/event/american
- -gothic%3a-dark-stories-for-a-young-nation/112021/
-LOCATION:Rhode Island Historical Society\, Aldrich House\, 110 Benevolent 
- Street\, Providence\, RI 02906
-URL:https://www.visitrhodeisland.com/event/american-gothic%3a-dark-stories
- -for-a-young-nation/112021/
+SUMMARY:Early Bird Museum Highlight Tour at Newport Car Museum
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+DTSTAMP:20261029T170358Z
+UID:cc58ef8f7a0831e4023e0ba06e9f@visitri-calendar
+DESCRIPTION:Early Bird Highlight Tour For 90 minutes (8:30 &#8211\; 10:00 
+ AM) prior to Museum opening. Call to book: +1 (401) 848-2277 Price $75.00 
+ per person (minimum 2\, maximum 6 ppl) Offered Wednesday\, Thursday\, and 
+ Saturday only April 1 - December 31\, 2026. General admission is included 
+ with price. 72-hour advance notice is suggested. Only one group will be ho
+ sted on any given morning. This is your chance to have the Newport Car Mus
+ eum all to yourself with a private guide to share with you the not-to-miss
+  highlights in seven expansive galleries. With over 100 iconic\, rare and 
+ exotic cars on display at one time\, this private collection is bursting w
+ ith history\, provenance and color\, not to mention the breathtaking sculp
+ tural beauty of automotive designs starting with the 1950s and finishing w
+ ith new models from the 21 st Century. After 90 minutes with your private
+ \, continue to explore at your own pace so that you can further examine yo
+ ur favorites from the Ford/Shelby\, Corvette\, World Car\, Porsche\, Fin C
+ ar\, American Muscle and Mopar exhibits while enjoying immersive videos\, 
+ artwork and the Museum’s eclectic collection of Mid-Century Modern Furni
+ ture.\n\nSource: https://www.visitrhodeisland.com/event/early-bird-museum-
+ highlight-tour-at-newport-car-museum/109638/
+LOCATION:Newport Car Museum\, Enter at Light 1947 West Main Road\, Portsmo
+ uth\, RI 02871
+URL:https://www.visitrhodeisland.com/event/early-bird-museum-highlight-tou
+ r-at-newport-car-museum/109638/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Aperitivo! Wines of New Zealand
-DTSTART;VALUE=DATE:20261028
-DTEND;VALUE=DATE:20261029
-DTSTAMP:20261028T164839Z
-UID:54150adc73da782d3247e600f5ed@visitri-calendar
-DESCRIPTION:Join us at the Center for Wine and Culinary Arts at Ocean Hous
- e for a delightful Aperitivo Class featuring the unique wines and flavors 
- of New Zealand. In this immersive class\, our expert sommelier will guide 
- you through a selection of wines. Each wine will be thoughtfully paired wi
- th small bites. The expertly crafted pairings will perfectly complement th
- e bold\, nuanced flavors of the wines\, offering a true taste of New Zeala
- nd. Whether you’re looking to deepen your knowledge of wines or simply e
- njoy an evening of delicious pairings and conversation\, this Aperitivo Cl
- ass promises to be a memorable experience. Reservations are recommended\, 
- as space is limited. Please note: Tickets purchased for this event are non
- -refundable.\n\nSource: https://www.visitrhodeisland.com/event/aperitivo!-
- wines-of-new-zealand/112369/
-LOCATION:Ocean House\, 1 Bluff Avenue\, Westerly\, 02891 Time: 5:30 PM to 
- 10:30 PM
-URL:https://www.visitrhodeisland.com/event/aperitivo!-wines-of-new-zealand
- /112369/
+SUMMARY:Fifty Years of Escapes\, Ephemera\, and Houdini Lore: Preserving a
+  Phode Island Connection
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+DTSTAMP:20261029T170358Z
+UID:0d0e31e2fdc7257fd786fd44dc21@visitri-calendar
+DESCRIPTION:The Museum of Work &amp\; Culture will host Rhode Island-based
+  professional magician and entertainer Lon Cerel on Thursday\, October 29
+ \, from 6 &#8211\; 8 p.m. for Fifty Years of Escapes\, Ephemera\, and Houd
+ ini Lore: Preserving a Rhode Island Connection. October 2026 marks the 100
+ th anniversary of Houdini’s death. To mark this historic centennial\, th
+ e Museum of Work &amp\; Culture is partnering with Cerel for a special pub
+ lic presentation. For the first time in 50 years\, Cerel’s collection of
+  vault-secured\, museum-grade archive of manacles\, stage-used apparatus\,
+  rare correspondence\, and ephemeral artifacts belonging to Harry Houdini 
+ will be on public display. Houdini performed numerous times in Rhode Islan
+ d\, both in Providence and Woonsocket\, with his last appearance just week
+ s before his untimely death. The VIP portion of the program begins at 6 pm
+  with a wine and cheese reception where a limited number of guests will re
+ ceive an exclusive\, intimate guided look at the artifacts. The main event
+  will begin at 7 pm and feature a 30 min talk by Cerel\, where he will det
+ ail the history represented in his collection\, recount the stories associ
+ ated with the artifacts\, including that of Houdini’s last days\, and di
+ scuss his own death-defying high-altitude\, upside-down straitjacket escap
+ e performed in 1976 for the 50th anniversary of Houdini’s death. A Q&amp
+ \;A will follow.\n\nSource: https://www.visitrhodeisland.com/event/fifty-y
+ ears-of-escapes-ephemera-and-houdini-lore%3a-preserving-a-phode-island-con
+ nection/112454/
+LOCATION:Museum of Work & Culture\, 42 South Main Street\, Woonsocket\, RI
+  02895
+URL:https://www.visitrhodeisland.com/event/fifty-years-of-escapes-ephemera
+ -and-houdini-lore%3a-preserving-a-phode-island-connection/112454/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Santa Magic in Long Wharf
-DTSTART;VALUE=DATE:20261028
-DTEND;VALUE=DATE:20261029
-DTSTAMP:20261028T164839Z
-UID:28ac69b35762d2d3f0b55bd51999@visitri-calendar
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+DTSTAMP:20261029T170358Z
+UID:b754f9d5b34bcadeb8322d5e1387@visitri-calendar
 DESCRIPTION:🎄✨ Holiday Tree Lighting Event!✨🎄 Mark your calendar
  s! The holiday season is kicking off at the Shops of Long Wharf\, and you 
  won’t want to miss it! 🎅🎁 📅 When: Saturday\, November 28th Rain
@@ -267,7 +366,7 @@ BEGIN:VEVENT
 SUMMARY:Coastal Cruisers - The Golden Hour
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
-DTSTAMP:20261028T164839Z
+DTSTAMP:20261029T170358Z
 UID:a33f7731698b5451e05ba44e42fd@visitri-calendar
 DESCRIPTION:Experience the Island in our Coastal Cruisers\, Newport’s pr
  ivate chauffeured luxury tour\, dedicated to providing a sophisticated way
@@ -294,10 +393,39 @@ URL:https://www.visitrhodeisland.com/event/coastal-cruisers-the-golden-hou
  r/109827/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Early Bird Museum Highlight Tour at Newport Car Museum
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+DTSTAMP:20261029T170358Z
+UID:0e249cb485cf1eac31db53338c04@visitri-calendar
+DESCRIPTION:Early Bird Highlight Tour For 90 minutes (8:30 &#8211\; 10:00 
+ AM) prior to Museum opening. Call to book: +1 (401) 848-2277 Price $75.00 
+ per person (minimum 2\, maximum 6 ppl) Offered Wednesday\, Thursday\, and 
+ Saturday only April 1 - December 31\, 2026. General admission is included 
+ with price. 72-hour advance notice is suggested. Only one group will be ho
+ sted on any given morning. This is your chance to have the Newport Car Mus
+ eum all to yourself with a private guide to share with you the not-to-miss
+  highlights in seven expansive galleries. With over 100 iconic\, rare and 
+ exotic cars on display at one time\, this private collection is bursting w
+ ith history\, provenance and color\, not to mention the breathtaking sculp
+ tural beauty of automotive designs starting with the 1950s and finishing w
+ ith new models from the 21 st Century. After 90 minutes with your private
+ \, continue to explore at your own pace so that you can further examine yo
+ ur favorites from the Ford/Shelby\, Corvette\, World Car\, Porsche\, Fin C
+ ar\, American Muscle and Mopar exhibits while enjoying immersive videos\, 
+ artwork and the Museum’s eclectic collection of Mid-Century Modern Furni
+ ture.\n\nSource: https://www.visitrhodeisland.com/event/early-bird-museum-
+ highlight-tour-at-newport-car-museum/109638/
+LOCATION:Newport Car Museum\, Enter at Light 1947 West Main Road\, Portsmo
+ uth\, RI 02871
+URL:https://www.visitrhodeisland.com/event/early-bird-museum-highlight-tou
+ r-at-newport-car-museum/109638/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Jack-O-Lantern Spectacular
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
-DTSTAMP:20261028T164839Z
+DTSTAMP:20261029T170358Z
 UID:ddc52d2e1f830141a3c1c36cbc2b@visitri-calendar
 DESCRIPTION:Jack-O-Lantern Spectacular: The Great Pun-Kin Trail\, presente
  d by Citizens\, returns October 1 &#8211\; November 1 with an all-new trai
@@ -319,10 +447,47 @@ URL:https://www.visitrhodeisland.com/event/jack-o-lantern-spectacular/9207
  1/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Newport Restaurant Week 2026
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+DTSTAMP:20261029T170358Z
+UID:26ef1c44e7914743227eba719da9@visitri-calendar
+DESCRIPTION:The flavors of nine coastal communities\, all rolled up into o
+ ne savory week. Newport Restaurant Week now takes place annually each fall
+ \, the perfect setting for this well-seasoned event. So as you put away yo
+ ur sandals and suits\, loosen your seersuckers and save your appetite for 
+ 10 days of crave worthy discounts and deals each fall. Join us for another
+  season of Newport Restaurant Week from Friday\, November 6th to Sunday\, 
+ November 15th. Participating restaurants\, menus and more to come.\n\nSour
+ ce: https://www.visitrhodeisland.com/event/newport-restaurant-week-2026/11
+ 2499/
+LOCATION:Various Locations throughout Newport and Bristol Counties\, Vario
+ us Locations Throughout Newport & Bristol Counties\, Newport\, RI 02840 Va
+ rious Locations Throughout Newport & Bristol Counties\, Newport\, RI 02840
+  OFFICIAL RHODE ISLAND TRAVEL GUIDE Get Guide Get news from Visit Rhode Is
+ land in your inbox. Industry Partner Leisure Travel Sign Up Ratings Powere
+ d by Press Industry Travel Trade Meetings & Conventions Contact Privacy Po
+ licy Sitemap Partner Portal SMS Privacy Policy SMS Terms & Conditions UGC 
+ Terms and Conditions Wedding Planning Press Photos Story Ideas Fun-Sized R
+ hode Island Rhode Island in the News Free Travel Guide Contact Visit Rhode
+  Island Industry Travel Trade Ideas & Itineraries Downton Abbey Lifestyle 
+ Rhode Island Foodways Hidden Gems Image Library Free Travel Guide Contact 
+ Visit Rhode Island Meetings & Conventions Contact Privacy Policy Sitemap P
+ artner Portal SMS Privacy Policy SMS Terms & Conditions UGC Terms and Cond
+ itions Wedding Planning Weddings - Venues Wedding - Catering Wedding - Cak
+ es Wedding - Attire Wedding - Florists Wedding - Jewelers Wedding - Transp
+ ortation © 2026 Rhode Island Commerce Corporation Special Offers Offers H
+ ere Looking to plan your next visit to Rhode Island\, check out some of th
+ e current special offers and enjoy savings\, extra perks and more! Offers 
+ Here
+URL:https://www.visitrhodeisland.com/event/newport-restaurant-week-2026/11
+ 2499/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Coastal Cruisers Fall Foliage Tours (+ Cider & Donuts)
 DTSTART;VALUE=DATE:20261108
 DTEND;VALUE=DATE:20261109
-DTSTAMP:20261028T164839Z
+DTSTAMP:20261029T170358Z
 UID:e1fcc4c4473790f87586b7c6c5bf@visitri-calendar
 DESCRIPTION:Coastal Cruisers Fall Foliage Tours (+ Cider &amp\; Donuts) Ex
  perience Newport at its most beautiful on our 2-hour Fall Foliage Tour. Tr
@@ -359,7 +524,7 @@ BEGIN:VEVENT
 SUMMARY:A New England Thanksgiving
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
-DTSTAMP:20261028T164839Z
+DTSTAMP:20261029T170358Z
 UID:21d35714802ba10832a84ed3bbac@visitri-calendar
 DESCRIPTION:Join the Coggeshall staff as we prepare a Thanksgiving meal ov
  er the hearth in our historic farmhouse. The late 18th century was before 
@@ -383,7 +548,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
-DTSTAMP:20261028T164839Z
+DTSTAMP:20261029T170358Z
 UID:d5932912a26459263f74067ed3d2@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -411,7 +576,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
-DTSTAMP:20261028T164839Z
+DTSTAMP:20261029T170358Z
 UID:f83dbecb85872dc3b9715683d412@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -439,7 +604,7 @@ BEGIN:VEVENT
 SUMMARY:Santa Magic in Long Wharf
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
-DTSTAMP:20261028T164839Z
+DTSTAMP:20261029T170358Z
 UID:87475b86156a7bb04dfea6f34ef6@visitri-calendar
 DESCRIPTION:🎄✨ Holiday Tree Lighting Event!✨🎄 Mark your calendar
  s! The holiday season is kicking off at the Shops of Long Wharf\, and you 
@@ -463,7 +628,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
-DTSTAMP:20261028T164839Z
+DTSTAMP:20261029T170358Z
 UID:b086f1bd58d78d3d3eb4b27c4e80@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -491,7 +656,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
-DTSTAMP:20261028T164839Z
+DTSTAMP:20261029T170358Z
 UID:a07e4e611fb4e8a3b793ee3d6baa@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -519,7 +684,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
-DTSTAMP:20261028T164839Z
+DTSTAMP:20261029T170358Z
 UID:0e0d137da86e729e9b7c503df973@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -547,7 +712,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
-DTSTAMP:20261028T164839Z
+DTSTAMP:20261029T170358Z
 UID:ccc9d94ce27546581c6bf2b71fd9@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -572,10 +737,46 @@ URL:https://www.visitrhodeisland.com/event/sparkling-lights-at-the-breaker
  s/112249/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Bosgraaf Stained Glass Studio’s 11th Annual Holiday Sale & Hot C
+ hocolate Happening!
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+DTSTAMP:20261029T170358Z
+UID:be911d47885e79be62ea5f4dfca4@visitri-calendar
+DESCRIPTION:All are invited to Bosgraaf Stained Glass Studio’s 11th Annu
+ al Holiday Sale\, featuring original glass works from over 60 student arti
+ sts and a 6-foot artist-painted Nutcracker named Sir Fluxalot. This very s
+ pecial event that takes place over two days and a portion of proceeds bene
+ fit the Johnnycake Youth Center in Peace Dale. Saturday\, Dec 5\, 2026 fro
+ m 10:00am &#8211\; 4:00pm &amp\; Sunday\, Dec 6\, 2026 from 10:00am &#8211
+ \; 3:00pm Art glass pieces abound with locally-inspired designs\, and holi
+ day\, nature\, whimsical\, and enchanting pieces for every price range. Th
+ e public will get to view and choose from hundreds of unique creative stai
+ ned glass and fused glass pieces that are functional and decorative. Handc
+ rafted holiday ornaments will abound as always — this is the perfect sto
+ p for hostess gifts and holiday decor! Credit cards accepted. All ages are
+  welcome. Everyone who attends receives a complimentary hot chocolate and 
+ raffle prize entry. Gooseneck Vineyards is hosting a wine tasting on site
+ \, Saturday December 5th from 1:00pm-3:00pm. Location: 1214 Kingstown Road
+  Peace Dale\, RI 02879 Event contact: Peggy Corcoran bosgraafstudio@gmail.
+ com Facebook Event: https://www.facebook.com/share/1GvYWUxEQS Website: htt
+ ps://www.bosgraafstudio.com/11th-annual-art-sale-hot-chocolate-happening\n
+ \nSource: https://www.visitrhodeisland.com/event/bosgraaf-stained-glass-st
+ udio%e2%80%99s-11th-annual-holiday-sale-%26-hot-chocolate-happening!/11248
+ 6/
+LOCATION:1214 Kingstown Road Peace Dale\, RI 02879 Event contact: Peggy Co
+ rcoran bosgraafstudio@gmail.com Facebook Event: https://www.facebook.com/s
+ hare/1GvYWUxEQS Website: https://www.bosgraafstudio.com/11th-annual-art-sa
+ le-hot-chocolate-happening Show More View Website 1 / 10 Additional Inform
+ ation\, 1214 Kingstown Road\, Peacedale\, 02879
+URL:https://www.visitrhodeisland.com/event/bosgraaf-stained-glass-studio%e
+ 2%80%99s-11th-annual-holiday-sale-%26-hot-chocolate-happening!/112486/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
-DTSTAMP:20261028T164839Z
+DTSTAMP:20261029T170358Z
 UID:db8b766041237fea9b154b360279@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -603,7 +804,7 @@ BEGIN:VEVENT
 SUMMARY:The Intentional Celebration: Holiday Edition
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
-DTSTAMP:20261028T164839Z
+DTSTAMP:20261029T170358Z
 UID:6f484250684bf2271dde2a31e276@visitri-calendar
 DESCRIPTION:The Intentional Celebration: Holiday Edition is a two-day indo
  or holiday market and immersive Christmas experience taking place December
@@ -630,10 +831,46 @@ URL:https://www.visitrhodeisland.com/event/the-intentional-celebration%3a-
  holiday-edition/111943/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Bosgraaf Stained Glass Studio’s 11th Annual Holiday Sale & Hot C
+ hocolate Happening!
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+DTSTAMP:20261029T170358Z
+UID:be38fc7a5f892549ae1dbf46140c@visitri-calendar
+DESCRIPTION:All are invited to Bosgraaf Stained Glass Studio’s 11th Annu
+ al Holiday Sale\, featuring original glass works from over 60 student arti
+ sts and a 6-foot artist-painted Nutcracker named Sir Fluxalot. This very s
+ pecial event that takes place over two days and a portion of proceeds bene
+ fit the Johnnycake Youth Center in Peace Dale. Saturday\, Dec 5\, 2026 fro
+ m 10:00am &#8211\; 4:00pm &amp\; Sunday\, Dec 6\, 2026 from 10:00am &#8211
+ \; 3:00pm Art glass pieces abound with locally-inspired designs\, and holi
+ day\, nature\, whimsical\, and enchanting pieces for every price range. Th
+ e public will get to view and choose from hundreds of unique creative stai
+ ned glass and fused glass pieces that are functional and decorative. Handc
+ rafted holiday ornaments will abound as always — this is the perfect sto
+ p for hostess gifts and holiday decor! Credit cards accepted. All ages are
+  welcome. Everyone who attends receives a complimentary hot chocolate and 
+ raffle prize entry. Gooseneck Vineyards is hosting a wine tasting on site
+ \, Saturday December 5th from 1:00pm-3:00pm. Location: 1214 Kingstown Road
+  Peace Dale\, RI 02879 Event contact: Peggy Corcoran bosgraafstudio@gmail.
+ com Facebook Event: https://www.facebook.com/share/1GvYWUxEQS Website: htt
+ ps://www.bosgraafstudio.com/11th-annual-art-sale-hot-chocolate-happening\n
+ \nSource: https://www.visitrhodeisland.com/event/bosgraaf-stained-glass-st
+ udio%e2%80%99s-11th-annual-holiday-sale-%26-hot-chocolate-happening!/11248
+ 6/
+LOCATION:1214 Kingstown Road Peace Dale\, RI 02879 Event contact: Peggy Co
+ rcoran bosgraafstudio@gmail.com Facebook Event: https://www.facebook.com/s
+ hare/1GvYWUxEQS Website: https://www.bosgraafstudio.com/11th-annual-art-sa
+ le-hot-chocolate-happening Show More View Website 1 / 10 Additional Inform
+ ation\, 1214 Kingstown Road\, Peacedale\, 02879
+URL:https://www.visitrhodeisland.com/event/bosgraaf-stained-glass-studio%e
+ 2%80%99s-11th-annual-holiday-sale-%26-hot-chocolate-happening!/112486/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
-DTSTAMP:20261028T164839Z
+DTSTAMP:20261029T170358Z
 UID:4b643200b30e60635e855ddfbcdb@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -661,7 +898,7 @@ BEGIN:VEVENT
 SUMMARY:The Intentional Celebration: Holiday Edition
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
-DTSTAMP:20261028T164839Z
+DTSTAMP:20261029T170358Z
 UID:f0031a8c4f9ec38b7e0300063594@visitri-calendar
 DESCRIPTION:The Intentional Celebration: Holiday Edition is a two-day indo
  or holiday market and immersive Christmas experience taking place December
@@ -691,7 +928,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261211
-DTSTAMP:20261028T164839Z
+DTSTAMP:20261029T170358Z
 UID:f1266d72481edfcb924f687a42f0@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -719,7 +956,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
-DTSTAMP:20261028T164839Z
+DTSTAMP:20261029T170358Z
 UID:b2668ced84621f351ee2e743ffd9@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -747,7 +984,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
-DTSTAMP:20261028T164839Z
+DTSTAMP:20261029T170358Z
 UID:756ae7e966f3899cb85d7657b4e5@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -775,7 +1012,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261213
 DTEND;VALUE=DATE:20261214
-DTSTAMP:20261028T164839Z
+DTSTAMP:20261029T170358Z
 UID:6926863c714413a4b343c291725f@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -803,7 +1040,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
-DTSTAMP:20261028T164839Z
+DTSTAMP:20261029T170358Z
 UID:10f1f0a03ceb6ce5b9d0f1112413@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -831,7 +1068,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261220
 DTEND;VALUE=DATE:20261221
-DTSTAMP:20261028T164839Z
+DTSTAMP:20261029T170358Z
 UID:4b4bda68b74fdf0bae1d4834ec2b@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -859,7 +1096,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261221
 DTEND;VALUE=DATE:20261222
-DTSTAMP:20261028T164839Z
+DTSTAMP:20261029T170358Z
 UID:5cc6a0eb17a87a57c77fb4a1ee98@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -887,7 +1124,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261222
 DTEND;VALUE=DATE:20261223
-DTSTAMP:20261028T164839Z
+DTSTAMP:20261029T170358Z
 UID:8b50234eb8215ed0c936d7b3f2fd@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -915,7 +1152,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261223
 DTEND;VALUE=DATE:20261224
-DTSTAMP:20261028T164839Z
+DTSTAMP:20261029T170358Z
 UID:64494d8f54810a3b19a989acc268@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -943,7 +1180,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261226
 DTEND;VALUE=DATE:20261227
-DTSTAMP:20261028T164839Z
+DTSTAMP:20261029T170358Z
 UID:d9203cb0c583483c1e644796bce0@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -971,7 +1208,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261227
 DTEND;VALUE=DATE:20261228
-DTSTAMP:20261028T164839Z
+DTSTAMP:20261029T170358Z
 UID:ecdbb4492e88d8b279d5f0235b57@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -999,7 +1236,7 @@ BEGIN:VEVENT
 SUMMARY:Beyond the Brewhouse Tour
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
-DTSTAMP:20261028T164839Z
+DTSTAMP:20261029T170358Z
 UID:c7b48636db9ede5f5acbbb263d31@visitri-calendar
 DESCRIPTION:Beyond the Brewhouse Where: Newport Craft Brewing and Distilli
  ng\, 293 JT Connell Road\, Newport 45 minutes: $20 per person Did you know
@@ -1018,7 +1255,7 @@ BEGIN:VEVENT
 SUMMARY:Burritos & Bowls—Lunch Specials at Yellow Door Taqueria!
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
-DTSTAMP:20261028T164839Z
+DTSTAMP:20261029T170358Z
 UID:a47385cf36c194bcd701d4733276@visitri-calendar
 DESCRIPTION:Our new Burrito &amp\; Bowl lunch specials have arrived at Yel
  low Door Taqueria in downtown Providence! Perfect for dining in or taking 
@@ -1031,5 +1268,34 @@ LOCATION:Yellow Door Taqueria\, 191 Dorrance Street\, Providence\, RI 0290
  3
 URL:https://www.visitrhodeisland.com/event/burritos-%26-bowls%e2%80%94lunc
  h-specials-at-yellow-door-taqueria!/111544/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Early Bird Museum Highlight Tour at Newport Car Museum
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+DTSTAMP:20261029T170358Z
+UID:2f06cece69080ebb1042b1f38a6b@visitri-calendar
+DESCRIPTION:Early Bird Highlight Tour For 90 minutes (8:30 &#8211\; 10:00 
+ AM) prior to Museum opening. Call to book: +1 (401) 848-2277 Price $75.00 
+ per person (minimum 2\, maximum 6 ppl) Offered Wednesday\, Thursday\, and 
+ Saturday only April 1 - December 31\, 2026. General admission is included 
+ with price. 72-hour advance notice is suggested. Only one group will be ho
+ sted on any given morning. This is your chance to have the Newport Car Mus
+ eum all to yourself with a private guide to share with you the not-to-miss
+  highlights in seven expansive galleries. With over 100 iconic\, rare and 
+ exotic cars on display at one time\, this private collection is bursting w
+ ith history\, provenance and color\, not to mention the breathtaking sculp
+ tural beauty of automotive designs starting with the 1950s and finishing w
+ ith new models from the 21 st Century. After 90 minutes with your private
+ \, continue to explore at your own pace so that you can further examine yo
+ ur favorites from the Ford/Shelby\, Corvette\, World Car\, Porsche\, Fin C
+ ar\, American Muscle and Mopar exhibits while enjoying immersive videos\, 
+ artwork and the Museum’s eclectic collection of Mid-Century Modern Furni
+ ture.\n\nSource: https://www.visitrhodeisland.com/event/early-bird-museum-
+ highlight-tour-at-newport-car-museum/109638/
+LOCATION:Newport Car Museum\, Enter at Light 1947 West Main Road\, Portsmo
+ uth\, RI 02871
+URL:https://www.visitrhodeisland.com/event/early-bird-museum-highlight-tou
+ r-at-newport-car-museum/109638/
 END:VEVENT
 END:VCALENDAR
