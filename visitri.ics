@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:$15 Moonshine Flights & Moonshine Tasting
 DTSTART;VALUE=DATE:20250615
 DTEND;VALUE=DATE:20250616
-DTSTAMP:20261101T165532Z
+DTSTAMP:20261102T203001Z
 UID:b6432d870f2c0958f26453a40d59@visitri-calendar
 DESCRIPTION:Try a Moonshine Flight tasting at Moonshine Alley! Moonshine F
  lights are available daily for just $15! We have over 13 flavors to choose
@@ -20,10 +20,72 @@ URL:https://www.visitrhodeisland.com/event/%2415-moonshine-flights-%26-moo
  nshine-tasting/105663/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Music Bingo
+DTSTART;VALUE=DATE:20260202
+DTEND;VALUE=DATE:20260203
+DTSTAMP:20261102T203001Z
+UID:fc70501406040a1be454a9a67d53@visitri-calendar
+DESCRIPTION:Join us every Monday for music bingo at Torpedo Bar &amp\; Lou
+ nge! Enjoy a fun twist on the classic bingo game with great music\, featur
+ ed beverages\, rotating specialty menus\, and fantastic prizes. Bring your
+  friends and family\, and make it a weekly tradition!\n\nSource: https://w
+ ww.visitrhodeisland.com/event/music-bingo/108383/
+LOCATION:Torpedo Bar & Lounge\, 1 Goat Island Rd\, Newport\, RI 02840\, Ne
+ wport\, 02840
+URL:https://www.visitrhodeisland.com/event/music-bingo/108383/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Children's Weekly Storytime
+DTSTART;VALUE=DATE:20260330
+DTEND;VALUE=DATE:20260331
+DTSTAMP:20261102T203001Z
+UID:6a42c90422362e83701e98f899c2@visitri-calendar
+DESCRIPTION:Children's Storytime Join Elizabeth as she hosts storytime on 
+ Monday mornings at 10:30 AM. Every Monday\, Elizabeth will chose a book co
+ rrelating with the season or holiday. All children and their families are 
+ welcome to join!\n\nSource: https://www.visitrhodeisland.com/event/childre
+ ns-weekly-storytime/109524/
+LOCATION:Charter Books\, 8 Broadway\, Newport\, RI 02840 Time: 10:30 AM to
+  11:00 AM
+URL:https://www.visitrhodeisland.com/event/childrens-weekly-storytime/1095
+ 24/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Monday Night Trivia at Brick Pizza Co!
+DTSTART;VALUE=DATE:20260413
+DTEND;VALUE=DATE:20260414
+DTSTAMP:20261102T203001Z
+UID:a64d5409eaaf70c1a8337a30116a@visitri-calendar
+DESCRIPTION:Monday Night Trivia Every Monday in the Stone Room with the Ne
+ w England Trivia Company! 📅 Date: Every Monday ⏰ Time: 7:00 PM &#8211
+ \; 9:00 PM 💰 Price: FREE - Plus the chance to win gift cards! 🎟️ R
+ eservations: Available on OpenTable\n\nSource: https://www.visitrhodeislan
+ d.com/event/monday-night-trivia-at-brick-pizza-co!/109518/
+LOCATION:Brick Pizza Co.\, 500 Wood Street\, Bristol\, RI 02809 Time: 7:00
+  PM to 9:00 PM 500 Wood Street\, Bristol\, RI 02809 OFFICIAL RHODE ISLAND 
+ TRAVEL GUIDE Get Guide Get news from Visit Rhode Island in your inbox. Ind
+ ustry Partner Leisure Travel Sign Up Ratings Powered by Press Industry Tra
+ vel Trade Meetings & Conventions Contact Privacy Policy Sitemap Partner Po
+ rtal SMS Privacy Policy SMS Terms & Conditions UGC Terms and Conditions We
+ dding Planning Press Photos Story Ideas Fun-Sized Rhode Island Rhode Islan
+ d in the News Free Travel Guide Contact Visit Rhode Island Industry Travel
+  Trade Ideas & Itineraries Downton Abbey Lifestyle Rhode Island Foodways H
+ idden Gems Image Library Free Travel Guide Contact Visit Rhode Island Meet
+ ings & Conventions Contact Privacy Policy Sitemap Partner Portal SMS Priva
+ cy Policy SMS Terms & Conditions UGC Terms and Conditions Wedding Planning
+  Weddings - Venues Wedding - Catering Wedding - Cakes Wedding - Attire Wed
+ ding - Florists Wedding - Jewelers Wedding - Transportation © 2026 Rhode 
+ Island Commerce Corporation Special Offers Offers Here Looking to plan you
+ r next visit to Rhode Island\, check out some of the current special offer
+ s and enjoy savings\, extra perks and more! Offers Here
+URL:https://www.visitrhodeisland.com/event/monday-night-trivia-at-brick-pi
+ zza-co!/109518/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Beyond the Brewhouse Tour
 DTSTART;VALUE=DATE:20260515
 DTEND;VALUE=DATE:20260516
-DTSTAMP:20261101T165532Z
+DTSTAMP:20261102T203001Z
 UID:acc9d8e1d1bdab34c6766b602473@visitri-calendar
 DESCRIPTION:Beyond the Brewhouse Where: Newport Craft Brewing and Distilli
  ng\, 293 JT Connell Road\, Newport 45 minutes: $20 per person Did you know
@@ -39,47 +101,10 @@ URL:https://www.visitrhodeisland.com/event/beyond-the-brewhouse-tour/11015
  3/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Fused Mezuzah
-DTSTART;VALUE=DATE:20260621
-DTEND;VALUE=DATE:20260622
-DTSTAMP:20261101T165532Z
-UID:400ed9cb799c415138443406aa21@visitri-calendar
-DESCRIPTION:Create a meaningful and beautiful piece of glass art in this h
- ands-on fused glass mezuzah class. Participants will design and build a de
- corative glass mezuzah using colorful sheet glass\, frit\, and stringers. 
- You’ll explore composition\, color layering\, and basic glass-fusing tec
- hniques while creating a one-of-a-kind piece that reflects your personal s
- tyle. Once completed\, your mezuzah will be fired in our kiln. No prior gl
- ass experience is necessary—this class is beginner-friendly and guided s
- tep by step by one of our instructors. Important Note This class is for ed
- ucational/craft purposes\, the resulting glass is a decorative holder\, no
- t a ritually certified vessel\, and participants should consult a Rabbi fo
- r religious validity/kosher status of the scroll (klaf) and final product
- \, as the shop's process isn't halachically supervised. ⏳ Finished piece
- s will be ready for pickup approximately 2 weeks after class due to kiln f
- iring schedules. Ages &amp\; Safety Adults\, and children ages 9+. Childre
- n ages 9&#8211\;12 must be supervised one-on-one by an adult or teen. No e
- xceptions as this is a safety issue. Whether you’re creating this piece 
- for yourself\, as a gift\, or as a meaningful artistic exploration\, this 
- class offers a thoughtful blend of tradition\, creativity\, and molten mag
- ic. What to Expect An introduction to fused glass safety\, materials\, and
-  basic design techniques Design and assemble a decorative fused glass mezu
- zah front using sheet glass\, frit\, and stringers Your glass piece will b
- e kiln-fired after class and ready for pickup in approximately 2 weeks Par
- ticipants will be sent home with: A non-kosher scroll (klaf) A wooden mezu
- zah case Items are not assembled in class The finished glass mezuzah can b
- e adhered to the wooden case at home using E600 glue\, which is readily av
- ailable at most hardware stores\n\nSource: https://www.visitrhodeisland.co
- m/event/fused-mezuzah/110083/
-LOCATION:Blackstone River Glass Center\, 30 Meeting Street\, Cumberland\, 
- RI 02864
-URL:https://www.visitrhodeisland.com/event/fused-mezuzah/110083/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:$15 Moonshine Flights & Moonshine Tasting
 DTSTART;VALUE=DATE:20260721
 DTEND;VALUE=DATE:20260722
-DTSTAMP:20261101T165532Z
+DTSTAMP:20261102T203001Z
 UID:6ac059c408c431eceb1c3c855c19@visitri-calendar
 DESCRIPTION:Try a Moonshine Flight tasting at Moonshine Alley! Moonshine F
  lights are available daily for just $15! We have over 13 flavors to choose
@@ -92,35 +117,53 @@ URL:https://www.visitrhodeisland.com/event/%2415-moonshine-flights-%26-moo
  nshine-tasting/105663/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Jack-O-Lantern Spectacular
-DTSTART;VALUE=DATE:20261001
-DTEND;VALUE=DATE:20261002
-DTSTAMP:20261101T165532Z
-UID:a11cb847b167f6db3762e7d7aba4@visitri-calendar
-DESCRIPTION:Jack-O-Lantern Spectacular: The Great Pun-Kin Trail\, presente
- d by Citizens\, returns October 1 &#8211\; November 1 with an all-new trai
- l of clever carvings guaranteed to make you smile\, groan\, and laugh out 
- loud. This year’s theme celebrates the art of the pun\, with thousands o
- f hand-carved pumpkins bringing witty wordplay to life through pop culture
-  references\, playful characters and pun-believable scenes. From clever on
- e-liners to delightfully cheesy dad jokes\, there’s something to make ev
- ery guest grin as they stroll The Great Pun-Kin Trail\, where over 5\,000 
- glowing jack-o’-lanterns illuminate the Zoo. Don’t miss New England’
- s “must-see” family-friendly event of the Halloween season at Roger Wi
- lliams Park Zoo. All tickets must be purchased online in advance. Tickets 
- are required and sold online only. No refunds or rescheduling. Buy Tickets
- \n\nSource: https://www.visitrhodeisland.com/event/jack-o-lantern-spectacu
- lar/92071/
-LOCATION:Roger Williams Park Zoo\, 1000 Elmwood Avenue\, Providence\, RI 0
- 2907
-URL:https://www.visitrhodeisland.com/event/jack-o-lantern-spectacular/9207
- 1/
+SUMMARY:Life on the Avenue: Immigration\, Protest\, and Triumph on Federal
+  Hill
+DTSTART;VALUE=DATE:20260807
+DTEND;VALUE=DATE:20260808
+DTSTAMP:20261102T203001Z
+UID:72f32ec3c7ddaf31a0c995ce585b@visitri-calendar
+DESCRIPTION:Life on the Avenue: Immigration\, Protest\, and Triumph on Fed
+ eral Hill is a powerful\, story-driven walking tour that goes beyond the n
+ eighborhood’s celebrated food scene to uncover the journey for belonging
+  that shaped it. As you explore one of Providence’s most iconic district
+ s\, you’ll trace the journeys of Indigenous communities\, Irish and Ital
+ ian immigrants\, and modern newcomers—each group navigating hardship\, d
+ iscrimination\, and resilience in their fight to call this place home. Alo
+ ng the way\, you’ll stand where protests erupted\, revolutions nearly ig
+ nited\, and everyday people carved out lives against the odds. Blending ri
+ ch storytelling with local flavor and insider food recommendations\, this 
+ experience reveals Federal Hill not just as a destination—but as a battl
+ eground where identity\, power\, and community have been contested for gen
+ erations.\n\nSource: https://www.visitrhodeisland.com/event/life-on-the-av
+ enue%3a-immigration-protest-and-triumph-on-federal-hill/111313/
+LOCATION:Garibaldi Square\, 99 Atwells Avenue\, Providence\, RI 02903
+URL:https://www.visitrhodeisland.com/event/life-on-the-avenue%3a-immigrati
+ on-protest-and-triumph-on-federal-hill/111313/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Burritos & Bowls—Lunch Specials at Yellow Door Taqueria!
+DTSTART;VALUE=DATE:20260826
+DTEND;VALUE=DATE:20260827
+DTSTAMP:20261102T203001Z
+UID:cd9e59bf1148392bbbdd7c30628e@visitri-calendar
+DESCRIPTION:Our new Burrito &amp\; Bowl lunch specials have arrived at Yel
+ low Door Taqueria in downtown Providence! Perfect for dining in or taking 
+ back to the office\, turn your favorite taco into a delicious bowl or try 
+ a specialty burrito! Check out the full menu on our website! Available Mon
+ day-Friday\, 11:30 AM-5 PM!\n\nSource: https://www.visitrhodeisland.com/ev
+ ent/burritos-%26-bowls%e2%80%94lunch-specials-at-yellow-door-taqueria!/111
+ 544/
+LOCATION:Yellow Door Taqueria\, 191 Dorrance Street\, Providence\, RI 0290
+ 3
+URL:https://www.visitrhodeisland.com/event/burritos-%26-bowls%e2%80%94lunc
+ h-specials-at-yellow-door-taqueria!/111544/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Coastal Cruisers Fall Foliage Tours (+ Cider & Donuts)
 DTSTART;VALUE=DATE:20261021
 DTEND;VALUE=DATE:20261022
-DTSTAMP:20261101T165532Z
+DTSTAMP:20261102T203001Z
 UID:6d1f100e0388a1db3baa480bef75@visitri-calendar
 DESCRIPTION:Coastal Cruisers Fall Foliage Tours (+ Cider &amp\; Donuts) Ex
  perience Newport at its most beautiful on our 2-hour Fall Foliage Tour. Tr
@@ -155,10 +198,10 @@ URL:https://www.visitrhodeisland.com/event/coastal-cruisers-fall-foliage-t
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:A New England Thanksgiving
-DTSTART;VALUE=DATE:20261101
-DTEND;VALUE=DATE:20261102
-DTSTAMP:20261101T165532Z
-UID:cd78bfa1eeb7b9706917154fcb81@visitri-calendar
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+DTSTAMP:20261102T203001Z
+UID:8752ce99399b853423fb4fa0c028@visitri-calendar
 DESCRIPTION:Join the Coggeshall staff as we prepare a Thanksgiving meal ov
  er the hearth in our historic farmhouse. The late 18th century was before 
  the official start of Thanksgiving as a national holiday\, but the day was
@@ -178,124 +221,11 @@ URL:https://www.visitrhodeisland.com/event/a-new-england-thanksgiving/1121
  16/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Cars & Coffee — Trunk or Treat at Fort Adams 🎃
-DTSTART;VALUE=DATE:20261101
-DTEND;VALUE=DATE:20261102
-DTSTAMP:20261101T165532Z
-UID:63299ed12caef2ddf1e4f5bb68ae@visitri-calendar
-DESCRIPTION:Cars &amp\; Coffee - Annual Trunk or Treat 🎃 When: Sunday\,
-  November 1st from 10:00 AM to 12:00 PM at Fort Adams Cars &amp\; Coffee\,
-  hosted by the Audrain Automobile Museum\, has grown exponentially since t
- he start - now eight years ago\, only 52 cars appeared at the first event!
-  The Cars &amp\; Coffee family has expanded\, now consistently seeing 350-
- 400 cars on the field and more than 1\,000 at the Motor Week event. We fee
- l that Cars &amp\; Coffee is now the backbone Audrain Automobile Museum an
- d the local car community as well. Cheers to another season! Below are a c
- ouple reminders for the 2026 Season: For Audrain Members\, registration wi
- ll open the Monday before each of the Cars &amp\; Coffee events and public
-  registration will open on the Wednesday before each of the Cars &amp\; Co
- ffee events. In order to register for one of the Cars &amp\; Coffee events
- \, you must be subscribed to our email list. You cannot register for any o
- f the Cars &amp\; Coffee events through the Audrain website or over the ph
- one. Only Vehicles are required to register for the event. Guests of drive
- rs\, and spectators do not need to register. *All events are subject to ch
- ange. All events are rain or shine unless noted.\n\nSource: https://www.vi
- sitrhodeisland.com/event/cars-%26-coffee-%e2%80%94-trunk-or-treat-at-fort-
- adams-%f0%9f%8e%83/110035/
-LOCATION:Fort Adams North Lawn\, Fort Adams North Lawn\, Fort Adams Drive
- \, Newport\, RI 02840 Time: 10:00 AM to 12:00 AM
-URL:https://www.visitrhodeisland.com/event/cars-%26-coffee-%e2%80%94-trunk
- -or-treat-at-fort-adams-%f0%9f%8e%83/110035/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Colt State Park Half Marathon
-DTSTART;VALUE=DATE:20261101
-DTEND;VALUE=DATE:20261102
-DTSTAMP:20261101T165532Z
-UID:7f58499c9d54c66067fbae098058@visitri-calendar
-DESCRIPTION:13.1 miles of New England Coastline. A traditional style road 
- race on the shores of Narragansett Bay\, with coastal views and a fast\, f
- lat course. An Ocean State Running Tradition. Join us for a beautiful\, oc
- ean-side race in our little seaside community. Strictly limited to just 40
- 0 runners. Presented by the fine folks Foundation Performance Sports Medic
- ine.\n\nSource: https://www.visitrhodeisland.com/event/colt-state-park-hal
- f-marathon/112489/
-LOCATION:Colt State Park\, Route 114\, Bristol\, RI 02809 Route 114\, Bris
- tol\, RI 02809 OFFICIAL RHODE ISLAND TRAVEL GUIDE Get Guide Get news from 
- Visit Rhode Island in your inbox. Industry Partner Leisure Travel Sign Up 
- Ratings Powered by Press Industry Travel Trade Meetings & Conventions Cont
- act Privacy Policy Sitemap Partner Portal SMS Privacy Policy SMS Terms & C
- onditions UGC Terms and Conditions Wedding Planning Press Photos Story Ide
- as Fun-Sized Rhode Island Rhode Island in the News Free Travel Guide Conta
- ct Visit Rhode Island Industry Travel Trade Ideas & Itineraries Downton Ab
- bey Lifestyle Rhode Island Foodways Hidden Gems Image Library Free Travel 
- Guide Contact Visit Rhode Island Meetings & Conventions Contact Privacy Po
- licy Sitemap Partner Portal SMS Privacy Policy SMS Terms & Conditions UGC 
- Terms and Conditions Wedding Planning Weddings - Venues Wedding - Catering
-  Wedding - Cakes Wedding - Attire Wedding - Florists Wedding - Jewelers We
- dding - Transportation © 2026 Rhode Island Commerce Corporation Special O
- ffers Offers Here Looking to plan your next visit to Rhode Island\, check 
- out some of the current special offers and enjoy savings\, extra perks and
-  more! Offers Here
-URL:https://www.visitrhodeisland.com/event/colt-state-park-half-marathon/1
- 12489/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dia de los Muertos Community Ofrenda in Providence
-DTSTART;VALUE=DATE:20261101
-DTEND;VALUE=DATE:20261102
-DTSTAMP:20261101T165532Z
-UID:177fb09ae5a5689bbfa5e663dda7@visitri-calendar
-DESCRIPTION:New England Donor Services (NEDS) will partner with Rhode Isla
- nd Latino Arts (RILA) for Day of the Dead (“Día de los Muertos”) cele
- brations on Sunday\, November 1st at the Southside Cultural Center in Prov
- idence. This free\, public event from 5:30 p.m. to 7:00 p.m. ET will featu
- re a display of a traditional community ofrenda (altar) honoring deceased 
- loved ones. NEDS will present an ofrenda with a photo collage of organ don
- ors to pay tribute to those who have given the gift of life through organ 
- donation\, while also raising awareness about the vital need for organ don
- ors. The event will feature: Ingrid Palacios\, Senior Multicultural Progra
- m Manager at New England Donor Services and Done Vida New England Marta V.
-  Martinez\, Executive Director of Rhode Island Latino Arts (RILA) Local ar
- tists and performers Donor families and transplant recipients\n\nSource: h
- ttps://www.visitrhodeisland.com/event/dia-de-los-muertos-community-ofrenda
- -in-providence/112408/
-LOCATION:Southside Cultural Center\, 393 Broad Street\, Providence\, 02907
-  Time: 5:30 PM to 7:00 PM
-URL:https://www.visitrhodeisland.com/event/dia-de-los-muertos-community-of
- renda-in-providence/112408/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Jack-O-Lantern Spectacular
-DTSTART;VALUE=DATE:20261101
-DTEND;VALUE=DATE:20261102
-DTSTAMP:20261101T165532Z
-UID:ddc52d2e1f830141a3c1c36cbc2b@visitri-calendar
-DESCRIPTION:Jack-O-Lantern Spectacular: The Great Pun-Kin Trail\, presente
- d by Citizens\, returns October 1 &#8211\; November 1 with an all-new trai
- l of clever carvings guaranteed to make you smile\, groan\, and laugh out 
- loud. This year’s theme celebrates the art of the pun\, with thousands o
- f hand-carved pumpkins bringing witty wordplay to life through pop culture
-  references\, playful characters and pun-believable scenes. From clever on
- e-liners to delightfully cheesy dad jokes\, there’s something to make ev
- ery guest grin as they stroll The Great Pun-Kin Trail\, where over 5\,000 
- glowing jack-o’-lanterns illuminate the Zoo. Don’t miss New England’
- s “must-see” family-friendly event of the Halloween season at Roger Wi
- lliams Park Zoo. All tickets must be purchased online in advance. Tickets 
- are required and sold online only. No refunds or rescheduling. Buy Tickets
- \n\nSource: https://www.visitrhodeisland.com/event/jack-o-lantern-spectacu
- lar/92071/
-LOCATION:Roger Williams Park Zoo\, 1000 Elmwood Avenue\, Providence\, RI 0
- 2907
-URL:https://www.visitrhodeisland.com/event/jack-o-lantern-spectacular/9207
- 1/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Santa Magic in Long Wharf
-DTSTART;VALUE=DATE:20261101
-DTEND;VALUE=DATE:20261102
-DTSTAMP:20261101T165532Z
-UID:79f82add1bb34150089dce92eb17@visitri-calendar
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+DTSTAMP:20261102T203001Z
+UID:cc963bf26857825844aa3a08e005@visitri-calendar
 DESCRIPTION:🎄✨ Holiday Tree Lighting Event!✨🎄 Mark your calendar
  s! The holiday season is kicking off at the Shops of Long Wharf\, and you 
  won’t want to miss it! 🎅🎁 📅 When: Saturday\, November 28th Rain
@@ -318,7 +248,7 @@ BEGIN:VEVENT
 SUMMARY:Newport Restaurant Week 2026
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
-DTSTAMP:20261101T165532Z
+DTSTAMP:20261102T203001Z
 UID:26ef1c44e7914743227eba719da9@visitri-calendar
 DESCRIPTION:The flavors of nine coastal communities\, all rolled up into o
  ne savory week. Newport Restaurant Week now takes place annually each fall
@@ -355,7 +285,7 @@ BEGIN:VEVENT
 SUMMARY:Coastal Cruisers Fall Foliage Tours (+ Cider & Donuts)
 DTSTART;VALUE=DATE:20261108
 DTEND;VALUE=DATE:20261109
-DTSTAMP:20261101T165532Z
+DTSTAMP:20261102T203001Z
 UID:e1fcc4c4473790f87586b7c6c5bf@visitri-calendar
 DESCRIPTION:Coastal Cruisers Fall Foliage Tours (+ Cider &amp\; Donuts) Ex
  perience Newport at its most beautiful on our 2-hour Fall Foliage Tour. Tr
@@ -392,7 +322,7 @@ BEGIN:VEVENT
 SUMMARY:Newport Restaurant Week 2026
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
-DTSTAMP:20261101T165532Z
+DTSTAMP:20261102T203001Z
 UID:b07ae03f428a5f6f986ffdf404a3@visitri-calendar
 DESCRIPTION:The flavors of nine coastal communities\, all rolled up into o
  ne savory week. Newport Restaurant Week now takes place annually each fall
@@ -429,7 +359,7 @@ BEGIN:VEVENT
 SUMMARY:A New England Thanksgiving
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
-DTSTAMP:20261101T165532Z
+DTSTAMP:20261102T203001Z
 UID:21d35714802ba10832a84ed3bbac@visitri-calendar
 DESCRIPTION:Join the Coggeshall staff as we prepare a Thanksgiving meal ov
  er the hearth in our historic farmhouse. The late 18th century was before 
@@ -453,7 +383,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
-DTSTAMP:20261101T165532Z
+DTSTAMP:20261102T203001Z
 UID:d5932912a26459263f74067ed3d2@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -481,7 +411,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
-DTSTAMP:20261101T165532Z
+DTSTAMP:20261102T203001Z
 UID:f83dbecb85872dc3b9715683d412@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -509,7 +439,7 @@ BEGIN:VEVENT
 SUMMARY:Santa Magic in Long Wharf
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
-DTSTAMP:20261101T165532Z
+DTSTAMP:20261102T203001Z
 UID:87475b86156a7bb04dfea6f34ef6@visitri-calendar
 DESCRIPTION:🎄✨ Holiday Tree Lighting Event!✨🎄 Mark your calendar
  s! The holiday season is kicking off at the Shops of Long Wharf\, and you 
@@ -533,7 +463,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
-DTSTAMP:20261101T165532Z
+DTSTAMP:20261102T203001Z
 UID:b086f1bd58d78d3d3eb4b27c4e80@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -561,7 +491,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
-DTSTAMP:20261101T165532Z
+DTSTAMP:20261102T203001Z
 UID:a07e4e611fb4e8a3b793ee3d6baa@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -589,7 +519,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
-DTSTAMP:20261101T165532Z
+DTSTAMP:20261102T203001Z
 UID:0e0d137da86e729e9b7c503df973@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -617,7 +547,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
-DTSTAMP:20261101T165532Z
+DTSTAMP:20261102T203001Z
 UID:ccc9d94ce27546581c6bf2b71fd9@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -646,7 +576,7 @@ SUMMARY:Bosgraaf Stained Glass Studio’s 11th Annual Holiday Sale & Hot C
  hocolate Happening!
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
-DTSTAMP:20261101T165532Z
+DTSTAMP:20261102T203001Z
 UID:be911d47885e79be62ea5f4dfca4@visitri-calendar
 DESCRIPTION:All are invited to Bosgraaf Stained Glass Studio’s 11th Annu
  al Holiday Sale\, featuring original glass works from over 60 student arti
@@ -681,7 +611,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
-DTSTAMP:20261101T165532Z
+DTSTAMP:20261102T203001Z
 UID:db8b766041237fea9b154b360279@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -709,7 +639,7 @@ BEGIN:VEVENT
 SUMMARY:The Intentional Celebration: Holiday Edition
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
-DTSTAMP:20261101T165532Z
+DTSTAMP:20261102T203001Z
 UID:6f484250684bf2271dde2a31e276@visitri-calendar
 DESCRIPTION:The Intentional Celebration: Holiday Edition is a two-day indo
  or holiday market and immersive Christmas experience taking place December
@@ -740,7 +670,7 @@ SUMMARY:Bosgraaf Stained Glass Studio’s 11th Annual Holiday Sale & Hot C
  hocolate Happening!
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
-DTSTAMP:20261101T165532Z
+DTSTAMP:20261102T203001Z
 UID:be38fc7a5f892549ae1dbf46140c@visitri-calendar
 DESCRIPTION:All are invited to Bosgraaf Stained Glass Studio’s 11th Annu
  al Holiday Sale\, featuring original glass works from over 60 student arti
@@ -772,47 +702,10 @@ URL:https://www.visitrhodeisland.com/event/bosgraaf-stained-glass-studio%e
  2%80%99s-11th-annual-holiday-sale-%26-hot-chocolate-happening!/112486/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Fused Mezuzah
-DTSTART;VALUE=DATE:20261206
-DTEND;VALUE=DATE:20261207
-DTSTAMP:20261101T165532Z
-UID:71059d8e0a03713f9746ac1d27f1@visitri-calendar
-DESCRIPTION:Create a meaningful and beautiful piece of glass art in this h
- ands-on fused glass mezuzah class. Participants will design and build a de
- corative glass mezuzah using colorful sheet glass\, frit\, and stringers. 
- You’ll explore composition\, color layering\, and basic glass-fusing tec
- hniques while creating a one-of-a-kind piece that reflects your personal s
- tyle. Once completed\, your mezuzah will be fired in our kiln. No prior gl
- ass experience is necessary—this class is beginner-friendly and guided s
- tep by step by one of our instructors. Important Note This class is for ed
- ucational/craft purposes\, the resulting glass is a decorative holder\, no
- t a ritually certified vessel\, and participants should consult a Rabbi fo
- r religious validity/kosher status of the scroll (klaf) and final product
- \, as the shop's process isn't halachically supervised. ⏳ Finished piece
- s will be ready for pickup approximately 2 weeks after class due to kiln f
- iring schedules. Ages &amp\; Safety Adults\, and children ages 9+. Childre
- n ages 9&#8211\;12 must be supervised one-on-one by an adult or teen. No e
- xceptions as this is a safety issue. Whether you’re creating this piece 
- for yourself\, as a gift\, or as a meaningful artistic exploration\, this 
- class offers a thoughtful blend of tradition\, creativity\, and molten mag
- ic. What to Expect An introduction to fused glass safety\, materials\, and
-  basic design techniques Design and assemble a decorative fused glass mezu
- zah front using sheet glass\, frit\, and stringers Your glass piece will b
- e kiln-fired after class and ready for pickup in approximately 2 weeks Par
- ticipants will be sent home with: A non-kosher scroll (klaf) A wooden mezu
- zah case Items are not assembled in class The finished glass mezuzah can b
- e adhered to the wooden case at home using E600 glue\, which is readily av
- ailable at most hardware stores\n\nSource: https://www.visitrhodeisland.co
- m/event/fused-mezuzah/110083/
-LOCATION:Blackstone River Glass Center\, 30 Meeting Street\, Cumberland\, 
- RI 02864
-URL:https://www.visitrhodeisland.com/event/fused-mezuzah/110083/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
-DTSTAMP:20261101T165532Z
+DTSTAMP:20261102T203001Z
 UID:4b643200b30e60635e855ddfbcdb@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -840,7 +733,7 @@ BEGIN:VEVENT
 SUMMARY:The Intentional Celebration: Holiday Edition
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
-DTSTAMP:20261101T165532Z
+DTSTAMP:20261102T203001Z
 UID:f0031a8c4f9ec38b7e0300063594@visitri-calendar
 DESCRIPTION:The Intentional Celebration: Holiday Edition is a two-day indo
  or holiday market and immersive Christmas experience taking place December
@@ -870,7 +763,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261211
-DTSTAMP:20261101T165532Z
+DTSTAMP:20261102T203001Z
 UID:f1266d72481edfcb924f687a42f0@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -898,7 +791,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
-DTSTAMP:20261101T165532Z
+DTSTAMP:20261102T203001Z
 UID:b2668ced84621f351ee2e743ffd9@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -926,7 +819,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
-DTSTAMP:20261101T165532Z
+DTSTAMP:20261102T203001Z
 UID:756ae7e966f3899cb85d7657b4e5@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -954,7 +847,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261213
 DTEND;VALUE=DATE:20261214
-DTSTAMP:20261101T165532Z
+DTSTAMP:20261102T203001Z
 UID:6926863c714413a4b343c291725f@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -982,7 +875,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
-DTSTAMP:20261101T165532Z
+DTSTAMP:20261102T203001Z
 UID:10f1f0a03ceb6ce5b9d0f1112413@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -1010,7 +903,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261220
 DTEND;VALUE=DATE:20261221
-DTSTAMP:20261101T165532Z
+DTSTAMP:20261102T203001Z
 UID:4b4bda68b74fdf0bae1d4834ec2b@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -1035,10 +928,57 @@ URL:https://www.visitrhodeisland.com/event/sparkling-lights-at-the-breaker
  s/112249/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Children's Weekly Storytime
+DTSTART;VALUE=DATE:20261221
+DTEND;VALUE=DATE:20261222
+DTSTAMP:20261102T203001Z
+UID:505c13cc68dfd1161c6032fdf540@visitri-calendar
+DESCRIPTION:Children's Storytime Join Elizabeth as she hosts storytime on 
+ Monday mornings at 10:30 AM. Every Monday\, Elizabeth will chose a book co
+ rrelating with the season or holiday. All children and their families are 
+ welcome to join!\n\nSource: https://www.visitrhodeisland.com/event/childre
+ ns-weekly-storytime/109524/
+LOCATION:Charter Books\, 8 Broadway\, Newport\, RI 02840 Time: 10:30 AM to
+  11:00 AM
+URL:https://www.visitrhodeisland.com/event/childrens-weekly-storytime/1095
+ 24/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Monday Night Trivia at Brick Pizza Co!
+DTSTART;VALUE=DATE:20261221
+DTEND;VALUE=DATE:20261222
+DTSTAMP:20261102T203001Z
+UID:72fa33eda49806a42c75b2709ee8@visitri-calendar
+DESCRIPTION:Monday Night Trivia Every Monday in the Stone Room with the Ne
+ w England Trivia Company! 📅 Date: Every Monday ⏰ Time: 7:00 PM &#8211
+ \; 9:00 PM 💰 Price: FREE - Plus the chance to win gift cards! 🎟️ R
+ eservations: Available on OpenTable\n\nSource: https://www.visitrhodeislan
+ d.com/event/monday-night-trivia-at-brick-pizza-co!/109518/
+LOCATION:Brick Pizza Co.\, 500 Wood Street\, Bristol\, RI 02809 Time: 7:00
+  PM to 9:00 PM 500 Wood Street\, Bristol\, RI 02809 OFFICIAL RHODE ISLAND 
+ TRAVEL GUIDE Get Guide Get news from Visit Rhode Island in your inbox. Ind
+ ustry Partner Leisure Travel Sign Up Ratings Powered by Press Industry Tra
+ vel Trade Meetings & Conventions Contact Privacy Policy Sitemap Partner Po
+ rtal SMS Privacy Policy SMS Terms & Conditions UGC Terms and Conditions We
+ dding Planning Press Photos Story Ideas Fun-Sized Rhode Island Rhode Islan
+ d in the News Free Travel Guide Contact Visit Rhode Island Industry Travel
+  Trade Ideas & Itineraries Downton Abbey Lifestyle Rhode Island Foodways H
+ idden Gems Image Library Free Travel Guide Contact Visit Rhode Island Meet
+ ings & Conventions Contact Privacy Policy Sitemap Partner Portal SMS Priva
+ cy Policy SMS Terms & Conditions UGC Terms and Conditions Wedding Planning
+  Weddings - Venues Wedding - Catering Wedding - Cakes Wedding - Attire Wed
+ ding - Florists Wedding - Jewelers Wedding - Transportation © 2026 Rhode 
+ Island Commerce Corporation Special Offers Offers Here Looking to plan you
+ r next visit to Rhode Island\, check out some of the current special offer
+ s and enjoy savings\, extra perks and more! Offers Here
+URL:https://www.visitrhodeisland.com/event/monday-night-trivia-at-brick-pi
+ zza-co!/109518/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261221
 DTEND;VALUE=DATE:20261222
-DTSTAMP:20261101T165532Z
+DTSTAMP:20261102T203001Z
 UID:5cc6a0eb17a87a57c77fb4a1ee98@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -1066,7 +1006,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261222
 DTEND;VALUE=DATE:20261223
-DTSTAMP:20261101T165532Z
+DTSTAMP:20261102T203001Z
 UID:8b50234eb8215ed0c936d7b3f2fd@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -1094,7 +1034,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261223
 DTEND;VALUE=DATE:20261224
-DTSTAMP:20261101T165532Z
+DTSTAMP:20261102T203001Z
 UID:64494d8f54810a3b19a989acc268@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -1119,10 +1059,35 @@ URL:https://www.visitrhodeisland.com/event/sparkling-lights-at-the-breaker
  s/112249/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Life on the Avenue: Immigration\, Protest\, and Triumph on Federal
+  Hill
+DTSTART;VALUE=DATE:20261224
+DTEND;VALUE=DATE:20261225
+DTSTAMP:20261102T203001Z
+UID:b647795e53ce8e44e67b534819a6@visitri-calendar
+DESCRIPTION:Life on the Avenue: Immigration\, Protest\, and Triumph on Fed
+ eral Hill is a powerful\, story-driven walking tour that goes beyond the n
+ eighborhood’s celebrated food scene to uncover the journey for belonging
+  that shaped it. As you explore one of Providence’s most iconic district
+ s\, you’ll trace the journeys of Indigenous communities\, Irish and Ital
+ ian immigrants\, and modern newcomers—each group navigating hardship\, d
+ iscrimination\, and resilience in their fight to call this place home. Alo
+ ng the way\, you’ll stand where protests erupted\, revolutions nearly ig
+ nited\, and everyday people carved out lives against the odds. Blending ri
+ ch storytelling with local flavor and insider food recommendations\, this 
+ experience reveals Federal Hill not just as a destination—but as a battl
+ eground where identity\, power\, and community have been contested for gen
+ erations.\n\nSource: https://www.visitrhodeisland.com/event/life-on-the-av
+ enue%3a-immigration-protest-and-triumph-on-federal-hill/111313/
+LOCATION:Garibaldi Square\, 99 Atwells Avenue\, Providence\, RI 02903
+URL:https://www.visitrhodeisland.com/event/life-on-the-avenue%3a-immigrati
+ on-protest-and-triumph-on-federal-hill/111313/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261226
 DTEND;VALUE=DATE:20261227
-DTSTAMP:20261101T165532Z
+DTSTAMP:20261102T203001Z
 UID:d9203cb0c583483c1e644796bce0@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -1150,7 +1115,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261227
 DTEND;VALUE=DATE:20261228
-DTSTAMP:20261101T165532Z
+DTSTAMP:20261102T203001Z
 UID:ecdbb4492e88d8b279d5f0235b57@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -1175,10 +1140,25 @@ URL:https://www.visitrhodeisland.com/event/sparkling-lights-at-the-breaker
  s/112249/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Music Bingo
+DTSTART;VALUE=DATE:20261228
+DTEND;VALUE=DATE:20261229
+DTSTAMP:20261102T203001Z
+UID:76431d4e4041fa10d941580b5e46@visitri-calendar
+DESCRIPTION:Join us every Monday for music bingo at Torpedo Bar &amp\; Lou
+ nge! Enjoy a fun twist on the classic bingo game with great music\, featur
+ ed beverages\, rotating specialty menus\, and fantastic prizes. Bring your
+  friends and family\, and make it a weekly tradition!\n\nSource: https://w
+ ww.visitrhodeisland.com/event/music-bingo/108383/
+LOCATION:Torpedo Bar & Lounge\, 1 Goat Island Rd\, Newport\, RI 02840\, Ne
+ wport\, 02840
+URL:https://www.visitrhodeisland.com/event/music-bingo/108383/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Beyond the Brewhouse Tour
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
-DTSTAMP:20261101T165532Z
+DTSTAMP:20261102T203001Z
 UID:c7b48636db9ede5f5acbbb263d31@visitri-calendar
 DESCRIPTION:Beyond the Brewhouse Where: Newport Craft Brewing and Distilli
  ng\, 293 JT Connell Road\, Newport 45 minutes: $20 per person Did you know
@@ -1192,5 +1172,23 @@ LOCATION:Newport Craft Brewing & Distilling Company\, 293 JT Connell Road
  \, Newport\, RI 02840 Time: 45 minutes: Tour start time varies by booking.
 URL:https://www.visitrhodeisland.com/event/beyond-the-brewhouse-tour/11015
  3/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Burritos & Bowls—Lunch Specials at Yellow Door Taqueria!
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+DTSTAMP:20261102T203001Z
+UID:a47385cf36c194bcd701d4733276@visitri-calendar
+DESCRIPTION:Our new Burrito &amp\; Bowl lunch specials have arrived at Yel
+ low Door Taqueria in downtown Providence! Perfect for dining in or taking 
+ back to the office\, turn your favorite taco into a delicious bowl or try 
+ a specialty burrito! Check out the full menu on our website! Available Mon
+ day-Friday\, 11:30 AM-5 PM!\n\nSource: https://www.visitrhodeisland.com/ev
+ ent/burritos-%26-bowls%e2%80%94lunch-specials-at-yellow-door-taqueria!/111
+ 544/
+LOCATION:Yellow Door Taqueria\, 191 Dorrance Street\, Providence\, RI 0290
+ 3
+URL:https://www.visitrhodeisland.com/event/burritos-%26-bowls%e2%80%94lunc
+ h-specials-at-yellow-door-taqueria!/111544/
 END:VEVENT
 END:VCALENDAR
