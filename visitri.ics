@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:$15 Moonshine Flights & Moonshine Tasting
 DTSTART;VALUE=DATE:20250615
 DTEND;VALUE=DATE:20250616
-DTSTAMP:20261107T163656Z
+DTSTAMP:20261108T164655Z
 UID:b6432d870f2c0958f26453a40d59@visitri-calendar
 DESCRIPTION:Try a Moonshine Flight tasting at Moonshine Alley! Moonshine F
  lights are available daily for just $15! We have over 13 flavors to choose
@@ -23,7 +23,7 @@ BEGIN:VEVENT
 SUMMARY:Beyond the Brewhouse Tour
 DTSTART;VALUE=DATE:20260515
 DTEND;VALUE=DATE:20260516
-DTSTAMP:20261107T163656Z
+DTSTAMP:20261108T164655Z
 UID:acc9d8e1d1bdab34c6766b602473@visitri-calendar
 DESCRIPTION:Beyond the Brewhouse Where: Newport Craft Brewing and Distilli
  ng\, 293 JT Connell Road\, Newport 45 minutes: $20 per person Did you know
@@ -42,7 +42,7 @@ BEGIN:VEVENT
 SUMMARY:$15 Moonshine Flights & Moonshine Tasting
 DTSTART;VALUE=DATE:20260721
 DTEND;VALUE=DATE:20260722
-DTSTAMP:20261107T163656Z
+DTSTAMP:20261108T164655Z
 UID:6ac059c408c431eceb1c3c855c19@visitri-calendar
 DESCRIPTION:Try a Moonshine Flight tasting at Moonshine Alley! Moonshine F
  lights are available daily for just $15! We have over 13 flavors to choose
@@ -58,7 +58,7 @@ BEGIN:VEVENT
 SUMMARY:Coastal Cruisers Fall Foliage Tours (+ Cider & Donuts)
 DTSTART;VALUE=DATE:20261021
 DTEND;VALUE=DATE:20261022
-DTSTAMP:20261107T163656Z
+DTSTAMP:20261108T164655Z
 UID:6d1f100e0388a1db3baa480bef75@visitri-calendar
 DESCRIPTION:Coastal Cruisers Fall Foliage Tours (+ Cider &amp\; Donuts) Ex
  perience Newport at its most beautiful on our 2-hour Fall Foliage Tour. Tr
@@ -92,36 +92,10 @@ URL:https://www.visitrhodeisland.com/event/coastal-cruisers-fall-foliage-t
  ours-(%2b-cider-%26-donuts)/112431/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Chris Hardwick at Comedy Connection
-DTSTART;VALUE=DATE:20261105
-DTEND;VALUE=DATE:20261106
-DTSTAMP:20261107T163656Z
-UID:b977945508752ef89a1add71b155@visitri-calendar
-DESCRIPTION:Chris Hardwick is a comedian\, actor\, TV host\, author\, musi
- cian\, writer\, producer\, and podcaster best known for his work as the ho
- st of the Emmy-nominated Talking Dead\, the after-show which discusses all
-  things The Walking Dead. His podcast\, Id10t\, attracts some of the world
- 's most influential people\, including Sir Paul McCartney\, Jordan Peele\,
-  Jamie Lee Curtis\, and Tom Hanks. Hardwick is also the host and executive
-  producer of NBC's hit game show series The Wall\, featuring everyday peop
- le and families competing for life-altering amounts of money. Previously\,
-  he hosted the two-time Emmy Award-winning Comedy Central show\, @midnight
- \, a comedy game show which ran for six hundred episodes. His production c
- ompany\, Fish Ladder\, has a first-look deal with AMC Studios where severa
- l projects are currently in development. Hardwick is one of today's top to
- uring comedians and is currently performing his stand-up tour across Ameri
- ca. Hardwick resides in California with his wife\, Lydia\, and their daugh
- ter\, Dimity.\n\nSource: https://www.visitrhodeisland.com/event/chris-hard
- wick-at-comedy-connection/111880/
-LOCATION:Comedy Connection\, 39 Warren Avenue\, East Providence\, RI 02914
-URL:https://www.visitrhodeisland.com/event/chris-hardwick-at-comedy-connec
- tion/111880/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Newport Restaurant Week 2026
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
-DTSTAMP:20261107T163656Z
+DTSTAMP:20261108T164655Z
 UID:26ef1c44e7914743227eba719da9@visitri-calendar
 DESCRIPTION:The flavors of nine coastal communities\, all rolled up into o
  ne savory week. Newport Restaurant Week now takes place annually each fall
@@ -155,11 +129,53 @@ URL:https://www.visitrhodeisland.com/event/newport-restaurant-week-2026/11
  2499/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:A New England Thanksgiving
+SUMMARY:Fine Arts and Artisans Holiday Marketplace
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261108
-DTSTAMP:20261107T163656Z
-UID:6f1a0ecba10ef48887051594bc87@visitri-calendar
+DTSTAMP:20261108T164655Z
+UID:7f90c5f759ca34ea18f85f257f0f@visitri-calendar
+DESCRIPTION:Annual Fine Arts and Artisans Holiday Marketplace November 7&#
+ 8211\;December 23\, 2026 | Middletown\, Rhode Island Opening Reception Sat
+ urday November 7th\, 5:00 - 7:00 PM Holiday Party Saturday December 5th\, 
+ 5:00 - 7:00 PM Gallery Nights Thursday November 12th and December 10th\, 5
+ :00 - 7:00 PM DeBlois Gallery is delighted to present its annual Fine Arts
+  and Artisans Marketplace from Nov. 7 &#8211\; Dec. 23\, 2026\, bringing t
+ ogether original artwork and handcrafted gifts for the holiday season. Spa
+ nning November and December\, the marketplace will offer visitors a two-mo
+ nth period to shop for distinctive gifts while supporting local artists an
+ d artisans. The diverse selection includes ornaments\, jewelry\, wearable 
+ art\, prints\, paintings\, pottery and holiday cards. Fine art and crafts 
+ share the gallery space\, offering an inviting mix of pieces to display\, 
+ wear\, use and give. For shoppers seeking gifts with a personal connection
+ \, the marketplace offers choices ranging from jewelry to suit your indivi
+ dual style\, to pottery and original artwork that add an artistic touch to
+  your home. There are also hand-crafted holiday ornaments and cards ideal 
+ for observing seasonal traditions. DeBlois gift certificates will also be 
+ available\, the perfect present for recipients to choose a work that speak
+ s to them. As one of Rhode Island’s few cooperative galleries\, DeBlois 
+ offers a distinctive setting shaped by the artists who love the space\, br
+ inging a variety of creative perspectives into one shared space where visi
+ tors can discover different styles and media in a welcoming atmosphere. Th
+ e holiday marketplace reflects that spirit\, celebrating individual crafts
+ manship and the collective creativity of the gallery community. Participat
+ ing artists are available for interviews upon request. Deblois Gallery is 
+ located at 134 Aquidneck Avenue in Middletown and is open Wednesday throug
+ h Sunday\, from 1:00 - 5:00 PM. All are welcome\, and ample free parking i
+ s available. Visit www.debloisgallery.com or follow the gallery on Instagr
+ am and Facebook for updates on participating artists and holiday events. M
+ edia contact: Michael Day | dr.mday@gmail.com Gallery: (401) 847-9977 | ww
+ w.debloisgallery.com Instagram / Facebook\n\nSource: https://www.visitrhod
+ eisland.com/event/fine-arts-and-artisans-holiday-marketplace/112555/
+LOCATION:DeBlois Gallery\, 134 Aquidneck Avenue\, Middletown\, RI 02842
+URL:https://www.visitrhodeisland.com/event/fine-arts-and-artisans-holiday-
+ marketplace/112555/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A New England Thanksgiving
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+DTSTAMP:20261108T164655Z
+UID:0706be5d27f4a9d3b565338261a5@visitri-calendar
 DESCRIPTION:Join the Coggeshall staff as we prepare a Thanksgiving meal ov
  er the hearth in our historic farmhouse. The late 18th century was before 
  the official start of Thanksgiving as a national holiday\, but the day was
@@ -179,153 +195,85 @@ URL:https://www.visitrhodeisland.com/event/a-new-england-thanksgiving/1121
  16/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Asbury UMC Annual Christmas Village Bazaar
-DTSTART;VALUE=DATE:20261107
-DTEND;VALUE=DATE:20261108
-DTSTAMP:20261107T163656Z
-UID:c50e3f1a76f5aeddda793ebe85f2@visitri-calendar
-DESCRIPTION:Join us for our free annual Christmas Village Bazaar Saturday
- \, November 7 from 9am til 2pm. Asbury UM Church is located at 550 Fair St
- reet just off Narragansett Parkway in Warwick RI. Baked goods\, including 
- our famous Swedish coffee bread\, gift baskets\, jewelry\, toys\, Christma
- s decor\, household gifts\, purses and more! We have food\, too so stay fo
- r lunch or take it with you! There is no admission charge and the event is
-  inside the church so no weather issues! Proceeds help us in our mission. 
- A great way to find gifts for others and yourself! We can’t wait to gree
- t you November 7!\n\nSource: https://www.visitrhodeisland.com/event/asbury
- -umc-annual-christmas-village-bazaar/112487/
-LOCATION:Asbury United Methodist Church\, 550 Fair St\, Warwick\, 02888
-URL:https://www.visitrhodeisland.com/event/asbury-umc-annual-christmas-vil
- lage-bazaar/112487/
+SUMMARY:Aurora Skies - Painting Class
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+DTSTAMP:20261108T164655Z
+UID:b81f5be932d1618d2cc7fcfac585@visitri-calendar
+DESCRIPTION:🖌️ IN-STUDIO SESSION DETAILS Reserve your spot and enjoy 
+ a complimentary beverage—choose from soda\, beer\, or wine (21+ with val
+ id ID). Additional drinks will be available for purchase. Immerse yourself
+  in a fun and creative atmosphere while painting your own unique masterpie
+ ce! Recommended for ages 14 and up. ⏰ ARRIVAL TIME Our studio opens 30 m
+ inutes prior to class time. We recommend arriving 15&#8211\;30 minutes ear
+ ly to find parking\, grab a drink\, and get settled. Please note: If you a
+ rrive late\, the artist may not be able to fill you in on the steps you mi
+ ssed\, as they will be focused on guiding the rest of the class. If you ar
+ rive more than 20 minutes late\, we kindly ask that you do not join the se
+ ssion. Late arrivals can be disruptive and may not have enough time to com
+ plete the painting. Unfortunately\, we cannot offer refunds or reschedules
+  for late arrivals. 🚗 PARKING INFO Our studio is located at 150 Main St
+ reet (rear entrance)\, Pawtucket\, Rhode Island\, and we have two FREE par
+ king lots: 🚗 One directly attached to our entrance 🚗 A second lot ju
+ st one building down on the same side of the street — clearly labeled 
+ 🪑 WANT TO SIT WITH FRIENDS? If you purchased 2 or more tickets in one t
+ ransaction\, we’ll automatically seat your group together. If you booked
+  separately but want to sit with someone\, please include their first and 
+ last names in the “Additional Information / Order Notes” field during 
+ checkout. 🔄 RESCHEDULING &amp\; CANCELLATION POLICY All reservations ar
+ e non-refundable. However\, if you need to reschedule\, you may request a 
+ reschedule voucher at least 48 hours before your session. You can do this 
+ easily on our website — just [click here]. No-shows cannot be reschedule
+ d. 🚨 CLASS CANCELLATION Classes may be canceled due to low attendance. 
+ In this case\, we’ll notify you and issue a voucher for a future session
+ . We appreciate your understanding and look forward to welcoming you to a 
+ future class! ❄️ INCLEMENT WEATHER POLICY Because New England weather 
+ can be unpredictable\, we typically wait until a few hours before class to
+  make final decisions. If we cancel due to snow or other severe weather\, 
+ we’ll email you a voucher for a future session. Have more questions? Che
+ ck out our [Frequently Asked Questions] page — just [click here].\n\nSou
+ rce: https://www.visitrhodeisland.com/event/aurora-skies-painting-class/11
+ 2365/
+LOCATION:Paint and Vino\, 150 Main Street\, Pawtucket\, RI 02860
+URL:https://www.visitrhodeisland.com/event/aurora-skies-painting-class/112
+ 365/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Author Event: Rainbows\, Stars & Apples\, New Book from Mariahades
- sa Ekere Tallie
-DTSTART;VALUE=DATE:20261107
-DTEND;VALUE=DATE:20261108
-DTSTAMP:20261107T163656Z
-UID:130fac0bee3dc652bde990ed280f@visitri-calendar
-DESCRIPTION:Join us at Books on the Square\, 471 Angell Street in Providen
- ce\, on Saturday\, November 7th at 3:00 p.m. to discuss Rainbows\, Stars\,
-  and Apples\, a new picture book written by Mariahadessa Ekere Tallie! Boo
- k signing to follow. Free\; RSVP on our website at booksq.com.\n\nSource: 
- https://www.visitrhodeisland.com/event/author-event%3a-rainbows-stars-%26-
- apples-new-book-from-mariahadessa-ekere-tallie/112277/
-LOCATION:Books On The Square\, 471 Angell Square\, Providence\, 02906 Time
- : 3:00 PM to 4:00 PM
-URL:https://www.visitrhodeisland.com/event/author-event%3a-rainbows-stars-
- %26-apples-new-book-from-mariahadessa-ekere-tallie/112277/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:BLUEBIRD at the UNITED
-DTSTART;VALUE=DATE:20261107
-DTEND;VALUE=DATE:20261108
-DTSTAMP:20261107T163656Z
-UID:c50cce17b0e71461986a2d3270b7@visitri-calendar
-DESCRIPTION:The November show in the BLUEBIRD @ the UNITED concert series 
- in partnership with the renowned Bluebird Cafe features Marv Green\, Lesli
- e Satcher &amp\; Tony Arata &#8211\; three legendary songwriters and perfo
- rmers of Nashville taking center stage to share their music and the compel
- ling stories that inspired their songwriting journey.\n\nSource: https://w
- ww.visitrhodeisland.com/event/bluebird-at-the-united/112099/
-LOCATION:The United Theatre\, 5 Canal Street\, Westerly\, RI 02891 5 Canal
-  Street\, Westerly\, RI 02891 OFFICIAL RHODE ISLAND TRAVEL GUIDE Get Guide
-  Get news from Visit Rhode Island in your inbox. Industry Partner Leisure 
- Travel Sign Up Ratings Powered by Press Industry Travel Trade Meetings & C
- onventions Contact Privacy Policy Sitemap Partner Portal SMS Privacy Polic
- y SMS Terms & Conditions UGC Terms and Conditions Wedding Planning Press P
- hotos Story Ideas Fun-Sized Rhode Island Rhode Island in the News Free Tra
- vel Guide Contact Visit Rhode Island Industry Travel Trade Ideas & Itinera
- ries Downton Abbey Lifestyle Rhode Island Foodways Hidden Gems Image Libra
- ry Free Travel Guide Contact Visit Rhode Island Meetings & Conventions Con
- tact Privacy Policy Sitemap Partner Portal SMS Privacy Policy SMS Terms & 
- Conditions UGC Terms and Conditions Wedding Planning Weddings - Venues Wed
- ding - Catering Wedding - Cakes Wedding - Attire Wedding - Florists Weddin
- g - Jewelers Wedding - Transportation © 2026 Rhode Island Commerce Corpor
- ation Special Offers Offers Here Looking to plan your next visit to Rhode 
- Island\, check out some of the current special offers and enjoy savings\, 
- extra perks and more! Offers Here
-URL:https://www.visitrhodeisland.com/event/bluebird-at-the-united/112099/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Children's Baking Workshop
-DTSTART;VALUE=DATE:20261107
-DTEND;VALUE=DATE:20261108
-DTSTAMP:20261107T163656Z
-UID:334fe5d4697f26db79d45c436740@visitri-calendar
-DESCRIPTION:The Museum of Work and Culture's annual Children’s Baking Wo
- rkshop with Wright’s Dairy Farm &amp\; Bakery will be held on Saturday\,
-  November 7 at 11am. This year’s event will feature an éclair-making de
- monstration with a pastry chef from Wright's and special behind-the-scenes
-  footage from the farm. Follow along with the chef to fill and assemble yo
- ur pastry\, then join museum educators for an interactive French language 
- matching game and baking bingo. Each participant will receive a chef's hat
- \, apron\, recipe card\, pre-printed activity materials\, and éclair ingr
- edients. Tickets are $25 for one child and one adult. Tickets are an addit
- ional $18 for a second child. No more than two children per adult can be a
- ccommodated. Space is limited\, and early registration is strongly encoura
- ged. TICKETS\n\nSource: https://www.visitrhodeisland.com/event/childrens-b
- aking-workshop/112497/
-LOCATION:Museum of Work & Culture\, 42 South Main Street\, Woonsocket\, RI
-  02895
-URL:https://www.visitrhodeisland.com/event/childrens-baking-workshop/11249
- 7/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Chris Hardwick at Comedy Connection
-DTSTART;VALUE=DATE:20261107
-DTEND;VALUE=DATE:20261108
-DTSTAMP:20261107T163656Z
-UID:6ff66e433ed89fae796ea0b46f41@visitri-calendar
-DESCRIPTION:Chris Hardwick is a comedian\, actor\, TV host\, author\, musi
- cian\, writer\, producer\, and podcaster best known for his work as the ho
- st of the Emmy-nominated Talking Dead\, the after-show which discusses all
-  things The Walking Dead. His podcast\, Id10t\, attracts some of the world
- 's most influential people\, including Sir Paul McCartney\, Jordan Peele\,
-  Jamie Lee Curtis\, and Tom Hanks. Hardwick is also the host and executive
-  producer of NBC's hit game show series The Wall\, featuring everyday peop
- le and families competing for life-altering amounts of money. Previously\,
-  he hosted the two-time Emmy Award-winning Comedy Central show\, @midnight
- \, a comedy game show which ran for six hundred episodes. His production c
- ompany\, Fish Ladder\, has a first-look deal with AMC Studios where severa
- l projects are currently in development. Hardwick is one of today's top to
- uring comedians and is currently performing his stand-up tour across Ameri
- ca. Hardwick resides in California with his wife\, Lydia\, and their daugh
- ter\, Dimity.\n\nSource: https://www.visitrhodeisland.com/event/chris-hard
- wick-at-comedy-connection/111880/
-LOCATION:Comedy Connection\, 39 Warren Avenue\, East Providence\, RI 02914
-URL:https://www.visitrhodeisland.com/event/chris-hardwick-at-comedy-connec
- tion/111880/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Santa Magic in Long Wharf
-DTSTART;VALUE=DATE:20261107
-DTEND;VALUE=DATE:20261108
-DTSTAMP:20261107T163656Z
-UID:ca4858ed5d7140effa87a73fe6f0@visitri-calendar
-DESCRIPTION:🎄✨ Holiday Tree Lighting Event!✨🎄 Mark your calendar
- s! The holiday season is kicking off at the Shops of Long Wharf\, and you 
- won’t want to miss it! 🎅🎁 📅 When: Saturday\, November 28th Rain
-  Date: Sunday\, November 29th ⏰ Time: 4:00 PM &#8211\; 6:00 PM 📍 Wher
- e: The Shops of Long Wharf\, Newport 💰 Cost: Free to attend Bring the w
- hole family down for an afternoon packed with festive holiday magic and co
- mpletely FREE activities: 📸 Pictures with Santa and his elves! 🎶 Fes
- tive holiday music! 🎨 Fun kid crafts right here at Cutie Curls! ✍️ 
- Letters to Santa station! 🖌️ Free face painting! A huge thank you to 
- our co-sponsors\, Cutie Curls\, Newport In Bloom and the Shops of Long Wha
- rf\, for helping us bring this holiday cheer to the community! ❤️ Gath
- er the kids\, bundle up\, and come make some wonderful holiday memories wi
- th us. We can't wait to see you all.\n\nSource: https://www.visitrhodeisla
- nd.com/event/santa-magic-in-long-wharf/112462/
-LOCATION:Long Wharf Mall\, 49 Long Wharf Mall\, Newport\, RI 02840
-URL:https://www.visitrhodeisland.com/event/santa-magic-in-long-wharf/11246
- 2/
+SUMMARY:Cars & Coffee — Sachuest Beach (Second Beach)
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+DTSTAMP:20261108T164655Z
+UID:65fa512e8a45828f9a67e044fcfd@visitri-calendar
+DESCRIPTION:Cars &amp\; Coffee When: Select Sundays from 8:00 AM to 10:00 
+ AM at Second Beach\, 315 Sachuest Point Road\, Middletown May 10 October 1
+ 1 October 18 October 25 November 8 November 15 Cars &amp\; Coffee\, hosted
+  by the Audrain Automobile Museum\, has grown exponentially since the star
+ t - now eight years ago\, only 52 cars appeared at the first event! The Ca
+ rs &amp\; Coffee family has expanded\, now consistently seeing 350-400 car
+ s on the field and more than 1\,000 at the Motor Week event. We feel that 
+ Cars &amp\; Coffee is now the backbone Audrain Automobile Museum and the l
+ ocal car community as well. Cheers to another season! Below are a couple r
+ eminders for the 2026 Season: For Audrain Members\, registration will open
+  the Monday before each of the Cars &amp\; Coffee events and public regist
+ ration will open on the Wednesday before each of the Cars &amp\; Coffee ev
+ ents. In order to register for one of the Cars &amp\; Coffee events\, you 
+ must be subscribed to our email list. You cannot register for any of the C
+ ars &amp\; Coffee events through the Audrain website or over the phone. On
+ ly Vehicles are required to register for the event. Guests of drivers\, an
+ d spectators do not need to register. *All events are subject to change. A
+ ll events are rain or shine unless noted.\n\nSource: https://www.visitrhod
+ eisland.com/event/cars-%26-coffee-%e2%80%94-sachuest-beach-(second-beach)/
+ 109992/
+LOCATION:Sachuest Beach (Second Beach)\, 315 Sachuest Point Rd\, Middletow
+ n\, RI 02842 Time: 8:00 AM to 10:00 AM
+URL:https://www.visitrhodeisland.com/event/cars-%26-coffee-%e2%80%94-sachu
+ est-beach-(second-beach)/109992/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Coastal Cruisers Fall Foliage Tours (+ Cider & Donuts)
 DTSTART;VALUE=DATE:20261108
 DTEND;VALUE=DATE:20261109
-DTSTAMP:20261107T163656Z
+DTSTAMP:20261108T164655Z
 UID:e1fcc4c4473790f87586b7c6c5bf@visitri-calendar
 DESCRIPTION:Coastal Cruisers Fall Foliage Tours (+ Cider &amp\; Donuts) Ex
  perience Newport at its most beautiful on our 2-hour Fall Foliage Tour. Tr
@@ -359,10 +307,252 @@ URL:https://www.visitrhodeisland.com/event/coastal-cruisers-fall-foliage-t
  ours-(%2b-cider-%26-donuts)/112431/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Dele & Aminata’s Jollof War\, New Book from Yewande Daniel-Ayoad
+ e & Bri Marie McNish
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+DTSTAMP:20261108T164655Z
+UID:000fc65263ac824a8d59c0704cba@visitri-calendar
+DESCRIPTION:Join us at Books on the Square\, 471 Angell Street in Providen
+ ce\, on Sunday\, November 8th at 2:00 p.m. to discuss Dele &amp\; Aminata
+ ’s Jollof War\, a new picture book written by Yewande Daniel-Ayoade and 
+ illustrated by Bri Marie McNish! Book signing to follow. Free\; RSVP on ou
+ r website at booksq.com.\n\nSource: https://www.visitrhodeisland.com/event
+ /dele-%26-aminata%e2%80%99s-jollof-war-new-book-from-yewande-daniel-ayoade
+ -%26-bri-marie-mcnish/112278/
+LOCATION:Books On The Square\, 471 Angell Square\, Providence\, 02906 Time
+ : 2:00 PM to 3:00 PM
+URL:https://www.visitrhodeisland.com/event/dele-%26-aminata%e2%80%99s-joll
+ of-war-new-book-from-yewande-daniel-ayoade-%26-bri-marie-mcnish/112278/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Santa Magic in Long Wharf
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+DTSTAMP:20261108T164655Z
+UID:9a35fb8f1d3cc1b04013fafe6198@visitri-calendar
+DESCRIPTION:🎄✨ Holiday Tree Lighting Event!✨🎄 Mark your calendar
+ s! The holiday season is kicking off at the Shops of Long Wharf\, and you 
+ won’t want to miss it! 🎅🎁 📅 When: Saturday\, November 28th Rain
+  Date: Sunday\, November 29th ⏰ Time: 4:00 PM &#8211\; 6:00 PM 📍 Wher
+ e: The Shops of Long Wharf\, Newport 💰 Cost: Free to attend Bring the w
+ hole family down for an afternoon packed with festive holiday magic and co
+ mpletely FREE activities: 📸 Pictures with Santa and his elves! 🎶 Fes
+ tive holiday music! 🎨 Fun kid crafts right here at Cutie Curls! ✍️ 
+ Letters to Santa station! 🖌️ Free face painting! A huge thank you to 
+ our co-sponsors\, Cutie Curls\, Newport In Bloom and the Shops of Long Wha
+ rf\, for helping us bring this holiday cheer to the community! ❤️ Gath
+ er the kids\, bundle up\, and come make some wonderful holiday memories wi
+ th us. We can't wait to see you all.\n\nSource: https://www.visitrhodeisla
+ nd.com/event/santa-magic-in-long-wharf/112462/
+LOCATION:Long Wharf Mall\, 49 Long Wharf Mall\, Newport\, RI 02840
+URL:https://www.visitrhodeisland.com/event/santa-magic-in-long-wharf/11246
+ 2/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fine Arts and Artisans Holiday Marketplace
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+DTSTAMP:20261108T164655Z
+UID:e124f15f85bf4dd36d7edded5c7d@visitri-calendar
+DESCRIPTION:Annual Fine Arts and Artisans Holiday Marketplace November 7&#
+ 8211\;December 23\, 2026 | Middletown\, Rhode Island Opening Reception Sat
+ urday November 7th\, 5:00 - 7:00 PM Holiday Party Saturday December 5th\, 
+ 5:00 - 7:00 PM Gallery Nights Thursday November 12th and December 10th\, 5
+ :00 - 7:00 PM DeBlois Gallery is delighted to present its annual Fine Arts
+  and Artisans Marketplace from Nov. 7 &#8211\; Dec. 23\, 2026\, bringing t
+ ogether original artwork and handcrafted gifts for the holiday season. Spa
+ nning November and December\, the marketplace will offer visitors a two-mo
+ nth period to shop for distinctive gifts while supporting local artists an
+ d artisans. The diverse selection includes ornaments\, jewelry\, wearable 
+ art\, prints\, paintings\, pottery and holiday cards. Fine art and crafts 
+ share the gallery space\, offering an inviting mix of pieces to display\, 
+ wear\, use and give. For shoppers seeking gifts with a personal connection
+ \, the marketplace offers choices ranging from jewelry to suit your indivi
+ dual style\, to pottery and original artwork that add an artistic touch to
+  your home. There are also hand-crafted holiday ornaments and cards ideal 
+ for observing seasonal traditions. DeBlois gift certificates will also be 
+ available\, the perfect present for recipients to choose a work that speak
+ s to them. As one of Rhode Island’s few cooperative galleries\, DeBlois 
+ offers a distinctive setting shaped by the artists who love the space\, br
+ inging a variety of creative perspectives into one shared space where visi
+ tors can discover different styles and media in a welcoming atmosphere. Th
+ e holiday marketplace reflects that spirit\, celebrating individual crafts
+ manship and the collective creativity of the gallery community. Participat
+ ing artists are available for interviews upon request. Deblois Gallery is 
+ located at 134 Aquidneck Avenue in Middletown and is open Wednesday throug
+ h Sunday\, from 1:00 - 5:00 PM. All are welcome\, and ample free parking i
+ s available. Visit www.debloisgallery.com or follow the gallery on Instagr
+ am and Facebook for updates on participating artists and holiday events. M
+ edia contact: Michael Day | dr.mday@gmail.com Gallery: (401) 847-9977 | ww
+ w.debloisgallery.com Instagram / Facebook\n\nSource: https://www.visitrhod
+ eisland.com/event/fine-arts-and-artisans-holiday-marketplace/112555/
+LOCATION:DeBlois Gallery\, 134 Aquidneck Avenue\, Middletown\, RI 02842
+URL:https://www.visitrhodeisland.com/event/fine-arts-and-artisans-holiday-
+ marketplace/112555/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fine Arts and Artisans Holiday Marketplace
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+DTSTAMP:20261108T164655Z
+UID:39f9635a5e7a3b36ca2dbd942057@visitri-calendar
+DESCRIPTION:Annual Fine Arts and Artisans Holiday Marketplace November 7&#
+ 8211\;December 23\, 2026 | Middletown\, Rhode Island Opening Reception Sat
+ urday November 7th\, 5:00 - 7:00 PM Holiday Party Saturday December 5th\, 
+ 5:00 - 7:00 PM Gallery Nights Thursday November 12th and December 10th\, 5
+ :00 - 7:00 PM DeBlois Gallery is delighted to present its annual Fine Arts
+  and Artisans Marketplace from Nov. 7 &#8211\; Dec. 23\, 2026\, bringing t
+ ogether original artwork and handcrafted gifts for the holiday season. Spa
+ nning November and December\, the marketplace will offer visitors a two-mo
+ nth period to shop for distinctive gifts while supporting local artists an
+ d artisans. The diverse selection includes ornaments\, jewelry\, wearable 
+ art\, prints\, paintings\, pottery and holiday cards. Fine art and crafts 
+ share the gallery space\, offering an inviting mix of pieces to display\, 
+ wear\, use and give. For shoppers seeking gifts with a personal connection
+ \, the marketplace offers choices ranging from jewelry to suit your indivi
+ dual style\, to pottery and original artwork that add an artistic touch to
+  your home. There are also hand-crafted holiday ornaments and cards ideal 
+ for observing seasonal traditions. DeBlois gift certificates will also be 
+ available\, the perfect present for recipients to choose a work that speak
+ s to them. As one of Rhode Island’s few cooperative galleries\, DeBlois 
+ offers a distinctive setting shaped by the artists who love the space\, br
+ inging a variety of creative perspectives into one shared space where visi
+ tors can discover different styles and media in a welcoming atmosphere. Th
+ e holiday marketplace reflects that spirit\, celebrating individual crafts
+ manship and the collective creativity of the gallery community. Participat
+ ing artists are available for interviews upon request. Deblois Gallery is 
+ located at 134 Aquidneck Avenue in Middletown and is open Wednesday throug
+ h Sunday\, from 1:00 - 5:00 PM. All are welcome\, and ample free parking i
+ s available. Visit www.debloisgallery.com or follow the gallery on Instagr
+ am and Facebook for updates on participating artists and holiday events. M
+ edia contact: Michael Day | dr.mday@gmail.com Gallery: (401) 847-9977 | ww
+ w.debloisgallery.com Instagram / Facebook\n\nSource: https://www.visitrhod
+ eisland.com/event/fine-arts-and-artisans-holiday-marketplace/112555/
+LOCATION:DeBlois Gallery\, 134 Aquidneck Avenue\, Middletown\, RI 02842
+URL:https://www.visitrhodeisland.com/event/fine-arts-and-artisans-holiday-
+ marketplace/112555/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fine Arts and Artisans Holiday Marketplace
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+DTSTAMP:20261108T164655Z
+UID:15ef40c994e75e86212d7f0aa502@visitri-calendar
+DESCRIPTION:Annual Fine Arts and Artisans Holiday Marketplace November 7&#
+ 8211\;December 23\, 2026 | Middletown\, Rhode Island Opening Reception Sat
+ urday November 7th\, 5:00 - 7:00 PM Holiday Party Saturday December 5th\, 
+ 5:00 - 7:00 PM Gallery Nights Thursday November 12th and December 10th\, 5
+ :00 - 7:00 PM DeBlois Gallery is delighted to present its annual Fine Arts
+  and Artisans Marketplace from Nov. 7 &#8211\; Dec. 23\, 2026\, bringing t
+ ogether original artwork and handcrafted gifts for the holiday season. Spa
+ nning November and December\, the marketplace will offer visitors a two-mo
+ nth period to shop for distinctive gifts while supporting local artists an
+ d artisans. The diverse selection includes ornaments\, jewelry\, wearable 
+ art\, prints\, paintings\, pottery and holiday cards. Fine art and crafts 
+ share the gallery space\, offering an inviting mix of pieces to display\, 
+ wear\, use and give. For shoppers seeking gifts with a personal connection
+ \, the marketplace offers choices ranging from jewelry to suit your indivi
+ dual style\, to pottery and original artwork that add an artistic touch to
+  your home. There are also hand-crafted holiday ornaments and cards ideal 
+ for observing seasonal traditions. DeBlois gift certificates will also be 
+ available\, the perfect present for recipients to choose a work that speak
+ s to them. As one of Rhode Island’s few cooperative galleries\, DeBlois 
+ offers a distinctive setting shaped by the artists who love the space\, br
+ inging a variety of creative perspectives into one shared space where visi
+ tors can discover different styles and media in a welcoming atmosphere. Th
+ e holiday marketplace reflects that spirit\, celebrating individual crafts
+ manship and the collective creativity of the gallery community. Participat
+ ing artists are available for interviews upon request. Deblois Gallery is 
+ located at 134 Aquidneck Avenue in Middletown and is open Wednesday throug
+ h Sunday\, from 1:00 - 5:00 PM. All are welcome\, and ample free parking i
+ s available. Visit www.debloisgallery.com or follow the gallery on Instagr
+ am and Facebook for updates on participating artists and holiday events. M
+ edia contact: Michael Day | dr.mday@gmail.com Gallery: (401) 847-9977 | ww
+ w.debloisgallery.com Instagram / Facebook\n\nSource: https://www.visitrhod
+ eisland.com/event/fine-arts-and-artisans-holiday-marketplace/112555/
+LOCATION:DeBlois Gallery\, 134 Aquidneck Avenue\, Middletown\, RI 02842
+URL:https://www.visitrhodeisland.com/event/fine-arts-and-artisans-holiday-
+ marketplace/112555/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fine Arts and Artisans Holiday Marketplace
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+DTSTAMP:20261108T164655Z
+UID:36e15cc74afc2f7c870aca38693e@visitri-calendar
+DESCRIPTION:Annual Fine Arts and Artisans Holiday Marketplace November 7&#
+ 8211\;December 23\, 2026 | Middletown\, Rhode Island Opening Reception Sat
+ urday November 7th\, 5:00 - 7:00 PM Holiday Party Saturday December 5th\, 
+ 5:00 - 7:00 PM Gallery Nights Thursday November 12th and December 10th\, 5
+ :00 - 7:00 PM DeBlois Gallery is delighted to present its annual Fine Arts
+  and Artisans Marketplace from Nov. 7 &#8211\; Dec. 23\, 2026\, bringing t
+ ogether original artwork and handcrafted gifts for the holiday season. Spa
+ nning November and December\, the marketplace will offer visitors a two-mo
+ nth period to shop for distinctive gifts while supporting local artists an
+ d artisans. The diverse selection includes ornaments\, jewelry\, wearable 
+ art\, prints\, paintings\, pottery and holiday cards. Fine art and crafts 
+ share the gallery space\, offering an inviting mix of pieces to display\, 
+ wear\, use and give. For shoppers seeking gifts with a personal connection
+ \, the marketplace offers choices ranging from jewelry to suit your indivi
+ dual style\, to pottery and original artwork that add an artistic touch to
+  your home. There are also hand-crafted holiday ornaments and cards ideal 
+ for observing seasonal traditions. DeBlois gift certificates will also be 
+ available\, the perfect present for recipients to choose a work that speak
+ s to them. As one of Rhode Island’s few cooperative galleries\, DeBlois 
+ offers a distinctive setting shaped by the artists who love the space\, br
+ inging a variety of creative perspectives into one shared space where visi
+ tors can discover different styles and media in a welcoming atmosphere. Th
+ e holiday marketplace reflects that spirit\, celebrating individual crafts
+ manship and the collective creativity of the gallery community. Participat
+ ing artists are available for interviews upon request. Deblois Gallery is 
+ located at 134 Aquidneck Avenue in Middletown and is open Wednesday throug
+ h Sunday\, from 1:00 - 5:00 PM. All are welcome\, and ample free parking i
+ s available. Visit www.debloisgallery.com or follow the gallery on Instagr
+ am and Facebook for updates on participating artists and holiday events. M
+ edia contact: Michael Day | dr.mday@gmail.com Gallery: (401) 847-9977 | ww
+ w.debloisgallery.com Instagram / Facebook\n\nSource: https://www.visitrhod
+ eisland.com/event/fine-arts-and-artisans-holiday-marketplace/112555/
+LOCATION:DeBlois Gallery\, 134 Aquidneck Avenue\, Middletown\, RI 02842
+URL:https://www.visitrhodeisland.com/event/fine-arts-and-artisans-holiday-
+ marketplace/112555/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cars & Coffee — Sachuest Beach (Second Beach)
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+DTSTAMP:20261108T164655Z
+UID:ad1d6e2267116c763b7f36611c5c@visitri-calendar
+DESCRIPTION:Cars &amp\; Coffee When: Select Sundays from 8:00 AM to 10:00 
+ AM at Second Beach\, 315 Sachuest Point Road\, Middletown May 10 October 1
+ 1 October 18 October 25 November 8 November 15 Cars &amp\; Coffee\, hosted
+  by the Audrain Automobile Museum\, has grown exponentially since the star
+ t - now eight years ago\, only 52 cars appeared at the first event! The Ca
+ rs &amp\; Coffee family has expanded\, now consistently seeing 350-400 car
+ s on the field and more than 1\,000 at the Motor Week event. We feel that 
+ Cars &amp\; Coffee is now the backbone Audrain Automobile Museum and the l
+ ocal car community as well. Cheers to another season! Below are a couple r
+ eminders for the 2026 Season: For Audrain Members\, registration will open
+  the Monday before each of the Cars &amp\; Coffee events and public regist
+ ration will open on the Wednesday before each of the Cars &amp\; Coffee ev
+ ents. In order to register for one of the Cars &amp\; Coffee events\, you 
+ must be subscribed to our email list. You cannot register for any of the C
+ ars &amp\; Coffee events through the Audrain website or over the phone. On
+ ly Vehicles are required to register for the event. Guests of drivers\, an
+ d spectators do not need to register. *All events are subject to change. A
+ ll events are rain or shine unless noted.\n\nSource: https://www.visitrhod
+ eisland.com/event/cars-%26-coffee-%e2%80%94-sachuest-beach-(second-beach)/
+ 109992/
+LOCATION:Sachuest Beach (Second Beach)\, 315 Sachuest Point Rd\, Middletow
+ n\, RI 02842 Time: 8:00 AM to 10:00 AM
+URL:https://www.visitrhodeisland.com/event/cars-%26-coffee-%e2%80%94-sachu
+ est-beach-(second-beach)/109992/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Newport Restaurant Week 2026
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
-DTSTAMP:20261107T163656Z
+DTSTAMP:20261108T164655Z
 UID:b07ae03f428a5f6f986ffdf404a3@visitri-calendar
 DESCRIPTION:The flavors of nine coastal communities\, all rolled up into o
  ne savory week. Newport Restaurant Week now takes place annually each fall
@@ -399,7 +589,7 @@ BEGIN:VEVENT
 SUMMARY:A New England Thanksgiving
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
-DTSTAMP:20261107T163656Z
+DTSTAMP:20261108T164655Z
 UID:21d35714802ba10832a84ed3bbac@visitri-calendar
 DESCRIPTION:Join the Coggeshall staff as we prepare a Thanksgiving meal ov
  er the hearth in our historic farmhouse. The late 18th century was before 
@@ -423,7 +613,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
-DTSTAMP:20261107T163656Z
+DTSTAMP:20261108T164655Z
 UID:d5932912a26459263f74067ed3d2@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -451,7 +641,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
-DTSTAMP:20261107T163656Z
+DTSTAMP:20261108T164655Z
 UID:f83dbecb85872dc3b9715683d412@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -479,7 +669,7 @@ BEGIN:VEVENT
 SUMMARY:Santa Magic in Long Wharf
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
-DTSTAMP:20261107T163656Z
+DTSTAMP:20261108T164655Z
 UID:87475b86156a7bb04dfea6f34ef6@visitri-calendar
 DESCRIPTION:🎄✨ Holiday Tree Lighting Event!✨🎄 Mark your calendar
  s! The holiday season is kicking off at the Shops of Long Wharf\, and you 
@@ -503,7 +693,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
-DTSTAMP:20261107T163656Z
+DTSTAMP:20261108T164655Z
 UID:b086f1bd58d78d3d3eb4b27c4e80@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -531,7 +721,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
-DTSTAMP:20261107T163656Z
+DTSTAMP:20261108T164655Z
 UID:a07e4e611fb4e8a3b793ee3d6baa@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -559,7 +749,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
-DTSTAMP:20261107T163656Z
+DTSTAMP:20261108T164655Z
 UID:0e0d137da86e729e9b7c503df973@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -587,7 +777,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
-DTSTAMP:20261107T163656Z
+DTSTAMP:20261108T164655Z
 UID:ccc9d94ce27546581c6bf2b71fd9@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -616,7 +806,7 @@ SUMMARY:Bosgraaf Stained Glass Studio’s 11th Annual Holiday Sale & Hot C
  hocolate Happening!
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
-DTSTAMP:20261107T163656Z
+DTSTAMP:20261108T164655Z
 UID:be911d47885e79be62ea5f4dfca4@visitri-calendar
 DESCRIPTION:All are invited to Bosgraaf Stained Glass Studio’s 11th Annu
  al Holiday Sale\, featuring original glass works from over 60 student arti
@@ -651,7 +841,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
-DTSTAMP:20261107T163656Z
+DTSTAMP:20261108T164655Z
 UID:db8b766041237fea9b154b360279@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -679,7 +869,7 @@ BEGIN:VEVENT
 SUMMARY:The Intentional Celebration: Holiday Edition
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
-DTSTAMP:20261107T163656Z
+DTSTAMP:20261108T164655Z
 UID:6f484250684bf2271dde2a31e276@visitri-calendar
 DESCRIPTION:The Intentional Celebration: Holiday Edition is a two-day indo
  or holiday market and immersive Christmas experience taking place December
@@ -710,7 +900,7 @@ SUMMARY:Bosgraaf Stained Glass Studio’s 11th Annual Holiday Sale & Hot C
  hocolate Happening!
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
-DTSTAMP:20261107T163656Z
+DTSTAMP:20261108T164655Z
 UID:be38fc7a5f892549ae1dbf46140c@visitri-calendar
 DESCRIPTION:All are invited to Bosgraaf Stained Glass Studio’s 11th Annu
  al Holiday Sale\, featuring original glass works from over 60 student arti
@@ -745,7 +935,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
-DTSTAMP:20261107T163656Z
+DTSTAMP:20261108T164655Z
 UID:4b643200b30e60635e855ddfbcdb@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -773,7 +963,7 @@ BEGIN:VEVENT
 SUMMARY:The Intentional Celebration: Holiday Edition
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
-DTSTAMP:20261107T163656Z
+DTSTAMP:20261108T164655Z
 UID:f0031a8c4f9ec38b7e0300063594@visitri-calendar
 DESCRIPTION:The Intentional Celebration: Holiday Edition is a two-day indo
  or holiday market and immersive Christmas experience taking place December
@@ -803,7 +993,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261211
-DTSTAMP:20261107T163656Z
+DTSTAMP:20261108T164655Z
 UID:f1266d72481edfcb924f687a42f0@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -831,7 +1021,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
-DTSTAMP:20261107T163656Z
+DTSTAMP:20261108T164655Z
 UID:b2668ced84621f351ee2e743ffd9@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -859,7 +1049,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
-DTSTAMP:20261107T163656Z
+DTSTAMP:20261108T164655Z
 UID:756ae7e966f3899cb85d7657b4e5@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -887,7 +1077,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261213
 DTEND;VALUE=DATE:20261214
-DTSTAMP:20261107T163656Z
+DTSTAMP:20261108T164655Z
 UID:6926863c714413a4b343c291725f@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -915,7 +1105,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
-DTSTAMP:20261107T163656Z
+DTSTAMP:20261108T164655Z
 UID:10f1f0a03ceb6ce5b9d0f1112413@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -943,7 +1133,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261220
 DTEND;VALUE=DATE:20261221
-DTSTAMP:20261107T163656Z
+DTSTAMP:20261108T164655Z
 UID:4b4bda68b74fdf0bae1d4834ec2b@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -971,7 +1161,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261221
 DTEND;VALUE=DATE:20261222
-DTSTAMP:20261107T163656Z
+DTSTAMP:20261108T164655Z
 UID:5cc6a0eb17a87a57c77fb4a1ee98@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -999,7 +1189,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261222
 DTEND;VALUE=DATE:20261223
-DTSTAMP:20261107T163656Z
+DTSTAMP:20261108T164655Z
 UID:8b50234eb8215ed0c936d7b3f2fd@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -1024,10 +1214,52 @@ URL:https://www.visitrhodeisland.com/event/sparkling-lights-at-the-breaker
  s/112249/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Fine Arts and Artisans Holiday Marketplace
+DTSTART;VALUE=DATE:20261223
+DTEND;VALUE=DATE:20261224
+DTSTAMP:20261108T164655Z
+UID:dae302fc7a6e92e2ef204d1e9a61@visitri-calendar
+DESCRIPTION:Annual Fine Arts and Artisans Holiday Marketplace November 7&#
+ 8211\;December 23\, 2026 | Middletown\, Rhode Island Opening Reception Sat
+ urday November 7th\, 5:00 - 7:00 PM Holiday Party Saturday December 5th\, 
+ 5:00 - 7:00 PM Gallery Nights Thursday November 12th and December 10th\, 5
+ :00 - 7:00 PM DeBlois Gallery is delighted to present its annual Fine Arts
+  and Artisans Marketplace from Nov. 7 &#8211\; Dec. 23\, 2026\, bringing t
+ ogether original artwork and handcrafted gifts for the holiday season. Spa
+ nning November and December\, the marketplace will offer visitors a two-mo
+ nth period to shop for distinctive gifts while supporting local artists an
+ d artisans. The diverse selection includes ornaments\, jewelry\, wearable 
+ art\, prints\, paintings\, pottery and holiday cards. Fine art and crafts 
+ share the gallery space\, offering an inviting mix of pieces to display\, 
+ wear\, use and give. For shoppers seeking gifts with a personal connection
+ \, the marketplace offers choices ranging from jewelry to suit your indivi
+ dual style\, to pottery and original artwork that add an artistic touch to
+  your home. There are also hand-crafted holiday ornaments and cards ideal 
+ for observing seasonal traditions. DeBlois gift certificates will also be 
+ available\, the perfect present for recipients to choose a work that speak
+ s to them. As one of Rhode Island’s few cooperative galleries\, DeBlois 
+ offers a distinctive setting shaped by the artists who love the space\, br
+ inging a variety of creative perspectives into one shared space where visi
+ tors can discover different styles and media in a welcoming atmosphere. Th
+ e holiday marketplace reflects that spirit\, celebrating individual crafts
+ manship and the collective creativity of the gallery community. Participat
+ ing artists are available for interviews upon request. Deblois Gallery is 
+ located at 134 Aquidneck Avenue in Middletown and is open Wednesday throug
+ h Sunday\, from 1:00 - 5:00 PM. All are welcome\, and ample free parking i
+ s available. Visit www.debloisgallery.com or follow the gallery on Instagr
+ am and Facebook for updates on participating artists and holiday events. M
+ edia contact: Michael Day | dr.mday@gmail.com Gallery: (401) 847-9977 | ww
+ w.debloisgallery.com Instagram / Facebook\n\nSource: https://www.visitrhod
+ eisland.com/event/fine-arts-and-artisans-holiday-marketplace/112555/
+LOCATION:DeBlois Gallery\, 134 Aquidneck Avenue\, Middletown\, RI 02842
+URL:https://www.visitrhodeisland.com/event/fine-arts-and-artisans-holiday-
+ marketplace/112555/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261223
 DTEND;VALUE=DATE:20261224
-DTSTAMP:20261107T163656Z
+DTSTAMP:20261108T164655Z
 UID:64494d8f54810a3b19a989acc268@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -1055,7 +1287,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261226
 DTEND;VALUE=DATE:20261227
-DTSTAMP:20261107T163656Z
+DTSTAMP:20261108T164655Z
 UID:d9203cb0c583483c1e644796bce0@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -1083,7 +1315,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261227
 DTEND;VALUE=DATE:20261228
-DTSTAMP:20261107T163656Z
+DTSTAMP:20261108T164655Z
 UID:ecdbb4492e88d8b279d5f0235b57@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -1111,7 +1343,7 @@ BEGIN:VEVENT
 SUMMARY:Beyond the Brewhouse Tour
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
-DTSTAMP:20261107T163656Z
+DTSTAMP:20261108T164655Z
 UID:c7b48636db9ede5f5acbbb263d31@visitri-calendar
 DESCRIPTION:Beyond the Brewhouse Where: Newport Craft Brewing and Distilli
  ng\, 293 JT Connell Road\, Newport 45 minutes: $20 per person Did you know
