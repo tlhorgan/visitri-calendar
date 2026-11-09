@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:$15 Moonshine Flights & Moonshine Tasting
 DTSTART;VALUE=DATE:20250615
 DTEND;VALUE=DATE:20250616
-DTSTAMP:20261108T164655Z
+DTSTAMP:20261109T210206Z
 UID:b6432d870f2c0958f26453a40d59@visitri-calendar
 DESCRIPTION:Try a Moonshine Flight tasting at Moonshine Alley! Moonshine F
  lights are available daily for just $15! We have over 13 flavors to choose
@@ -20,10 +20,72 @@ URL:https://www.visitrhodeisland.com/event/%2415-moonshine-flights-%26-moo
  nshine-tasting/105663/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Music Bingo
+DTSTART;VALUE=DATE:20260202
+DTEND;VALUE=DATE:20260203
+DTSTAMP:20261109T210206Z
+UID:fc70501406040a1be454a9a67d53@visitri-calendar
+DESCRIPTION:Join us every Monday for music bingo at Torpedo Bar &amp\; Lou
+ nge! Enjoy a fun twist on the classic bingo game with great music\, featur
+ ed beverages\, rotating specialty menus\, and fantastic prizes. Bring your
+  friends and family\, and make it a weekly tradition!\n\nSource: https://w
+ ww.visitrhodeisland.com/event/music-bingo/108383/
+LOCATION:Torpedo Bar & Lounge\, 1 Goat Island Rd\, Newport\, RI 02840\, Ne
+ wport\, 02840
+URL:https://www.visitrhodeisland.com/event/music-bingo/108383/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Children's Weekly Storytime
+DTSTART;VALUE=DATE:20260330
+DTEND;VALUE=DATE:20260331
+DTSTAMP:20261109T210206Z
+UID:6a42c90422362e83701e98f899c2@visitri-calendar
+DESCRIPTION:Children's Storytime Join Elizabeth as she hosts storytime on 
+ Monday mornings at 10:30 AM. Every Monday\, Elizabeth will chose a book co
+ rrelating with the season or holiday. All children and their families are 
+ welcome to join!\n\nSource: https://www.visitrhodeisland.com/event/childre
+ ns-weekly-storytime/109524/
+LOCATION:Charter Books\, 8 Broadway\, Newport\, RI 02840 Time: 10:30 AM to
+  11:00 AM
+URL:https://www.visitrhodeisland.com/event/childrens-weekly-storytime/1095
+ 24/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Monday Night Trivia at Brick Pizza Co!
+DTSTART;VALUE=DATE:20260413
+DTEND;VALUE=DATE:20260414
+DTSTAMP:20261109T210206Z
+UID:a64d5409eaaf70c1a8337a30116a@visitri-calendar
+DESCRIPTION:Monday Night Trivia Every Monday in the Stone Room with the Ne
+ w England Trivia Company! 📅 Date: Every Monday ⏰ Time: 7:00 PM &#8211
+ \; 9:00 PM 💰 Price: FREE - Plus the chance to win gift cards! 🎟️ R
+ eservations: Available on OpenTable\n\nSource: https://www.visitrhodeislan
+ d.com/event/monday-night-trivia-at-brick-pizza-co!/109518/
+LOCATION:Brick Pizza Co.\, 500 Wood Street\, Bristol\, RI 02809 Time: 7:00
+  PM to 9:00 PM 500 Wood Street\, Bristol\, RI 02809 OFFICIAL RHODE ISLAND 
+ TRAVEL GUIDE Get Guide Get news from Visit Rhode Island in your inbox. Ind
+ ustry Partner Leisure Travel Sign Up Ratings Powered by Press Industry Tra
+ vel Trade Meetings & Conventions Contact Privacy Policy Sitemap Partner Po
+ rtal SMS Privacy Policy SMS Terms & Conditions UGC Terms and Conditions We
+ dding Planning Press Photos Story Ideas Fun-Sized Rhode Island Rhode Islan
+ d in the News Free Travel Guide Contact Visit Rhode Island Industry Travel
+  Trade Ideas & Itineraries Downton Abbey Lifestyle Rhode Island Foodways H
+ idden Gems Image Library Free Travel Guide Contact Visit Rhode Island Meet
+ ings & Conventions Contact Privacy Policy Sitemap Partner Portal SMS Priva
+ cy Policy SMS Terms & Conditions UGC Terms and Conditions Wedding Planning
+  Weddings - Venues Wedding - Catering Wedding - Cakes Wedding - Attire Wed
+ ding - Florists Wedding - Jewelers Wedding - Transportation © 2026 Rhode 
+ Island Commerce Corporation Special Offers Offers Here Looking to plan you
+ r next visit to Rhode Island\, check out some of the current special offer
+ s and enjoy savings\, extra perks and more! Offers Here
+URL:https://www.visitrhodeisland.com/event/monday-night-trivia-at-brick-pi
+ zza-co!/109518/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Beyond the Brewhouse Tour
 DTSTART;VALUE=DATE:20260515
 DTEND;VALUE=DATE:20260516
-DTSTAMP:20261108T164655Z
+DTSTAMP:20261109T210206Z
 UID:acc9d8e1d1bdab34c6766b602473@visitri-calendar
 DESCRIPTION:Beyond the Brewhouse Where: Newport Craft Brewing and Distilli
  ng\, 293 JT Connell Road\, Newport 45 minutes: $20 per person Did you know
@@ -42,7 +104,7 @@ BEGIN:VEVENT
 SUMMARY:$15 Moonshine Flights & Moonshine Tasting
 DTSTART;VALUE=DATE:20260721
 DTEND;VALUE=DATE:20260722
-DTSTAMP:20261108T164655Z
+DTSTAMP:20261109T210206Z
 UID:6ac059c408c431eceb1c3c855c19@visitri-calendar
 DESCRIPTION:Try a Moonshine Flight tasting at Moonshine Alley! Moonshine F
  lights are available daily for just $15! We have over 13 flavors to choose
@@ -55,47 +117,53 @@ URL:https://www.visitrhodeisland.com/event/%2415-moonshine-flights-%26-moo
  nshine-tasting/105663/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Coastal Cruisers Fall Foliage Tours (+ Cider & Donuts)
-DTSTART;VALUE=DATE:20261021
-DTEND;VALUE=DATE:20261022
-DTSTAMP:20261108T164655Z
-UID:6d1f100e0388a1db3baa480bef75@visitri-calendar
-DESCRIPTION:Coastal Cruisers Fall Foliage Tours (+ Cider &amp\; Donuts) Ex
- perience Newport at its most beautiful on our 2-hour Fall Foliage Tour. Tr
- avel along historic Bellevue Avenue\, past iconic estates\, and through sc
- enic\, tree-lined backroads showcasing classic New England fall colors. Yo
- ur local guide will share Newport’s history while taking you beyond the 
- traditional tourist routes\, with scenic stops for photos along the way. T
- o complete the fall experience\, enjoy complimentary apple cider and fresh
-  apple cider donuts while taking in the crisp autumn air and beautiful New
- port scenery. 🍎🍩 What's Included Apple Cider and Donuts Itinerary Hi
- storic Bellevue Avenue: Cruise past Newport’s famous Gilded Age mansions
-  surrounded by beautiful fall colors. Newport’s Scenic Backroads: Leave 
- the traditional tourist route and explore quiet\, tree-lined roads\, histo
- ric stone walls\, and classic New England scenery. Newport Country Club &a
- mp\; Ocean Drive Area: Travel through some of Newport’s most picturesque
-  areas\, with sweeping landscapes and seasonal foliage. Scenic Photo Stops
- : Stop at select locations along the way for photos and time to take in th
- e fall scenery. Return Through Historic Newport: Finish the experience wit
- h more Newport history and views as we make our way back. Highlights 🍂 
- Newport’s Best Fall Scenery: Experience colorful tree-lined roads\, hist
- oric stone walls\, and classic New England landscapes. 🏛️ Gilded Age 
- Newport: Travel along Bellevue Avenue and see Newport’s iconic mansions 
- surrounded by autumn colors. 🌳 Beyond the Traditional Tour Route: Explo
- re quieter backroads and scenic areas near Newport Country Club that many 
- visitors never see. 📸 Picture-Perfect Stops: Enjoy opportunities to ste
- p out\, take photos\, and experience Newport during its most colorful seas
- on.\n\nSource: https://www.visitrhodeisland.com/event/coastal-cruisers-fal
- l-foliage-tours-(%2b-cider-%26-donuts)/112431/
-LOCATION:Coastal Cruisers\, 478 Thames Street\, Newport\, RI 02840
-URL:https://www.visitrhodeisland.com/event/coastal-cruisers-fall-foliage-t
- ours-(%2b-cider-%26-donuts)/112431/
+SUMMARY:Life on the Avenue: Immigration\, Protest\, and Triumph on Federal
+  Hill
+DTSTART;VALUE=DATE:20260807
+DTEND;VALUE=DATE:20260808
+DTSTAMP:20261109T210206Z
+UID:72f32ec3c7ddaf31a0c995ce585b@visitri-calendar
+DESCRIPTION:Life on the Avenue: Immigration\, Protest\, and Triumph on Fed
+ eral Hill is a powerful\, story-driven walking tour that goes beyond the n
+ eighborhood’s celebrated food scene to uncover the journey for belonging
+  that shaped it. As you explore one of Providence’s most iconic district
+ s\, you’ll trace the journeys of Indigenous communities\, Irish and Ital
+ ian immigrants\, and modern newcomers—each group navigating hardship\, d
+ iscrimination\, and resilience in their fight to call this place home. Alo
+ ng the way\, you’ll stand where protests erupted\, revolutions nearly ig
+ nited\, and everyday people carved out lives against the odds. Blending ri
+ ch storytelling with local flavor and insider food recommendations\, this 
+ experience reveals Federal Hill not just as a destination—but as a battl
+ eground where identity\, power\, and community have been contested for gen
+ erations.\n\nSource: https://www.visitrhodeisland.com/event/life-on-the-av
+ enue%3a-immigration-protest-and-triumph-on-federal-hill/111313/
+LOCATION:Garibaldi Square\, 99 Atwells Avenue\, Providence\, RI 02903
+URL:https://www.visitrhodeisland.com/event/life-on-the-avenue%3a-immigrati
+ on-protest-and-triumph-on-federal-hill/111313/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Burritos & Bowls—Lunch Specials at Yellow Door Taqueria!
+DTSTART;VALUE=DATE:20260826
+DTEND;VALUE=DATE:20260827
+DTSTAMP:20261109T210206Z
+UID:cd9e59bf1148392bbbdd7c30628e@visitri-calendar
+DESCRIPTION:Our new Burrito &amp\; Bowl lunch specials have arrived at Yel
+ low Door Taqueria in downtown Providence! Perfect for dining in or taking 
+ back to the office\, turn your favorite taco into a delicious bowl or try 
+ a specialty burrito! Check out the full menu on our website! Available Mon
+ day-Friday\, 11:30 AM-5 PM!\n\nSource: https://www.visitrhodeisland.com/ev
+ ent/burritos-%26-bowls%e2%80%94lunch-specials-at-yellow-door-taqueria!/111
+ 544/
+LOCATION:Yellow Door Taqueria\, 191 Dorrance Street\, Providence\, RI 0290
+ 3
+URL:https://www.visitrhodeisland.com/event/burritos-%26-bowls%e2%80%94lunc
+ h-specials-at-yellow-door-taqueria!/111544/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Newport Restaurant Week 2026
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
-DTSTAMP:20261108T164655Z
+DTSTAMP:20261109T210206Z
 UID:26ef1c44e7914743227eba719da9@visitri-calendar
 DESCRIPTION:The flavors of nine coastal communities\, all rolled up into o
  ne savory week. Newport Restaurant Week now takes place annually each fall
@@ -129,208 +197,29 @@ URL:https://www.visitrhodeisland.com/event/newport-restaurant-week-2026/11
  2499/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Fine Arts and Artisans Holiday Marketplace
-DTSTART;VALUE=DATE:20261107
-DTEND;VALUE=DATE:20261108
-DTSTAMP:20261108T164655Z
-UID:7f90c5f759ca34ea18f85f257f0f@visitri-calendar
-DESCRIPTION:Annual Fine Arts and Artisans Holiday Marketplace November 7&#
- 8211\;December 23\, 2026 | Middletown\, Rhode Island Opening Reception Sat
- urday November 7th\, 5:00 - 7:00 PM Holiday Party Saturday December 5th\, 
- 5:00 - 7:00 PM Gallery Nights Thursday November 12th and December 10th\, 5
- :00 - 7:00 PM DeBlois Gallery is delighted to present its annual Fine Arts
-  and Artisans Marketplace from Nov. 7 &#8211\; Dec. 23\, 2026\, bringing t
- ogether original artwork and handcrafted gifts for the holiday season. Spa
- nning November and December\, the marketplace will offer visitors a two-mo
- nth period to shop for distinctive gifts while supporting local artists an
- d artisans. The diverse selection includes ornaments\, jewelry\, wearable 
- art\, prints\, paintings\, pottery and holiday cards. Fine art and crafts 
- share the gallery space\, offering an inviting mix of pieces to display\, 
- wear\, use and give. For shoppers seeking gifts with a personal connection
- \, the marketplace offers choices ranging from jewelry to suit your indivi
- dual style\, to pottery and original artwork that add an artistic touch to
-  your home. There are also hand-crafted holiday ornaments and cards ideal 
- for observing seasonal traditions. DeBlois gift certificates will also be 
- available\, the perfect present for recipients to choose a work that speak
- s to them. As one of Rhode Island’s few cooperative galleries\, DeBlois 
- offers a distinctive setting shaped by the artists who love the space\, br
- inging a variety of creative perspectives into one shared space where visi
- tors can discover different styles and media in a welcoming atmosphere. Th
- e holiday marketplace reflects that spirit\, celebrating individual crafts
- manship and the collective creativity of the gallery community. Participat
- ing artists are available for interviews upon request. Deblois Gallery is 
- located at 134 Aquidneck Avenue in Middletown and is open Wednesday throug
- h Sunday\, from 1:00 - 5:00 PM. All are welcome\, and ample free parking i
- s available. Visit www.debloisgallery.com or follow the gallery on Instagr
- am and Facebook for updates on participating artists and holiday events. M
- edia contact: Michael Day | dr.mday@gmail.com Gallery: (401) 847-9977 | ww
- w.debloisgallery.com Instagram / Facebook\n\nSource: https://www.visitrhod
- eisland.com/event/fine-arts-and-artisans-holiday-marketplace/112555/
-LOCATION:DeBlois Gallery\, 134 Aquidneck Avenue\, Middletown\, RI 02842
-URL:https://www.visitrhodeisland.com/event/fine-arts-and-artisans-holiday-
- marketplace/112555/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A New England Thanksgiving
-DTSTART;VALUE=DATE:20261108
-DTEND;VALUE=DATE:20261109
-DTSTAMP:20261108T164655Z
-UID:0706be5d27f4a9d3b565338261a5@visitri-calendar
-DESCRIPTION:Join the Coggeshall staff as we prepare a Thanksgiving meal ov
- er the hearth in our historic farmhouse. The late 18th century was before 
- the official start of Thanksgiving as a national holiday\, but the day was
-  still celebrated with food and prayer in New England. Watch our costumed 
- historians make chicken on a string\, bake a pie in the hot coals\, mash t
- urnips and churn butter. In the woodshop we will also demonstrate carving 
- wooden spoons. Explore the garden to see the last of the fall harvest. Wal
- k the nature trail and look for signs of wild turkey\, see musket demonstr
- ations and try your aim with rubber band targets. Please note: This is not
-  a Thanksgiving meal for visitors to eat. Food prepared in the historic Fa
- rmhouse Kitchen does not meet modern health and food preparation codes for
-  public consumption.\n\nSource: https://www.visitrhodeisland.com/event/a-n
- ew-england-thanksgiving/112116/
-LOCATION:Coggeshall Farm Museum\, 1 Colt Drive\, Bristol\, 02809 Time: 10:
- 00 AM to 4:00 PM
-URL:https://www.visitrhodeisland.com/event/a-new-england-thanksgiving/1121
- 16/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Aurora Skies - Painting Class
-DTSTART;VALUE=DATE:20261108
-DTEND;VALUE=DATE:20261109
-DTSTAMP:20261108T164655Z
-UID:b81f5be932d1618d2cc7fcfac585@visitri-calendar
-DESCRIPTION:🖌️ IN-STUDIO SESSION DETAILS Reserve your spot and enjoy 
- a complimentary beverage—choose from soda\, beer\, or wine (21+ with val
- id ID). Additional drinks will be available for purchase. Immerse yourself
-  in a fun and creative atmosphere while painting your own unique masterpie
- ce! Recommended for ages 14 and up. ⏰ ARRIVAL TIME Our studio opens 30 m
- inutes prior to class time. We recommend arriving 15&#8211\;30 minutes ear
- ly to find parking\, grab a drink\, and get settled. Please note: If you a
- rrive late\, the artist may not be able to fill you in on the steps you mi
- ssed\, as they will be focused on guiding the rest of the class. If you ar
- rive more than 20 minutes late\, we kindly ask that you do not join the se
- ssion. Late arrivals can be disruptive and may not have enough time to com
- plete the painting. Unfortunately\, we cannot offer refunds or reschedules
-  for late arrivals. 🚗 PARKING INFO Our studio is located at 150 Main St
- reet (rear entrance)\, Pawtucket\, Rhode Island\, and we have two FREE par
- king lots: 🚗 One directly attached to our entrance 🚗 A second lot ju
- st one building down on the same side of the street — clearly labeled 
- 🪑 WANT TO SIT WITH FRIENDS? If you purchased 2 or more tickets in one t
- ransaction\, we’ll automatically seat your group together. If you booked
-  separately but want to sit with someone\, please include their first and 
- last names in the “Additional Information / Order Notes” field during 
- checkout. 🔄 RESCHEDULING &amp\; CANCELLATION POLICY All reservations ar
- e non-refundable. However\, if you need to reschedule\, you may request a 
- reschedule voucher at least 48 hours before your session. You can do this 
- easily on our website — just [click here]. No-shows cannot be reschedule
- d. 🚨 CLASS CANCELLATION Classes may be canceled due to low attendance. 
- In this case\, we’ll notify you and issue a voucher for a future session
- . We appreciate your understanding and look forward to welcoming you to a 
- future class! ❄️ INCLEMENT WEATHER POLICY Because New England weather 
- can be unpredictable\, we typically wait until a few hours before class to
-  make final decisions. If we cancel due to snow or other severe weather\, 
- we’ll email you a voucher for a future session. Have more questions? Che
- ck out our [Frequently Asked Questions] page — just [click here].\n\nSou
- rce: https://www.visitrhodeisland.com/event/aurora-skies-painting-class/11
- 2365/
-LOCATION:Paint and Vino\, 150 Main Street\, Pawtucket\, RI 02860
-URL:https://www.visitrhodeisland.com/event/aurora-skies-painting-class/112
- 365/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Cars & Coffee — Sachuest Beach (Second Beach)
-DTSTART;VALUE=DATE:20261108
-DTEND;VALUE=DATE:20261109
-DTSTAMP:20261108T164655Z
-UID:65fa512e8a45828f9a67e044fcfd@visitri-calendar
-DESCRIPTION:Cars &amp\; Coffee When: Select Sundays from 8:00 AM to 10:00 
- AM at Second Beach\, 315 Sachuest Point Road\, Middletown May 10 October 1
- 1 October 18 October 25 November 8 November 15 Cars &amp\; Coffee\, hosted
-  by the Audrain Automobile Museum\, has grown exponentially since the star
- t - now eight years ago\, only 52 cars appeared at the first event! The Ca
- rs &amp\; Coffee family has expanded\, now consistently seeing 350-400 car
- s on the field and more than 1\,000 at the Motor Week event. We feel that 
- Cars &amp\; Coffee is now the backbone Audrain Automobile Museum and the l
- ocal car community as well. Cheers to another season! Below are a couple r
- eminders for the 2026 Season: For Audrain Members\, registration will open
-  the Monday before each of the Cars &amp\; Coffee events and public regist
- ration will open on the Wednesday before each of the Cars &amp\; Coffee ev
- ents. In order to register for one of the Cars &amp\; Coffee events\, you 
- must be subscribed to our email list. You cannot register for any of the C
- ars &amp\; Coffee events through the Audrain website or over the phone. On
- ly Vehicles are required to register for the event. Guests of drivers\, an
- d spectators do not need to register. *All events are subject to change. A
- ll events are rain or shine unless noted.\n\nSource: https://www.visitrhod
- eisland.com/event/cars-%26-coffee-%e2%80%94-sachuest-beach-(second-beach)/
- 109992/
-LOCATION:Sachuest Beach (Second Beach)\, 315 Sachuest Point Rd\, Middletow
- n\, RI 02842 Time: 8:00 AM to 10:00 AM
-URL:https://www.visitrhodeisland.com/event/cars-%26-coffee-%e2%80%94-sachu
- est-beach-(second-beach)/109992/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Coastal Cruisers Fall Foliage Tours (+ Cider & Donuts)
-DTSTART;VALUE=DATE:20261108
-DTEND;VALUE=DATE:20261109
-DTSTAMP:20261108T164655Z
-UID:e1fcc4c4473790f87586b7c6c5bf@visitri-calendar
-DESCRIPTION:Coastal Cruisers Fall Foliage Tours (+ Cider &amp\; Donuts) Ex
- perience Newport at its most beautiful on our 2-hour Fall Foliage Tour. Tr
- avel along historic Bellevue Avenue\, past iconic estates\, and through sc
- enic\, tree-lined backroads showcasing classic New England fall colors. Yo
- ur local guide will share Newport’s history while taking you beyond the 
- traditional tourist routes\, with scenic stops for photos along the way. T
- o complete the fall experience\, enjoy complimentary apple cider and fresh
-  apple cider donuts while taking in the crisp autumn air and beautiful New
- port scenery. 🍎🍩 What's Included Apple Cider and Donuts Itinerary Hi
- storic Bellevue Avenue: Cruise past Newport’s famous Gilded Age mansions
-  surrounded by beautiful fall colors. Newport’s Scenic Backroads: Leave 
- the traditional tourist route and explore quiet\, tree-lined roads\, histo
- ric stone walls\, and classic New England scenery. Newport Country Club &a
- mp\; Ocean Drive Area: Travel through some of Newport’s most picturesque
-  areas\, with sweeping landscapes and seasonal foliage. Scenic Photo Stops
- : Stop at select locations along the way for photos and time to take in th
- e fall scenery. Return Through Historic Newport: Finish the experience wit
- h more Newport history and views as we make our way back. Highlights 🍂 
- Newport’s Best Fall Scenery: Experience colorful tree-lined roads\, hist
- oric stone walls\, and classic New England landscapes. 🏛️ Gilded Age 
- Newport: Travel along Bellevue Avenue and see Newport’s iconic mansions 
- surrounded by autumn colors. 🌳 Beyond the Traditional Tour Route: Explo
- re quieter backroads and scenic areas near Newport Country Club that many 
- visitors never see. 📸 Picture-Perfect Stops: Enjoy opportunities to ste
- p out\, take photos\, and experience Newport during its most colorful seas
- on.\n\nSource: https://www.visitrhodeisland.com/event/coastal-cruisers-fal
- l-foliage-tours-(%2b-cider-%26-donuts)/112431/
-LOCATION:Coastal Cruisers\, 478 Thames Street\, Newport\, RI 02840
-URL:https://www.visitrhodeisland.com/event/coastal-cruisers-fall-foliage-t
- ours-(%2b-cider-%26-donuts)/112431/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dele & Aminata’s Jollof War\, New Book from Yewande Daniel-Ayoad
- e & Bri Marie McNish
-DTSTART;VALUE=DATE:20261108
-DTEND;VALUE=DATE:20261109
-DTSTAMP:20261108T164655Z
-UID:000fc65263ac824a8d59c0704cba@visitri-calendar
+SUMMARY:Book Discussion & Signing for In a Green Shade\, New Book of Poetr
+ y from Rick Benjamin
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+DTSTAMP:20261109T210206Z
+UID:949cbb476af1bff17f5442d5175a@visitri-calendar
 DESCRIPTION:Join us at Books on the Square\, 471 Angell Street in Providen
- ce\, on Sunday\, November 8th at 2:00 p.m. to discuss Dele &amp\; Aminata
- ’s Jollof War\, a new picture book written by Yewande Daniel-Ayoade and 
- illustrated by Bri Marie McNish! Book signing to follow. Free\; RSVP on ou
- r website at booksq.com.\n\nSource: https://www.visitrhodeisland.com/event
- /dele-%26-aminata%e2%80%99s-jollof-war-new-book-from-yewande-daniel-ayoade
- -%26-bri-marie-mcnish/112278/
+ ce\, on Monday\, November 9th at 5:30 pm to discuss In a Green Shade\, a n
+ ew book from former Poet Laureate of Rhode Island Rick Benjamin. Book sign
+ ing to follow. Free\; RSVP on our website at booksq.com.\n\nSource: https:
+ //www.visitrhodeisland.com/event/book-discussion-%26-signing-for-in-a-gree
+ n-shade-new-book-of-poetry-from-rick-benjamin/112414/
 LOCATION:Books On The Square\, 471 Angell Square\, Providence\, 02906 Time
- : 2:00 PM to 3:00 PM
-URL:https://www.visitrhodeisland.com/event/dele-%26-aminata%e2%80%99s-joll
- of-war-new-book-from-yewande-daniel-ayoade-%26-bri-marie-mcnish/112278/
+ : 5:30 PM to 6:30 PM
+URL:https://www.visitrhodeisland.com/event/book-discussion-%26-signing-for
+ -in-a-green-shade-new-book-of-poetry-from-rick-benjamin/112414/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Santa Magic in Long Wharf
-DTSTART;VALUE=DATE:20261108
-DTEND;VALUE=DATE:20261109
-DTSTAMP:20261108T164655Z
-UID:9a35fb8f1d3cc1b04013fafe6198@visitri-calendar
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+DTSTAMP:20261109T210206Z
+UID:bcb0ac59679b80356306cfb05a01@visitri-calendar
 DESCRIPTION:🎄✨ Holiday Tree Lighting Event!✨🎄 Mark your calendar
  s! The holiday season is kicking off at the Shops of Long Wharf\, and you 
  won’t want to miss it! 🎅🎁 📅 When: Saturday\, November 28th Rain
@@ -350,209 +239,10 @@ URL:https://www.visitrhodeisland.com/event/santa-magic-in-long-wharf/11246
  2/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Fine Arts and Artisans Holiday Marketplace
-DTSTART;VALUE=DATE:20261111
-DTEND;VALUE=DATE:20261112
-DTSTAMP:20261108T164655Z
-UID:e124f15f85bf4dd36d7edded5c7d@visitri-calendar
-DESCRIPTION:Annual Fine Arts and Artisans Holiday Marketplace November 7&#
- 8211\;December 23\, 2026 | Middletown\, Rhode Island Opening Reception Sat
- urday November 7th\, 5:00 - 7:00 PM Holiday Party Saturday December 5th\, 
- 5:00 - 7:00 PM Gallery Nights Thursday November 12th and December 10th\, 5
- :00 - 7:00 PM DeBlois Gallery is delighted to present its annual Fine Arts
-  and Artisans Marketplace from Nov. 7 &#8211\; Dec. 23\, 2026\, bringing t
- ogether original artwork and handcrafted gifts for the holiday season. Spa
- nning November and December\, the marketplace will offer visitors a two-mo
- nth period to shop for distinctive gifts while supporting local artists an
- d artisans. The diverse selection includes ornaments\, jewelry\, wearable 
- art\, prints\, paintings\, pottery and holiday cards. Fine art and crafts 
- share the gallery space\, offering an inviting mix of pieces to display\, 
- wear\, use and give. For shoppers seeking gifts with a personal connection
- \, the marketplace offers choices ranging from jewelry to suit your indivi
- dual style\, to pottery and original artwork that add an artistic touch to
-  your home. There are also hand-crafted holiday ornaments and cards ideal 
- for observing seasonal traditions. DeBlois gift certificates will also be 
- available\, the perfect present for recipients to choose a work that speak
- s to them. As one of Rhode Island’s few cooperative galleries\, DeBlois 
- offers a distinctive setting shaped by the artists who love the space\, br
- inging a variety of creative perspectives into one shared space where visi
- tors can discover different styles and media in a welcoming atmosphere. Th
- e holiday marketplace reflects that spirit\, celebrating individual crafts
- manship and the collective creativity of the gallery community. Participat
- ing artists are available for interviews upon request. Deblois Gallery is 
- located at 134 Aquidneck Avenue in Middletown and is open Wednesday throug
- h Sunday\, from 1:00 - 5:00 PM. All are welcome\, and ample free parking i
- s available. Visit www.debloisgallery.com or follow the gallery on Instagr
- am and Facebook for updates on participating artists and holiday events. M
- edia contact: Michael Day | dr.mday@gmail.com Gallery: (401) 847-9977 | ww
- w.debloisgallery.com Instagram / Facebook\n\nSource: https://www.visitrhod
- eisland.com/event/fine-arts-and-artisans-holiday-marketplace/112555/
-LOCATION:DeBlois Gallery\, 134 Aquidneck Avenue\, Middletown\, RI 02842
-URL:https://www.visitrhodeisland.com/event/fine-arts-and-artisans-holiday-
- marketplace/112555/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fine Arts and Artisans Holiday Marketplace
-DTSTART;VALUE=DATE:20261112
-DTEND;VALUE=DATE:20261113
-DTSTAMP:20261108T164655Z
-UID:39f9635a5e7a3b36ca2dbd942057@visitri-calendar
-DESCRIPTION:Annual Fine Arts and Artisans Holiday Marketplace November 7&#
- 8211\;December 23\, 2026 | Middletown\, Rhode Island Opening Reception Sat
- urday November 7th\, 5:00 - 7:00 PM Holiday Party Saturday December 5th\, 
- 5:00 - 7:00 PM Gallery Nights Thursday November 12th and December 10th\, 5
- :00 - 7:00 PM DeBlois Gallery is delighted to present its annual Fine Arts
-  and Artisans Marketplace from Nov. 7 &#8211\; Dec. 23\, 2026\, bringing t
- ogether original artwork and handcrafted gifts for the holiday season. Spa
- nning November and December\, the marketplace will offer visitors a two-mo
- nth period to shop for distinctive gifts while supporting local artists an
- d artisans. The diverse selection includes ornaments\, jewelry\, wearable 
- art\, prints\, paintings\, pottery and holiday cards. Fine art and crafts 
- share the gallery space\, offering an inviting mix of pieces to display\, 
- wear\, use and give. For shoppers seeking gifts with a personal connection
- \, the marketplace offers choices ranging from jewelry to suit your indivi
- dual style\, to pottery and original artwork that add an artistic touch to
-  your home. There are also hand-crafted holiday ornaments and cards ideal 
- for observing seasonal traditions. DeBlois gift certificates will also be 
- available\, the perfect present for recipients to choose a work that speak
- s to them. As one of Rhode Island’s few cooperative galleries\, DeBlois 
- offers a distinctive setting shaped by the artists who love the space\, br
- inging a variety of creative perspectives into one shared space where visi
- tors can discover different styles and media in a welcoming atmosphere. Th
- e holiday marketplace reflects that spirit\, celebrating individual crafts
- manship and the collective creativity of the gallery community. Participat
- ing artists are available for interviews upon request. Deblois Gallery is 
- located at 134 Aquidneck Avenue in Middletown and is open Wednesday throug
- h Sunday\, from 1:00 - 5:00 PM. All are welcome\, and ample free parking i
- s available. Visit www.debloisgallery.com or follow the gallery on Instagr
- am and Facebook for updates on participating artists and holiday events. M
- edia contact: Michael Day | dr.mday@gmail.com Gallery: (401) 847-9977 | ww
- w.debloisgallery.com Instagram / Facebook\n\nSource: https://www.visitrhod
- eisland.com/event/fine-arts-and-artisans-holiday-marketplace/112555/
-LOCATION:DeBlois Gallery\, 134 Aquidneck Avenue\, Middletown\, RI 02842
-URL:https://www.visitrhodeisland.com/event/fine-arts-and-artisans-holiday-
- marketplace/112555/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fine Arts and Artisans Holiday Marketplace
-DTSTART;VALUE=DATE:20261113
-DTEND;VALUE=DATE:20261114
-DTSTAMP:20261108T164655Z
-UID:15ef40c994e75e86212d7f0aa502@visitri-calendar
-DESCRIPTION:Annual Fine Arts and Artisans Holiday Marketplace November 7&#
- 8211\;December 23\, 2026 | Middletown\, Rhode Island Opening Reception Sat
- urday November 7th\, 5:00 - 7:00 PM Holiday Party Saturday December 5th\, 
- 5:00 - 7:00 PM Gallery Nights Thursday November 12th and December 10th\, 5
- :00 - 7:00 PM DeBlois Gallery is delighted to present its annual Fine Arts
-  and Artisans Marketplace from Nov. 7 &#8211\; Dec. 23\, 2026\, bringing t
- ogether original artwork and handcrafted gifts for the holiday season. Spa
- nning November and December\, the marketplace will offer visitors a two-mo
- nth period to shop for distinctive gifts while supporting local artists an
- d artisans. The diverse selection includes ornaments\, jewelry\, wearable 
- art\, prints\, paintings\, pottery and holiday cards. Fine art and crafts 
- share the gallery space\, offering an inviting mix of pieces to display\, 
- wear\, use and give. For shoppers seeking gifts with a personal connection
- \, the marketplace offers choices ranging from jewelry to suit your indivi
- dual style\, to pottery and original artwork that add an artistic touch to
-  your home. There are also hand-crafted holiday ornaments and cards ideal 
- for observing seasonal traditions. DeBlois gift certificates will also be 
- available\, the perfect present for recipients to choose a work that speak
- s to them. As one of Rhode Island’s few cooperative galleries\, DeBlois 
- offers a distinctive setting shaped by the artists who love the space\, br
- inging a variety of creative perspectives into one shared space where visi
- tors can discover different styles and media in a welcoming atmosphere. Th
- e holiday marketplace reflects that spirit\, celebrating individual crafts
- manship and the collective creativity of the gallery community. Participat
- ing artists are available for interviews upon request. Deblois Gallery is 
- located at 134 Aquidneck Avenue in Middletown and is open Wednesday throug
- h Sunday\, from 1:00 - 5:00 PM. All are welcome\, and ample free parking i
- s available. Visit www.debloisgallery.com or follow the gallery on Instagr
- am and Facebook for updates on participating artists and holiday events. M
- edia contact: Michael Day | dr.mday@gmail.com Gallery: (401) 847-9977 | ww
- w.debloisgallery.com Instagram / Facebook\n\nSource: https://www.visitrhod
- eisland.com/event/fine-arts-and-artisans-holiday-marketplace/112555/
-LOCATION:DeBlois Gallery\, 134 Aquidneck Avenue\, Middletown\, RI 02842
-URL:https://www.visitrhodeisland.com/event/fine-arts-and-artisans-holiday-
- marketplace/112555/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fine Arts and Artisans Holiday Marketplace
-DTSTART;VALUE=DATE:20261114
-DTEND;VALUE=DATE:20261115
-DTSTAMP:20261108T164655Z
-UID:36e15cc74afc2f7c870aca38693e@visitri-calendar
-DESCRIPTION:Annual Fine Arts and Artisans Holiday Marketplace November 7&#
- 8211\;December 23\, 2026 | Middletown\, Rhode Island Opening Reception Sat
- urday November 7th\, 5:00 - 7:00 PM Holiday Party Saturday December 5th\, 
- 5:00 - 7:00 PM Gallery Nights Thursday November 12th and December 10th\, 5
- :00 - 7:00 PM DeBlois Gallery is delighted to present its annual Fine Arts
-  and Artisans Marketplace from Nov. 7 &#8211\; Dec. 23\, 2026\, bringing t
- ogether original artwork and handcrafted gifts for the holiday season. Spa
- nning November and December\, the marketplace will offer visitors a two-mo
- nth period to shop for distinctive gifts while supporting local artists an
- d artisans. The diverse selection includes ornaments\, jewelry\, wearable 
- art\, prints\, paintings\, pottery and holiday cards. Fine art and crafts 
- share the gallery space\, offering an inviting mix of pieces to display\, 
- wear\, use and give. For shoppers seeking gifts with a personal connection
- \, the marketplace offers choices ranging from jewelry to suit your indivi
- dual style\, to pottery and original artwork that add an artistic touch to
-  your home. There are also hand-crafted holiday ornaments and cards ideal 
- for observing seasonal traditions. DeBlois gift certificates will also be 
- available\, the perfect present for recipients to choose a work that speak
- s to them. As one of Rhode Island’s few cooperative galleries\, DeBlois 
- offers a distinctive setting shaped by the artists who love the space\, br
- inging a variety of creative perspectives into one shared space where visi
- tors can discover different styles and media in a welcoming atmosphere. Th
- e holiday marketplace reflects that spirit\, celebrating individual crafts
- manship and the collective creativity of the gallery community. Participat
- ing artists are available for interviews upon request. Deblois Gallery is 
- located at 134 Aquidneck Avenue in Middletown and is open Wednesday throug
- h Sunday\, from 1:00 - 5:00 PM. All are welcome\, and ample free parking i
- s available. Visit www.debloisgallery.com or follow the gallery on Instagr
- am and Facebook for updates on participating artists and holiday events. M
- edia contact: Michael Day | dr.mday@gmail.com Gallery: (401) 847-9977 | ww
- w.debloisgallery.com Instagram / Facebook\n\nSource: https://www.visitrhod
- eisland.com/event/fine-arts-and-artisans-holiday-marketplace/112555/
-LOCATION:DeBlois Gallery\, 134 Aquidneck Avenue\, Middletown\, RI 02842
-URL:https://www.visitrhodeisland.com/event/fine-arts-and-artisans-holiday-
- marketplace/112555/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Cars & Coffee — Sachuest Beach (Second Beach)
-DTSTART;VALUE=DATE:20261115
-DTEND;VALUE=DATE:20261116
-DTSTAMP:20261108T164655Z
-UID:ad1d6e2267116c763b7f36611c5c@visitri-calendar
-DESCRIPTION:Cars &amp\; Coffee When: Select Sundays from 8:00 AM to 10:00 
- AM at Second Beach\, 315 Sachuest Point Road\, Middletown May 10 October 1
- 1 October 18 October 25 November 8 November 15 Cars &amp\; Coffee\, hosted
-  by the Audrain Automobile Museum\, has grown exponentially since the star
- t - now eight years ago\, only 52 cars appeared at the first event! The Ca
- rs &amp\; Coffee family has expanded\, now consistently seeing 350-400 car
- s on the field and more than 1\,000 at the Motor Week event. We feel that 
- Cars &amp\; Coffee is now the backbone Audrain Automobile Museum and the l
- ocal car community as well. Cheers to another season! Below are a couple r
- eminders for the 2026 Season: For Audrain Members\, registration will open
-  the Monday before each of the Cars &amp\; Coffee events and public regist
- ration will open on the Wednesday before each of the Cars &amp\; Coffee ev
- ents. In order to register for one of the Cars &amp\; Coffee events\, you 
- must be subscribed to our email list. You cannot register for any of the C
- ars &amp\; Coffee events through the Audrain website or over the phone. On
- ly Vehicles are required to register for the event. Guests of drivers\, an
- d spectators do not need to register. *All events are subject to change. A
- ll events are rain or shine unless noted.\n\nSource: https://www.visitrhod
- eisland.com/event/cars-%26-coffee-%e2%80%94-sachuest-beach-(second-beach)/
- 109992/
-LOCATION:Sachuest Beach (Second Beach)\, 315 Sachuest Point Rd\, Middletow
- n\, RI 02842 Time: 8:00 AM to 10:00 AM
-URL:https://www.visitrhodeisland.com/event/cars-%26-coffee-%e2%80%94-sachu
- est-beach-(second-beach)/109992/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Newport Restaurant Week 2026
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
-DTSTAMP:20261108T164655Z
+DTSTAMP:20261109T210206Z
 UID:b07ae03f428a5f6f986ffdf404a3@visitri-calendar
 DESCRIPTION:The flavors of nine coastal communities\, all rolled up into o
  ne savory week. Newport Restaurant Week now takes place annually each fall
@@ -586,34 +276,246 @@ URL:https://www.visitrhodeisland.com/event/newport-restaurant-week-2026/11
  2499/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:A New England Thanksgiving
+SUMMARY:Rhode Island Christmas Festival
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
-DTSTAMP:20261108T164655Z
-UID:21d35714802ba10832a84ed3bbac@visitri-calendar
-DESCRIPTION:Join the Coggeshall staff as we prepare a Thanksgiving meal ov
- er the hearth in our historic farmhouse. The late 18th century was before 
- the official start of Thanksgiving as a national holiday\, but the day was
-  still celebrated with food and prayer in New England. Watch our costumed 
- historians make chicken on a string\, bake a pie in the hot coals\, mash t
- urnips and churn butter. In the woodshop we will also demonstrate carving 
- wooden spoons. Explore the garden to see the last of the fall harvest. Wal
- k the nature trail and look for signs of wild turkey\, see musket demonstr
- ations and try your aim with rubber band targets. Please note: This is not
-  a Thanksgiving meal for visitors to eat. Food prepared in the historic Fa
- rmhouse Kitchen does not meet modern health and food preparation codes for
-  public consumption.\n\nSource: https://www.visitrhodeisland.com/event/a-n
- ew-england-thanksgiving/112116/
-LOCATION:Coggeshall Farm Museum\, 1 Colt Drive\, Bristol\, 02809 Time: 10:
- 00 AM to 4:00 PM
-URL:https://www.visitrhodeisland.com/event/a-new-england-thanksgiving/1121
- 16/
+DTSTAMP:20261109T210206Z
+UID:91d0c45995c76bb3e4e4d4172d7a@visitri-calendar
+DESCRIPTION:RHODE ISLAND CHRISTMAS FESTIVAL COMING TO WEST WARWICK THIS NO
+ VEMBER WEST WARWICK\, R.I. — Community Marketing RI is pleased to announ
+ ce the annual Rhode Island Christmas Festival\, taking place November 21 a
+ nd 22 at the West Warwick Civic Center. This family-friendly festive event
+  features over 150 local vendors\, entertainment\, and food trucks to kick
+  off the holiday shopping season. Admission and parking are both completel
+ y free for all attendees. Event Details: - Dates &amp\; Times: - Saturday
+ \, November 21: 10:00 a.m. &#8211\; 4:00 p.m. - Sunday\, November 22: 11:0
+ 0 a.m. &#8211\; 3:00 p.m. - Location: West Warwick Civic Center\, 100 Fact
+ ory St.\, West Warwick\, RI - Admission: FREE - Parking: FREE Attendees ca
+ n shop a wide variety of unique gifts\, crafts\, specialized goods\, and f
+ ood from over 150 participating exhibitors\, including: - Food &amp\; Dini
+ ng: Azraas Kitchen\, Big D's Hot Sauce LLC\, Deja Brew Cafe RI\, Dolci di 
+ Giovanna\, Edgewood Cheese Shop\, Griddle Me This Food Truck\, La Loncheri
+ ta Food Truck\, Lady Ann Candies\, Lemon Lane LLC/Sweets On The Lane\, Mad
+ e By Vicki Jams and Jellies\, Nothing Bundt Cakes\, Susan’s Sweet Treats
+ \, Texas Roadhouse\, The Dublin Stack\, The Fine Bake Shop\, The Rise Cafe
+ \, V's Sweet Shop - Crafts &amp\; Handmade Gifts: A Little Bit of Everythi
+ ng Gifts\, Art by Lynne Albright\, Artefacts Collection\, Bo's Boards\, Bu
+ tterfly Pin &amp\; Stitch\, Celona Legacy Woodworks\, CharBella Designs\, 
+ Chez Lucie\, ClassyCreations04\, Cole Quilts\, Coloring with Fire\, Creati
+ vely Crafted by Linda &amp\; Christina\, Crooked Dragonfly\, Crystal's Cus
+ tom Creations\, Dad and Daughter Designs RI\, Deb Petteruti Glass Art\, De
+ bs Crafts\, Dreaming Light Creations\, Dust Bunnie Crafts\, Engraved Elega
+ nce by Vickie\, Follow Your Heart Creations\, Fox &amp\; Mouse Print House
+ \, Gammie's Craft Corner and Handmade by Donna\, GoneKrafty27\, Grammy Joa
+ n Handmade\, Grit and Grace Custom Creations\, Heavy Metal Animals\, J and
+  J Designs\, Janetarts\, Joan B's Treasures from the Sea\, Katie Creations
+ \, KrystallosArt by Ile\, Lar’s Creations\, Mel's Crafty Nook\, Misc By 
+ Macy\, MKJ Designs LLC\, Once Upon a Fiber\, Patty's Crafts\, Regali Desig
+ ns\, Sacred Sol Design\, Samantha's Cozy Creations / Nic's Handsewn\, Seas
+ ide Stitches by Lynn\, Seasonal and Oceanic Inspirations\, See What I Saw
+ \, Sewfisticated Designs by Cissy\, Silva's Custom Designs\, Simply 3D LLC
+ \, Stainz Creations\, Stitcheswithlove365\, Sunflower Beach Arts\, Twin Ch
+ icken Studios\, Unique Crafts by A&amp\;C\, Unique Finds\, Wooster Creatio
+ ns - Apparel\, Jewelry &amp\; Accessories: A&amp\;D Jewelry\, Bella's Bout
+ ique\, BLING-O BUDDY\, Creative Concepts Boutique\, KA-TAL' JEWELRY\, Lond
+ y’s Beads\, Paparazzi Accessories\, Rhodypl.shop\, Sammmy's Silver\, Spi
+ cy Leashes\, Touchstone Crystal by Swarovski - Health\, Beauty &amp\; Bath
+ : A Girl's Gotta Spa!\, Allie's Naturals LLC\, Athenas Heavenly Goddess by
+  Denise\, Avon\, Colorstreet\, Faerie Apothecary\, Lil’ Cub Candles\, Li
+ ly &amp\; Belladonna Apothecary\, Lofty Cedars Farm Bath &amp\; Body\, Lot
+ usGlow Delights\, Mama Bear’s Cookie Candle Co\, Mary Kay Cosmetics\, Na
+ nni’s Goat Milk Soap\, Wicked Scentual Candles\, Zehara Naturals - Home 
+ &amp\; Garden: Aquidneck Honey\, Cole&amp\;Spice Mia Bella Candles\, Cryst
+ al Clear Gardens\, Cutco\, Five Star Bath Solutions\, Hallene Farm\, I Can
+  Only Get So Plantsy\, LeafFilter\, Long Home\, Re-Bath LLC\, Renewal by A
+ ndersen\, Soul and Soil Shoppe\, Sunny Meadows Farm\, The Air Plant Alchem
+ ist - Entertainment &amp\; Specialty Services: ABA Centers of Rhode Island
+ \, Adult &amp\; Teen Challenge Southern New England Women\, APEX Internati
+ onal Student Homestays\, Balloon Twisting by Ant-knee\, Book Besties\, Bou
+ ntiful Baskets\, Cruise Planners - Michael Musumeci\, Dtails\, Echo Acres 
+ LLC\, Faithful Strands\, Family Service of Rhode Island\, Keeping Kids Fis
+ hing\, Legacy Martial Arts RI\, Little Sisters of the Poor\, Little House 
+ Market\, Luxaura Studios\, Majestic Beatz Entertainment\, Mastery Martial 
+ Arts\, Miss Adventures\, MK's Sports Merchandise\, New England Good Life\,
+  Ocean State Writers\, PaperPie\, Patty G Photos\, Something Winey\, Sleep
+  in Heavenly Peace\, Suzie’s Place\n\nSource: https://www.visitrhodeisla
+ nd.com/event/rhode-island-christmas-festival/112607/
+LOCATION:West Warwick Civic Center\, 100 Factory St.\, West Warwick\, RI -
+  Admission: FREE - Parking: FREE Attendees can shop a wide variety of uniq
+ ue gifts\, crafts\, specialized goods\, and food from over 150 participati
+ ng exhibitors\, including: - Food & Dining: Azraas Kitchen\, Big D's Hot S
+ auce LLC\, Deja Brew Cafe RI\, Dolci di Giovanna\, Edgewood Cheese Shop\, 
+ Griddle Me This Food Truck\, La Loncherita Food Truck\, Lady Ann Candies\,
+  Lemon Lane LLC/Sweets On The Lane\, Made By Vicki Jams and Jellies\, Noth
+ ing Bundt Cakes\, Susan’s Sweet Treats\, Texas Roadhouse\, The Dublin St
+ ack\, The Fine Bake Shop\, The Rise Cafe\, V's Sweet Shop - Crafts & Handm
+ ade Gifts: A Little Bit of Everything Gifts\, Art by Lynne Albright\, Arte
+ facts Collection\, Bo's Boards\, Butterfly Pin & Stitch\, Celona Legacy Wo
+ odworks\, CharBella Designs\, Chez Lucie\, ClassyCreations04\, Cole Quilts
+ \, Coloring with Fire\, Creatively Crafted by Linda & Christina\, Crooked 
+ Dragonfly\, Crystal's Custom Creations\, Dad and Daughter Designs RI\, Deb
+  Petteruti Glass Art\, Debs Crafts\, Dreaming Light Creations\, Dust Bunni
+ e Crafts\, Engraved Elegance by Vickie\, Follow Your Heart Creations\, Fox
+  & Mouse Print House\, Gammie's Craft Corner and Handmade by Donna\, GoneK
+ rafty27\, Grammy Joan Handmade\, Grit and Grace Custom Creations\, Heavy M
+ etal Animals\, J and J Designs\, Janetarts\, Joan B's Treasures from the S
+ ea\, Katie Creations\, KrystallosArt by Ile\, Lar’s Creations\, Mel's Cr
+ afty Nook\, Misc By Macy\, MKJ Designs LLC\, Once Upon a Fiber\, Patty's C
+ rafts\, Regali Designs\, Sacred Sol Design\, Samantha's Cozy Creations / N
+ ic's Handsewn\, Seaside Stitches by Lynn\, Seasonal and Oceanic Inspiratio
+ ns\, See What I Saw\, Sewfisticated Designs by Cissy\, Silva's Custom Desi
+ gns\, Simply 3D LLC\, Stainz Creations\, Stitcheswithlove365\, Sunflower B
+ each Arts\, Twin Chicken Studios\, Unique Crafts by A&C\, Unique Finds\, W
+ ooster Creations - Apparel\, Jewelry & Accessories: A&D Jewelry\, Bella's 
+ Boutique\, BLING-O BUDDY\, Creative Concepts Boutique\, KA-TAL' JEWELRY\, 
+ Londy’s Beads\, Paparazzi Accessories\, Rhodypl.shop \, Sammmy's Silver
+ \, Spicy Leashes\, Touchstone Crystal by Swarovski - Health\, Beauty & Bat
+ h: A Girl's Gotta Spa!\, Allie's Naturals LLC\, Athenas Heavenly Goddess b
+ y Denise\, Avon\, Colorstreet\, Faerie Apothecary\, Lil’ Cub Candles\, L
+ ily & Belladonna Apothecary\, Lofty Cedars Farm Bath & Body\, LotusGlow De
+ lights\, Mama Bear’s Cookie Candle Co\, Mary Kay Cosmetics\, Nanni’s G
+ oat Milk Soap\, Wicked Scentual Candles\, Zehara Naturals - Home & Garden:
+  Aquidneck Honey\, Cole&Spice Mia Bella Candles\, Crystal Clear Gardens\, 
+ Cutco\, Five Star Bath Solutions\, Hallene Farm\, I Can Only Get So Plants
+ y\, LeafFilter\, Long Home\, Re-Bath LLC\, Renewal by Andersen\, Soul and 
+ Soil Shoppe\, Sunny Meadows Farm\, The Air Plant Alchemist - Entertainment
+  & Specialty Services: ABA Centers of Rhode Island\, Adult & Teen Challeng
+ e Southern New England Women\, APEX International Student Homestays\, Ball
+ oon Twisting by Ant-knee\, Book Besties\, Bountiful Baskets\, Cruise Plann
+ ers - Michael Musumeci\, Dtails\, Echo Acres LLC\, Faithful Strands\, Fami
+ ly Service of Rhode Island\, Keeping Kids Fishing\, Legacy Martial Arts RI
+ \, Little Sisters of the Poor\, Little House Market\, Luxaura Studios\, Ma
+ jestic Beatz Entertainment\, Mastery Martial Arts\, Miss Adventures\, MK's
+  Sports Merchandise\, New England Good Life\, Ocean State Writers\, PaperP
+ ie\, Patty G Photos\, Something Winey\, Sleep in Heavenly Peace\, Suzie’
+ s Place Show More 1 / 1 Additional Information\, West Warwick Civic Center
+ \, 100 Factory Street\, West Warwick\, 02893
+URL:https://www.visitrhodeisland.com/event/rhode-island-christmas-festival
+ /112607/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rhode Island Christmas Festival
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+DTSTAMP:20261109T210206Z
+UID:54a771ad2e97b7ab06678bd091ac@visitri-calendar
+DESCRIPTION:RHODE ISLAND CHRISTMAS FESTIVAL COMING TO WEST WARWICK THIS NO
+ VEMBER WEST WARWICK\, R.I. — Community Marketing RI is pleased to announ
+ ce the annual Rhode Island Christmas Festival\, taking place November 21 a
+ nd 22 at the West Warwick Civic Center. This family-friendly festive event
+  features over 150 local vendors\, entertainment\, and food trucks to kick
+  off the holiday shopping season. Admission and parking are both completel
+ y free for all attendees. Event Details: - Dates &amp\; Times: - Saturday
+ \, November 21: 10:00 a.m. &#8211\; 4:00 p.m. - Sunday\, November 22: 11:0
+ 0 a.m. &#8211\; 3:00 p.m. - Location: West Warwick Civic Center\, 100 Fact
+ ory St.\, West Warwick\, RI - Admission: FREE - Parking: FREE Attendees ca
+ n shop a wide variety of unique gifts\, crafts\, specialized goods\, and f
+ ood from over 150 participating exhibitors\, including: - Food &amp\; Dini
+ ng: Azraas Kitchen\, Big D's Hot Sauce LLC\, Deja Brew Cafe RI\, Dolci di 
+ Giovanna\, Edgewood Cheese Shop\, Griddle Me This Food Truck\, La Loncheri
+ ta Food Truck\, Lady Ann Candies\, Lemon Lane LLC/Sweets On The Lane\, Mad
+ e By Vicki Jams and Jellies\, Nothing Bundt Cakes\, Susan’s Sweet Treats
+ \, Texas Roadhouse\, The Dublin Stack\, The Fine Bake Shop\, The Rise Cafe
+ \, V's Sweet Shop - Crafts &amp\; Handmade Gifts: A Little Bit of Everythi
+ ng Gifts\, Art by Lynne Albright\, Artefacts Collection\, Bo's Boards\, Bu
+ tterfly Pin &amp\; Stitch\, Celona Legacy Woodworks\, CharBella Designs\, 
+ Chez Lucie\, ClassyCreations04\, Cole Quilts\, Coloring with Fire\, Creati
+ vely Crafted by Linda &amp\; Christina\, Crooked Dragonfly\, Crystal's Cus
+ tom Creations\, Dad and Daughter Designs RI\, Deb Petteruti Glass Art\, De
+ bs Crafts\, Dreaming Light Creations\, Dust Bunnie Crafts\, Engraved Elega
+ nce by Vickie\, Follow Your Heart Creations\, Fox &amp\; Mouse Print House
+ \, Gammie's Craft Corner and Handmade by Donna\, GoneKrafty27\, Grammy Joa
+ n Handmade\, Grit and Grace Custom Creations\, Heavy Metal Animals\, J and
+  J Designs\, Janetarts\, Joan B's Treasures from the Sea\, Katie Creations
+ \, KrystallosArt by Ile\, Lar’s Creations\, Mel's Crafty Nook\, Misc By 
+ Macy\, MKJ Designs LLC\, Once Upon a Fiber\, Patty's Crafts\, Regali Desig
+ ns\, Sacred Sol Design\, Samantha's Cozy Creations / Nic's Handsewn\, Seas
+ ide Stitches by Lynn\, Seasonal and Oceanic Inspirations\, See What I Saw
+ \, Sewfisticated Designs by Cissy\, Silva's Custom Designs\, Simply 3D LLC
+ \, Stainz Creations\, Stitcheswithlove365\, Sunflower Beach Arts\, Twin Ch
+ icken Studios\, Unique Crafts by A&amp\;C\, Unique Finds\, Wooster Creatio
+ ns - Apparel\, Jewelry &amp\; Accessories: A&amp\;D Jewelry\, Bella's Bout
+ ique\, BLING-O BUDDY\, Creative Concepts Boutique\, KA-TAL' JEWELRY\, Lond
+ y’s Beads\, Paparazzi Accessories\, Rhodypl.shop\, Sammmy's Silver\, Spi
+ cy Leashes\, Touchstone Crystal by Swarovski - Health\, Beauty &amp\; Bath
+ : A Girl's Gotta Spa!\, Allie's Naturals LLC\, Athenas Heavenly Goddess by
+  Denise\, Avon\, Colorstreet\, Faerie Apothecary\, Lil’ Cub Candles\, Li
+ ly &amp\; Belladonna Apothecary\, Lofty Cedars Farm Bath &amp\; Body\, Lot
+ usGlow Delights\, Mama Bear’s Cookie Candle Co\, Mary Kay Cosmetics\, Na
+ nni’s Goat Milk Soap\, Wicked Scentual Candles\, Zehara Naturals - Home 
+ &amp\; Garden: Aquidneck Honey\, Cole&amp\;Spice Mia Bella Candles\, Cryst
+ al Clear Gardens\, Cutco\, Five Star Bath Solutions\, Hallene Farm\, I Can
+  Only Get So Plantsy\, LeafFilter\, Long Home\, Re-Bath LLC\, Renewal by A
+ ndersen\, Soul and Soil Shoppe\, Sunny Meadows Farm\, The Air Plant Alchem
+ ist - Entertainment &amp\; Specialty Services: ABA Centers of Rhode Island
+ \, Adult &amp\; Teen Challenge Southern New England Women\, APEX Internati
+ onal Student Homestays\, Balloon Twisting by Ant-knee\, Book Besties\, Bou
+ ntiful Baskets\, Cruise Planners - Michael Musumeci\, Dtails\, Echo Acres 
+ LLC\, Faithful Strands\, Family Service of Rhode Island\, Keeping Kids Fis
+ hing\, Legacy Martial Arts RI\, Little Sisters of the Poor\, Little House 
+ Market\, Luxaura Studios\, Majestic Beatz Entertainment\, Mastery Martial 
+ Arts\, Miss Adventures\, MK's Sports Merchandise\, New England Good Life\,
+  Ocean State Writers\, PaperPie\, Patty G Photos\, Something Winey\, Sleep
+  in Heavenly Peace\, Suzie’s Place\n\nSource: https://www.visitrhodeisla
+ nd.com/event/rhode-island-christmas-festival/112607/
+LOCATION:West Warwick Civic Center\, 100 Factory St.\, West Warwick\, RI -
+  Admission: FREE - Parking: FREE Attendees can shop a wide variety of uniq
+ ue gifts\, crafts\, specialized goods\, and food from over 150 participati
+ ng exhibitors\, including: - Food & Dining: Azraas Kitchen\, Big D's Hot S
+ auce LLC\, Deja Brew Cafe RI\, Dolci di Giovanna\, Edgewood Cheese Shop\, 
+ Griddle Me This Food Truck\, La Loncherita Food Truck\, Lady Ann Candies\,
+  Lemon Lane LLC/Sweets On The Lane\, Made By Vicki Jams and Jellies\, Noth
+ ing Bundt Cakes\, Susan’s Sweet Treats\, Texas Roadhouse\, The Dublin St
+ ack\, The Fine Bake Shop\, The Rise Cafe\, V's Sweet Shop - Crafts & Handm
+ ade Gifts: A Little Bit of Everything Gifts\, Art by Lynne Albright\, Arte
+ facts Collection\, Bo's Boards\, Butterfly Pin & Stitch\, Celona Legacy Wo
+ odworks\, CharBella Designs\, Chez Lucie\, ClassyCreations04\, Cole Quilts
+ \, Coloring with Fire\, Creatively Crafted by Linda & Christina\, Crooked 
+ Dragonfly\, Crystal's Custom Creations\, Dad and Daughter Designs RI\, Deb
+  Petteruti Glass Art\, Debs Crafts\, Dreaming Light Creations\, Dust Bunni
+ e Crafts\, Engraved Elegance by Vickie\, Follow Your Heart Creations\, Fox
+  & Mouse Print House\, Gammie's Craft Corner and Handmade by Donna\, GoneK
+ rafty27\, Grammy Joan Handmade\, Grit and Grace Custom Creations\, Heavy M
+ etal Animals\, J and J Designs\, Janetarts\, Joan B's Treasures from the S
+ ea\, Katie Creations\, KrystallosArt by Ile\, Lar’s Creations\, Mel's Cr
+ afty Nook\, Misc By Macy\, MKJ Designs LLC\, Once Upon a Fiber\, Patty's C
+ rafts\, Regali Designs\, Sacred Sol Design\, Samantha's Cozy Creations / N
+ ic's Handsewn\, Seaside Stitches by Lynn\, Seasonal and Oceanic Inspiratio
+ ns\, See What I Saw\, Sewfisticated Designs by Cissy\, Silva's Custom Desi
+ gns\, Simply 3D LLC\, Stainz Creations\, Stitcheswithlove365\, Sunflower B
+ each Arts\, Twin Chicken Studios\, Unique Crafts by A&C\, Unique Finds\, W
+ ooster Creations - Apparel\, Jewelry & Accessories: A&D Jewelry\, Bella's 
+ Boutique\, BLING-O BUDDY\, Creative Concepts Boutique\, KA-TAL' JEWELRY\, 
+ Londy’s Beads\, Paparazzi Accessories\, Rhodypl.shop \, Sammmy's Silver
+ \, Spicy Leashes\, Touchstone Crystal by Swarovski - Health\, Beauty & Bat
+ h: A Girl's Gotta Spa!\, Allie's Naturals LLC\, Athenas Heavenly Goddess b
+ y Denise\, Avon\, Colorstreet\, Faerie Apothecary\, Lil’ Cub Candles\, L
+ ily & Belladonna Apothecary\, Lofty Cedars Farm Bath & Body\, LotusGlow De
+ lights\, Mama Bear’s Cookie Candle Co\, Mary Kay Cosmetics\, Nanni’s G
+ oat Milk Soap\, Wicked Scentual Candles\, Zehara Naturals - Home & Garden:
+  Aquidneck Honey\, Cole&Spice Mia Bella Candles\, Crystal Clear Gardens\, 
+ Cutco\, Five Star Bath Solutions\, Hallene Farm\, I Can Only Get So Plants
+ y\, LeafFilter\, Long Home\, Re-Bath LLC\, Renewal by Andersen\, Soul and 
+ Soil Shoppe\, Sunny Meadows Farm\, The Air Plant Alchemist - Entertainment
+  & Specialty Services: ABA Centers of Rhode Island\, Adult & Teen Challeng
+ e Southern New England Women\, APEX International Student Homestays\, Ball
+ oon Twisting by Ant-knee\, Book Besties\, Bountiful Baskets\, Cruise Plann
+ ers - Michael Musumeci\, Dtails\, Echo Acres LLC\, Faithful Strands\, Fami
+ ly Service of Rhode Island\, Keeping Kids Fishing\, Legacy Martial Arts RI
+ \, Little Sisters of the Poor\, Little House Market\, Luxaura Studios\, Ma
+ jestic Beatz Entertainment\, Mastery Martial Arts\, Miss Adventures\, MK's
+  Sports Merchandise\, New England Good Life\, Ocean State Writers\, PaperP
+ ie\, Patty G Photos\, Something Winey\, Sleep in Heavenly Peace\, Suzie’
+ s Place Show More 1 / 1 Additional Information\, West Warwick Civic Center
+ \, 100 Factory Street\, West Warwick\, 02893
+URL:https://www.visitrhodeisland.com/event/rhode-island-christmas-festival
+ /112607/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
-DTSTAMP:20261108T164655Z
+DTSTAMP:20261109T210206Z
 UID:d5932912a26459263f74067ed3d2@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -641,7 +543,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
-DTSTAMP:20261108T164655Z
+DTSTAMP:20261109T210206Z
 UID:f83dbecb85872dc3b9715683d412@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -666,10 +568,35 @@ URL:https://www.visitrhodeisland.com/event/sparkling-lights-at-the-breaker
  s/112249/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Rhode Island Lights Festival
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+DTSTAMP:20261109T210206Z
+UID:448ec4f075219bf9373bb35a3117@visitri-calendar
+DESCRIPTION:This holiday season\, Centreville Bank Stadium will be transfo
+ rmed into a spectacular winter wonderland as the Rhode Island Lights Festi
+ val brings together dazzling light displays\, festive entertainment\, holi
+ day shopping\, seasonal food and beverages\, and unforgettable experiences
+  for guests of all ages. Whether you're beginning a new family tradition\,
+  planning a magical date night\, gathering with friends\, or celebrating w
+ ith coworkers\, the Rhode Island Lights Festival is designed to capture th
+ e joy\, warmth\, and wonder of the holiday season. From strolling through 
+ thousands of sparkling lights and discovering unique gifts in the Holiday 
+ Market to enjoying festive treats\, meeting Santa\, and creating memories 
+ that will last a lifetime\, every visit offers something special. No matte
+ r how you choose to celebrate\, the Rhode Island Lights Festival has an ex
+ perience designed just for you.\n\nSource: https://www.visitrhodeisland.co
+ m/event/rhode-island-lights-festival/112530/
+LOCATION:Centreville Bank Stadium\, 11 Tidewater Street\, Pawtucket\, 0268
+ 0 Time: 5:00 PM to 10:00 PM
+URL:https://www.visitrhodeisland.com/event/rhode-island-lights-festival/11
+ 2530/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Santa Magic in Long Wharf
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
-DTSTAMP:20261108T164655Z
+DTSTAMP:20261109T210206Z
 UID:87475b86156a7bb04dfea6f34ef6@visitri-calendar
 DESCRIPTION:🎄✨ Holiday Tree Lighting Event!✨🎄 Mark your calendar
  s! The holiday season is kicking off at the Shops of Long Wharf\, and you 
@@ -693,7 +620,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
-DTSTAMP:20261108T164655Z
+DTSTAMP:20261109T210206Z
 UID:b086f1bd58d78d3d3eb4b27c4e80@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -718,10 +645,35 @@ URL:https://www.visitrhodeisland.com/event/sparkling-lights-at-the-breaker
  s/112249/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Rhode Island Lights Festival
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+DTSTAMP:20261109T210206Z
+UID:10ebb05c2374acae092481a580db@visitri-calendar
+DESCRIPTION:This holiday season\, Centreville Bank Stadium will be transfo
+ rmed into a spectacular winter wonderland as the Rhode Island Lights Festi
+ val brings together dazzling light displays\, festive entertainment\, holi
+ day shopping\, seasonal food and beverages\, and unforgettable experiences
+  for guests of all ages. Whether you're beginning a new family tradition\,
+  planning a magical date night\, gathering with friends\, or celebrating w
+ ith coworkers\, the Rhode Island Lights Festival is designed to capture th
+ e joy\, warmth\, and wonder of the holiday season. From strolling through 
+ thousands of sparkling lights and discovering unique gifts in the Holiday 
+ Market to enjoying festive treats\, meeting Santa\, and creating memories 
+ that will last a lifetime\, every visit offers something special. No matte
+ r how you choose to celebrate\, the Rhode Island Lights Festival has an ex
+ perience designed just for you.\n\nSource: https://www.visitrhodeisland.co
+ m/event/rhode-island-lights-festival/112530/
+LOCATION:Centreville Bank Stadium\, 11 Tidewater Street\, Pawtucket\, 0268
+ 0 Time: 5:00 PM to 10:00 PM
+URL:https://www.visitrhodeisland.com/event/rhode-island-lights-festival/11
+ 2530/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
-DTSTAMP:20261108T164655Z
+DTSTAMP:20261109T210206Z
 UID:a07e4e611fb4e8a3b793ee3d6baa@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -746,10 +698,35 @@ URL:https://www.visitrhodeisland.com/event/sparkling-lights-at-the-breaker
  s/112249/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Rhode Island Lights Festival
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+DTSTAMP:20261109T210206Z
+UID:ce724247a0b0f5b958de383d5791@visitri-calendar
+DESCRIPTION:This holiday season\, Centreville Bank Stadium will be transfo
+ rmed into a spectacular winter wonderland as the Rhode Island Lights Festi
+ val brings together dazzling light displays\, festive entertainment\, holi
+ day shopping\, seasonal food and beverages\, and unforgettable experiences
+  for guests of all ages. Whether you're beginning a new family tradition\,
+  planning a magical date night\, gathering with friends\, or celebrating w
+ ith coworkers\, the Rhode Island Lights Festival is designed to capture th
+ e joy\, warmth\, and wonder of the holiday season. From strolling through 
+ thousands of sparkling lights and discovering unique gifts in the Holiday 
+ Market to enjoying festive treats\, meeting Santa\, and creating memories 
+ that will last a lifetime\, every visit offers something special. No matte
+ r how you choose to celebrate\, the Rhode Island Lights Festival has an ex
+ perience designed just for you.\n\nSource: https://www.visitrhodeisland.co
+ m/event/rhode-island-lights-festival/112530/
+LOCATION:Centreville Bank Stadium\, 11 Tidewater Street\, Pawtucket\, 0268
+ 0 Time: 5:00 PM to 10:00 PM
+URL:https://www.visitrhodeisland.com/event/rhode-island-lights-festival/11
+ 2530/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
-DTSTAMP:20261108T164655Z
+DTSTAMP:20261109T210206Z
 UID:0e0d137da86e729e9b7c503df973@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -774,10 +751,35 @@ URL:https://www.visitrhodeisland.com/event/sparkling-lights-at-the-breaker
  s/112249/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Rhode Island Lights Festival
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+DTSTAMP:20261109T210206Z
+UID:55a3de0c84372bcc3132f2594f57@visitri-calendar
+DESCRIPTION:This holiday season\, Centreville Bank Stadium will be transfo
+ rmed into a spectacular winter wonderland as the Rhode Island Lights Festi
+ val brings together dazzling light displays\, festive entertainment\, holi
+ day shopping\, seasonal food and beverages\, and unforgettable experiences
+  for guests of all ages. Whether you're beginning a new family tradition\,
+  planning a magical date night\, gathering with friends\, or celebrating w
+ ith coworkers\, the Rhode Island Lights Festival is designed to capture th
+ e joy\, warmth\, and wonder of the holiday season. From strolling through 
+ thousands of sparkling lights and discovering unique gifts in the Holiday 
+ Market to enjoying festive treats\, meeting Santa\, and creating memories 
+ that will last a lifetime\, every visit offers something special. No matte
+ r how you choose to celebrate\, the Rhode Island Lights Festival has an ex
+ perience designed just for you.\n\nSource: https://www.visitrhodeisland.co
+ m/event/rhode-island-lights-festival/112530/
+LOCATION:Centreville Bank Stadium\, 11 Tidewater Street\, Pawtucket\, 0268
+ 0 Time: 5:00 PM to 10:00 PM
+URL:https://www.visitrhodeisland.com/event/rhode-island-lights-festival/11
+ 2530/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
-DTSTAMP:20261108T164655Z
+DTSTAMP:20261109T210206Z
 UID:ccc9d94ce27546581c6bf2b71fd9@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -806,7 +808,7 @@ SUMMARY:Bosgraaf Stained Glass Studio’s 11th Annual Holiday Sale & Hot C
  hocolate Happening!
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
-DTSTAMP:20261108T164655Z
+DTSTAMP:20261109T210206Z
 UID:be911d47885e79be62ea5f4dfca4@visitri-calendar
 DESCRIPTION:All are invited to Bosgraaf Stained Glass Studio’s 11th Annu
  al Holiday Sale\, featuring original glass works from over 60 student arti
@@ -838,10 +840,53 @@ URL:https://www.visitrhodeisland.com/event/bosgraaf-stained-glass-studio%e
  2%80%99s-11th-annual-holiday-sale-%26-hot-chocolate-happening!/112486/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Bristol Christmas Festival
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+DTSTAMP:20261109T210206Z
+UID:119bfccbe66a35d0c84a1f776fe3@visitri-calendar
+DESCRIPTION:The Bristol Christmas Festival at Unity Park will take place D
+ ecember 5 and 6\, 2026 and will feature live music\, holiday activities\, 
+ local vendors\, food trucks\, and a community tree lighting. Families\, st
+ udents\, and visitors can enjoy winter games\, photos with Santa\, charity
+  raffles\, and a festive outdoor market filled with handmade gifts. Admiss
+ ion is free\, and everyone is invited to celebrate the start of the holida
+ y season in the heart of Bristol.\n\nSource: https://www.visitrhodeisland.
+ com/event/bristol-christmas-festival/112606/
+LOCATION:Unity Park Business Center\, 500 Wood Street\, Bristol\, 02809
+URL:https://www.visitrhodeisland.com/event/bristol-christmas-festival/1126
+ 06/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rhode Island Lights Festival
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+DTSTAMP:20261109T210206Z
+UID:0a04df26f11880a9786c182f7140@visitri-calendar
+DESCRIPTION:This holiday season\, Centreville Bank Stadium will be transfo
+ rmed into a spectacular winter wonderland as the Rhode Island Lights Festi
+ val brings together dazzling light displays\, festive entertainment\, holi
+ day shopping\, seasonal food and beverages\, and unforgettable experiences
+  for guests of all ages. Whether you're beginning a new family tradition\,
+  planning a magical date night\, gathering with friends\, or celebrating w
+ ith coworkers\, the Rhode Island Lights Festival is designed to capture th
+ e joy\, warmth\, and wonder of the holiday season. From strolling through 
+ thousands of sparkling lights and discovering unique gifts in the Holiday 
+ Market to enjoying festive treats\, meeting Santa\, and creating memories 
+ that will last a lifetime\, every visit offers something special. No matte
+ r how you choose to celebrate\, the Rhode Island Lights Festival has an ex
+ perience designed just for you.\n\nSource: https://www.visitrhodeisland.co
+ m/event/rhode-island-lights-festival/112530/
+LOCATION:Centreville Bank Stadium\, 11 Tidewater Street\, Pawtucket\, 0268
+ 0 Time: 5:00 PM to 10:00 PM
+URL:https://www.visitrhodeisland.com/event/rhode-island-lights-festival/11
+ 2530/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
-DTSTAMP:20261108T164655Z
+DTSTAMP:20261109T210206Z
 UID:db8b766041237fea9b154b360279@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -869,7 +914,7 @@ BEGIN:VEVENT
 SUMMARY:The Intentional Celebration: Holiday Edition
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
-DTSTAMP:20261108T164655Z
+DTSTAMP:20261109T210206Z
 UID:6f484250684bf2271dde2a31e276@visitri-calendar
 DESCRIPTION:The Intentional Celebration: Holiday Edition is a two-day indo
  or holiday market and immersive Christmas experience taking place December
@@ -900,7 +945,7 @@ SUMMARY:Bosgraaf Stained Glass Studio’s 11th Annual Holiday Sale & Hot C
  hocolate Happening!
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
-DTSTAMP:20261108T164655Z
+DTSTAMP:20261109T210206Z
 UID:be38fc7a5f892549ae1dbf46140c@visitri-calendar
 DESCRIPTION:All are invited to Bosgraaf Stained Glass Studio’s 11th Annu
  al Holiday Sale\, featuring original glass works from over 60 student arti
@@ -932,10 +977,53 @@ URL:https://www.visitrhodeisland.com/event/bosgraaf-stained-glass-studio%e
  2%80%99s-11th-annual-holiday-sale-%26-hot-chocolate-happening!/112486/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Bristol Christmas Festival
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+DTSTAMP:20261109T210206Z
+UID:33da073af4a8494e7f1a85047827@visitri-calendar
+DESCRIPTION:The Bristol Christmas Festival at Unity Park will take place D
+ ecember 5 and 6\, 2026 and will feature live music\, holiday activities\, 
+ local vendors\, food trucks\, and a community tree lighting. Families\, st
+ udents\, and visitors can enjoy winter games\, photos with Santa\, charity
+  raffles\, and a festive outdoor market filled with handmade gifts. Admiss
+ ion is free\, and everyone is invited to celebrate the start of the holida
+ y season in the heart of Bristol.\n\nSource: https://www.visitrhodeisland.
+ com/event/bristol-christmas-festival/112606/
+LOCATION:Unity Park Business Center\, 500 Wood Street\, Bristol\, 02809
+URL:https://www.visitrhodeisland.com/event/bristol-christmas-festival/1126
+ 06/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rhode Island Lights Festival
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+DTSTAMP:20261109T210206Z
+UID:3e00c85f7e2a4b6d6053a10b9425@visitri-calendar
+DESCRIPTION:This holiday season\, Centreville Bank Stadium will be transfo
+ rmed into a spectacular winter wonderland as the Rhode Island Lights Festi
+ val brings together dazzling light displays\, festive entertainment\, holi
+ day shopping\, seasonal food and beverages\, and unforgettable experiences
+  for guests of all ages. Whether you're beginning a new family tradition\,
+  planning a magical date night\, gathering with friends\, or celebrating w
+ ith coworkers\, the Rhode Island Lights Festival is designed to capture th
+ e joy\, warmth\, and wonder of the holiday season. From strolling through 
+ thousands of sparkling lights and discovering unique gifts in the Holiday 
+ Market to enjoying festive treats\, meeting Santa\, and creating memories 
+ that will last a lifetime\, every visit offers something special. No matte
+ r how you choose to celebrate\, the Rhode Island Lights Festival has an ex
+ perience designed just for you.\n\nSource: https://www.visitrhodeisland.co
+ m/event/rhode-island-lights-festival/112530/
+LOCATION:Centreville Bank Stadium\, 11 Tidewater Street\, Pawtucket\, 0268
+ 0 Time: 5:00 PM to 10:00 PM
+URL:https://www.visitrhodeisland.com/event/rhode-island-lights-festival/11
+ 2530/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
-DTSTAMP:20261108T164655Z
+DTSTAMP:20261109T210206Z
 UID:4b643200b30e60635e855ddfbcdb@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -963,7 +1051,7 @@ BEGIN:VEVENT
 SUMMARY:The Intentional Celebration: Holiday Edition
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
-DTSTAMP:20261108T164655Z
+DTSTAMP:20261109T210206Z
 UID:f0031a8c4f9ec38b7e0300063594@visitri-calendar
 DESCRIPTION:The Intentional Celebration: Holiday Edition is a two-day indo
  or holiday market and immersive Christmas experience taking place December
@@ -990,10 +1078,60 @@ URL:https://www.visitrhodeisland.com/event/the-intentional-celebration%3a-
  holiday-edition/111943/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Rhode Island Lights Festival
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+DTSTAMP:20261109T210206Z
+UID:16cd82a02f4badfd01431e9ef39e@visitri-calendar
+DESCRIPTION:This holiday season\, Centreville Bank Stadium will be transfo
+ rmed into a spectacular winter wonderland as the Rhode Island Lights Festi
+ val brings together dazzling light displays\, festive entertainment\, holi
+ day shopping\, seasonal food and beverages\, and unforgettable experiences
+  for guests of all ages. Whether you're beginning a new family tradition\,
+  planning a magical date night\, gathering with friends\, or celebrating w
+ ith coworkers\, the Rhode Island Lights Festival is designed to capture th
+ e joy\, warmth\, and wonder of the holiday season. From strolling through 
+ thousands of sparkling lights and discovering unique gifts in the Holiday 
+ Market to enjoying festive treats\, meeting Santa\, and creating memories 
+ that will last a lifetime\, every visit offers something special. No matte
+ r how you choose to celebrate\, the Rhode Island Lights Festival has an ex
+ perience designed just for you.\n\nSource: https://www.visitrhodeisland.co
+ m/event/rhode-island-lights-festival/112530/
+LOCATION:Centreville Bank Stadium\, 11 Tidewater Street\, Pawtucket\, 0268
+ 0 Time: 5:00 PM to 10:00 PM
+URL:https://www.visitrhodeisland.com/event/rhode-island-lights-festival/11
+ 2530/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rhode Island Lights Festival
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+DTSTAMP:20261109T210206Z
+UID:37acb6393bef02c7e33a4f9172a7@visitri-calendar
+DESCRIPTION:This holiday season\, Centreville Bank Stadium will be transfo
+ rmed into a spectacular winter wonderland as the Rhode Island Lights Festi
+ val brings together dazzling light displays\, festive entertainment\, holi
+ day shopping\, seasonal food and beverages\, and unforgettable experiences
+  for guests of all ages. Whether you're beginning a new family tradition\,
+  planning a magical date night\, gathering with friends\, or celebrating w
+ ith coworkers\, the Rhode Island Lights Festival is designed to capture th
+ e joy\, warmth\, and wonder of the holiday season. From strolling through 
+ thousands of sparkling lights and discovering unique gifts in the Holiday 
+ Market to enjoying festive treats\, meeting Santa\, and creating memories 
+ that will last a lifetime\, every visit offers something special. No matte
+ r how you choose to celebrate\, the Rhode Island Lights Festival has an ex
+ perience designed just for you.\n\nSource: https://www.visitrhodeisland.co
+ m/event/rhode-island-lights-festival/112530/
+LOCATION:Centreville Bank Stadium\, 11 Tidewater Street\, Pawtucket\, 0268
+ 0 Time: 5:00 PM to 10:00 PM
+URL:https://www.visitrhodeisland.com/event/rhode-island-lights-festival/11
+ 2530/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261211
-DTSTAMP:20261108T164655Z
+DTSTAMP:20261109T210206Z
 UID:f1266d72481edfcb924f687a42f0@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -1018,10 +1156,35 @@ URL:https://www.visitrhodeisland.com/event/sparkling-lights-at-the-breaker
  s/112249/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Rhode Island Lights Festival
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+DTSTAMP:20261109T210206Z
+UID:64fcbc94723e108499c2256308ad@visitri-calendar
+DESCRIPTION:This holiday season\, Centreville Bank Stadium will be transfo
+ rmed into a spectacular winter wonderland as the Rhode Island Lights Festi
+ val brings together dazzling light displays\, festive entertainment\, holi
+ day shopping\, seasonal food and beverages\, and unforgettable experiences
+  for guests of all ages. Whether you're beginning a new family tradition\,
+  planning a magical date night\, gathering with friends\, or celebrating w
+ ith coworkers\, the Rhode Island Lights Festival is designed to capture th
+ e joy\, warmth\, and wonder of the holiday season. From strolling through 
+ thousands of sparkling lights and discovering unique gifts in the Holiday 
+ Market to enjoying festive treats\, meeting Santa\, and creating memories 
+ that will last a lifetime\, every visit offers something special. No matte
+ r how you choose to celebrate\, the Rhode Island Lights Festival has an ex
+ perience designed just for you.\n\nSource: https://www.visitrhodeisland.co
+ m/event/rhode-island-lights-festival/112530/
+LOCATION:Centreville Bank Stadium\, 11 Tidewater Street\, Pawtucket\, 0268
+ 0 Time: 5:00 PM to 10:00 PM
+URL:https://www.visitrhodeisland.com/event/rhode-island-lights-festival/11
+ 2530/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
-DTSTAMP:20261108T164655Z
+DTSTAMP:20261109T210206Z
 UID:b2668ced84621f351ee2e743ffd9@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -1046,10 +1209,35 @@ URL:https://www.visitrhodeisland.com/event/sparkling-lights-at-the-breaker
  s/112249/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Rhode Island Lights Festival
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+DTSTAMP:20261109T210206Z
+UID:1a105cfeadeefb1a60902dd5d339@visitri-calendar
+DESCRIPTION:This holiday season\, Centreville Bank Stadium will be transfo
+ rmed into a spectacular winter wonderland as the Rhode Island Lights Festi
+ val brings together dazzling light displays\, festive entertainment\, holi
+ day shopping\, seasonal food and beverages\, and unforgettable experiences
+  for guests of all ages. Whether you're beginning a new family tradition\,
+  planning a magical date night\, gathering with friends\, or celebrating w
+ ith coworkers\, the Rhode Island Lights Festival is designed to capture th
+ e joy\, warmth\, and wonder of the holiday season. From strolling through 
+ thousands of sparkling lights and discovering unique gifts in the Holiday 
+ Market to enjoying festive treats\, meeting Santa\, and creating memories 
+ that will last a lifetime\, every visit offers something special. No matte
+ r how you choose to celebrate\, the Rhode Island Lights Festival has an ex
+ perience designed just for you.\n\nSource: https://www.visitrhodeisland.co
+ m/event/rhode-island-lights-festival/112530/
+LOCATION:Centreville Bank Stadium\, 11 Tidewater Street\, Pawtucket\, 0268
+ 0 Time: 5:00 PM to 10:00 PM
+URL:https://www.visitrhodeisland.com/event/rhode-island-lights-festival/11
+ 2530/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
-DTSTAMP:20261108T164655Z
+DTSTAMP:20261109T210206Z
 UID:756ae7e966f3899cb85d7657b4e5@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -1074,10 +1262,35 @@ URL:https://www.visitrhodeisland.com/event/sparkling-lights-at-the-breaker
  s/112249/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Rhode Island Lights Festival
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+DTSTAMP:20261109T210206Z
+UID:5bc7195208a828ee2bcc3d774641@visitri-calendar
+DESCRIPTION:This holiday season\, Centreville Bank Stadium will be transfo
+ rmed into a spectacular winter wonderland as the Rhode Island Lights Festi
+ val brings together dazzling light displays\, festive entertainment\, holi
+ day shopping\, seasonal food and beverages\, and unforgettable experiences
+  for guests of all ages. Whether you're beginning a new family tradition\,
+  planning a magical date night\, gathering with friends\, or celebrating w
+ ith coworkers\, the Rhode Island Lights Festival is designed to capture th
+ e joy\, warmth\, and wonder of the holiday season. From strolling through 
+ thousands of sparkling lights and discovering unique gifts in the Holiday 
+ Market to enjoying festive treats\, meeting Santa\, and creating memories 
+ that will last a lifetime\, every visit offers something special. No matte
+ r how you choose to celebrate\, the Rhode Island Lights Festival has an ex
+ perience designed just for you.\n\nSource: https://www.visitrhodeisland.co
+ m/event/rhode-island-lights-festival/112530/
+LOCATION:Centreville Bank Stadium\, 11 Tidewater Street\, Pawtucket\, 0268
+ 0 Time: 5:00 PM to 10:00 PM
+URL:https://www.visitrhodeisland.com/event/rhode-island-lights-festival/11
+ 2530/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261213
 DTEND;VALUE=DATE:20261214
-DTSTAMP:20261108T164655Z
+DTSTAMP:20261109T210206Z
 UID:6926863c714413a4b343c291725f@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -1102,10 +1315,85 @@ URL:https://www.visitrhodeisland.com/event/sparkling-lights-at-the-breaker
  s/112249/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Rhode Island Lights Festival
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261217
+DTSTAMP:20261109T210206Z
+UID:96d265a999c123070f85ca5b66f2@visitri-calendar
+DESCRIPTION:This holiday season\, Centreville Bank Stadium will be transfo
+ rmed into a spectacular winter wonderland as the Rhode Island Lights Festi
+ val brings together dazzling light displays\, festive entertainment\, holi
+ day shopping\, seasonal food and beverages\, and unforgettable experiences
+  for guests of all ages. Whether you're beginning a new family tradition\,
+  planning a magical date night\, gathering with friends\, or celebrating w
+ ith coworkers\, the Rhode Island Lights Festival is designed to capture th
+ e joy\, warmth\, and wonder of the holiday season. From strolling through 
+ thousands of sparkling lights and discovering unique gifts in the Holiday 
+ Market to enjoying festive treats\, meeting Santa\, and creating memories 
+ that will last a lifetime\, every visit offers something special. No matte
+ r how you choose to celebrate\, the Rhode Island Lights Festival has an ex
+ perience designed just for you.\n\nSource: https://www.visitrhodeisland.co
+ m/event/rhode-island-lights-festival/112530/
+LOCATION:Centreville Bank Stadium\, 11 Tidewater Street\, Pawtucket\, 0268
+ 0 Time: 5:00 PM to 10:00 PM
+URL:https://www.visitrhodeisland.com/event/rhode-island-lights-festival/11
+ 2530/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rhode Island Lights Festival
+DTSTART;VALUE=DATE:20261217
+DTEND;VALUE=DATE:20261218
+DTSTAMP:20261109T210206Z
+UID:4f6c8b924dd45c83266e1cc4ce3a@visitri-calendar
+DESCRIPTION:This holiday season\, Centreville Bank Stadium will be transfo
+ rmed into a spectacular winter wonderland as the Rhode Island Lights Festi
+ val brings together dazzling light displays\, festive entertainment\, holi
+ day shopping\, seasonal food and beverages\, and unforgettable experiences
+  for guests of all ages. Whether you're beginning a new family tradition\,
+  planning a magical date night\, gathering with friends\, or celebrating w
+ ith coworkers\, the Rhode Island Lights Festival is designed to capture th
+ e joy\, warmth\, and wonder of the holiday season. From strolling through 
+ thousands of sparkling lights and discovering unique gifts in the Holiday 
+ Market to enjoying festive treats\, meeting Santa\, and creating memories 
+ that will last a lifetime\, every visit offers something special. No matte
+ r how you choose to celebrate\, the Rhode Island Lights Festival has an ex
+ perience designed just for you.\n\nSource: https://www.visitrhodeisland.co
+ m/event/rhode-island-lights-festival/112530/
+LOCATION:Centreville Bank Stadium\, 11 Tidewater Street\, Pawtucket\, 0268
+ 0 Time: 5:00 PM to 10:00 PM
+URL:https://www.visitrhodeisland.com/event/rhode-island-lights-festival/11
+ 2530/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rhode Island Lights Festival
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+DTSTAMP:20261109T210206Z
+UID:ba26b9bd0103e1c8d511b82aaa8b@visitri-calendar
+DESCRIPTION:This holiday season\, Centreville Bank Stadium will be transfo
+ rmed into a spectacular winter wonderland as the Rhode Island Lights Festi
+ val brings together dazzling light displays\, festive entertainment\, holi
+ day shopping\, seasonal food and beverages\, and unforgettable experiences
+  for guests of all ages. Whether you're beginning a new family tradition\,
+  planning a magical date night\, gathering with friends\, or celebrating w
+ ith coworkers\, the Rhode Island Lights Festival is designed to capture th
+ e joy\, warmth\, and wonder of the holiday season. From strolling through 
+ thousands of sparkling lights and discovering unique gifts in the Holiday 
+ Market to enjoying festive treats\, meeting Santa\, and creating memories 
+ that will last a lifetime\, every visit offers something special. No matte
+ r how you choose to celebrate\, the Rhode Island Lights Festival has an ex
+ perience designed just for you.\n\nSource: https://www.visitrhodeisland.co
+ m/event/rhode-island-lights-festival/112530/
+LOCATION:Centreville Bank Stadium\, 11 Tidewater Street\, Pawtucket\, 0268
+ 0 Time: 5:00 PM to 10:00 PM
+URL:https://www.visitrhodeisland.com/event/rhode-island-lights-festival/11
+ 2530/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
-DTSTAMP:20261108T164655Z
+DTSTAMP:20261109T210206Z
 UID:10f1f0a03ceb6ce5b9d0f1112413@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -1130,10 +1418,60 @@ URL:https://www.visitrhodeisland.com/event/sparkling-lights-at-the-breaker
  s/112249/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Rhode Island Lights Festival
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+DTSTAMP:20261109T210206Z
+UID:eac979c6c6fc0a063ccd84994e4b@visitri-calendar
+DESCRIPTION:This holiday season\, Centreville Bank Stadium will be transfo
+ rmed into a spectacular winter wonderland as the Rhode Island Lights Festi
+ val brings together dazzling light displays\, festive entertainment\, holi
+ day shopping\, seasonal food and beverages\, and unforgettable experiences
+  for guests of all ages. Whether you're beginning a new family tradition\,
+  planning a magical date night\, gathering with friends\, or celebrating w
+ ith coworkers\, the Rhode Island Lights Festival is designed to capture th
+ e joy\, warmth\, and wonder of the holiday season. From strolling through 
+ thousands of sparkling lights and discovering unique gifts in the Holiday 
+ Market to enjoying festive treats\, meeting Santa\, and creating memories 
+ that will last a lifetime\, every visit offers something special. No matte
+ r how you choose to celebrate\, the Rhode Island Lights Festival has an ex
+ perience designed just for you.\n\nSource: https://www.visitrhodeisland.co
+ m/event/rhode-island-lights-festival/112530/
+LOCATION:Centreville Bank Stadium\, 11 Tidewater Street\, Pawtucket\, 0268
+ 0 Time: 5:00 PM to 10:00 PM
+URL:https://www.visitrhodeisland.com/event/rhode-island-lights-festival/11
+ 2530/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rhode Island Lights Festival
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+DTSTAMP:20261109T210206Z
+UID:a4f16cdba637b6426dc3ca7bfe37@visitri-calendar
+DESCRIPTION:This holiday season\, Centreville Bank Stadium will be transfo
+ rmed into a spectacular winter wonderland as the Rhode Island Lights Festi
+ val brings together dazzling light displays\, festive entertainment\, holi
+ day shopping\, seasonal food and beverages\, and unforgettable experiences
+  for guests of all ages. Whether you're beginning a new family tradition\,
+  planning a magical date night\, gathering with friends\, or celebrating w
+ ith coworkers\, the Rhode Island Lights Festival is designed to capture th
+ e joy\, warmth\, and wonder of the holiday season. From strolling through 
+ thousands of sparkling lights and discovering unique gifts in the Holiday 
+ Market to enjoying festive treats\, meeting Santa\, and creating memories 
+ that will last a lifetime\, every visit offers something special. No matte
+ r how you choose to celebrate\, the Rhode Island Lights Festival has an ex
+ perience designed just for you.\n\nSource: https://www.visitrhodeisland.co
+ m/event/rhode-island-lights-festival/112530/
+LOCATION:Centreville Bank Stadium\, 11 Tidewater Street\, Pawtucket\, 0268
+ 0 Time: 5:00 PM to 10:00 PM
+URL:https://www.visitrhodeisland.com/event/rhode-island-lights-festival/11
+ 2530/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261220
 DTEND;VALUE=DATE:20261221
-DTSTAMP:20261108T164655Z
+DTSTAMP:20261109T210206Z
 UID:4b4bda68b74fdf0bae1d4834ec2b@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -1158,10 +1496,82 @@ URL:https://www.visitrhodeisland.com/event/sparkling-lights-at-the-breaker
  s/112249/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Children's Weekly Storytime
+DTSTART;VALUE=DATE:20261221
+DTEND;VALUE=DATE:20261222
+DTSTAMP:20261109T210206Z
+UID:505c13cc68dfd1161c6032fdf540@visitri-calendar
+DESCRIPTION:Children's Storytime Join Elizabeth as she hosts storytime on 
+ Monday mornings at 10:30 AM. Every Monday\, Elizabeth will chose a book co
+ rrelating with the season or holiday. All children and their families are 
+ welcome to join!\n\nSource: https://www.visitrhodeisland.com/event/childre
+ ns-weekly-storytime/109524/
+LOCATION:Charter Books\, 8 Broadway\, Newport\, RI 02840 Time: 10:30 AM to
+  11:00 AM
+URL:https://www.visitrhodeisland.com/event/childrens-weekly-storytime/1095
+ 24/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Monday Night Trivia at Brick Pizza Co!
+DTSTART;VALUE=DATE:20261221
+DTEND;VALUE=DATE:20261222
+DTSTAMP:20261109T210206Z
+UID:72fa33eda49806a42c75b2709ee8@visitri-calendar
+DESCRIPTION:Monday Night Trivia Every Monday in the Stone Room with the Ne
+ w England Trivia Company! 📅 Date: Every Monday ⏰ Time: 7:00 PM &#8211
+ \; 9:00 PM 💰 Price: FREE - Plus the chance to win gift cards! 🎟️ R
+ eservations: Available on OpenTable\n\nSource: https://www.visitrhodeislan
+ d.com/event/monday-night-trivia-at-brick-pizza-co!/109518/
+LOCATION:Brick Pizza Co.\, 500 Wood Street\, Bristol\, RI 02809 Time: 7:00
+  PM to 9:00 PM 500 Wood Street\, Bristol\, RI 02809 OFFICIAL RHODE ISLAND 
+ TRAVEL GUIDE Get Guide Get news from Visit Rhode Island in your inbox. Ind
+ ustry Partner Leisure Travel Sign Up Ratings Powered by Press Industry Tra
+ vel Trade Meetings & Conventions Contact Privacy Policy Sitemap Partner Po
+ rtal SMS Privacy Policy SMS Terms & Conditions UGC Terms and Conditions We
+ dding Planning Press Photos Story Ideas Fun-Sized Rhode Island Rhode Islan
+ d in the News Free Travel Guide Contact Visit Rhode Island Industry Travel
+  Trade Ideas & Itineraries Downton Abbey Lifestyle Rhode Island Foodways H
+ idden Gems Image Library Free Travel Guide Contact Visit Rhode Island Meet
+ ings & Conventions Contact Privacy Policy Sitemap Partner Portal SMS Priva
+ cy Policy SMS Terms & Conditions UGC Terms and Conditions Wedding Planning
+  Weddings - Venues Wedding - Catering Wedding - Cakes Wedding - Attire Wed
+ ding - Florists Wedding - Jewelers Wedding - Transportation © 2026 Rhode 
+ Island Commerce Corporation Special Offers Offers Here Looking to plan you
+ r next visit to Rhode Island\, check out some of the current special offer
+ s and enjoy savings\, extra perks and more! Offers Here
+URL:https://www.visitrhodeisland.com/event/monday-night-trivia-at-brick-pi
+ zza-co!/109518/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rhode Island Lights Festival
+DTSTART;VALUE=DATE:20261221
+DTEND;VALUE=DATE:20261222
+DTSTAMP:20261109T210206Z
+UID:aea8b74d95f98a36de889e6f697d@visitri-calendar
+DESCRIPTION:This holiday season\, Centreville Bank Stadium will be transfo
+ rmed into a spectacular winter wonderland as the Rhode Island Lights Festi
+ val brings together dazzling light displays\, festive entertainment\, holi
+ day shopping\, seasonal food and beverages\, and unforgettable experiences
+  for guests of all ages. Whether you're beginning a new family tradition\,
+  planning a magical date night\, gathering with friends\, or celebrating w
+ ith coworkers\, the Rhode Island Lights Festival is designed to capture th
+ e joy\, warmth\, and wonder of the holiday season. From strolling through 
+ thousands of sparkling lights and discovering unique gifts in the Holiday 
+ Market to enjoying festive treats\, meeting Santa\, and creating memories 
+ that will last a lifetime\, every visit offers something special. No matte
+ r how you choose to celebrate\, the Rhode Island Lights Festival has an ex
+ perience designed just for you.\n\nSource: https://www.visitrhodeisland.co
+ m/event/rhode-island-lights-festival/112530/
+LOCATION:Centreville Bank Stadium\, 11 Tidewater Street\, Pawtucket\, 0268
+ 0 Time: 5:00 PM to 10:00 PM
+URL:https://www.visitrhodeisland.com/event/rhode-island-lights-festival/11
+ 2530/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261221
 DTEND;VALUE=DATE:20261222
-DTSTAMP:20261108T164655Z
+DTSTAMP:20261109T210206Z
 UID:5cc6a0eb17a87a57c77fb4a1ee98@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -1186,10 +1596,35 @@ URL:https://www.visitrhodeisland.com/event/sparkling-lights-at-the-breaker
  s/112249/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Rhode Island Lights Festival
+DTSTART;VALUE=DATE:20261222
+DTEND;VALUE=DATE:20261223
+DTSTAMP:20261109T210206Z
+UID:850d2a1c17a55623147989b58523@visitri-calendar
+DESCRIPTION:This holiday season\, Centreville Bank Stadium will be transfo
+ rmed into a spectacular winter wonderland as the Rhode Island Lights Festi
+ val brings together dazzling light displays\, festive entertainment\, holi
+ day shopping\, seasonal food and beverages\, and unforgettable experiences
+  for guests of all ages. Whether you're beginning a new family tradition\,
+  planning a magical date night\, gathering with friends\, or celebrating w
+ ith coworkers\, the Rhode Island Lights Festival is designed to capture th
+ e joy\, warmth\, and wonder of the holiday season. From strolling through 
+ thousands of sparkling lights and discovering unique gifts in the Holiday 
+ Market to enjoying festive treats\, meeting Santa\, and creating memories 
+ that will last a lifetime\, every visit offers something special. No matte
+ r how you choose to celebrate\, the Rhode Island Lights Festival has an ex
+ perience designed just for you.\n\nSource: https://www.visitrhodeisland.co
+ m/event/rhode-island-lights-festival/112530/
+LOCATION:Centreville Bank Stadium\, 11 Tidewater Street\, Pawtucket\, 0268
+ 0 Time: 5:00 PM to 10:00 PM
+URL:https://www.visitrhodeisland.com/event/rhode-island-lights-festival/11
+ 2530/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261222
 DTEND;VALUE=DATE:20261223
-DTSTAMP:20261108T164655Z
+DTSTAMP:20261109T210206Z
 UID:8b50234eb8215ed0c936d7b3f2fd@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -1214,52 +1649,35 @@ URL:https://www.visitrhodeisland.com/event/sparkling-lights-at-the-breaker
  s/112249/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Fine Arts and Artisans Holiday Marketplace
+SUMMARY:Rhode Island Lights Festival
 DTSTART;VALUE=DATE:20261223
 DTEND;VALUE=DATE:20261224
-DTSTAMP:20261108T164655Z
-UID:dae302fc7a6e92e2ef204d1e9a61@visitri-calendar
-DESCRIPTION:Annual Fine Arts and Artisans Holiday Marketplace November 7&#
- 8211\;December 23\, 2026 | Middletown\, Rhode Island Opening Reception Sat
- urday November 7th\, 5:00 - 7:00 PM Holiday Party Saturday December 5th\, 
- 5:00 - 7:00 PM Gallery Nights Thursday November 12th and December 10th\, 5
- :00 - 7:00 PM DeBlois Gallery is delighted to present its annual Fine Arts
-  and Artisans Marketplace from Nov. 7 &#8211\; Dec. 23\, 2026\, bringing t
- ogether original artwork and handcrafted gifts for the holiday season. Spa
- nning November and December\, the marketplace will offer visitors a two-mo
- nth period to shop for distinctive gifts while supporting local artists an
- d artisans. The diverse selection includes ornaments\, jewelry\, wearable 
- art\, prints\, paintings\, pottery and holiday cards. Fine art and crafts 
- share the gallery space\, offering an inviting mix of pieces to display\, 
- wear\, use and give. For shoppers seeking gifts with a personal connection
- \, the marketplace offers choices ranging from jewelry to suit your indivi
- dual style\, to pottery and original artwork that add an artistic touch to
-  your home. There are also hand-crafted holiday ornaments and cards ideal 
- for observing seasonal traditions. DeBlois gift certificates will also be 
- available\, the perfect present for recipients to choose a work that speak
- s to them. As one of Rhode Island’s few cooperative galleries\, DeBlois 
- offers a distinctive setting shaped by the artists who love the space\, br
- inging a variety of creative perspectives into one shared space where visi
- tors can discover different styles and media in a welcoming atmosphere. Th
- e holiday marketplace reflects that spirit\, celebrating individual crafts
- manship and the collective creativity of the gallery community. Participat
- ing artists are available for interviews upon request. Deblois Gallery is 
- located at 134 Aquidneck Avenue in Middletown and is open Wednesday throug
- h Sunday\, from 1:00 - 5:00 PM. All are welcome\, and ample free parking i
- s available. Visit www.debloisgallery.com or follow the gallery on Instagr
- am and Facebook for updates on participating artists and holiday events. M
- edia contact: Michael Day | dr.mday@gmail.com Gallery: (401) 847-9977 | ww
- w.debloisgallery.com Instagram / Facebook\n\nSource: https://www.visitrhod
- eisland.com/event/fine-arts-and-artisans-holiday-marketplace/112555/
-LOCATION:DeBlois Gallery\, 134 Aquidneck Avenue\, Middletown\, RI 02842
-URL:https://www.visitrhodeisland.com/event/fine-arts-and-artisans-holiday-
- marketplace/112555/
+DTSTAMP:20261109T210206Z
+UID:80279afc8aeb86b04b5d61a17fdc@visitri-calendar
+DESCRIPTION:This holiday season\, Centreville Bank Stadium will be transfo
+ rmed into a spectacular winter wonderland as the Rhode Island Lights Festi
+ val brings together dazzling light displays\, festive entertainment\, holi
+ day shopping\, seasonal food and beverages\, and unforgettable experiences
+  for guests of all ages. Whether you're beginning a new family tradition\,
+  planning a magical date night\, gathering with friends\, or celebrating w
+ ith coworkers\, the Rhode Island Lights Festival is designed to capture th
+ e joy\, warmth\, and wonder of the holiday season. From strolling through 
+ thousands of sparkling lights and discovering unique gifts in the Holiday 
+ Market to enjoying festive treats\, meeting Santa\, and creating memories 
+ that will last a lifetime\, every visit offers something special. No matte
+ r how you choose to celebrate\, the Rhode Island Lights Festival has an ex
+ perience designed just for you.\n\nSource: https://www.visitrhodeisland.co
+ m/event/rhode-island-lights-festival/112530/
+LOCATION:Centreville Bank Stadium\, 11 Tidewater Street\, Pawtucket\, 0268
+ 0 Time: 5:00 PM to 10:00 PM
+URL:https://www.visitrhodeisland.com/event/rhode-island-lights-festival/11
+ 2530/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261223
 DTEND;VALUE=DATE:20261224
-DTSTAMP:20261108T164655Z
+DTSTAMP:20261109T210206Z
 UID:64494d8f54810a3b19a989acc268@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -1284,10 +1702,60 @@ URL:https://www.visitrhodeisland.com/event/sparkling-lights-at-the-breaker
  s/112249/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Life on the Avenue: Immigration\, Protest\, and Triumph on Federal
+  Hill
+DTSTART;VALUE=DATE:20261224
+DTEND;VALUE=DATE:20261225
+DTSTAMP:20261109T210206Z
+UID:b647795e53ce8e44e67b534819a6@visitri-calendar
+DESCRIPTION:Life on the Avenue: Immigration\, Protest\, and Triumph on Fed
+ eral Hill is a powerful\, story-driven walking tour that goes beyond the n
+ eighborhood’s celebrated food scene to uncover the journey for belonging
+  that shaped it. As you explore one of Providence’s most iconic district
+ s\, you’ll trace the journeys of Indigenous communities\, Irish and Ital
+ ian immigrants\, and modern newcomers—each group navigating hardship\, d
+ iscrimination\, and resilience in their fight to call this place home. Alo
+ ng the way\, you’ll stand where protests erupted\, revolutions nearly ig
+ nited\, and everyday people carved out lives against the odds. Blending ri
+ ch storytelling with local flavor and insider food recommendations\, this 
+ experience reveals Federal Hill not just as a destination—but as a battl
+ eground where identity\, power\, and community have been contested for gen
+ erations.\n\nSource: https://www.visitrhodeisland.com/event/life-on-the-av
+ enue%3a-immigration-protest-and-triumph-on-federal-hill/111313/
+LOCATION:Garibaldi Square\, 99 Atwells Avenue\, Providence\, RI 02903
+URL:https://www.visitrhodeisland.com/event/life-on-the-avenue%3a-immigrati
+ on-protest-and-triumph-on-federal-hill/111313/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rhode Island Lights Festival
+DTSTART;VALUE=DATE:20261226
+DTEND;VALUE=DATE:20261227
+DTSTAMP:20261109T210206Z
+UID:e577321b35406eb3d33b26dafa4f@visitri-calendar
+DESCRIPTION:This holiday season\, Centreville Bank Stadium will be transfo
+ rmed into a spectacular winter wonderland as the Rhode Island Lights Festi
+ val brings together dazzling light displays\, festive entertainment\, holi
+ day shopping\, seasonal food and beverages\, and unforgettable experiences
+  for guests of all ages. Whether you're beginning a new family tradition\,
+  planning a magical date night\, gathering with friends\, or celebrating w
+ ith coworkers\, the Rhode Island Lights Festival is designed to capture th
+ e joy\, warmth\, and wonder of the holiday season. From strolling through 
+ thousands of sparkling lights and discovering unique gifts in the Holiday 
+ Market to enjoying festive treats\, meeting Santa\, and creating memories 
+ that will last a lifetime\, every visit offers something special. No matte
+ r how you choose to celebrate\, the Rhode Island Lights Festival has an ex
+ perience designed just for you.\n\nSource: https://www.visitrhodeisland.co
+ m/event/rhode-island-lights-festival/112530/
+LOCATION:Centreville Bank Stadium\, 11 Tidewater Street\, Pawtucket\, 0268
+ 0 Time: 5:00 PM to 10:00 PM
+URL:https://www.visitrhodeisland.com/event/rhode-island-lights-festival/11
+ 2530/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261226
 DTEND;VALUE=DATE:20261227
-DTSTAMP:20261108T164655Z
+DTSTAMP:20261109T210206Z
 UID:d9203cb0c583483c1e644796bce0@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -1312,10 +1780,35 @@ URL:https://www.visitrhodeisland.com/event/sparkling-lights-at-the-breaker
  s/112249/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Rhode Island Lights Festival
+DTSTART;VALUE=DATE:20261227
+DTEND;VALUE=DATE:20261228
+DTSTAMP:20261109T210206Z
+UID:5d265915a4c912fce87079d1ade1@visitri-calendar
+DESCRIPTION:This holiday season\, Centreville Bank Stadium will be transfo
+ rmed into a spectacular winter wonderland as the Rhode Island Lights Festi
+ val brings together dazzling light displays\, festive entertainment\, holi
+ day shopping\, seasonal food and beverages\, and unforgettable experiences
+  for guests of all ages. Whether you're beginning a new family tradition\,
+  planning a magical date night\, gathering with friends\, or celebrating w
+ ith coworkers\, the Rhode Island Lights Festival is designed to capture th
+ e joy\, warmth\, and wonder of the holiday season. From strolling through 
+ thousands of sparkling lights and discovering unique gifts in the Holiday 
+ Market to enjoying festive treats\, meeting Santa\, and creating memories 
+ that will last a lifetime\, every visit offers something special. No matte
+ r how you choose to celebrate\, the Rhode Island Lights Festival has an ex
+ perience designed just for you.\n\nSource: https://www.visitrhodeisland.co
+ m/event/rhode-island-lights-festival/112530/
+LOCATION:Centreville Bank Stadium\, 11 Tidewater Street\, Pawtucket\, 0268
+ 0 Time: 5:00 PM to 10:00 PM
+URL:https://www.visitrhodeisland.com/event/rhode-island-lights-festival/11
+ 2530/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261227
 DTEND;VALUE=DATE:20261228
-DTSTAMP:20261108T164655Z
+DTSTAMP:20261109T210206Z
 UID:ecdbb4492e88d8b279d5f0235b57@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -1340,10 +1833,100 @@ URL:https://www.visitrhodeisland.com/event/sparkling-lights-at-the-breaker
  s/112249/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Music Bingo
+DTSTART;VALUE=DATE:20261228
+DTEND;VALUE=DATE:20261229
+DTSTAMP:20261109T210206Z
+UID:76431d4e4041fa10d941580b5e46@visitri-calendar
+DESCRIPTION:Join us every Monday for music bingo at Torpedo Bar &amp\; Lou
+ nge! Enjoy a fun twist on the classic bingo game with great music\, featur
+ ed beverages\, rotating specialty menus\, and fantastic prizes. Bring your
+  friends and family\, and make it a weekly tradition!\n\nSource: https://w
+ ww.visitrhodeisland.com/event/music-bingo/108383/
+LOCATION:Torpedo Bar & Lounge\, 1 Goat Island Rd\, Newport\, RI 02840\, Ne
+ wport\, 02840
+URL:https://www.visitrhodeisland.com/event/music-bingo/108383/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rhode Island Lights Festival
+DTSTART;VALUE=DATE:20261228
+DTEND;VALUE=DATE:20261229
+DTSTAMP:20261109T210206Z
+UID:dd38d26392219c393d21b0877ee3@visitri-calendar
+DESCRIPTION:This holiday season\, Centreville Bank Stadium will be transfo
+ rmed into a spectacular winter wonderland as the Rhode Island Lights Festi
+ val brings together dazzling light displays\, festive entertainment\, holi
+ day shopping\, seasonal food and beverages\, and unforgettable experiences
+  for guests of all ages. Whether you're beginning a new family tradition\,
+  planning a magical date night\, gathering with friends\, or celebrating w
+ ith coworkers\, the Rhode Island Lights Festival is designed to capture th
+ e joy\, warmth\, and wonder of the holiday season. From strolling through 
+ thousands of sparkling lights and discovering unique gifts in the Holiday 
+ Market to enjoying festive treats\, meeting Santa\, and creating memories 
+ that will last a lifetime\, every visit offers something special. No matte
+ r how you choose to celebrate\, the Rhode Island Lights Festival has an ex
+ perience designed just for you.\n\nSource: https://www.visitrhodeisland.co
+ m/event/rhode-island-lights-festival/112530/
+LOCATION:Centreville Bank Stadium\, 11 Tidewater Street\, Pawtucket\, 0268
+ 0 Time: 5:00 PM to 10:00 PM
+URL:https://www.visitrhodeisland.com/event/rhode-island-lights-festival/11
+ 2530/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rhode Island Lights Festival
+DTSTART;VALUE=DATE:20261229
+DTEND;VALUE=DATE:20261230
+DTSTAMP:20261109T210206Z
+UID:ab58713cfcc5bc2a0eec1d869e90@visitri-calendar
+DESCRIPTION:This holiday season\, Centreville Bank Stadium will be transfo
+ rmed into a spectacular winter wonderland as the Rhode Island Lights Festi
+ val brings together dazzling light displays\, festive entertainment\, holi
+ day shopping\, seasonal food and beverages\, and unforgettable experiences
+  for guests of all ages. Whether you're beginning a new family tradition\,
+  planning a magical date night\, gathering with friends\, or celebrating w
+ ith coworkers\, the Rhode Island Lights Festival is designed to capture th
+ e joy\, warmth\, and wonder of the holiday season. From strolling through 
+ thousands of sparkling lights and discovering unique gifts in the Holiday 
+ Market to enjoying festive treats\, meeting Santa\, and creating memories 
+ that will last a lifetime\, every visit offers something special. No matte
+ r how you choose to celebrate\, the Rhode Island Lights Festival has an ex
+ perience designed just for you.\n\nSource: https://www.visitrhodeisland.co
+ m/event/rhode-island-lights-festival/112530/
+LOCATION:Centreville Bank Stadium\, 11 Tidewater Street\, Pawtucket\, 0268
+ 0 Time: 5:00 PM to 10:00 PM
+URL:https://www.visitrhodeisland.com/event/rhode-island-lights-festival/11
+ 2530/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rhode Island Lights Festival
+DTSTART;VALUE=DATE:20261230
+DTEND;VALUE=DATE:20261231
+DTSTAMP:20261109T210206Z
+UID:c1bc28e07573a8201d91ec765b38@visitri-calendar
+DESCRIPTION:This holiday season\, Centreville Bank Stadium will be transfo
+ rmed into a spectacular winter wonderland as the Rhode Island Lights Festi
+ val brings together dazzling light displays\, festive entertainment\, holi
+ day shopping\, seasonal food and beverages\, and unforgettable experiences
+  for guests of all ages. Whether you're beginning a new family tradition\,
+  planning a magical date night\, gathering with friends\, or celebrating w
+ ith coworkers\, the Rhode Island Lights Festival is designed to capture th
+ e joy\, warmth\, and wonder of the holiday season. From strolling through 
+ thousands of sparkling lights and discovering unique gifts in the Holiday 
+ Market to enjoying festive treats\, meeting Santa\, and creating memories 
+ that will last a lifetime\, every visit offers something special. No matte
+ r how you choose to celebrate\, the Rhode Island Lights Festival has an ex
+ perience designed just for you.\n\nSource: https://www.visitrhodeisland.co
+ m/event/rhode-island-lights-festival/112530/
+LOCATION:Centreville Bank Stadium\, 11 Tidewater Street\, Pawtucket\, 0268
+ 0 Time: 5:00 PM to 10:00 PM
+URL:https://www.visitrhodeisland.com/event/rhode-island-lights-festival/11
+ 2530/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Beyond the Brewhouse Tour
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
-DTSTAMP:20261108T164655Z
+DTSTAMP:20261109T210206Z
 UID:c7b48636db9ede5f5acbbb263d31@visitri-calendar
 DESCRIPTION:Beyond the Brewhouse Where: Newport Craft Brewing and Distilli
  ng\, 293 JT Connell Road\, Newport 45 minutes: $20 per person Did you know
@@ -1357,5 +1940,123 @@ LOCATION:Newport Craft Brewing & Distilling Company\, 293 JT Connell Road
  \, Newport\, RI 02840 Time: 45 minutes: Tour start time varies by booking.
 URL:https://www.visitrhodeisland.com/event/beyond-the-brewhouse-tour/11015
  3/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Burritos & Bowls—Lunch Specials at Yellow Door Taqueria!
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+DTSTAMP:20261109T210206Z
+UID:a47385cf36c194bcd701d4733276@visitri-calendar
+DESCRIPTION:Our new Burrito &amp\; Bowl lunch specials have arrived at Yel
+ low Door Taqueria in downtown Providence! Perfect for dining in or taking 
+ back to the office\, turn your favorite taco into a delicious bowl or try 
+ a specialty burrito! Check out the full menu on our website! Available Mon
+ day-Friday\, 11:30 AM-5 PM!\n\nSource: https://www.visitrhodeisland.com/ev
+ ent/burritos-%26-bowls%e2%80%94lunch-specials-at-yellow-door-taqueria!/111
+ 544/
+LOCATION:Yellow Door Taqueria\, 191 Dorrance Street\, Providence\, RI 0290
+ 3
+URL:https://www.visitrhodeisland.com/event/burritos-%26-bowls%e2%80%94lunc
+ h-specials-at-yellow-door-taqueria!/111544/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rhode Island Lights Festival
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+DTSTAMP:20261109T210206Z
+UID:ec30f72a908269517452d537b506@visitri-calendar
+DESCRIPTION:This holiday season\, Centreville Bank Stadium will be transfo
+ rmed into a spectacular winter wonderland as the Rhode Island Lights Festi
+ val brings together dazzling light displays\, festive entertainment\, holi
+ day shopping\, seasonal food and beverages\, and unforgettable experiences
+  for guests of all ages. Whether you're beginning a new family tradition\,
+  planning a magical date night\, gathering with friends\, or celebrating w
+ ith coworkers\, the Rhode Island Lights Festival is designed to capture th
+ e joy\, warmth\, and wonder of the holiday season. From strolling through 
+ thousands of sparkling lights and discovering unique gifts in the Holiday 
+ Market to enjoying festive treats\, meeting Santa\, and creating memories 
+ that will last a lifetime\, every visit offers something special. No matte
+ r how you choose to celebrate\, the Rhode Island Lights Festival has an ex
+ perience designed just for you.\n\nSource: https://www.visitrhodeisland.co
+ m/event/rhode-island-lights-festival/112530/
+LOCATION:Centreville Bank Stadium\, 11 Tidewater Street\, Pawtucket\, 0268
+ 0 Time: 5:00 PM to 10:00 PM
+URL:https://www.visitrhodeisland.com/event/rhode-island-lights-festival/11
+ 2530/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rhode Island Lights Festival
+DTSTART;VALUE=DATE:20270101
+DTEND;VALUE=DATE:20270102
+DTSTAMP:20261109T210206Z
+UID:188895ba7b1da1615da9700cf13c@visitri-calendar
+DESCRIPTION:This holiday season\, Centreville Bank Stadium will be transfo
+ rmed into a spectacular winter wonderland as the Rhode Island Lights Festi
+ val brings together dazzling light displays\, festive entertainment\, holi
+ day shopping\, seasonal food and beverages\, and unforgettable experiences
+  for guests of all ages. Whether you're beginning a new family tradition\,
+  planning a magical date night\, gathering with friends\, or celebrating w
+ ith coworkers\, the Rhode Island Lights Festival is designed to capture th
+ e joy\, warmth\, and wonder of the holiday season. From strolling through 
+ thousands of sparkling lights and discovering unique gifts in the Holiday 
+ Market to enjoying festive treats\, meeting Santa\, and creating memories 
+ that will last a lifetime\, every visit offers something special. No matte
+ r how you choose to celebrate\, the Rhode Island Lights Festival has an ex
+ perience designed just for you.\n\nSource: https://www.visitrhodeisland.co
+ m/event/rhode-island-lights-festival/112530/
+LOCATION:Centreville Bank Stadium\, 11 Tidewater Street\, Pawtucket\, 0268
+ 0 Time: 5:00 PM to 10:00 PM
+URL:https://www.visitrhodeisland.com/event/rhode-island-lights-festival/11
+ 2530/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rhode Island Lights Festival
+DTSTART;VALUE=DATE:20270102
+DTEND;VALUE=DATE:20270103
+DTSTAMP:20261109T210206Z
+UID:4f7b42e72a975c8bb36b0e58e233@visitri-calendar
+DESCRIPTION:This holiday season\, Centreville Bank Stadium will be transfo
+ rmed into a spectacular winter wonderland as the Rhode Island Lights Festi
+ val brings together dazzling light displays\, festive entertainment\, holi
+ day shopping\, seasonal food and beverages\, and unforgettable experiences
+  for guests of all ages. Whether you're beginning a new family tradition\,
+  planning a magical date night\, gathering with friends\, or celebrating w
+ ith coworkers\, the Rhode Island Lights Festival is designed to capture th
+ e joy\, warmth\, and wonder of the holiday season. From strolling through 
+ thousands of sparkling lights and discovering unique gifts in the Holiday 
+ Market to enjoying festive treats\, meeting Santa\, and creating memories 
+ that will last a lifetime\, every visit offers something special. No matte
+ r how you choose to celebrate\, the Rhode Island Lights Festival has an ex
+ perience designed just for you.\n\nSource: https://www.visitrhodeisland.co
+ m/event/rhode-island-lights-festival/112530/
+LOCATION:Centreville Bank Stadium\, 11 Tidewater Street\, Pawtucket\, 0268
+ 0 Time: 5:00 PM to 10:00 PM
+URL:https://www.visitrhodeisland.com/event/rhode-island-lights-festival/11
+ 2530/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rhode Island Lights Festival
+DTSTART;VALUE=DATE:20270103
+DTEND;VALUE=DATE:20270104
+DTSTAMP:20261109T210206Z
+UID:0b4416631f88abc452bc98265bd2@visitri-calendar
+DESCRIPTION:This holiday season\, Centreville Bank Stadium will be transfo
+ rmed into a spectacular winter wonderland as the Rhode Island Lights Festi
+ val brings together dazzling light displays\, festive entertainment\, holi
+ day shopping\, seasonal food and beverages\, and unforgettable experiences
+  for guests of all ages. Whether you're beginning a new family tradition\,
+  planning a magical date night\, gathering with friends\, or celebrating w
+ ith coworkers\, the Rhode Island Lights Festival is designed to capture th
+ e joy\, warmth\, and wonder of the holiday season. From strolling through 
+ thousands of sparkling lights and discovering unique gifts in the Holiday 
+ Market to enjoying festive treats\, meeting Santa\, and creating memories 
+ that will last a lifetime\, every visit offers something special. No matte
+ r how you choose to celebrate\, the Rhode Island Lights Festival has an ex
+ perience designed just for you.\n\nSource: https://www.visitrhodeisland.co
+ m/event/rhode-island-lights-festival/112530/
+LOCATION:Centreville Bank Stadium\, 11 Tidewater Street\, Pawtucket\, 0268
+ 0 Time: 5:00 PM to 10:00 PM
+URL:https://www.visitrhodeisland.com/event/rhode-island-lights-festival/11
+ 2530/
 END:VEVENT
 END:VCALENDAR
