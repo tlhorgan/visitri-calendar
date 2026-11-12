@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:$15 Moonshine Flights & Moonshine Tasting
 DTSTART;VALUE=DATE:20250615
 DTEND;VALUE=DATE:20250616
-DTSTAMP:20261111T180154Z
+DTSTAMP:20261112T183421Z
 UID:b6432d870f2c0958f26453a40d59@visitri-calendar
 DESCRIPTION:Try a Moonshine Flight tasting at Moonshine Alley! Moonshine F
  lights are available daily for just $15! We have over 13 flavors to choose
@@ -23,7 +23,7 @@ BEGIN:VEVENT
 SUMMARY:Crime and Cuisine on Federal Hill
 DTSTART;VALUE=DATE:20251231
 DTEND;VALUE=DATE:20260101
-DTSTAMP:20261111T180154Z
+DTSTAMP:20261112T183421Z
 UID:242f27ca2e431104e607ab5c8a2a@visitri-calendar
 DESCRIPTION:A food tour with a felonious twist! The Federal Hill neighborh
  ood of Providence is one of its hottest destinations\, home to some of the
@@ -46,7 +46,7 @@ BEGIN:VEVENT
 SUMMARY:Crime and Cuisine on Federal Hill
 DTSTART;VALUE=DATE:20260301
 DTEND;VALUE=DATE:20260302
-DTSTAMP:20261111T180154Z
+DTSTAMP:20261112T183421Z
 UID:b2b5ec0867e1b807ccd6d0933ce3@visitri-calendar
 DESCRIPTION:A food tour with a felonious twist! The Federal Hill neighborh
  ood of Providence is one of its hottest destinations\, home to some of the
@@ -66,10 +66,40 @@ URL:https://www.visitrhodeisland.com/event/crime-and-cuisine-on-federal-hi
  ll/112625/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Early Bird Museum Highlight Tour at Newport Car Museum
+DTSTART;VALUE=DATE:20260401
+DTEND;VALUE=DATE:20260402
+DTSTAMP:20261112T183421Z
+UID:75253880a8c565d95c2d97a759c9@visitri-calendar
+DESCRIPTION:Early Bird Highlight Tour For 90 minutes (8:30 &#8211\; 10:00 
+ AM) prior to Museum opening. Call to book: +1 (401) 848-2277 Price $75.00 
+ per person (minimum 2\, maximum 6 ppl) Offered Wednesday\, Thursday\, and 
+ Saturday only April 1 - December 31\, 2026. General admission is included 
+ with price. 72-hour advance notice is suggested. Only one group will be ho
+ sted on any given morning. This is your chance to have the Newport Car Mus
+ eum all to yourself with a private guide to share with you the not-to-miss
+  highlights in seven expansive galleries. With over 100 iconic\, rare and 
+ exotic cars on display at one time\, this private collection is bursting w
+ ith history\, provenance and color\, not to mention the breathtaking sculp
+ tural beauty of automotive designs starting with the 1950s and finishing w
+ ith new models from the 21 st Century. After 90 minutes with your private
+ \, continue to explore at your own pace so that you can further examine yo
+ ur favorites from the Ford/Shelby\, Corvette\, World Car\, Porsche\, Fin C
+ ar\, American Muscle and Mopar exhibits while enjoying immersive videos\, 
+ artwork and the Museum’s eclectic collection of Mid-Century Modern Furni
+ ture. Operating hours can also vary based on weather conditions. Call for 
+ more details.\n\nSource: https://www.visitrhodeisland.com/event/early-bird
+ -museum-highlight-tour-at-newport-car-museum/109638/
+LOCATION:Newport Car Museum\, Enter at Light 1947 West Main Road\, Portsmo
+ uth\, RI 02871
+URL:https://www.visitrhodeisland.com/event/early-bird-museum-highlight-tou
+ r-at-newport-car-museum/109638/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Beyond the Brewhouse Tour
 DTSTART;VALUE=DATE:20260515
 DTEND;VALUE=DATE:20260516
-DTSTAMP:20261111T180154Z
+DTSTAMP:20261112T183421Z
 UID:acc9d8e1d1bdab34c6766b602473@visitri-calendar
 DESCRIPTION:Beyond the Brewhouse Where: Newport Craft Brewing and Distilli
  ng\, 293 JT Connell Road\, Newport 45 minutes: $20 per person Did you know
@@ -88,7 +118,7 @@ BEGIN:VEVENT
 SUMMARY:$15 Moonshine Flights & Moonshine Tasting
 DTSTART;VALUE=DATE:20260721
 DTEND;VALUE=DATE:20260722
-DTSTAMP:20261111T180154Z
+DTSTAMP:20261112T183421Z
 UID:6ac059c408c431eceb1c3c855c19@visitri-calendar
 DESCRIPTION:Try a Moonshine Flight tasting at Moonshine Alley! Moonshine F
  lights are available daily for just $15! We have over 13 flavors to choose
@@ -104,7 +134,7 @@ BEGIN:VEVENT
 SUMMARY:Burritos & Bowls—Lunch Specials at Yellow Door Taqueria!
 DTSTART;VALUE=DATE:20260826
 DTEND;VALUE=DATE:20260827
-DTSTAMP:20261111T180154Z
+DTSTAMP:20261112T183421Z
 UID:cd9e59bf1148392bbbdd7c30628e@visitri-calendar
 DESCRIPTION:Our new Burrito &amp\; Bowl lunch specials have arrived at Yel
  low Door Taqueria in downtown Providence! Perfect for dining in or taking 
@@ -122,7 +152,7 @@ BEGIN:VEVENT
 SUMMARY:A Christmas Carol
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
-DTSTAMP:20261111T180154Z
+DTSTAMP:20261112T183421Z
 UID:a214778016481db972ef3f095096@visitri-calendar
 DESCRIPTION:By Charles Dickens Original Music by Richard Cumming Directed 
  by Taavon Gamble November 5 &#8211\; December 31\, 2026 Dowling Theater Ce
@@ -144,7 +174,7 @@ BEGIN:VEVENT
 SUMMARY:Newport Restaurant Week 2026
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
-DTSTAMP:20261111T180154Z
+DTSTAMP:20261112T183421Z
 UID:26ef1c44e7914743227eba719da9@visitri-calendar
 DESCRIPTION:The flavors of nine coastal communities\, all rolled up into o
  ne savory week. Newport Restaurant Week now takes place annually each fall
@@ -178,79 +208,95 @@ URL:https://www.visitrhodeisland.com/event/newport-restaurant-week-2026/11
  2499/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:'Actually\, It Is Rocket Science' at Jane Pickens\, presented by T
- eton Gravity Research
-DTSTART;VALUE=DATE:20261111
-DTEND;VALUE=DATE:20261112
-DTSTAMP:20261111T180154Z
-UID:f71d9ded5af08502e7526726b10e@visitri-calendar
-DESCRIPTION:'Actually\, It Is Rocket Science' A Teton Gravity Research Fil
- m When: Wednesday\, November 11th at 7:30 PM Where: Jane Pickens Theater\,
-  49 Touro Street\, Newport Join Teton Gravity Research for its 31st annual
-  ski and snowboard film\, featuring elite athletes\, breathtaking cinemato
- graphy\, and the year's biggest mountain adventures. Experience the excite
- ment\, community\, and stoke of ski season on the big screen. This is the 
- newest TGR film on the big screen with a night celebrating the ski and sno
- wboard community. Actually\, It Is Rocket Science brings together the worl
- d’s best athletes\, groundbreaking terrain\, and unforgettable stories f
- rom the mountains. Enjoy the film\, connect with fellow fans\, and stick a
- round for giveaways\, prizes\, and more. Tickets On Sale Now\, More detail
- s and Trailer coming soon! Genre: Action/Adventure Tickets: $22 for Adults
- \; $15 for Kids under 16 Release Date: 2026 Runtime: 120 minutes\n\nSource
- : https://www.visitrhodeisland.com/event/actually-it-is-rocket-science-at-
- jane-pickens-presented-by-teton-gravity-research/111305/
-LOCATION:Jane Pickens Theater\, 49 Touro Street\, Newport\, RI 02840 Time:
-  7:30 PM to 10:30 PM
-URL:https://www.visitrhodeisland.com/event/actually-it-is-rocket-science-a
- t-jane-pickens-presented-by-teton-gravity-research/111305/
+SUMMARY:90's vs Y2K New Years Eve
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+DTSTAMP:20261112T183421Z
+UID:694dfca63be94a82aaca11945085@visitri-calendar
+DESCRIPTION:Get ready to step into a time warp this New Year's Eve at Ball
+ y's 90s vs. Y2K Party! As you walk through the doors\, you're instantly tr
+ ansported back to the iconic decade\, where glitter and neon rule the nigh
+ t. A room shimmers with sequins and metallic streamers\, setting the scene
+  for a night that's equal parts nostalgia and pure 90s magic. Everywhere y
+ ou look\, people are decked out in throwback fashion-baggy low-rise jeans
+ \, crop tops\, chokers\, oversized blazers\, and bucket hats-transforming 
+ the venue into a vibrant flashback of pop culture's greatest era. Feel the
+  familiar beat hit as a live DJ spins a playlist packed with the unforgett
+ able anthems of the 90s. The air comes alive with Britney's iconic hooks\,
+  Mariah's soaring notes\, and the harmonies of Boyz II Men\, each song dra
+ wing you deeper into the moment. Enjoy a musical performance by the Felix 
+ Brown Band. Be amazed by a show by Mentalist David Hall and magician Peter
+  Boie and laugh amongst your friends and family as you are in awe of their
+  mentalist/ magic show. Get ready for the largest 90's dance party in Rhod
+ e Island\, filled with all of these hits! As the midnight countdown approa
+ ches\, the room dims\, anticipation buzzing through the crowd. Giant scree
+ ns light up with retro graphics\, flashing 90s-inspired designs\, and ever
+ yone joins in\, counting down in unison\, caught between past and future. 
+ When the clock strikes twelve\, the lights dazzle\, and everyone raises th
+ eir glasses to both the magic of the 90s and the promise of a brand new ye
+ ar. This New Year's Eve\, you're not just celebrating-you're time-travelin
+ g back to an unforgettable era filled with nostalgia and excitement. Don't
+  just watch the ball drop\; come relive the ultimate 90s experience and st
+ art the new year with a blast from the past!Get tickets now before prices 
+ rise! URL: Tickets: https://go.evvnt.com/3619726-0?pid=10404 Date and Time
+ : Thursday\, 31 December 2026 at 19:00 - Friday\, 01 January 2027 at 02:00
+  Venue details: Bally's Lincoln\, 100 Twin River Rd\, Lincoln\, Rhode Isla
+ nd\, 02865\, United States Category: Community | Local / Community Price: 
+ General Admission: USD 52.00\n\nSource: https://www.visitrhodeisland.com/e
+ vent/90s-vs-y2k-new-years-eve/110031/
+LOCATION:Bally's Lincoln\, 100 Twin River Rd\, Lincoln\, 02865
+URL:https://www.visitrhodeisland.com/event/90s-vs-y2k-new-years-eve/110031
+ /
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Aperitivo! Wines of Alsace
-DTSTART;VALUE=DATE:20261111
-DTEND;VALUE=DATE:20261112
-DTSTAMP:20261111T180154Z
-UID:53f8d040cc50cb799a233292df0b@visitri-calendar
-DESCRIPTION:Join us at the Center for Wine and Culinary Arts at Ocean Hous
- e for a delightful Aperitivo Class featuring wine from Alsace. Known for w
- orld class white wines\, explore the stunning Sparkling wine and Pinot Noi
- rs from this region. Each wine will be thoughtfully paired with small bite
- s. The expertly crafted pairings will perfectly complement the bold\, nuan
- ced flavors of the wines. Whether you’re looking to deepen your knowledg
- e of wines from Alsace or simply enjoy an evening of delicious pairings an
- d conversation\, this Aperitivo Class promises to be a memorable experienc
- e. Reservations are recommended\, as space is limited. Please note: Ticket
- s purchased for this event are non-refundable.\n\nSource: https://www.visi
- trhodeisland.com/event/aperitivo!-wines-of-alsace/112375/
-LOCATION:Ocean House\, 1 Bluff Avenue\, Westerly\, 02891 Time: 5:30 PM to 
- 10:30 PM
-URL:https://www.visitrhodeisland.com/event/aperitivo!-wines-of-alsace/1123
- 75/
+SUMMARY:Community Recipe Book Night
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+DTSTAMP:20261112T183421Z
+UID:57e173b61d9e8b4491a8707ab16e@visitri-calendar
+DESCRIPTION:Enjoy a cozy community gathering that centers the foods\, cult
+ ures\, and memories that shaped us. You can add: A family recipe or dish c
+ onnected to your culture or childhood The story or memory behind a dish Ph
+ otos\, drawings\, or other personal touches if you’re comfortable Pages 
+ will be scanned into a “Recipes That Raised Us” cookbook and a copy wi
+ ll be emailed to all participants. All craft supplies such as recipe templ
+ ates\, pens/markers\, stickers\, scrapbook paper\, glue\, scissors\, magaz
+ ines\, and other decorative elements will be provided. Pricing: RSVP via E
+ ventbrite is strongly encouraged. *Pay what/if you can\, with a suggested 
+ donation of $5-$10* Community Note: All Delightful Intention events are de
+ signed for women\, LGBTQ+\, and BIPOC folks to gather\, meet new people\, 
+ and build connections in a way that feels intentional and low-pressure. Al
+ l respectful community members are welcome. Contact Information: Email del
+ ightfulintentions333@gmail.com\, or reach out to @Delightful.Intentions_ o
+ n Instagram\, or @Trippinonmhina on TikTok with any questions!\n\nSource: 
+ https://www.visitrhodeisland.com/event/community-recipe-book-night/112500/
+LOCATION:Public Shop & Gallery\, 50 Agnes Street\, Providence\, 02909 Time
+ : 6:30 PM to 8:30 PM
+URL:https://www.visitrhodeisland.com/event/community-recipe-book-night/112
+ 500/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Apertivo! Wines from Alsace
-DTSTART;VALUE=DATE:20261111
-DTEND;VALUE=DATE:20261112
-DTSTAMP:20261111T180154Z
-UID:ee886e0cf89240cdb8c71b2fef46@visitri-calendar
-DESCRIPTION:The Center for Wine and Culinary Arts at Ocean House hosts an 
- Aperitivo Class featuring wine from Alsace. Known for world class white wi
- nes\, explore the stunning Sparkling wine and Pinot Noirs from this region
- . Each wine will be thoughtfully paired with small bites. The expertly cra
- fted pairings will perfectly complement the bold\, nuanced flavors of the 
- wines. Whether you’re looking to deepen your knowledge of wines from Als
- ace or simply enjoy an evening of delicious pairings and conversation\, th
- is Aperitivo Class promises to be a memorable experience.\n\nSource: https
- ://www.visitrhodeisland.com/event/apertivo!-wines-from-alsace/112471/
-LOCATION:Ocean House\, 1 Bluff Avenue\, Westerly\, RI 02891
-URL:https://www.visitrhodeisland.com/event/apertivo!-wines-from-alsace/112
- 471/
+SUMMARY:Create Your Own Vintage Style Recipe Journal
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+DTSTAMP:20261112T183421Z
+UID:5f634be8ad6486087487e2934033@visitri-calendar
+DESCRIPTION:Transform a hardcover notebook into a personalized fabric-cove
+ red recipe journal! All craft supplies such as fabric\, patches\, ribbons
+ \, lace and more will be provided. Light snacks and drinks will be availab
+ le. Tickets: $25\n\nSource: https://www.visitrhodeisland.com/event/create-
+ your-own-vintage-style-recipe-journal/112523/
+LOCATION:Public Shop & Gallery\, 50 Agnes Street\, Providence\, 02909 Time
+ : 6:30 PM to 8:30 AM
+URL:https://www.visitrhodeisland.com/event/create-your-own-vintage-style-r
+ ecipe-journal/112523/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Crime and Cuisine on Federal Hill
-DTSTART;VALUE=DATE:20261111
-DTEND;VALUE=DATE:20261112
-DTSTAMP:20261111T180154Z
-UID:94697c11b503f200fd9e926306b2@visitri-calendar
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+DTSTAMP:20261112T183421Z
+UID:8e27cc78a7e9f372be296f15632b@visitri-calendar
 DESCRIPTION:A food tour with a felonious twist! The Federal Hill neighborh
  ood of Providence is one of its hottest destinations\, home to some of the
   best Italian food in the world. This tour will give you a smorgasbord of 
@@ -269,11 +315,82 @@ URL:https://www.visitrhodeisland.com/event/crime-and-cuisine-on-federal-hi
  ll/112625/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Dark Star Orchestra - Providence
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+DTSTAMP:20261112T183421Z
+UID:3f99d777a292bc6361737d6c984c@visitri-calendar
+DESCRIPTION:Get ready to groove as the legendary Dark Star Orchestra takes
+  the stage at the Providence Performing Arts Center for an unforgettable n
+ ight of music! This iconic band is renowned for their electrifying perform
+ ances that pay homage to the Grateful Dead\, blending nostalgia with a fre
+ sh twist. The beautiful ambiance of the Providence Performing Arts Center
+ \, with its stunning architecture and intimate setting\, creates the perfe
+ ct backdrop for an evening filled with soulful melodies and vibrant energy
+ . Join fellow music lovers in Providence for the Dark Star Orchestra - Pro
+ vidence concert\, where you can relive classic hits and experience the mag
+ ic of live rock music. Whether you’re a longtime fan or new to their sou
+ nd\, this is a night you won’t want to miss. Grab your friends\, let the
+  music take you away\, and secure your tickets today for an experience tha
+ t promises to resonate long after the final note!\n\nSource: https://www.v
+ isitrhodeisland.com/event/dark-star-orchestra-providence/111372/
+LOCATION:Providence Performing Arts Center\, 220 Weybosset Street\, Provid
+ ence\, RI 02903 Time: 7:30 PM 220 Weybosset Street\, Providence\, RI 02903
+  OFFICIAL RHODE ISLAND TRAVEL GUIDE Get Guide Get news from Visit Rhode Is
+ land in your inbox. Industry Partner Leisure Travel Sign Up Ratings Powere
+ d by Press Industry Travel Trade Meetings & Conventions Contact Privacy Po
+ licy Sitemap Partner Portal SMS Privacy Policy SMS Terms & Conditions UGC 
+ Terms and Conditions Wedding Planning Press Photos Story Ideas Fun-Sized R
+ hode Island Rhode Island in the News Free Travel Guide Contact Visit Rhode
+  Island Industry Travel Trade Ideas & Itineraries Downton Abbey Lifestyle 
+ Rhode Island Foodways Hidden Gems Image Library Free Travel Guide Contact 
+ Visit Rhode Island Meetings & Conventions Contact Privacy Policy Sitemap P
+ artner Portal SMS Privacy Policy SMS Terms & Conditions UGC Terms and Cond
+ itions Wedding Planning Weddings - Venues Wedding - Catering Wedding - Cak
+ es Wedding - Attire Wedding - Florists Wedding - Jewelers Wedding - Transp
+ ortation © 2026 Rhode Island Commerce Corporation Special Offers Offers H
+ ere Looking to plan your next visit to Rhode Island\, check out some of th
+ e current special offers and enjoy savings\, extra perks and more! Offers 
+ Here
+URL:https://www.visitrhodeisland.com/event/dark-star-orchestra-providence/
+ 111372/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Early Bird Museum Highlight Tour at Newport Car Museum
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+DTSTAMP:20261112T183421Z
+UID:05a9b8a2acc7802936f763072346@visitri-calendar
+DESCRIPTION:Early Bird Highlight Tour For 90 minutes (8:30 &#8211\; 10:00 
+ AM) prior to Museum opening. Call to book: +1 (401) 848-2277 Price $75.00 
+ per person (minimum 2\, maximum 6 ppl) Offered Wednesday\, Thursday\, and 
+ Saturday only April 1 - December 31\, 2026. General admission is included 
+ with price. 72-hour advance notice is suggested. Only one group will be ho
+ sted on any given morning. This is your chance to have the Newport Car Mus
+ eum all to yourself with a private guide to share with you the not-to-miss
+  highlights in seven expansive galleries. With over 100 iconic\, rare and 
+ exotic cars on display at one time\, this private collection is bursting w
+ ith history\, provenance and color\, not to mention the breathtaking sculp
+ tural beauty of automotive designs starting with the 1950s and finishing w
+ ith new models from the 21 st Century. After 90 minutes with your private
+ \, continue to explore at your own pace so that you can further examine yo
+ ur favorites from the Ford/Shelby\, Corvette\, World Car\, Porsche\, Fin C
+ ar\, American Muscle and Mopar exhibits while enjoying immersive videos\, 
+ artwork and the Museum’s eclectic collection of Mid-Century Modern Furni
+ ture. Operating hours can also vary based on weather conditions. Call for 
+ more details.\n\nSource: https://www.visitrhodeisland.com/event/early-bird
+ -museum-highlight-tour-at-newport-car-museum/109638/
+LOCATION:Newport Car Museum\, Enter at Light 1947 West Main Road\, Portsmo
+ uth\, RI 02871
+URL:https://www.visitrhodeisland.com/event/early-bird-museum-highlight-tou
+ r-at-newport-car-museum/109638/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Santa Magic in Long Wharf
-DTSTART;VALUE=DATE:20261111
-DTEND;VALUE=DATE:20261112
-DTSTAMP:20261111T180154Z
-UID:d0f0da3001fa1b6ab6844a27127c@visitri-calendar
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+DTSTAMP:20261112T183421Z
+UID:f3d6cce3d840b3eced39a0f73335@visitri-calendar
 DESCRIPTION:🎄✨ Holiday Tree Lighting Event!✨🎄 Mark your calendar
  s! The holiday season is kicking off at the Shops of Long Wharf\, and you 
  won’t want to miss it! 🎅🎁 📅 When: Saturday\, November 28th Rain
@@ -294,32 +411,9 @@ URL:https://www.visitrhodeisland.com/event/santa-magic-in-long-wharf/11246
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Crime and Cuisine on Federal Hill
-DTSTART;VALUE=DATE:20261112
-DTEND;VALUE=DATE:20261113
-DTSTAMP:20261111T180154Z
-UID:8e27cc78a7e9f372be296f15632b@visitri-calendar
-DESCRIPTION:A food tour with a felonious twist! The Federal Hill neighborh
- ood of Providence is one of its hottest destinations\, home to some of the
-  best Italian food in the world. This tour will give you a smorgasbord of 
- its best bites and drinks\, from fine wines to housemade pasta. Come hungr
- y! ​The Hill was also home to some historic characters who dabbled on th
- e wrong side of the law. Follow the intrigue of State v. Patriarca\, when 
- a future mayor took on a mob boss\; learn about the corruption that brough
- t Rhode Island's banking system to its knees in the '90s\, and about a rai
- d on an illegal dice game that sent a Providence Police Officer through a 
- second-story window. Every guest will also get a memento from their time o
- n the Hill to take home with them. Spoiler alert: it's delicious! ​ Gues
- ts under 21 will not be served alcohol on this tour.\n\nSource: https://ww
- w.visitrhodeisland.com/event/crime-and-cuisine-on-federal-hill/112625/
-LOCATION:Providence Tour Company\, 99 Atwells Ave\, Providence\, RI 02909
-URL:https://www.visitrhodeisland.com/event/crime-and-cuisine-on-federal-hi
- ll/112625/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Crime and Cuisine on Federal Hill
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
-DTSTAMP:20261111T180154Z
+DTSTAMP:20261112T183421Z
 UID:25a143f4a0a21cbda966cda19ace@visitri-calendar
 DESCRIPTION:A food tour with a felonious twist! The Federal Hill neighborh
  ood of Providence is one of its hottest destinations\, home to some of the
@@ -339,10 +433,27 @@ URL:https://www.visitrhodeisland.com/event/crime-and-cuisine-on-federal-hi
  ll/112625/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:November Live Music
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+DTSTAMP:20261112T183421Z
+UID:221ba31de265773e455f7274efbf@visitri-calendar
+DESCRIPTION:November is packed with live music every Friday and Saturday n
+ ight! Local musicians\, a welcoming atmosphere\, and our kitchen is open u
+ ntil 9PM. Music runs from 6-9PM. Always free\, never a cover. 21+ after 8 
+ PM. November 13 - Brandon Catarina November 14 - Texas Street Revival Nove
+ mber 20 - Big John's Boys Duo November 21 - John and Tyler November 25 - B
+ randon Catarina November 27 - Benny Midnight November 28 - Justin Martin\n
+ \nSource: https://www.visitrhodeisland.com/event/november-live-music/11262
+ 3/
+LOCATION:Phantom Farms Brewing\, 30 Martin Street\, Cumberland\, RI 02864
+URL:https://www.visitrhodeisland.com/event/november-live-music/112623/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Crime and Cuisine on Federal Hill
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
-DTSTAMP:20261111T180154Z
+DTSTAMP:20261112T183421Z
 UID:8d6985d1e632b264b65f656a4c31@visitri-calendar
 DESCRIPTION:A food tour with a felonious twist! The Federal Hill neighborh
  ood of Providence is one of its hottest destinations\, home to some of the
@@ -362,10 +473,57 @@ URL:https://www.visitrhodeisland.com/event/crime-and-cuisine-on-federal-hi
  ll/112625/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Early Bird Museum Highlight Tour at Newport Car Museum
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+DTSTAMP:20261112T183421Z
+UID:e9bf6d128f67ef9580aec72a9077@visitri-calendar
+DESCRIPTION:Early Bird Highlight Tour For 90 minutes (8:30 &#8211\; 10:00 
+ AM) prior to Museum opening. Call to book: +1 (401) 848-2277 Price $75.00 
+ per person (minimum 2\, maximum 6 ppl) Offered Wednesday\, Thursday\, and 
+ Saturday only April 1 - December 31\, 2026. General admission is included 
+ with price. 72-hour advance notice is suggested. Only one group will be ho
+ sted on any given morning. This is your chance to have the Newport Car Mus
+ eum all to yourself with a private guide to share with you the not-to-miss
+  highlights in seven expansive galleries. With over 100 iconic\, rare and 
+ exotic cars on display at one time\, this private collection is bursting w
+ ith history\, provenance and color\, not to mention the breathtaking sculp
+ tural beauty of automotive designs starting with the 1950s and finishing w
+ ith new models from the 21 st Century. After 90 minutes with your private
+ \, continue to explore at your own pace so that you can further examine yo
+ ur favorites from the Ford/Shelby\, Corvette\, World Car\, Porsche\, Fin C
+ ar\, American Muscle and Mopar exhibits while enjoying immersive videos\, 
+ artwork and the Museum’s eclectic collection of Mid-Century Modern Furni
+ ture. Operating hours can also vary based on weather conditions. Call for 
+ more details.\n\nSource: https://www.visitrhodeisland.com/event/early-bird
+ -museum-highlight-tour-at-newport-car-museum/109638/
+LOCATION:Newport Car Museum\, Enter at Light 1947 West Main Road\, Portsmo
+ uth\, RI 02871
+URL:https://www.visitrhodeisland.com/event/early-bird-museum-highlight-tou
+ r-at-newport-car-museum/109638/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:November Live Music
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+DTSTAMP:20261112T183421Z
+UID:5c3c0895ff2d2c880e3ce3de792d@visitri-calendar
+DESCRIPTION:November is packed with live music every Friday and Saturday n
+ ight! Local musicians\, a welcoming atmosphere\, and our kitchen is open u
+ ntil 9PM. Music runs from 6-9PM. Always free\, never a cover. 21+ after 8 
+ PM. November 13 - Brandon Catarina November 14 - Texas Street Revival Nove
+ mber 20 - Big John's Boys Duo November 21 - John and Tyler November 25 - B
+ randon Catarina November 27 - Benny Midnight November 28 - Justin Martin\n
+ \nSource: https://www.visitrhodeisland.com/event/november-live-music/11262
+ 3/
+LOCATION:Phantom Farms Brewing\, 30 Martin Street\, Cumberland\, RI 02864
+URL:https://www.visitrhodeisland.com/event/november-live-music/112623/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Newport Restaurant Week 2026
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
-DTSTAMP:20261111T180154Z
+DTSTAMP:20261112T183421Z
 UID:b07ae03f428a5f6f986ffdf404a3@visitri-calendar
 DESCRIPTION:The flavors of nine coastal communities\, all rolled up into o
  ne savory week. Newport Restaurant Week now takes place annually each fall
@@ -399,10 +557,67 @@ URL:https://www.visitrhodeisland.com/event/newport-restaurant-week-2026/11
  2499/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Crime and Cuisine on Federal Hill
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+DTSTAMP:20261112T183421Z
+UID:52d625c928b6f5f792c11d2bccd0@visitri-calendar
+DESCRIPTION:A food tour with a felonious twist! The Federal Hill neighborh
+ ood of Providence is one of its hottest destinations\, home to some of the
+  best Italian food in the world. This tour will give you a smorgasbord of 
+ its best bites and drinks\, from fine wines to housemade pasta. Come hungr
+ y! ​The Hill was also home to some historic characters who dabbled on th
+ e wrong side of the law. Follow the intrigue of State v. Patriarca\, when 
+ a future mayor took on a mob boss\; learn about the corruption that brough
+ t Rhode Island's banking system to its knees in the '90s\, and about a rai
+ d on an illegal dice game that sent a Providence Police Officer through a 
+ second-story window. Every guest will also get a memento from their time o
+ n the Hill to take home with them. Spoiler alert: it's delicious! ​ Gues
+ ts under 21 will not be served alcohol on this tour.\n\nSource: https://ww
+ w.visitrhodeisland.com/event/crime-and-cuisine-on-federal-hill/112625/
+LOCATION:Providence Tour Company\, 99 Atwells Ave\, Providence\, RI 02909
+URL:https://www.visitrhodeisland.com/event/crime-and-cuisine-on-federal-hi
+ ll/112625/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:November Live Music
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+DTSTAMP:20261112T183421Z
+UID:e6b2beab5f469dedfbd12d5580b1@visitri-calendar
+DESCRIPTION:November is packed with live music every Friday and Saturday n
+ ight! Local musicians\, a welcoming atmosphere\, and our kitchen is open u
+ ntil 9PM. Music runs from 6-9PM. Always free\, never a cover. 21+ after 8 
+ PM. November 13 - Brandon Catarina November 14 - Texas Street Revival Nove
+ mber 20 - Big John's Boys Duo November 21 - John and Tyler November 25 - B
+ randon Catarina November 27 - Benny Midnight November 28 - Justin Martin\n
+ \nSource: https://www.visitrhodeisland.com/event/november-live-music/11262
+ 3/
+LOCATION:Phantom Farms Brewing\, 30 Martin Street\, Cumberland\, RI 02864
+URL:https://www.visitrhodeisland.com/event/november-live-music/112623/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:November Live Music
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+DTSTAMP:20261112T183421Z
+UID:b9da461598e8b9b94061aef6a0d2@visitri-calendar
+DESCRIPTION:November is packed with live music every Friday and Saturday n
+ ight! Local musicians\, a welcoming atmosphere\, and our kitchen is open u
+ ntil 9PM. Music runs from 6-9PM. Always free\, never a cover. 21+ after 8 
+ PM. November 13 - Brandon Catarina November 14 - Texas Street Revival Nove
+ mber 20 - Big John's Boys Duo November 21 - John and Tyler November 25 - B
+ randon Catarina November 27 - Benny Midnight November 28 - Justin Martin\n
+ \nSource: https://www.visitrhodeisland.com/event/november-live-music/11262
+ 3/
+LOCATION:Phantom Farms Brewing\, 30 Martin Street\, Cumberland\, RI 02864
+URL:https://www.visitrhodeisland.com/event/november-live-music/112623/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Rhode Island Christmas Festival
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
-DTSTAMP:20261111T180154Z
+DTSTAMP:20261112T183421Z
 UID:91d0c45995c76bb3e4e4d4172d7a@visitri-calendar
 DESCRIPTION:RHODE ISLAND CHRISTMAS FESTIVAL COMING TO WEST WARWICK THIS NO
  VEMBER WEST WARWICK\, R.I. — Community Marketing RI is pleased to announ
@@ -520,7 +735,7 @@ BEGIN:VEVENT
 SUMMARY:Rhode Island Christmas Festival
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
-DTSTAMP:20261111T180154Z
+DTSTAMP:20261112T183421Z
 UID:54a771ad2e97b7ab06678bd091ac@visitri-calendar
 DESCRIPTION:RHODE ISLAND CHRISTMAS FESTIVAL COMING TO WEST WARWICK THIS NO
  VEMBER WEST WARWICK\, R.I. — Community Marketing RI is pleased to announ
@@ -638,7 +853,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
-DTSTAMP:20261111T180154Z
+DTSTAMP:20261112T183421Z
 UID:d5932912a26459263f74067ed3d2@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -663,10 +878,44 @@ URL:https://www.visitrhodeisland.com/event/sparkling-lights-at-the-breaker
  s/112249/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:November Live Music
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+DTSTAMP:20261112T183421Z
+UID:c0b0bc7a158fa672617cbfdd76e7@visitri-calendar
+DESCRIPTION:November is packed with live music every Friday and Saturday n
+ ight! Local musicians\, a welcoming atmosphere\, and our kitchen is open u
+ ntil 9PM. Music runs from 6-9PM. Always free\, never a cover. 21+ after 8 
+ PM. November 13 - Brandon Catarina November 14 - Texas Street Revival Nove
+ mber 20 - Big John's Boys Duo November 21 - John and Tyler November 25 - B
+ randon Catarina November 27 - Benny Midnight November 28 - Justin Martin\n
+ \nSource: https://www.visitrhodeisland.com/event/november-live-music/11262
+ 3/
+LOCATION:Phantom Farms Brewing\, 30 Martin Street\, Cumberland\, RI 02864
+URL:https://www.visitrhodeisland.com/event/november-live-music/112623/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:November Live Music
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+DTSTAMP:20261112T183421Z
+UID:0ee6028bbf984178fe00adc28132@visitri-calendar
+DESCRIPTION:November is packed with live music every Friday and Saturday n
+ ight! Local musicians\, a welcoming atmosphere\, and our kitchen is open u
+ ntil 9PM. Music runs from 6-9PM. Always free\, never a cover. 21+ after 8 
+ PM. November 13 - Brandon Catarina November 14 - Texas Street Revival Nove
+ mber 20 - Big John's Boys Duo November 21 - John and Tyler November 25 - B
+ randon Catarina November 27 - Benny Midnight November 28 - Justin Martin\n
+ \nSource: https://www.visitrhodeisland.com/event/november-live-music/11262
+ 3/
+LOCATION:Phantom Farms Brewing\, 30 Martin Street\, Cumberland\, RI 02864
+URL:https://www.visitrhodeisland.com/event/november-live-music/112623/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
-DTSTAMP:20261111T180154Z
+DTSTAMP:20261112T183421Z
 UID:f83dbecb85872dc3b9715683d412@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -691,10 +940,61 @@ URL:https://www.visitrhodeisland.com/event/sparkling-lights-at-the-breaker
  s/112249/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Holiday Market at Clark Farms
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+DTSTAMP:20261112T183421Z
+UID:fe4e382596a866f435f8deb2d1ec@visitri-calendar
+DESCRIPTION:Visit the Clark Farms massive Holiday Market inside the half a
+ cre greenhouse. Think live music\, Santa visits\, food &amp\; drink\, and 
+ so much more! Shop local\, and support small businesses this season… ove
+ r 80 vendors with handmade and artisan goods for sale. Christmas trees for
+  sale (all trees are given names based on their personality)\, wreaths\, g
+ arland\, greens\, custom designs\, decor\, and gifts for the holidays!\n\n
+ Source: https://www.visitrhodeisland.com/event/holiday-market-at-clark-far
+ ms/112622/
+LOCATION:Clark Farms Matunuck\, 2984 Commodore Perry Highway \, Matunuck\,
+  RI 02879 2984 Commodore Perry Highway \, Matunuck\, RI 02879 OFFICIAL RHO
+ DE ISLAND TRAVEL GUIDE Get Guide Get news from Visit Rhode Island in your 
+ inbox. Industry Partner Leisure Travel Sign Up Ratings Powered by Press In
+ dustry Travel Trade Meetings & Conventions Contact Privacy Policy Sitemap 
+ Partner Portal SMS Privacy Policy SMS Terms & Conditions UGC Terms and Con
+ ditions Wedding Planning Press Photos Story Ideas Fun-Sized Rhode Island R
+ hode Island in the News Free Travel Guide Contact Visit Rhode Island Indus
+ try Travel Trade Ideas & Itineraries Downton Abbey Lifestyle Rhode Island 
+ Foodways Hidden Gems Image Library Free Travel Guide Contact Visit Rhode I
+ sland Meetings & Conventions Contact Privacy Policy Sitemap Partner Portal
+  SMS Privacy Policy SMS Terms & Conditions UGC Terms and Conditions Weddin
+ g Planning Weddings - Venues Wedding - Catering Wedding - Cakes Wedding - 
+ Attire Wedding - Florists Wedding - Jewelers Wedding - Transportation © 2
+ 026 Rhode Island Commerce Corporation Special Offers Offers Here Looking t
+ o plan your next visit to Rhode Island\, check out some of the current spe
+ cial offers and enjoy savings\, extra perks and more! Offers Here
+URL:https://www.visitrhodeisland.com/event/holiday-market-at-clark-farms/1
+ 12622/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:November Live Music
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+DTSTAMP:20261112T183421Z
+UID:8d437db5e12c6d7ab46b53e614ca@visitri-calendar
+DESCRIPTION:November is packed with live music every Friday and Saturday n
+ ight! Local musicians\, a welcoming atmosphere\, and our kitchen is open u
+ ntil 9PM. Music runs from 6-9PM. Always free\, never a cover. 21+ after 8 
+ PM. November 13 - Brandon Catarina November 14 - Texas Street Revival Nove
+ mber 20 - Big John's Boys Duo November 21 - John and Tyler November 25 - B
+ randon Catarina November 27 - Benny Midnight November 28 - Justin Martin\n
+ \nSource: https://www.visitrhodeisland.com/event/november-live-music/11262
+ 3/
+LOCATION:Phantom Farms Brewing\, 30 Martin Street\, Cumberland\, RI 02864
+URL:https://www.visitrhodeisland.com/event/november-live-music/112623/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Rhode Island Lights Festival
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
-DTSTAMP:20261111T180154Z
+DTSTAMP:20261112T183421Z
 UID:448ec4f075219bf9373bb35a3117@visitri-calendar
 DESCRIPTION:This holiday season\, Centreville Bank Stadium will be transfo
  rmed into a spectacular winter wonderland as the Rhode Island Lights Festi
@@ -719,7 +1019,7 @@ BEGIN:VEVENT
 SUMMARY:Santa Magic in Long Wharf
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
-DTSTAMP:20261111T180154Z
+DTSTAMP:20261112T183421Z
 UID:87475b86156a7bb04dfea6f34ef6@visitri-calendar
 DESCRIPTION:🎄✨ Holiday Tree Lighting Event!✨🎄 Mark your calendar
  s! The holiday season is kicking off at the Shops of Long Wharf\, and you 
@@ -743,7 +1043,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
-DTSTAMP:20261111T180154Z
+DTSTAMP:20261112T183421Z
 UID:b086f1bd58d78d3d3eb4b27c4e80@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -768,10 +1068,44 @@ URL:https://www.visitrhodeisland.com/event/sparkling-lights-at-the-breaker
  s/112249/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Holiday Market at Clark Farms
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+DTSTAMP:20261112T183421Z
+UID:9e82c569344220f4daa31be9f0fe@visitri-calendar
+DESCRIPTION:Visit the Clark Farms massive Holiday Market inside the half a
+ cre greenhouse. Think live music\, Santa visits\, food &amp\; drink\, and 
+ so much more! Shop local\, and support small businesses this season… ove
+ r 80 vendors with handmade and artisan goods for sale. Christmas trees for
+  sale (all trees are given names based on their personality)\, wreaths\, g
+ arland\, greens\, custom designs\, decor\, and gifts for the holidays!\n\n
+ Source: https://www.visitrhodeisland.com/event/holiday-market-at-clark-far
+ ms/112622/
+LOCATION:Clark Farms Matunuck\, 2984 Commodore Perry Highway \, Matunuck\,
+  RI 02879 2984 Commodore Perry Highway \, Matunuck\, RI 02879 OFFICIAL RHO
+ DE ISLAND TRAVEL GUIDE Get Guide Get news from Visit Rhode Island in your 
+ inbox. Industry Partner Leisure Travel Sign Up Ratings Powered by Press In
+ dustry Travel Trade Meetings & Conventions Contact Privacy Policy Sitemap 
+ Partner Portal SMS Privacy Policy SMS Terms & Conditions UGC Terms and Con
+ ditions Wedding Planning Press Photos Story Ideas Fun-Sized Rhode Island R
+ hode Island in the News Free Travel Guide Contact Visit Rhode Island Indus
+ try Travel Trade Ideas & Itineraries Downton Abbey Lifestyle Rhode Island 
+ Foodways Hidden Gems Image Library Free Travel Guide Contact Visit Rhode I
+ sland Meetings & Conventions Contact Privacy Policy Sitemap Partner Portal
+  SMS Privacy Policy SMS Terms & Conditions UGC Terms and Conditions Weddin
+ g Planning Weddings - Venues Wedding - Catering Wedding - Cakes Wedding - 
+ Attire Wedding - Florists Wedding - Jewelers Wedding - Transportation © 2
+ 026 Rhode Island Commerce Corporation Special Offers Offers Here Looking t
+ o plan your next visit to Rhode Island\, check out some of the current spe
+ cial offers and enjoy savings\, extra perks and more! Offers Here
+URL:https://www.visitrhodeisland.com/event/holiday-market-at-clark-farms/1
+ 12622/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Rhode Island Lights Festival
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
-DTSTAMP:20261111T180154Z
+DTSTAMP:20261112T183421Z
 UID:10ebb05c2374acae092481a580db@visitri-calendar
 DESCRIPTION:This holiday season\, Centreville Bank Stadium will be transfo
  rmed into a spectacular winter wonderland as the Rhode Island Lights Festi
@@ -796,7 +1130,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
-DTSTAMP:20261111T180154Z
+DTSTAMP:20261112T183421Z
 UID:a07e4e611fb4e8a3b793ee3d6baa@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -824,7 +1158,7 @@ BEGIN:VEVENT
 SUMMARY:Rhode Island Lights Festival
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
-DTSTAMP:20261111T180154Z
+DTSTAMP:20261112T183421Z
 UID:ce724247a0b0f5b958de383d5791@visitri-calendar
 DESCRIPTION:This holiday season\, Centreville Bank Stadium will be transfo
  rmed into a spectacular winter wonderland as the Rhode Island Lights Festi
@@ -849,7 +1183,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
-DTSTAMP:20261111T180154Z
+DTSTAMP:20261112T183421Z
 UID:0e0d137da86e729e9b7c503df973@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -877,7 +1211,7 @@ BEGIN:VEVENT
 SUMMARY:Rhode Island Lights Festival
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
-DTSTAMP:20261111T180154Z
+DTSTAMP:20261112T183421Z
 UID:55a3de0c84372bcc3132f2594f57@visitri-calendar
 DESCRIPTION:This holiday season\, Centreville Bank Stadium will be transfo
  rmed into a spectacular winter wonderland as the Rhode Island Lights Festi
@@ -902,7 +1236,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
-DTSTAMP:20261111T180154Z
+DTSTAMP:20261112T183421Z
 UID:ccc9d94ce27546581c6bf2b71fd9@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -931,7 +1265,7 @@ SUMMARY:Bosgraaf Stained Glass Studio’s 11th Annual Holiday Sale & Hot C
  hocolate Happening!
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
-DTSTAMP:20261111T180154Z
+DTSTAMP:20261112T183421Z
 UID:be911d47885e79be62ea5f4dfca4@visitri-calendar
 DESCRIPTION:All are invited to Bosgraaf Stained Glass Studio’s 11th Annu
  al Holiday Sale\, featuring original glass works from over 60 student arti
@@ -966,7 +1300,7 @@ BEGIN:VEVENT
 SUMMARY:Bristol Christmas Festival
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
-DTSTAMP:20261111T180154Z
+DTSTAMP:20261112T183421Z
 UID:119bfccbe66a35d0c84a1f776fe3@visitri-calendar
 DESCRIPTION:The Bristol Christmas Festival at Unity Park will take place D
  ecember 5 and 6\, 2026 and will feature live music\, holiday activities\, 
@@ -981,10 +1315,44 @@ URL:https://www.visitrhodeisland.com/event/bristol-christmas-festival/1126
  06/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Holiday Market at Clark Farms
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+DTSTAMP:20261112T183421Z
+UID:6d47bbfe94204e0ed0e6bc907f05@visitri-calendar
+DESCRIPTION:Visit the Clark Farms massive Holiday Market inside the half a
+ cre greenhouse. Think live music\, Santa visits\, food &amp\; drink\, and 
+ so much more! Shop local\, and support small businesses this season… ove
+ r 80 vendors with handmade and artisan goods for sale. Christmas trees for
+  sale (all trees are given names based on their personality)\, wreaths\, g
+ arland\, greens\, custom designs\, decor\, and gifts for the holidays!\n\n
+ Source: https://www.visitrhodeisland.com/event/holiday-market-at-clark-far
+ ms/112622/
+LOCATION:Clark Farms Matunuck\, 2984 Commodore Perry Highway \, Matunuck\,
+  RI 02879 2984 Commodore Perry Highway \, Matunuck\, RI 02879 OFFICIAL RHO
+ DE ISLAND TRAVEL GUIDE Get Guide Get news from Visit Rhode Island in your 
+ inbox. Industry Partner Leisure Travel Sign Up Ratings Powered by Press In
+ dustry Travel Trade Meetings & Conventions Contact Privacy Policy Sitemap 
+ Partner Portal SMS Privacy Policy SMS Terms & Conditions UGC Terms and Con
+ ditions Wedding Planning Press Photos Story Ideas Fun-Sized Rhode Island R
+ hode Island in the News Free Travel Guide Contact Visit Rhode Island Indus
+ try Travel Trade Ideas & Itineraries Downton Abbey Lifestyle Rhode Island 
+ Foodways Hidden Gems Image Library Free Travel Guide Contact Visit Rhode I
+ sland Meetings & Conventions Contact Privacy Policy Sitemap Partner Portal
+  SMS Privacy Policy SMS Terms & Conditions UGC Terms and Conditions Weddin
+ g Planning Weddings - Venues Wedding - Catering Wedding - Cakes Wedding - 
+ Attire Wedding - Florists Wedding - Jewelers Wedding - Transportation © 2
+ 026 Rhode Island Commerce Corporation Special Offers Offers Here Looking t
+ o plan your next visit to Rhode Island\, check out some of the current spe
+ cial offers and enjoy savings\, extra perks and more! Offers Here
+URL:https://www.visitrhodeisland.com/event/holiday-market-at-clark-farms/1
+ 12622/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Rhode Island Lights Festival
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
-DTSTAMP:20261111T180154Z
+DTSTAMP:20261112T183421Z
 UID:0a04df26f11880a9786c182f7140@visitri-calendar
 DESCRIPTION:This holiday season\, Centreville Bank Stadium will be transfo
  rmed into a spectacular winter wonderland as the Rhode Island Lights Festi
@@ -1009,7 +1377,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
-DTSTAMP:20261111T180154Z
+DTSTAMP:20261112T183421Z
 UID:db8b766041237fea9b154b360279@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -1037,7 +1405,7 @@ BEGIN:VEVENT
 SUMMARY:The Intentional Celebration: Holiday Edition
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
-DTSTAMP:20261111T180154Z
+DTSTAMP:20261112T183421Z
 UID:6f484250684bf2271dde2a31e276@visitri-calendar
 DESCRIPTION:The Intentional Celebration: Holiday Edition is a two-day indo
  or holiday market and immersive Christmas experience taking place December
@@ -1068,7 +1436,7 @@ SUMMARY:Bosgraaf Stained Glass Studio’s 11th Annual Holiday Sale & Hot C
  hocolate Happening!
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
-DTSTAMP:20261111T180154Z
+DTSTAMP:20261112T183421Z
 UID:be38fc7a5f892549ae1dbf46140c@visitri-calendar
 DESCRIPTION:All are invited to Bosgraaf Stained Glass Studio’s 11th Annu
  al Holiday Sale\, featuring original glass works from over 60 student arti
@@ -1103,7 +1471,7 @@ BEGIN:VEVENT
 SUMMARY:Bristol Christmas Festival
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
-DTSTAMP:20261111T180154Z
+DTSTAMP:20261112T183421Z
 UID:33da073af4a8494e7f1a85047827@visitri-calendar
 DESCRIPTION:The Bristol Christmas Festival at Unity Park will take place D
  ecember 5 and 6\, 2026 and will feature live music\, holiday activities\, 
@@ -1118,10 +1486,44 @@ URL:https://www.visitrhodeisland.com/event/bristol-christmas-festival/1126
  06/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Holiday Market at Clark Farms
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+DTSTAMP:20261112T183421Z
+UID:0f181ec22244908af2bf3a356ba9@visitri-calendar
+DESCRIPTION:Visit the Clark Farms massive Holiday Market inside the half a
+ cre greenhouse. Think live music\, Santa visits\, food &amp\; drink\, and 
+ so much more! Shop local\, and support small businesses this season… ove
+ r 80 vendors with handmade and artisan goods for sale. Christmas trees for
+  sale (all trees are given names based on their personality)\, wreaths\, g
+ arland\, greens\, custom designs\, decor\, and gifts for the holidays!\n\n
+ Source: https://www.visitrhodeisland.com/event/holiday-market-at-clark-far
+ ms/112622/
+LOCATION:Clark Farms Matunuck\, 2984 Commodore Perry Highway \, Matunuck\,
+  RI 02879 2984 Commodore Perry Highway \, Matunuck\, RI 02879 OFFICIAL RHO
+ DE ISLAND TRAVEL GUIDE Get Guide Get news from Visit Rhode Island in your 
+ inbox. Industry Partner Leisure Travel Sign Up Ratings Powered by Press In
+ dustry Travel Trade Meetings & Conventions Contact Privacy Policy Sitemap 
+ Partner Portal SMS Privacy Policy SMS Terms & Conditions UGC Terms and Con
+ ditions Wedding Planning Press Photos Story Ideas Fun-Sized Rhode Island R
+ hode Island in the News Free Travel Guide Contact Visit Rhode Island Indus
+ try Travel Trade Ideas & Itineraries Downton Abbey Lifestyle Rhode Island 
+ Foodways Hidden Gems Image Library Free Travel Guide Contact Visit Rhode I
+ sland Meetings & Conventions Contact Privacy Policy Sitemap Partner Portal
+  SMS Privacy Policy SMS Terms & Conditions UGC Terms and Conditions Weddin
+ g Planning Weddings - Venues Wedding - Catering Wedding - Cakes Wedding - 
+ Attire Wedding - Florists Wedding - Jewelers Wedding - Transportation © 2
+ 026 Rhode Island Commerce Corporation Special Offers Offers Here Looking t
+ o plan your next visit to Rhode Island\, check out some of the current spe
+ cial offers and enjoy savings\, extra perks and more! Offers Here
+URL:https://www.visitrhodeisland.com/event/holiday-market-at-clark-farms/1
+ 12622/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Rhode Island Lights Festival
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
-DTSTAMP:20261111T180154Z
+DTSTAMP:20261112T183421Z
 UID:3e00c85f7e2a4b6d6053a10b9425@visitri-calendar
 DESCRIPTION:This holiday season\, Centreville Bank Stadium will be transfo
  rmed into a spectacular winter wonderland as the Rhode Island Lights Festi
@@ -1146,7 +1548,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
-DTSTAMP:20261111T180154Z
+DTSTAMP:20261112T183421Z
 UID:4b643200b30e60635e855ddfbcdb@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -1174,7 +1576,7 @@ BEGIN:VEVENT
 SUMMARY:The Intentional Celebration: Holiday Edition
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
-DTSTAMP:20261111T180154Z
+DTSTAMP:20261112T183421Z
 UID:f0031a8c4f9ec38b7e0300063594@visitri-calendar
 DESCRIPTION:The Intentional Celebration: Holiday Edition is a two-day indo
  or holiday market and immersive Christmas experience taking place December
@@ -1204,7 +1606,7 @@ BEGIN:VEVENT
 SUMMARY:Rhode Island Lights Festival
 DTSTART;VALUE=DATE:20261209
 DTEND;VALUE=DATE:20261210
-DTSTAMP:20261111T180154Z
+DTSTAMP:20261112T183421Z
 UID:16cd82a02f4badfd01431e9ef39e@visitri-calendar
 DESCRIPTION:This holiday season\, Centreville Bank Stadium will be transfo
  rmed into a spectacular winter wonderland as the Rhode Island Lights Festi
@@ -1229,7 +1631,7 @@ BEGIN:VEVENT
 SUMMARY:Rhode Island Lights Festival
 DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261211
-DTSTAMP:20261111T180154Z
+DTSTAMP:20261112T183421Z
 UID:37acb6393bef02c7e33a4f9172a7@visitri-calendar
 DESCRIPTION:This holiday season\, Centreville Bank Stadium will be transfo
  rmed into a spectacular winter wonderland as the Rhode Island Lights Festi
@@ -1254,7 +1656,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261211
-DTSTAMP:20261111T180154Z
+DTSTAMP:20261112T183421Z
 UID:f1266d72481edfcb924f687a42f0@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -1282,7 +1684,7 @@ BEGIN:VEVENT
 SUMMARY:Rhode Island Lights Festival
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
-DTSTAMP:20261111T180154Z
+DTSTAMP:20261112T183421Z
 UID:64fcbc94723e108499c2256308ad@visitri-calendar
 DESCRIPTION:This holiday season\, Centreville Bank Stadium will be transfo
  rmed into a spectacular winter wonderland as the Rhode Island Lights Festi
@@ -1307,7 +1709,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
-DTSTAMP:20261111T180154Z
+DTSTAMP:20261112T183421Z
 UID:b2668ced84621f351ee2e743ffd9@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -1335,7 +1737,7 @@ BEGIN:VEVENT
 SUMMARY:Rhode Island Lights Festival
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
-DTSTAMP:20261111T180154Z
+DTSTAMP:20261112T183421Z
 UID:1a105cfeadeefb1a60902dd5d339@visitri-calendar
 DESCRIPTION:This holiday season\, Centreville Bank Stadium will be transfo
  rmed into a spectacular winter wonderland as the Rhode Island Lights Festi
@@ -1360,7 +1762,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
-DTSTAMP:20261111T180154Z
+DTSTAMP:20261112T183421Z
 UID:756ae7e966f3899cb85d7657b4e5@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -1388,7 +1790,7 @@ BEGIN:VEVENT
 SUMMARY:Rhode Island Lights Festival
 DTSTART;VALUE=DATE:20261213
 DTEND;VALUE=DATE:20261214
-DTSTAMP:20261111T180154Z
+DTSTAMP:20261112T183421Z
 UID:5bc7195208a828ee2bcc3d774641@visitri-calendar
 DESCRIPTION:This holiday season\, Centreville Bank Stadium will be transfo
  rmed into a spectacular winter wonderland as the Rhode Island Lights Festi
@@ -1413,7 +1815,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261213
 DTEND;VALUE=DATE:20261214
-DTSTAMP:20261111T180154Z
+DTSTAMP:20261112T183421Z
 UID:6926863c714413a4b343c291725f@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -1441,7 +1843,7 @@ BEGIN:VEVENT
 SUMMARY:Rhode Island Lights Festival
 DTSTART;VALUE=DATE:20261216
 DTEND;VALUE=DATE:20261217
-DTSTAMP:20261111T180154Z
+DTSTAMP:20261112T183421Z
 UID:96d265a999c123070f85ca5b66f2@visitri-calendar
 DESCRIPTION:This holiday season\, Centreville Bank Stadium will be transfo
  rmed into a spectacular winter wonderland as the Rhode Island Lights Festi
@@ -1466,7 +1868,7 @@ BEGIN:VEVENT
 SUMMARY:Rhode Island Lights Festival
 DTSTART;VALUE=DATE:20261217
 DTEND;VALUE=DATE:20261218
-DTSTAMP:20261111T180154Z
+DTSTAMP:20261112T183421Z
 UID:4f6c8b924dd45c83266e1cc4ce3a@visitri-calendar
 DESCRIPTION:This holiday season\, Centreville Bank Stadium will be transfo
  rmed into a spectacular winter wonderland as the Rhode Island Lights Festi
@@ -1491,7 +1893,7 @@ BEGIN:VEVENT
 SUMMARY:Rhode Island Lights Festival
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
-DTSTAMP:20261111T180154Z
+DTSTAMP:20261112T183421Z
 UID:ba26b9bd0103e1c8d511b82aaa8b@visitri-calendar
 DESCRIPTION:This holiday season\, Centreville Bank Stadium will be transfo
  rmed into a spectacular winter wonderland as the Rhode Island Lights Festi
@@ -1516,7 +1918,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
-DTSTAMP:20261111T180154Z
+DTSTAMP:20261112T183421Z
 UID:10f1f0a03ceb6ce5b9d0f1112413@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -1544,7 +1946,7 @@ BEGIN:VEVENT
 SUMMARY:Rhode Island Lights Festival
 DTSTART;VALUE=DATE:20261219
 DTEND;VALUE=DATE:20261220
-DTSTAMP:20261111T180154Z
+DTSTAMP:20261112T183421Z
 UID:eac979c6c6fc0a063ccd84994e4b@visitri-calendar
 DESCRIPTION:This holiday season\, Centreville Bank Stadium will be transfo
  rmed into a spectacular winter wonderland as the Rhode Island Lights Festi
@@ -1569,7 +1971,7 @@ BEGIN:VEVENT
 SUMMARY:Rhode Island Lights Festival
 DTSTART;VALUE=DATE:20261220
 DTEND;VALUE=DATE:20261221
-DTSTAMP:20261111T180154Z
+DTSTAMP:20261112T183421Z
 UID:a4f16cdba637b6426dc3ca7bfe37@visitri-calendar
 DESCRIPTION:This holiday season\, Centreville Bank Stadium will be transfo
  rmed into a spectacular winter wonderland as the Rhode Island Lights Festi
@@ -1594,7 +1996,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261220
 DTEND;VALUE=DATE:20261221
-DTSTAMP:20261111T180154Z
+DTSTAMP:20261112T183421Z
 UID:4b4bda68b74fdf0bae1d4834ec2b@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -1622,7 +2024,7 @@ BEGIN:VEVENT
 SUMMARY:Rhode Island Lights Festival
 DTSTART;VALUE=DATE:20261221
 DTEND;VALUE=DATE:20261222
-DTSTAMP:20261111T180154Z
+DTSTAMP:20261112T183421Z
 UID:aea8b74d95f98a36de889e6f697d@visitri-calendar
 DESCRIPTION:This holiday season\, Centreville Bank Stadium will be transfo
  rmed into a spectacular winter wonderland as the Rhode Island Lights Festi
@@ -1647,7 +2049,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261221
 DTEND;VALUE=DATE:20261222
-DTSTAMP:20261111T180154Z
+DTSTAMP:20261112T183421Z
 UID:5cc6a0eb17a87a57c77fb4a1ee98@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -1672,10 +2074,30 @@ URL:https://www.visitrhodeisland.com/event/sparkling-lights-at-the-breaker
  s/112249/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Holiday Pops with the Stadium Theatre Orchestra
+DTSTART;VALUE=DATE:20261222
+DTEND;VALUE=DATE:20261223
+DTSTAMP:20261112T183421Z
+UID:befad2e9d6170256faacb3a92b0a@visitri-calendar
+DESCRIPTION:Get into the Holiday spirit with the Stadium Theatre’s Holid
+ ay Pops! The Stadium’s 20 piece orchestra\, paired with breathtaking voc
+ als\, will perform your favorite holiday sing-alongs. This is sure to be a
+  Holiday Pops concert that delights audience members of all ages. Come out
+  to the Holiday Pops and we’re willing to bet you’ll make it a yearly 
+ tradition! Tickets: $31\, $36\, $41 The Stadium Theatre is not responsible
+  for fulfillment or refund for any purchases made from a third party websi
+ te.\n\nSource: https://www.visitrhodeisland.com/event/holiday-pops-with-th
+ e-stadium-theatre-orchestra/112412/
+LOCATION:Stadium Theatre\, 28 Monument Square\, Woonsocket\, 02895 Time: 7
+ :30 PM to 9:30 PM
+URL:https://www.visitrhodeisland.com/event/holiday-pops-with-the-stadium-t
+ heatre-orchestra/112412/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Rhode Island Lights Festival
 DTSTART;VALUE=DATE:20261222
 DTEND;VALUE=DATE:20261223
-DTSTAMP:20261111T180154Z
+DTSTAMP:20261112T183421Z
 UID:850d2a1c17a55623147989b58523@visitri-calendar
 DESCRIPTION:This holiday season\, Centreville Bank Stadium will be transfo
  rmed into a spectacular winter wonderland as the Rhode Island Lights Festi
@@ -1700,7 +2122,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261222
 DTEND;VALUE=DATE:20261223
-DTSTAMP:20261111T180154Z
+DTSTAMP:20261112T183421Z
 UID:8b50234eb8215ed0c936d7b3f2fd@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -1725,10 +2147,30 @@ URL:https://www.visitrhodeisland.com/event/sparkling-lights-at-the-breaker
  s/112249/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Holiday Pops with the Stadium Theatre Orchestra
+DTSTART;VALUE=DATE:20261223
+DTEND;VALUE=DATE:20261224
+DTSTAMP:20261112T183421Z
+UID:7e3a3f2cfb6189de48b6c64b83bc@visitri-calendar
+DESCRIPTION:Get into the Holiday spirit with the Stadium Theatre’s Holid
+ ay Pops! The Stadium’s 20 piece orchestra\, paired with breathtaking voc
+ als\, will perform your favorite holiday sing-alongs. This is sure to be a
+  Holiday Pops concert that delights audience members of all ages. Come out
+  to the Holiday Pops and we’re willing to bet you’ll make it a yearly 
+ tradition! Tickets: $31\, $36\, $41 The Stadium Theatre is not responsible
+  for fulfillment or refund for any purchases made from a third party websi
+ te.\n\nSource: https://www.visitrhodeisland.com/event/holiday-pops-with-th
+ e-stadium-theatre-orchestra/112412/
+LOCATION:Stadium Theatre\, 28 Monument Square\, Woonsocket\, 02895 Time: 7
+ :30 PM to 9:30 PM
+URL:https://www.visitrhodeisland.com/event/holiday-pops-with-the-stadium-t
+ heatre-orchestra/112412/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Rhode Island Lights Festival
 DTSTART;VALUE=DATE:20261223
 DTEND;VALUE=DATE:20261224
-DTSTAMP:20261111T180154Z
+DTSTAMP:20261112T183421Z
 UID:80279afc8aeb86b04b5d61a17fdc@visitri-calendar
 DESCRIPTION:This holiday season\, Centreville Bank Stadium will be transfo
  rmed into a spectacular winter wonderland as the Rhode Island Lights Festi
@@ -1753,7 +2195,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261223
 DTEND;VALUE=DATE:20261224
-DTSTAMP:20261111T180154Z
+DTSTAMP:20261112T183421Z
 UID:64494d8f54810a3b19a989acc268@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -1781,7 +2223,7 @@ BEGIN:VEVENT
 SUMMARY:Rhode Island Lights Festival
 DTSTART;VALUE=DATE:20261226
 DTEND;VALUE=DATE:20261227
-DTSTAMP:20261111T180154Z
+DTSTAMP:20261112T183421Z
 UID:e577321b35406eb3d33b26dafa4f@visitri-calendar
 DESCRIPTION:This holiday season\, Centreville Bank Stadium will be transfo
  rmed into a spectacular winter wonderland as the Rhode Island Lights Festi
@@ -1806,7 +2248,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261226
 DTEND;VALUE=DATE:20261227
-DTSTAMP:20261111T180154Z
+DTSTAMP:20261112T183421Z
 UID:d9203cb0c583483c1e644796bce0@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -1834,7 +2276,7 @@ BEGIN:VEVENT
 SUMMARY:Rhode Island Lights Festival
 DTSTART;VALUE=DATE:20261227
 DTEND;VALUE=DATE:20261228
-DTSTAMP:20261111T180154Z
+DTSTAMP:20261112T183421Z
 UID:5d265915a4c912fce87079d1ade1@visitri-calendar
 DESCRIPTION:This holiday season\, Centreville Bank Stadium will be transfo
  rmed into a spectacular winter wonderland as the Rhode Island Lights Festi
@@ -1859,7 +2301,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261227
 DTEND;VALUE=DATE:20261228
-DTSTAMP:20261111T180154Z
+DTSTAMP:20261112T183421Z
 UID:ecdbb4492e88d8b279d5f0235b57@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -1887,7 +2329,7 @@ BEGIN:VEVENT
 SUMMARY:Rhode Island Lights Festival
 DTSTART;VALUE=DATE:20261228
 DTEND;VALUE=DATE:20261229
-DTSTAMP:20261111T180154Z
+DTSTAMP:20261112T183421Z
 UID:dd38d26392219c393d21b0877ee3@visitri-calendar
 DESCRIPTION:This holiday season\, Centreville Bank Stadium will be transfo
  rmed into a spectacular winter wonderland as the Rhode Island Lights Festi
@@ -1912,7 +2354,7 @@ BEGIN:VEVENT
 SUMMARY:Rhode Island Lights Festival
 DTSTART;VALUE=DATE:20261229
 DTEND;VALUE=DATE:20261230
-DTSTAMP:20261111T180154Z
+DTSTAMP:20261112T183421Z
 UID:ab58713cfcc5bc2a0eec1d869e90@visitri-calendar
 DESCRIPTION:This holiday season\, Centreville Bank Stadium will be transfo
  rmed into a spectacular winter wonderland as the Rhode Island Lights Festi
@@ -1937,7 +2379,7 @@ BEGIN:VEVENT
 SUMMARY:Rhode Island Lights Festival
 DTSTART;VALUE=DATE:20261230
 DTEND;VALUE=DATE:20261231
-DTSTAMP:20261111T180154Z
+DTSTAMP:20261112T183421Z
 UID:c1bc28e07573a8201d91ec765b38@visitri-calendar
 DESCRIPTION:This holiday season\, Centreville Bank Stadium will be transfo
  rmed into a spectacular winter wonderland as the Rhode Island Lights Festi
@@ -1959,10 +2401,51 @@ URL:https://www.visitrhodeisland.com/event/rhode-island-lights-festival/11
  2530/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:90's vs Y2K New Years Eve
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+DTSTAMP:20261112T183421Z
+UID:cd9739dc5ca20722a765f80113db@visitri-calendar
+DESCRIPTION:Get ready to step into a time warp this New Year's Eve at Ball
+ y's 90s vs. Y2K Party! As you walk through the doors\, you're instantly tr
+ ansported back to the iconic decade\, where glitter and neon rule the nigh
+ t. A room shimmers with sequins and metallic streamers\, setting the scene
+  for a night that's equal parts nostalgia and pure 90s magic. Everywhere y
+ ou look\, people are decked out in throwback fashion-baggy low-rise jeans
+ \, crop tops\, chokers\, oversized blazers\, and bucket hats-transforming 
+ the venue into a vibrant flashback of pop culture's greatest era. Feel the
+  familiar beat hit as a live DJ spins a playlist packed with the unforgett
+ able anthems of the 90s. The air comes alive with Britney's iconic hooks\,
+  Mariah's soaring notes\, and the harmonies of Boyz II Men\, each song dra
+ wing you deeper into the moment. Enjoy a musical performance by the Felix 
+ Brown Band. Be amazed by a show by Mentalist David Hall and magician Peter
+  Boie and laugh amongst your friends and family as you are in awe of their
+  mentalist/ magic show. Get ready for the largest 90's dance party in Rhod
+ e Island\, filled with all of these hits! As the midnight countdown approa
+ ches\, the room dims\, anticipation buzzing through the crowd. Giant scree
+ ns light up with retro graphics\, flashing 90s-inspired designs\, and ever
+ yone joins in\, counting down in unison\, caught between past and future. 
+ When the clock strikes twelve\, the lights dazzle\, and everyone raises th
+ eir glasses to both the magic of the 90s and the promise of a brand new ye
+ ar. This New Year's Eve\, you're not just celebrating-you're time-travelin
+ g back to an unforgettable era filled with nostalgia and excitement. Don't
+  just watch the ball drop\; come relive the ultimate 90s experience and st
+ art the new year with a blast from the past!Get tickets now before prices 
+ rise! URL: Tickets: https://go.evvnt.com/3619726-0?pid=10404 Date and Time
+ : Thursday\, 31 December 2026 at 19:00 - Friday\, 01 January 2027 at 02:00
+  Venue details: Bally's Lincoln\, 100 Twin River Rd\, Lincoln\, Rhode Isla
+ nd\, 02865\, United States Category: Community | Local / Community Price: 
+ General Admission: USD 52.00\n\nSource: https://www.visitrhodeisland.com/e
+ vent/90s-vs-y2k-new-years-eve/110031/
+LOCATION:Bally's Lincoln\, 100 Twin River Rd\, Lincoln\, 02865
+URL:https://www.visitrhodeisland.com/event/90s-vs-y2k-new-years-eve/110031
+ /
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:A Christmas Carol
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
-DTSTAMP:20261111T180154Z
+DTSTAMP:20261112T183421Z
 UID:7974b08503c8ecfb69cc65bc6b84@visitri-calendar
 DESCRIPTION:By Charles Dickens Original Music by Richard Cumming Directed 
  by Taavon Gamble November 5 &#8211\; December 31\, 2026 Dowling Theater Ce
@@ -1984,7 +2467,7 @@ BEGIN:VEVENT
 SUMMARY:Beyond the Brewhouse Tour
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
-DTSTAMP:20261111T180154Z
+DTSTAMP:20261112T183421Z
 UID:c7b48636db9ede5f5acbbb263d31@visitri-calendar
 DESCRIPTION:Beyond the Brewhouse Where: Newport Craft Brewing and Distilli
  ng\, 293 JT Connell Road\, Newport 45 minutes: $20 per person Did you know
@@ -2003,7 +2486,7 @@ BEGIN:VEVENT
 SUMMARY:Burritos & Bowls—Lunch Specials at Yellow Door Taqueria!
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
-DTSTAMP:20261111T180154Z
+DTSTAMP:20261112T183421Z
 UID:a47385cf36c194bcd701d4733276@visitri-calendar
 DESCRIPTION:Our new Burrito &amp\; Bowl lunch specials have arrived at Yel
  low Door Taqueria in downtown Providence! Perfect for dining in or taking 
@@ -2018,10 +2501,40 @@ URL:https://www.visitrhodeisland.com/event/burritos-%26-bowls%e2%80%94lunc
  h-specials-at-yellow-door-taqueria!/111544/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Early Bird Museum Highlight Tour at Newport Car Museum
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+DTSTAMP:20261112T183421Z
+UID:2f06cece69080ebb1042b1f38a6b@visitri-calendar
+DESCRIPTION:Early Bird Highlight Tour For 90 minutes (8:30 &#8211\; 10:00 
+ AM) prior to Museum opening. Call to book: +1 (401) 848-2277 Price $75.00 
+ per person (minimum 2\, maximum 6 ppl) Offered Wednesday\, Thursday\, and 
+ Saturday only April 1 - December 31\, 2026. General admission is included 
+ with price. 72-hour advance notice is suggested. Only one group will be ho
+ sted on any given morning. This is your chance to have the Newport Car Mus
+ eum all to yourself with a private guide to share with you the not-to-miss
+  highlights in seven expansive galleries. With over 100 iconic\, rare and 
+ exotic cars on display at one time\, this private collection is bursting w
+ ith history\, provenance and color\, not to mention the breathtaking sculp
+ tural beauty of automotive designs starting with the 1950s and finishing w
+ ith new models from the 21 st Century. After 90 minutes with your private
+ \, continue to explore at your own pace so that you can further examine yo
+ ur favorites from the Ford/Shelby\, Corvette\, World Car\, Porsche\, Fin C
+ ar\, American Muscle and Mopar exhibits while enjoying immersive videos\, 
+ artwork and the Museum’s eclectic collection of Mid-Century Modern Furni
+ ture. Operating hours can also vary based on weather conditions. Call for 
+ more details.\n\nSource: https://www.visitrhodeisland.com/event/early-bird
+ -museum-highlight-tour-at-newport-car-museum/109638/
+LOCATION:Newport Car Museum\, Enter at Light 1947 West Main Road\, Portsmo
+ uth\, RI 02871
+URL:https://www.visitrhodeisland.com/event/early-bird-museum-highlight-tou
+ r-at-newport-car-museum/109638/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Rhode Island Lights Festival
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
-DTSTAMP:20261111T180154Z
+DTSTAMP:20261112T183421Z
 UID:ec30f72a908269517452d537b506@visitri-calendar
 DESCRIPTION:This holiday season\, Centreville Bank Stadium will be transfo
  rmed into a spectacular winter wonderland as the Rhode Island Lights Festi
@@ -2046,7 +2559,7 @@ BEGIN:VEVENT
 SUMMARY:Rhode Island Lights Festival
 DTSTART;VALUE=DATE:20270101
 DTEND;VALUE=DATE:20270102
-DTSTAMP:20261111T180154Z
+DTSTAMP:20261112T183421Z
 UID:188895ba7b1da1615da9700cf13c@visitri-calendar
 DESCRIPTION:This holiday season\, Centreville Bank Stadium will be transfo
  rmed into a spectacular winter wonderland as the Rhode Island Lights Festi
@@ -2071,7 +2584,7 @@ BEGIN:VEVENT
 SUMMARY:Rhode Island Lights Festival
 DTSTART;VALUE=DATE:20270102
 DTEND;VALUE=DATE:20270103
-DTSTAMP:20261111T180154Z
+DTSTAMP:20261112T183421Z
 UID:4f7b42e72a975c8bb36b0e58e233@visitri-calendar
 DESCRIPTION:This holiday season\, Centreville Bank Stadium will be transfo
  rmed into a spectacular winter wonderland as the Rhode Island Lights Festi
@@ -2096,7 +2609,7 @@ BEGIN:VEVENT
 SUMMARY:Rhode Island Lights Festival
 DTSTART;VALUE=DATE:20270103
 DTEND;VALUE=DATE:20270104
-DTSTAMP:20261111T180154Z
+DTSTAMP:20261112T183421Z
 UID:0b4416631f88abc452bc98265bd2@visitri-calendar
 DESCRIPTION:This holiday season\, Centreville Bank Stadium will be transfo
  rmed into a spectacular winter wonderland as the Rhode Island Lights Festi
