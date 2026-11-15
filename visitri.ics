@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:$15 Moonshine Flights & Moonshine Tasting
 DTSTART;VALUE=DATE:20250615
 DTEND;VALUE=DATE:20250616
-DTSTAMP:20261114T164258Z
+DTSTAMP:20261115T172324Z
 UID:b6432d870f2c0958f26453a40d59@visitri-calendar
 DESCRIPTION:Try a Moonshine Flight tasting at Moonshine Alley! Moonshine F
  lights are available daily for just $15! We have over 13 flavors to choose
@@ -23,7 +23,7 @@ BEGIN:VEVENT
 SUMMARY:Crime and Cuisine on Federal Hill
 DTSTART;VALUE=DATE:20251231
 DTEND;VALUE=DATE:20260101
-DTSTAMP:20261114T164258Z
+DTSTAMP:20261115T172324Z
 UID:242f27ca2e431104e607ab5c8a2a@visitri-calendar
 DESCRIPTION:A food tour with a felonious twist! The Federal Hill neighborh
  ood of Providence is one of its hottest destinations\, home to some of the
@@ -46,7 +46,7 @@ BEGIN:VEVENT
 SUMMARY:Crime and Cuisine on Federal Hill
 DTSTART;VALUE=DATE:20260301
 DTEND;VALUE=DATE:20260302
-DTSTAMP:20261114T164258Z
+DTSTAMP:20261115T172324Z
 UID:b2b5ec0867e1b807ccd6d0933ce3@visitri-calendar
 DESCRIPTION:A food tour with a felonious twist! The Federal Hill neighborh
  ood of Providence is one of its hottest destinations\, home to some of the
@@ -69,7 +69,7 @@ BEGIN:VEVENT
 SUMMARY:Beyond the Brewhouse Tour
 DTSTART;VALUE=DATE:20260515
 DTEND;VALUE=DATE:20260516
-DTSTAMP:20261114T164258Z
+DTSTAMP:20261115T172324Z
 UID:acc9d8e1d1bdab34c6766b602473@visitri-calendar
 DESCRIPTION:Beyond the Brewhouse Where: Newport Craft Brewing and Distilli
  ng\, 293 JT Connell Road\, Newport 45 minutes: $20 per person Did you know
@@ -85,10 +85,47 @@ URL:https://www.visitrhodeisland.com/event/beyond-the-brewhouse-tour/11015
  3/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Fused Mezuzah
+DTSTART;VALUE=DATE:20260621
+DTEND;VALUE=DATE:20260622
+DTSTAMP:20261115T172324Z
+UID:400ed9cb799c415138443406aa21@visitri-calendar
+DESCRIPTION:Create a meaningful and beautiful piece of glass art in this h
+ ands-on fused glass mezuzah class. Participants will design and build a de
+ corative glass mezuzah using colorful sheet glass\, frit\, and stringers. 
+ You’ll explore composition\, color layering\, and basic glass-fusing tec
+ hniques while creating a one-of-a-kind piece that reflects your personal s
+ tyle. Once completed\, your mezuzah will be fired in our kiln. No prior gl
+ ass experience is necessary—this class is beginner-friendly and guided s
+ tep by step by one of our instructors. Important Note This class is for ed
+ ucational/craft purposes\, the resulting glass is a decorative holder\, no
+ t a ritually certified vessel\, and participants should consult a Rabbi fo
+ r religious validity/kosher status of the scroll (klaf) and final product
+ \, as the shop's process isn't halachically supervised. ⏳ Finished piece
+ s will be ready for pickup approximately 2 weeks after class due to kiln f
+ iring schedules. Ages &amp\; Safety Adults\, and children ages 9+. Childre
+ n ages 9&#8211\;12 must be supervised one-on-one by an adult or teen. No e
+ xceptions as this is a safety issue. Whether you’re creating this piece 
+ for yourself\, as a gift\, or as a meaningful artistic exploration\, this 
+ class offers a thoughtful blend of tradition\, creativity\, and molten mag
+ ic. What to Expect An introduction to fused glass safety\, materials\, and
+  basic design techniques Design and assemble a decorative fused glass mezu
+ zah front using sheet glass\, frit\, and stringers Your glass piece will b
+ e kiln-fired after class and ready for pickup in approximately 2 weeks Par
+ ticipants will be sent home with: A non-kosher scroll (klaf) A wooden mezu
+ zah case Items are not assembled in class The finished glass mezuzah can b
+ e adhered to the wooden case at home using E600 glue\, which is readily av
+ ailable at most hardware stores\n\nSource: https://www.visitrhodeisland.co
+ m/event/fused-mezuzah/110083/
+LOCATION:Blackstone River Glass Center\, 30 Meeting Street\, Cumberland\, 
+ RI 02864
+URL:https://www.visitrhodeisland.com/event/fused-mezuzah/110083/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:$15 Moonshine Flights & Moonshine Tasting
 DTSTART;VALUE=DATE:20260721
 DTEND;VALUE=DATE:20260722
-DTSTAMP:20261114T164258Z
+DTSTAMP:20261115T172324Z
 UID:6ac059c408c431eceb1c3c855c19@visitri-calendar
 DESCRIPTION:Try a Moonshine Flight tasting at Moonshine Alley! Moonshine F
  lights are available daily for just $15! We have over 13 flavors to choose
@@ -104,7 +141,7 @@ BEGIN:VEVENT
 SUMMARY:A Christmas Carol
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
-DTSTAMP:20261114T164258Z
+DTSTAMP:20261115T172324Z
 UID:a214778016481db972ef3f095096@visitri-calendar
 DESCRIPTION:By Charles Dickens Original Music by Richard Cumming Directed 
  by Taavon Gamble November 5 &#8211\; December 31\, 2026 Dowling Theater Ce
@@ -126,7 +163,7 @@ BEGIN:VEVENT
 SUMMARY:Newport Restaurant Week 2026
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
-DTSTAMP:20261114T164258Z
+DTSTAMP:20261115T172324Z
 UID:26ef1c44e7914743227eba719da9@visitri-calendar
 DESCRIPTION:The flavors of nine coastal communities\, all rolled up into o
  ne savory week. Newport Restaurant Week now takes place annually each fall
@@ -160,10 +197,52 @@ URL:https://www.visitrhodeisland.com/event/newport-restaurant-week-2026/11
  2499/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Fine Arts and Artisans Holiday Marketplace
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+DTSTAMP:20261115T172324Z
+UID:7f90c5f759ca34ea18f85f257f0f@visitri-calendar
+DESCRIPTION:Annual Fine Arts and Artisans Holiday Marketplace November 7&#
+ 8211\;December 23\, 2026 | Middletown\, Rhode Island Opening Reception Sat
+ urday November 7th\, 5:00 - 7:00 PM Holiday Party Saturday December 5th\, 
+ 5:00 - 7:00 PM Gallery Nights Thursday November 12th and December 10th\, 5
+ :00 - 7:00 PM DeBlois Gallery is delighted to present its annual Fine Arts
+  and Artisans Marketplace from Nov. 7 &#8211\; Dec. 23\, 2026\, bringing t
+ ogether original artwork and handcrafted gifts for the holiday season. Spa
+ nning November and December\, the marketplace will offer visitors a two-mo
+ nth period to shop for distinctive gifts while supporting local artists an
+ d artisans. The diverse selection includes ornaments\, jewelry\, wearable 
+ art\, prints\, paintings\, pottery and holiday cards. Fine art and crafts 
+ share the gallery space\, offering an inviting mix of pieces to display\, 
+ wear\, use and give. For shoppers seeking gifts with a personal connection
+ \, the marketplace offers choices ranging from jewelry to suit your indivi
+ dual style\, to pottery and original artwork that add an artistic touch to
+  your home. There are also hand-crafted holiday ornaments and cards ideal 
+ for observing seasonal traditions. DeBlois gift certificates will also be 
+ available\, the perfect present for recipients to choose a work that speak
+ s to them. As one of Rhode Island’s few cooperative galleries\, DeBlois 
+ offers a distinctive setting shaped by the artists who love the space\, br
+ inging a variety of creative perspectives into one shared space where visi
+ tors can discover different styles and media in a welcoming atmosphere. Th
+ e holiday marketplace reflects that spirit\, celebrating individual crafts
+ manship and the collective creativity of the gallery community. Participat
+ ing artists are available for interviews upon request. Deblois Gallery is 
+ located at 134 Aquidneck Avenue in Middletown and is open Wednesday throug
+ h Sunday\, from 1:00 - 5:00 PM. All are welcome\, and ample free parking i
+ s available. Visit www.debloisgallery.com or follow the gallery on Instagr
+ am and Facebook for updates on participating artists and holiday events. M
+ edia contact: Michael Day | dr.mday@gmail.com Gallery: (401) 847-9977 | ww
+ w.debloisgallery.com Instagram / Facebook\n\nSource: https://www.visitrhod
+ eisland.com/event/fine-arts-and-artisans-holiday-marketplace/112555/
+LOCATION:DeBlois Gallery\, 134 Aquidneck Avenue\, Middletown\, RI 02842
+URL:https://www.visitrhodeisland.com/event/fine-arts-and-artisans-holiday-
+ marketplace/112555/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Blowing Bubbles ~ Make Your Own Ornament - November
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
-DTSTAMP:20261114T164258Z
+DTSTAMP:20261115T172324Z
 UID:6d1b0f7212ae57f55b2f721771c4@visitri-calendar
 DESCRIPTION:Join us for our Blowing Bubbles class where each student learn
  s how to manipulate molten glass on the end of a 4-foot pipe. In this Blow
@@ -190,60 +269,10 @@ URL:https://www.visitrhodeisland.com/event/blowing-bubbles-make-your-own-o
  rnament-november/112610/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Choose Your Own Fusing Project – Create Art in Our Fused Glass S
- tudio
-DTSTART;VALUE=DATE:20261113
-DTEND;VALUE=DATE:20261114
-DTSTAMP:20261114T164258Z
-UID:39dcc654bd9bc6c3460e09f29706@visitri-calendar
-DESCRIPTION:Choose from 18 different fused glass projects. Want to switch 
- it up? No problem — you can change projects in class as long as the new 
- one is equal or lower in value. You can also add projects during class if 
- you are inspired to keep going 🌟 Bring a friend… or make one while me
- lting glass. 😉 Pick-Your-Own Project: A Fused Glass Sampler Experience 
- Limited-Time Offering &#8211\; Try It Before It Melts Away! Unleash your c
- reativity with our Choose Your Own Fusing Project class! This flexible\, b
- eginner-friendly session is perfect for those who want to experiment with 
- fused glass without a long commitment. Whether you're new to glass art or 
- returning for more\, Choose Your Own Fusing Project lets you work at your 
- own pace and comfort level. In Choose Your Own Fusing Project\, you decide
-  what to make—from small coasters and sun catchers to jewelry or abstrac
- t designs. The class starts at a lower price point than our standard offer
- ings\, making Choose Your Own Fusing Project a budget-friendly way to try 
- something new. All materials and guidance are included\, so just bring you
- r ideas and enthusiasm. With Choose Your Own Fusing Project\, the process 
- is just as rewarding as the final piece. Reserve your spot in Choose Your 
- Own Fusing Project and start creating glass art that’s uniquely yours. C
- lass can accommodate 12 participants. Here’s how it works: Choose your p
- roject in advance from a variety of fun mini designs (think suncatchers\, 
- ornaments\, magnets\, and more). Kick things off with a group intro led by
-  one of our awesome instructors who will walk you through the basics of gl
- ass fusing. Break out and get creating—you’ll work independently on th
- e project you chose\, with staff on hand to offer support as needed. Finis
- hed early? Feeling inspired? You’re welcome to add additional projects o
- n the spot (pricing varies by project). This is a great opportunity to try
-  something new\, explore fused glass on your own terms\, and create a one-
- of-a-kind piece with plenty of guidance and good vibes. Adults\, and child
- ren ages 9+. Children ages 9-12 must be supervised one-on-one by an adult 
- or teen. No exceptions as this is a safety issue. All flat projects are re
- ady 7 days after your class All Slumped projects are ready 14 days after y
- our class. If for any reason your project is not ready in this time frame
- \, we will call you to let you know. This is a Weekly Recurring Event Runs
-  from Nov 13\, 2026 to Nov 28\, 2026 and happens every: Fridays: 7:00pm - 
- 9:00pm Timezone: Eastern Time (US &amp\; Canada) Saturdays: 12:30pm - 2:30
- pm Timezone: Eastern Time (US &amp\; Canada)\n\nSource: https://www.visitr
- hodeisland.com/event/choose-your-own-fusing-project-%26%238211%3b-create-a
- rt-in-our-fused-glass-studio/112615/
-LOCATION:Blackstone River Glass Center\, 30 Meeting Street\, Cumberland\, 
- RI 02864
-URL:https://www.visitrhodeisland.com/event/choose-your-own-fusing-project-
- %26%238211%3b-create-art-in-our-fused-glass-studio/112615/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:November Live Music
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
-DTSTAMP:20261114T164258Z
+DTSTAMP:20261115T172324Z
 UID:221ba31de265773e455f7274efbf@visitri-calendar
 DESCRIPTION:November is packed with live music every Friday and Saturday n
  ight! Local musicians\, a welcoming atmosphere\, and our kitchen is open u
@@ -257,11 +286,28 @@ LOCATION:Phantom Farms Brewing\, 30 Martin Street\, Cumberland\, RI 02864
 URL:https://www.visitrhodeisland.com/event/november-live-music/112623/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:90's vs Y2K New Years Eve
+SUMMARY:November Live Music
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
-DTSTAMP:20261114T164258Z
-UID:89c906ed70a84bd9d237723697e1@visitri-calendar
+DTSTAMP:20261115T172324Z
+UID:5c3c0895ff2d2c880e3ce3de792d@visitri-calendar
+DESCRIPTION:November is packed with live music every Friday and Saturday n
+ ight! Local musicians\, a welcoming atmosphere\, and our kitchen is open u
+ ntil 9PM. Music runs from 6-9PM. Always free\, never a cover. 21+ after 8 
+ PM. November 13 - Brandon Catarina November 14 - Texas Street Revival Nove
+ mber 20 - Big John's Boys Duo November 21 - John and Tyler November 25 - B
+ randon Catarina November 27 - Benny Midnight November 28 - Justin Martin\n
+ \nSource: https://www.visitrhodeisland.com/event/november-live-music/11262
+ 3/
+LOCATION:Phantom Farms Brewing\, 30 Martin Street\, Cumberland\, RI 02864
+URL:https://www.visitrhodeisland.com/event/november-live-music/112623/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:90's vs Y2K New Years Eve
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+DTSTAMP:20261115T172324Z
+UID:b8e3404f686a811d34eba0a29042@visitri-calendar
 DESCRIPTION:Get ready to step into a time warp this New Year's Eve at Ball
  y's 90s vs. Y2K Party! As you walk through the doors\, you're instantly tr
  ansported back to the iconic decade\, where glitter and neon rule the nigh
@@ -298,261 +344,41 @@ URL:https://www.visitrhodeisland.com/event/90s-vs-y2k-new-years-eve/110031
  /
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Blowing Bubbles ~ Make Your Own Ornament - November
-DTSTART;VALUE=DATE:20261114
-DTEND;VALUE=DATE:20261115
-DTSTAMP:20261114T164258Z
-UID:2ffd3d76a8d6ffc6a9ab5cd79813@visitri-calendar
-DESCRIPTION:Join us for our Blowing Bubbles class where each student learn
- s how to manipulate molten glass on the end of a 4-foot pipe. In this Blow
- ing Bubbles session\, instructors demonstrate shaping techniques using woo
- den and metal tools. You will decorate your Blowing Bubbles ornaments with
-  different color applications to create unique pieces. At the start of the
-  Blowing Bubbles class\, there will be a demonstration to guide you. Our i
- nstructors will help you experience the magic of hot glass\, allowing you 
- to pick and apply colors\, twist and turn them\, then blow or shape them i
- nto a beautiful art glass piece. This Blowing Bubbles class accommodates u
- p to 8 people\, with each student receiving a one-on-one turn to create th
- eir own glass item to keep. While waiting for your Blowing Bubbles turn\, 
- you are encouraged to watch\, learn\, and support others. This class is op
- en to ages 12 and up. Finished products can be picked up after 2 days once
-  they have finished annealing in our kilns. If you would like your items s
- hipped\, there is a $20 fee payable at pickup. This event runs from Nov 13
- \, 2026 to Nov 29\, 2026 and happens every: Fridays: 6:00pm - 7:30pm Satur
- days: 12:30pm - 2:00pm Saturdays: 4:30pm - 6:00pm Sundays: 12:45pm - 2:15p
- m Sundays: 4:30pm - 6:00pm\n\nSource: https://www.visitrhodeisland.com/eve
- nt/blowing-bubbles-make-your-own-ornament-november/112610/
-LOCATION:Blackstone River Glass Center\, 30 Meeting Street\, Cumberland\, 
- 20864
-URL:https://www.visitrhodeisland.com/event/blowing-bubbles-make-your-own-o
- rnament-november/112610/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Blue Moon Rising - Painting Class
-DTSTART;VALUE=DATE:20261114
-DTEND;VALUE=DATE:20261115
-DTSTAMP:20261114T164258Z
-UID:5f5073983a4bae1864fdee30143c@visitri-calendar
-DESCRIPTION:🖌️ IN-STUDIO SESSION DETAILS Reserve your spot and enjoy 
- a complimentary beverage—choose from soda\, beer\, or wine (21+ with val
- id ID). Additional drinks will be available for purchase. Immerse yourself
-  in a fun and creative atmosphere while painting your own unique masterpie
- ce! Recommended for ages 14 and up. ⏰ ARRIVAL TIME Our studio opens 30 m
- inutes prior to class time. We recommend arriving 15&#8211\;30 minutes ear
- ly to find parking\, grab a drink\, and get settled. Please note: If you a
- rrive late\, the artist may not be able to fill you in on the steps you mi
- ssed\, as they will be focused on guiding the rest of the class. If you ar
- rive more than 20 minutes late\, we kindly ask that you do not join the se
- ssion. Late arrivals can be disruptive and may not have enough time to com
- plete the painting. Unfortunately\, we cannot offer refunds or reschedules
-  for late arrivals. 🚗 PARKING INFO Our studio is located at 150 Main St
- reet (rear entrance)\, Pawtucket\, Rhode Island\, and we have two FREE par
- king lots: 🚗 One directly attached to our entrance 🚗 A second lot ju
- st one building down on the same side of the street — clearly labeled 
- 🪑 WANT TO SIT WITH FRIENDS? If you purchased 2 or more tickets in one t
- ransaction\, we’ll automatically seat your group together. If you booked
-  separately but want to sit with someone\, please include their first and 
- last names in the “Additional Information / Order Notes” field during 
- checkout. 🔄 RESCHEDULING &amp\; CANCELLATION POLICY All reservations ar
- e non-refundable. However\, if you need to reschedule\, you may request a 
- reschedule voucher at least 48 hours before your session. You can do this 
- easily on our website — just [click here]. No-shows cannot be reschedule
- d. 🚨 CLASS CANCELLATION Classes may be canceled due to low attendance. 
- In this case\, we’ll notify you and issue a voucher for a future session
- . We appreciate your understanding and look forward to welcoming you to a 
- future class! ❄️ INCLEMENT WEATHER POLICY Because New England weather 
- can be unpredictable\, we typically wait until a few hours before class to
-  make final decisions. If we cancel due to snow or other severe weather\, 
- we’ll email you a voucher for a future session. Have more questions? Che
- ck out our [Frequently Asked Questions] page — just [click here].\n\nSou
- rce: https://www.visitrhodeisland.com/event/blue-moon-rising-painting-clas
- s/112265/
-LOCATION:Paint and Vino\, 150 Main Street\, Pawtucket\, RI 02860
-URL:https://www.visitrhodeisland.com/event/blue-moon-rising-painting-class
- /112265/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Book Discussion & Signing for Invisible Monuments\, New Book by Ho
- ward Mansfield
-DTSTART;VALUE=DATE:20261114
-DTEND;VALUE=DATE:20261115
-DTSTAMP:20261114T164258Z
-UID:7e9978654f7c7cbf7e8a9f5efab7@visitri-calendar
-DESCRIPTION:Join us at Books on the Square\, 471 Angell Street in Providen
- ce\, on Saturday\, November 14th at 11:00am to discuss Invisible Monuments
- : Tribute\, Memory\, and the Summoning of the Past\, a new book from Howar
- d Mansfield in conversation with Sy Montgomery. Book signing to follow. Fr
- ee\; RSVP on our website at booksq.com.\n\nSource: https://www.visitrhodei
- sland.com/event/book-discussion-%26-signing-for-invisible-monuments-new-bo
- ok-by-howard-mansfield/112344/
-LOCATION:Books On The Square\, 471 Angell Square\, Providence\, 02906 Time
- : 11:00 AM to 12:00 PM
-URL:https://www.visitrhodeisland.com/event/book-discussion-%26-signing-for
- -invisible-monuments-new-book-by-howard-mansfield/112344/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Children's Ballet Clinic with Ballet RI
-DTSTART;VALUE=DATE:20261114
-DTEND;VALUE=DATE:20261115
-DTSTAMP:20261114T164258Z
-UID:92fa3a47bc685f0162ab9391e895@visitri-calendar
-DESCRIPTION:Join two talented ballerinas from the Rhode Island Ballet for 
- a special dance demonstration. Then\, children are invited to get up and l
- earn some ballet basics from the ballerinas. Young guests will have the op
- portunity to move\, dance\, and experience the joy of ballet in an interac
- tive setting. The experience will conclude with a cozy reading of The Nutc
- racker\, creating a festive and memorable event for the whole family. Gues
- ts can enjoy a hot chocolate bar with cookies\, while adults are invited t
- o sip sparkling wine. Each child will also receive a takeaway ballerina co
- okie to enjoy after the event. Please note: All children must be accompani
- ed by a parent or guardian throughout the event. Tickets for this event ar
- e non-refundable.\n\nSource: https://www.visitrhodeisland.com/event/childr
- ens-ballet-clinic-with-ballet-ri/112127/
-LOCATION:Ocean House\, 1 Bluff Avenue\, Westerly\, 02891 Time: 1:00 PM to 
- 11:59 PM
-URL:https://www.visitrhodeisland.com/event/childrens-ballet-clinic-with-ba
- llet-ri/112127/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Choose Your Own Fusing Project – Create Art in Our Fused Glass S
- tudio
-DTSTART;VALUE=DATE:20261114
-DTEND;VALUE=DATE:20261115
-DTSTAMP:20261114T164258Z
-UID:cf824e523b7a4744c4592205c592@visitri-calendar
-DESCRIPTION:Choose from 18 different fused glass projects. Want to switch 
- it up? No problem — you can change projects in class as long as the new 
- one is equal or lower in value. You can also add projects during class if 
- you are inspired to keep going 🌟 Bring a friend… or make one while me
- lting glass. 😉 Pick-Your-Own Project: A Fused Glass Sampler Experience 
- Limited-Time Offering &#8211\; Try It Before It Melts Away! Unleash your c
- reativity with our Choose Your Own Fusing Project class! This flexible\, b
- eginner-friendly session is perfect for those who want to experiment with 
- fused glass without a long commitment. Whether you're new to glass art or 
- returning for more\, Choose Your Own Fusing Project lets you work at your 
- own pace and comfort level. In Choose Your Own Fusing Project\, you decide
-  what to make—from small coasters and sun catchers to jewelry or abstrac
- t designs. The class starts at a lower price point than our standard offer
- ings\, making Choose Your Own Fusing Project a budget-friendly way to try 
- something new. All materials and guidance are included\, so just bring you
- r ideas and enthusiasm. With Choose Your Own Fusing Project\, the process 
- is just as rewarding as the final piece. Reserve your spot in Choose Your 
- Own Fusing Project and start creating glass art that’s uniquely yours. C
- lass can accommodate 12 participants. Here’s how it works: Choose your p
- roject in advance from a variety of fun mini designs (think suncatchers\, 
- ornaments\, magnets\, and more). Kick things off with a group intro led by
-  one of our awesome instructors who will walk you through the basics of gl
- ass fusing. Break out and get creating—you’ll work independently on th
- e project you chose\, with staff on hand to offer support as needed. Finis
- hed early? Feeling inspired? You’re welcome to add additional projects o
- n the spot (pricing varies by project). This is a great opportunity to try
-  something new\, explore fused glass on your own terms\, and create a one-
- of-a-kind piece with plenty of guidance and good vibes. Adults\, and child
- ren ages 9+. Children ages 9-12 must be supervised one-on-one by an adult 
- or teen. No exceptions as this is a safety issue. All flat projects are re
- ady 7 days after your class All Slumped projects are ready 14 days after y
- our class. If for any reason your project is not ready in this time frame
- \, we will call you to let you know. This is a Weekly Recurring Event Runs
-  from Nov 13\, 2026 to Nov 28\, 2026 and happens every: Fridays: 7:00pm - 
- 9:00pm Timezone: Eastern Time (US &amp\; Canada) Saturdays: 12:30pm - 2:30
- pm Timezone: Eastern Time (US &amp\; Canada)\n\nSource: https://www.visitr
- hodeisland.com/event/choose-your-own-fusing-project-%26%238211%3b-create-a
- rt-in-our-fused-glass-studio/112615/
-LOCATION:Blackstone River Glass Center\, 30 Meeting Street\, Cumberland\, 
- RI 02864
-URL:https://www.visitrhodeisland.com/event/choose-your-own-fusing-project-
- %26%238211%3b-create-art-in-our-fused-glass-studio/112615/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Crime and Cuisine on Federal Hill
-DTSTART;VALUE=DATE:20261114
-DTEND;VALUE=DATE:20261115
-DTSTAMP:20261114T164258Z
-UID:8d6985d1e632b264b65f656a4c31@visitri-calendar
-DESCRIPTION:A food tour with a felonious twist! The Federal Hill neighborh
- ood of Providence is one of its hottest destinations\, home to some of the
-  best Italian food in the world. This tour will give you a smorgasbord of 
- its best bites and drinks\, from fine wines to housemade pasta. Come hungr
- y! ​The Hill was also home to some historic characters who dabbled on th
- e wrong side of the law. Follow the intrigue of State v. Patriarca\, when 
- a future mayor took on a mob boss\; learn about the corruption that brough
- t Rhode Island's banking system to its knees in the '90s\, and about a rai
- d on an illegal dice game that sent a Providence Police Officer through a 
- second-story window. Every guest will also get a memento from their time o
- n the Hill to take home with them. Spoiler alert: it's delicious! ​ Gues
- ts under 21 will not be served alcohol on this tour.\n\nSource: https://ww
- w.visitrhodeisland.com/event/crime-and-cuisine-on-federal-hill/112625/
-LOCATION:Providence Tour Company\, 99 Atwells Ave\, Providence\, RI 02909
-URL:https://www.visitrhodeisland.com/event/crime-and-cuisine-on-federal-hi
- ll/112625/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:No Holds Barred: New Year's Eve Soirée
-DTSTART;VALUE=DATE:20261114
-DTEND;VALUE=DATE:20261115
-DTSTAMP:20261114T164258Z
-UID:9052f2ab1be84269ef1be74219ed@visitri-calendar
-DESCRIPTION:Imbibe with endless Champagne\, handcrafted cocktails and indu
- lgent culinary delights as you listen to live music at The Vanderbilt’s 
- New Year’s Eve Soirée. Enjoy passed bites\, sumptuous stationed food an
- d open bar and other festive surprises and delights. Dress in your finest 
- attire and usher in 2027 amongst the Gilded Age glamour of the East Coast
- ’s most iconic mansion. Thursday\, December 31 | 8 PM - 12:30 AM 21+ eve
- nt | Tickets include open bar\, passed hors d'oeuvres\, stationed food\, a
- ccess to all entertainment Non-refundable Dress Code: Black Tie\n\nSource:
-  https://www.visitrhodeisland.com/event/no-holds-barred%3a-new-years-eve-s
- oir%c3%a9e/112630/
-LOCATION:The Vanderbilt\, Auberge Collection\, 41 Mary Street\, Newport\, 
- 02840 Time: 8:00 PM to 12:30 AM
-URL:https://www.visitrhodeisland.com/event/no-holds-barred%3a-new-years-ev
- e-soir%c3%a9e/112630/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:November Live Music
-DTSTART;VALUE=DATE:20261114
-DTEND;VALUE=DATE:20261115
-DTSTAMP:20261114T164258Z
-UID:5c3c0895ff2d2c880e3ce3de792d@visitri-calendar
-DESCRIPTION:November is packed with live music every Friday and Saturday n
- ight! Local musicians\, a welcoming atmosphere\, and our kitchen is open u
- ntil 9PM. Music runs from 6-9PM. Always free\, never a cover. 21+ after 8 
- PM. November 13 - Brandon Catarina November 14 - Texas Street Revival Nove
- mber 20 - Big John's Boys Duo November 21 - John and Tyler November 25 - B
- randon Catarina November 27 - Benny Midnight November 28 - Justin Martin\n
- \nSource: https://www.visitrhodeisland.com/event/november-live-music/11262
- 3/
-LOCATION:Phantom Farms Brewing\, 30 Martin Street\, Cumberland\, RI 02864
-URL:https://www.visitrhodeisland.com/event/november-live-music/112623/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Santa Magic in Long Wharf
-DTSTART;VALUE=DATE:20261114
-DTEND;VALUE=DATE:20261115
-DTSTAMP:20261114T164258Z
-UID:c96d739c82c88d0a855bc1561a35@visitri-calendar
-DESCRIPTION:🎄✨ Holiday Tree Lighting Event!✨🎄 Mark your calendar
- s! The holiday season is kicking off at the Shops of Long Wharf\, and you 
- won’t want to miss it! 🎅🎁 📅 When: Saturday\, November 28th Rain
-  Date: Sunday\, November 29th ⏰ Time: 4:00 PM &#8211\; 6:00 PM 📍 Wher
- e: The Shops of Long Wharf\, Newport 💰 Cost: Free to attend Bring the w
- hole family down for an afternoon packed with festive holiday magic and co
- mpletely FREE activities: 📸 Pictures with Santa and his elves! 🎶 Fes
- tive holiday music! 🎨 Fun kid crafts right here at Cutie Curls! ✍️ 
- Letters to Santa station! 🖌️ Free face painting! A huge thank you to 
- our co-sponsors\, Cutie Curls\, Newport In Bloom and the Shops of Long Wha
- rf\, for helping us bring this holiday cheer to the community! ❤️ Gath
- er the kids\, bundle up\, and come make some wonderful holiday memories wi
- th us. We can't wait to see you all.\n\nSource: https://www.visitrhodeisla
- nd.com/event/santa-magic-in-long-wharf/112462/
-LOCATION:Long Wharf Mall\, 49 Long Wharf Mall\, Newport\, RI 02840
-URL:https://www.visitrhodeisland.com/event/santa-magic-in-long-wharf/11246
- 2/
+SUMMARY:Cars & Coffee — Sachuest Beach (Second Beach)
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+DTSTAMP:20261115T172324Z
+UID:ad1d6e2267116c763b7f36611c5c@visitri-calendar
+DESCRIPTION:Cars &amp\; Coffee When: Select Sundays from 8:00 AM to 10:00 
+ AM at Second Beach\, 315 Sachuest Point Road\, Middletown May 10 October 1
+ 1 October 18 October 25 November 8 November 15 Cars &amp\; Coffee\, hosted
+  by the Audrain Automobile Museum\, has grown exponentially since the star
+ t - now eight years ago\, only 52 cars appeared at the first event! The Ca
+ rs &amp\; Coffee family has expanded\, now consistently seeing 350-400 car
+ s on the field and more than 1\,000 at the Motor Week event. We feel that 
+ Cars &amp\; Coffee is now the backbone Audrain Automobile Museum and the l
+ ocal car community as well. Cheers to another season! Below are a couple r
+ eminders for the 2026 Season: For Audrain Members\, registration will open
+  the Monday before each of the Cars &amp\; Coffee events and public regist
+ ration will open on the Wednesday before each of the Cars &amp\; Coffee ev
+ ents. In order to register for one of the Cars &amp\; Coffee events\, you 
+ must be subscribed to our email list. You cannot register for any of the C
+ ars &amp\; Coffee events through the Audrain website or over the phone. On
+ ly Vehicles are required to register for the event. Guests of drivers\, an
+ d spectators do not need to register. *All events are subject to change. A
+ ll events are rain or shine unless noted.\n\nSource: https://www.visitrhod
+ eisland.com/event/cars-%26-coffee-%e2%80%94-sachuest-beach-(second-beach)/
+ 109992/
+LOCATION:Sachuest Beach (Second Beach)\, 315 Sachuest Point Rd\, Middletow
+ n\, RI 02842 Time: 8:00 AM to 10:00 AM
+URL:https://www.visitrhodeisland.com/event/cars-%26-coffee-%e2%80%94-sachu
+ est-beach-(second-beach)/109992/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Newport Restaurant Week 2026
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
-DTSTAMP:20261114T164258Z
+DTSTAMP:20261115T172324Z
 UID:b07ae03f428a5f6f986ffdf404a3@visitri-calendar
 DESCRIPTION:The flavors of nine coastal communities\, all rolled up into o
  ne savory week. Newport Restaurant Week now takes place annually each fall
@@ -586,10 +412,55 @@ URL:https://www.visitrhodeisland.com/event/newport-restaurant-week-2026/11
  2499/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:No Holds Barred: New Year's Eve Soirée
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+DTSTAMP:20261115T172324Z
+UID:5f1eb486889b6adf198967255577@visitri-calendar
+DESCRIPTION:Imbibe with endless Champagne\, handcrafted cocktails and indu
+ lgent culinary delights as you listen to live music at The Vanderbilt’s 
+ New Year’s Eve Soirée. Enjoy passed bites\, sumptuous stationed food an
+ d open bar and other festive surprises and delights. Dress in your finest 
+ attire and usher in 2027 amongst the Gilded Age glamour of the East Coast
+ ’s most iconic mansion. Thursday\, December 31 | 8 PM - 12:30 AM 21+ eve
+ nt | Tickets include open bar\, passed hors d'oeuvres\, stationed food\, a
+ ccess to all entertainment Non-refundable Dress Code: Black Tie\n\nSource:
+  https://www.visitrhodeisland.com/event/no-holds-barred%3a-new-years-eve-s
+ oir%c3%a9e/112630/
+LOCATION:The Vanderbilt\, Auberge Collection\, 41 Mary Street\, Newport\, 
+ 02840 Time: 8:00 PM to 12:30 AM
+URL:https://www.visitrhodeisland.com/event/no-holds-barred%3a-new-years-ev
+ e-soir%c3%a9e/112630/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Santa Magic in Long Wharf
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+DTSTAMP:20261115T172324Z
+UID:3cc4a79487b9c3d64a20897b41a8@visitri-calendar
+DESCRIPTION:🎄✨ Holiday Tree Lighting Event!✨🎄 Mark your calendar
+ s! The holiday season is kicking off at the Shops of Long Wharf\, and you 
+ won’t want to miss it! 🎅🎁 📅 When: Saturday\, November 28th Rain
+  Date: Sunday\, November 29th ⏰ Time: 4:00 PM &#8211\; 6:00 PM 📍 Wher
+ e: The Shops of Long Wharf\, Newport 💰 Cost: Free to attend Bring the w
+ hole family down for an afternoon packed with festive holiday magic and co
+ mpletely FREE activities: 📸 Pictures with Santa and his elves! 🎶 Fes
+ tive holiday music! 🎨 Fun kid crafts right here at Cutie Curls! ✍️ 
+ Letters to Santa station! 🖌️ Free face painting! A huge thank you to 
+ our co-sponsors\, Cutie Curls\, Newport In Bloom and the Shops of Long Wha
+ rf\, for helping us bring this holiday cheer to the community! ❤️ Gath
+ er the kids\, bundle up\, and come make some wonderful holiday memories wi
+ th us. We can't wait to see you all.\n\nSource: https://www.visitrhodeisla
+ nd.com/event/santa-magic-in-long-wharf/112462/
+LOCATION:Long Wharf Mall\, 49 Long Wharf Mall\, Newport\, RI 02840
+URL:https://www.visitrhodeisland.com/event/santa-magic-in-long-wharf/11246
+ 2/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Crime and Cuisine on Federal Hill
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
-DTSTAMP:20261114T164258Z
+DTSTAMP:20261115T172324Z
 UID:52d625c928b6f5f792c11d2bccd0@visitri-calendar
 DESCRIPTION:A food tour with a felonious twist! The Federal Hill neighborh
  ood of Providence is one of its hottest destinations\, home to some of the
@@ -609,10 +480,52 @@ URL:https://www.visitrhodeisland.com/event/crime-and-cuisine-on-federal-hi
  ll/112625/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Fine Arts and Artisans Holiday Marketplace
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+DTSTAMP:20261115T172324Z
+UID:cd88ac87e05b3b74f2f545227f12@visitri-calendar
+DESCRIPTION:Annual Fine Arts and Artisans Holiday Marketplace November 7&#
+ 8211\;December 23\, 2026 | Middletown\, Rhode Island Opening Reception Sat
+ urday November 7th\, 5:00 - 7:00 PM Holiday Party Saturday December 5th\, 
+ 5:00 - 7:00 PM Gallery Nights Thursday November 12th and December 10th\, 5
+ :00 - 7:00 PM DeBlois Gallery is delighted to present its annual Fine Arts
+  and Artisans Marketplace from Nov. 7 &#8211\; Dec. 23\, 2026\, bringing t
+ ogether original artwork and handcrafted gifts for the holiday season. Spa
+ nning November and December\, the marketplace will offer visitors a two-mo
+ nth period to shop for distinctive gifts while supporting local artists an
+ d artisans. The diverse selection includes ornaments\, jewelry\, wearable 
+ art\, prints\, paintings\, pottery and holiday cards. Fine art and crafts 
+ share the gallery space\, offering an inviting mix of pieces to display\, 
+ wear\, use and give. For shoppers seeking gifts with a personal connection
+ \, the marketplace offers choices ranging from jewelry to suit your indivi
+ dual style\, to pottery and original artwork that add an artistic touch to
+  your home. There are also hand-crafted holiday ornaments and cards ideal 
+ for observing seasonal traditions. DeBlois gift certificates will also be 
+ available\, the perfect present for recipients to choose a work that speak
+ s to them. As one of Rhode Island’s few cooperative galleries\, DeBlois 
+ offers a distinctive setting shaped by the artists who love the space\, br
+ inging a variety of creative perspectives into one shared space where visi
+ tors can discover different styles and media in a welcoming atmosphere. Th
+ e holiday marketplace reflects that spirit\, celebrating individual crafts
+ manship and the collective creativity of the gallery community. Participat
+ ing artists are available for interviews upon request. Deblois Gallery is 
+ located at 134 Aquidneck Avenue in Middletown and is open Wednesday throug
+ h Sunday\, from 1:00 - 5:00 PM. All are welcome\, and ample free parking i
+ s available. Visit www.debloisgallery.com or follow the gallery on Instagr
+ am and Facebook for updates on participating artists and holiday events. M
+ edia contact: Michael Day | dr.mday@gmail.com Gallery: (401) 847-9977 | ww
+ w.debloisgallery.com Instagram / Facebook\n\nSource: https://www.visitrhod
+ eisland.com/event/fine-arts-and-artisans-holiday-marketplace/112555/
+LOCATION:DeBlois Gallery\, 134 Aquidneck Avenue\, Middletown\, RI 02842
+URL:https://www.visitrhodeisland.com/event/fine-arts-and-artisans-holiday-
+ marketplace/112555/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Crime and Cuisine on Federal Hill
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
-DTSTAMP:20261114T164258Z
+DTSTAMP:20261115T172324Z
 UID:309db9f50caa37771b92f4450e2c@visitri-calendar
 DESCRIPTION:A food tour with a felonious twist! The Federal Hill neighborh
  ood of Providence is one of its hottest destinations\, home to some of the
@@ -632,10 +545,52 @@ URL:https://www.visitrhodeisland.com/event/crime-and-cuisine-on-federal-hi
  ll/112625/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Fine Arts and Artisans Holiday Marketplace
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+DTSTAMP:20261115T172324Z
+UID:fcfde6a09fd150e7db05d7bc7fa7@visitri-calendar
+DESCRIPTION:Annual Fine Arts and Artisans Holiday Marketplace November 7&#
+ 8211\;December 23\, 2026 | Middletown\, Rhode Island Opening Reception Sat
+ urday November 7th\, 5:00 - 7:00 PM Holiday Party Saturday December 5th\, 
+ 5:00 - 7:00 PM Gallery Nights Thursday November 12th and December 10th\, 5
+ :00 - 7:00 PM DeBlois Gallery is delighted to present its annual Fine Arts
+  and Artisans Marketplace from Nov. 7 &#8211\; Dec. 23\, 2026\, bringing t
+ ogether original artwork and handcrafted gifts for the holiday season. Spa
+ nning November and December\, the marketplace will offer visitors a two-mo
+ nth period to shop for distinctive gifts while supporting local artists an
+ d artisans. The diverse selection includes ornaments\, jewelry\, wearable 
+ art\, prints\, paintings\, pottery and holiday cards. Fine art and crafts 
+ share the gallery space\, offering an inviting mix of pieces to display\, 
+ wear\, use and give. For shoppers seeking gifts with a personal connection
+ \, the marketplace offers choices ranging from jewelry to suit your indivi
+ dual style\, to pottery and original artwork that add an artistic touch to
+  your home. There are also hand-crafted holiday ornaments and cards ideal 
+ for observing seasonal traditions. DeBlois gift certificates will also be 
+ available\, the perfect present for recipients to choose a work that speak
+ s to them. As one of Rhode Island’s few cooperative galleries\, DeBlois 
+ offers a distinctive setting shaped by the artists who love the space\, br
+ inging a variety of creative perspectives into one shared space where visi
+ tors can discover different styles and media in a welcoming atmosphere. Th
+ e holiday marketplace reflects that spirit\, celebrating individual crafts
+ manship and the collective creativity of the gallery community. Participat
+ ing artists are available for interviews upon request. Deblois Gallery is 
+ located at 134 Aquidneck Avenue in Middletown and is open Wednesday throug
+ h Sunday\, from 1:00 - 5:00 PM. All are welcome\, and ample free parking i
+ s available. Visit www.debloisgallery.com or follow the gallery on Instagr
+ am and Facebook for updates on participating artists and holiday events. M
+ edia contact: Michael Day | dr.mday@gmail.com Gallery: (401) 847-9977 | ww
+ w.debloisgallery.com Instagram / Facebook\n\nSource: https://www.visitrhod
+ eisland.com/event/fine-arts-and-artisans-holiday-marketplace/112555/
+LOCATION:DeBlois Gallery\, 134 Aquidneck Avenue\, Middletown\, RI 02842
+URL:https://www.visitrhodeisland.com/event/fine-arts-and-artisans-holiday-
+ marketplace/112555/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Blowing Bubbles ~ Make Your Own Ornament - November
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
-DTSTAMP:20261114T164258Z
+DTSTAMP:20261115T172324Z
 UID:44454eacd6b281928cf46113f93e@visitri-calendar
 DESCRIPTION:Join us for our Blowing Bubbles class where each student learn
  s how to manipulate molten glass on the end of a 4-foot pipe. In this Blow
@@ -665,7 +620,7 @@ BEGIN:VEVENT
 SUMMARY:Crime and Cuisine on Federal Hill
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
-DTSTAMP:20261114T164258Z
+DTSTAMP:20261115T172324Z
 UID:39824b649d8907693a051eceb075@visitri-calendar
 DESCRIPTION:A food tour with a felonious twist! The Federal Hill neighborh
  ood of Providence is one of its hottest destinations\, home to some of the
@@ -685,10 +640,52 @@ URL:https://www.visitrhodeisland.com/event/crime-and-cuisine-on-federal-hi
  ll/112625/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Fine Arts and Artisans Holiday Marketplace
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+DTSTAMP:20261115T172324Z
+UID:bcf6faea80993364a7b47954742a@visitri-calendar
+DESCRIPTION:Annual Fine Arts and Artisans Holiday Marketplace November 7&#
+ 8211\;December 23\, 2026 | Middletown\, Rhode Island Opening Reception Sat
+ urday November 7th\, 5:00 - 7:00 PM Holiday Party Saturday December 5th\, 
+ 5:00 - 7:00 PM Gallery Nights Thursday November 12th and December 10th\, 5
+ :00 - 7:00 PM DeBlois Gallery is delighted to present its annual Fine Arts
+  and Artisans Marketplace from Nov. 7 &#8211\; Dec. 23\, 2026\, bringing t
+ ogether original artwork and handcrafted gifts for the holiday season. Spa
+ nning November and December\, the marketplace will offer visitors a two-mo
+ nth period to shop for distinctive gifts while supporting local artists an
+ d artisans. The diverse selection includes ornaments\, jewelry\, wearable 
+ art\, prints\, paintings\, pottery and holiday cards. Fine art and crafts 
+ share the gallery space\, offering an inviting mix of pieces to display\, 
+ wear\, use and give. For shoppers seeking gifts with a personal connection
+ \, the marketplace offers choices ranging from jewelry to suit your indivi
+ dual style\, to pottery and original artwork that add an artistic touch to
+  your home. There are also hand-crafted holiday ornaments and cards ideal 
+ for observing seasonal traditions. DeBlois gift certificates will also be 
+ available\, the perfect present for recipients to choose a work that speak
+ s to them. As one of Rhode Island’s few cooperative galleries\, DeBlois 
+ offers a distinctive setting shaped by the artists who love the space\, br
+ inging a variety of creative perspectives into one shared space where visi
+ tors can discover different styles and media in a welcoming atmosphere. Th
+ e holiday marketplace reflects that spirit\, celebrating individual crafts
+ manship and the collective creativity of the gallery community. Participat
+ ing artists are available for interviews upon request. Deblois Gallery is 
+ located at 134 Aquidneck Avenue in Middletown and is open Wednesday throug
+ h Sunday\, from 1:00 - 5:00 PM. All are welcome\, and ample free parking i
+ s available. Visit www.debloisgallery.com or follow the gallery on Instagr
+ am and Facebook for updates on participating artists and holiday events. M
+ edia contact: Michael Day | dr.mday@gmail.com Gallery: (401) 847-9977 | ww
+ w.debloisgallery.com Instagram / Facebook\n\nSource: https://www.visitrhod
+ eisland.com/event/fine-arts-and-artisans-holiday-marketplace/112555/
+LOCATION:DeBlois Gallery\, 134 Aquidneck Avenue\, Middletown\, RI 02842
+URL:https://www.visitrhodeisland.com/event/fine-arts-and-artisans-holiday-
+ marketplace/112555/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:November Live Music
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
-DTSTAMP:20261114T164258Z
+DTSTAMP:20261115T172324Z
 UID:e6b2beab5f469dedfbd12d5580b1@visitri-calendar
 DESCRIPTION:November is packed with live music every Friday and Saturday n
  ight! Local musicians\, a welcoming atmosphere\, and our kitchen is open u
@@ -702,10 +699,105 @@ LOCATION:Phantom Farms Brewing\, 30 Martin Street\, Cumberland\, RI 02864
 URL:https://www.visitrhodeisland.com/event/november-live-music/112623/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Blowing Bubbles ~ Make Your Own Ornament - November
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+DTSTAMP:20261115T172324Z
+UID:0c7a057c448322712db98285e0d1@visitri-calendar
+DESCRIPTION:Join us for our Blowing Bubbles class where each student learn
+ s how to manipulate molten glass on the end of a 4-foot pipe. In this Blow
+ ing Bubbles session\, instructors demonstrate shaping techniques using woo
+ den and metal tools. You will decorate your Blowing Bubbles ornaments with
+  different color applications to create unique pieces. At the start of the
+  Blowing Bubbles class\, there will be a demonstration to guide you. Our i
+ nstructors will help you experience the magic of hot glass\, allowing you 
+ to pick and apply colors\, twist and turn them\, then blow or shape them i
+ nto a beautiful art glass piece. This Blowing Bubbles class accommodates u
+ p to 8 people\, with each student receiving a one-on-one turn to create th
+ eir own glass item to keep. While waiting for your Blowing Bubbles turn\, 
+ you are encouraged to watch\, learn\, and support others. This class is op
+ en to ages 12 and up. Finished products can be picked up after 2 days once
+  they have finished annealing in our kilns. If you would like your items s
+ hipped\, there is a $20 fee payable at pickup. This event runs from Nov 13
+ \, 2026 to Nov 29\, 2026 and happens every: Fridays: 6:00pm - 7:30pm Satur
+ days: 12:30pm - 2:00pm Saturdays: 4:30pm - 6:00pm Sundays: 12:45pm - 2:15p
+ m Sundays: 4:30pm - 6:00pm\n\nSource: https://www.visitrhodeisland.com/eve
+ nt/blowing-bubbles-make-your-own-ornament-november/112610/
+LOCATION:Blackstone River Glass Center\, 30 Meeting Street\, Cumberland\, 
+ 20864
+URL:https://www.visitrhodeisland.com/event/blowing-bubbles-make-your-own-o
+ rnament-november/112610/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Crime and Cuisine on Federal Hill
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+DTSTAMP:20261115T172324Z
+UID:ce64264011d2abfc030d992e32a1@visitri-calendar
+DESCRIPTION:A food tour with a felonious twist! The Federal Hill neighborh
+ ood of Providence is one of its hottest destinations\, home to some of the
+  best Italian food in the world. This tour will give you a smorgasbord of 
+ its best bites and drinks\, from fine wines to housemade pasta. Come hungr
+ y! ​The Hill was also home to some historic characters who dabbled on th
+ e wrong side of the law. Follow the intrigue of State v. Patriarca\, when 
+ a future mayor took on a mob boss\; learn about the corruption that brough
+ t Rhode Island's banking system to its knees in the '90s\, and about a rai
+ d on an illegal dice game that sent a Providence Police Officer through a 
+ second-story window. Every guest will also get a memento from their time o
+ n the Hill to take home with them. Spoiler alert: it's delicious! ​ Gues
+ ts under 21 will not be served alcohol on this tour.\n\nSource: https://ww
+ w.visitrhodeisland.com/event/crime-and-cuisine-on-federal-hill/112625/
+LOCATION:Providence Tour Company\, 99 Atwells Ave\, Providence\, RI 02909
+URL:https://www.visitrhodeisland.com/event/crime-and-cuisine-on-federal-hi
+ ll/112625/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fine Arts and Artisans Holiday Marketplace
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+DTSTAMP:20261115T172324Z
+UID:569d64116acf083c04509d40c589@visitri-calendar
+DESCRIPTION:Annual Fine Arts and Artisans Holiday Marketplace November 7&#
+ 8211\;December 23\, 2026 | Middletown\, Rhode Island Opening Reception Sat
+ urday November 7th\, 5:00 - 7:00 PM Holiday Party Saturday December 5th\, 
+ 5:00 - 7:00 PM Gallery Nights Thursday November 12th and December 10th\, 5
+ :00 - 7:00 PM DeBlois Gallery is delighted to present its annual Fine Arts
+  and Artisans Marketplace from Nov. 7 &#8211\; Dec. 23\, 2026\, bringing t
+ ogether original artwork and handcrafted gifts for the holiday season. Spa
+ nning November and December\, the marketplace will offer visitors a two-mo
+ nth period to shop for distinctive gifts while supporting local artists an
+ d artisans. The diverse selection includes ornaments\, jewelry\, wearable 
+ art\, prints\, paintings\, pottery and holiday cards. Fine art and crafts 
+ share the gallery space\, offering an inviting mix of pieces to display\, 
+ wear\, use and give. For shoppers seeking gifts with a personal connection
+ \, the marketplace offers choices ranging from jewelry to suit your indivi
+ dual style\, to pottery and original artwork that add an artistic touch to
+  your home. There are also hand-crafted holiday ornaments and cards ideal 
+ for observing seasonal traditions. DeBlois gift certificates will also be 
+ available\, the perfect present for recipients to choose a work that speak
+ s to them. As one of Rhode Island’s few cooperative galleries\, DeBlois 
+ offers a distinctive setting shaped by the artists who love the space\, br
+ inging a variety of creative perspectives into one shared space where visi
+ tors can discover different styles and media in a welcoming atmosphere. Th
+ e holiday marketplace reflects that spirit\, celebrating individual crafts
+ manship and the collective creativity of the gallery community. Participat
+ ing artists are available for interviews upon request. Deblois Gallery is 
+ located at 134 Aquidneck Avenue in Middletown and is open Wednesday throug
+ h Sunday\, from 1:00 - 5:00 PM. All are welcome\, and ample free parking i
+ s available. Visit www.debloisgallery.com or follow the gallery on Instagr
+ am and Facebook for updates on participating artists and holiday events. M
+ edia contact: Michael Day | dr.mday@gmail.com Gallery: (401) 847-9977 | ww
+ w.debloisgallery.com Instagram / Facebook\n\nSource: https://www.visitrhod
+ eisland.com/event/fine-arts-and-artisans-holiday-marketplace/112555/
+LOCATION:DeBlois Gallery\, 134 Aquidneck Avenue\, Middletown\, RI 02842
+URL:https://www.visitrhodeisland.com/event/fine-arts-and-artisans-holiday-
+ marketplace/112555/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:November Live Music
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
-DTSTAMP:20261114T164258Z
+DTSTAMP:20261115T172324Z
 UID:b9da461598e8b9b94061aef6a0d2@visitri-calendar
 DESCRIPTION:November is packed with live music every Friday and Saturday n
  ight! Local musicians\, a welcoming atmosphere\, and our kitchen is open u
@@ -722,7 +814,7 @@ BEGIN:VEVENT
 SUMMARY:Rhode Island Christmas Festival
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
-DTSTAMP:20261114T164258Z
+DTSTAMP:20261115T172324Z
 UID:91d0c45995c76bb3e4e4d4172d7a@visitri-calendar
 DESCRIPTION:RHODE ISLAND CHRISTMAS FESTIVAL COMING TO WEST WARWICK THIS NO
  VEMBER WEST WARWICK\, R.I. — Community Marketing RI is pleased to announ
@@ -840,7 +932,7 @@ BEGIN:VEVENT
 SUMMARY:Rhode Island Christmas Festival
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
-DTSTAMP:20261114T164258Z
+DTSTAMP:20261115T172324Z
 UID:54a771ad2e97b7ab06678bd091ac@visitri-calendar
 DESCRIPTION:RHODE ISLAND CHRISTMAS FESTIVAL COMING TO WEST WARWICK THIS NO
  VEMBER WEST WARWICK\, R.I. — Community Marketing RI is pleased to announ
@@ -958,7 +1050,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
-DTSTAMP:20261114T164258Z
+DTSTAMP:20261115T172324Z
 UID:d5932912a26459263f74067ed3d2@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -986,7 +1078,7 @@ BEGIN:VEVENT
 SUMMARY:November Live Music
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
-DTSTAMP:20261114T164258Z
+DTSTAMP:20261115T172324Z
 UID:c0b0bc7a158fa672617cbfdd76e7@visitri-calendar
 DESCRIPTION:November is packed with live music every Friday and Saturday n
  ight! Local musicians\, a welcoming atmosphere\, and our kitchen is open u
@@ -1003,7 +1095,7 @@ BEGIN:VEVENT
 SUMMARY:November Live Music
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
-DTSTAMP:20261114T164258Z
+DTSTAMP:20261115T172324Z
 UID:0ee6028bbf984178fe00adc28132@visitri-calendar
 DESCRIPTION:November is packed with live music every Friday and Saturday n
  ight! Local musicians\, a welcoming atmosphere\, and our kitchen is open u
@@ -1020,7 +1112,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
-DTSTAMP:20261114T164258Z
+DTSTAMP:20261115T172324Z
 UID:f83dbecb85872dc3b9715683d412@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -1045,60 +1137,10 @@ URL:https://www.visitrhodeisland.com/event/sparkling-lights-at-the-breaker
  s/112249/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Choose Your Own Fusing Project – Create Art in Our Fused Glass S
- tudio
-DTSTART;VALUE=DATE:20261128
-DTEND;VALUE=DATE:20261129
-DTSTAMP:20261114T164258Z
-UID:1bd19e6646af0ebda5c5124269ad@visitri-calendar
-DESCRIPTION:Choose from 18 different fused glass projects. Want to switch 
- it up? No problem — you can change projects in class as long as the new 
- one is equal or lower in value. You can also add projects during class if 
- you are inspired to keep going 🌟 Bring a friend… or make one while me
- lting glass. 😉 Pick-Your-Own Project: A Fused Glass Sampler Experience 
- Limited-Time Offering &#8211\; Try It Before It Melts Away! Unleash your c
- reativity with our Choose Your Own Fusing Project class! This flexible\, b
- eginner-friendly session is perfect for those who want to experiment with 
- fused glass without a long commitment. Whether you're new to glass art or 
- returning for more\, Choose Your Own Fusing Project lets you work at your 
- own pace and comfort level. In Choose Your Own Fusing Project\, you decide
-  what to make—from small coasters and sun catchers to jewelry or abstrac
- t designs. The class starts at a lower price point than our standard offer
- ings\, making Choose Your Own Fusing Project a budget-friendly way to try 
- something new. All materials and guidance are included\, so just bring you
- r ideas and enthusiasm. With Choose Your Own Fusing Project\, the process 
- is just as rewarding as the final piece. Reserve your spot in Choose Your 
- Own Fusing Project and start creating glass art that’s uniquely yours. C
- lass can accommodate 12 participants. Here’s how it works: Choose your p
- roject in advance from a variety of fun mini designs (think suncatchers\, 
- ornaments\, magnets\, and more). Kick things off with a group intro led by
-  one of our awesome instructors who will walk you through the basics of gl
- ass fusing. Break out and get creating—you’ll work independently on th
- e project you chose\, with staff on hand to offer support as needed. Finis
- hed early? Feeling inspired? You’re welcome to add additional projects o
- n the spot (pricing varies by project). This is a great opportunity to try
-  something new\, explore fused glass on your own terms\, and create a one-
- of-a-kind piece with plenty of guidance and good vibes. Adults\, and child
- ren ages 9+. Children ages 9-12 must be supervised one-on-one by an adult 
- or teen. No exceptions as this is a safety issue. All flat projects are re
- ady 7 days after your class All Slumped projects are ready 14 days after y
- our class. If for any reason your project is not ready in this time frame
- \, we will call you to let you know. This is a Weekly Recurring Event Runs
-  from Nov 13\, 2026 to Nov 28\, 2026 and happens every: Fridays: 7:00pm - 
- 9:00pm Timezone: Eastern Time (US &amp\; Canada) Saturdays: 12:30pm - 2:30
- pm Timezone: Eastern Time (US &amp\; Canada)\n\nSource: https://www.visitr
- hodeisland.com/event/choose-your-own-fusing-project-%26%238211%3b-create-a
- rt-in-our-fused-glass-studio/112615/
-LOCATION:Blackstone River Glass Center\, 30 Meeting Street\, Cumberland\, 
- RI 02864
-URL:https://www.visitrhodeisland.com/event/choose-your-own-fusing-project-
- %26%238211%3b-create-art-in-our-fused-glass-studio/112615/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Holiday Market at Clark Farms
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
-DTSTAMP:20261114T164258Z
+DTSTAMP:20261115T172324Z
 UID:fe4e382596a866f435f8deb2d1ec@visitri-calendar
 DESCRIPTION:Visit the Clark Farms massive Holiday Market inside the half a
  cre greenhouse. Think live music\, Santa visits\, food &amp\; drink\, and 
@@ -1132,7 +1174,7 @@ BEGIN:VEVENT
 SUMMARY:November Live Music
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
-DTSTAMP:20261114T164258Z
+DTSTAMP:20261115T172324Z
 UID:8d437db5e12c6d7ab46b53e614ca@visitri-calendar
 DESCRIPTION:November is packed with live music every Friday and Saturday n
  ight! Local musicians\, a welcoming atmosphere\, and our kitchen is open u
@@ -1149,7 +1191,7 @@ BEGIN:VEVENT
 SUMMARY:Rhode Island Lights Festival
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
-DTSTAMP:20261114T164258Z
+DTSTAMP:20261115T172324Z
 UID:448ec4f075219bf9373bb35a3117@visitri-calendar
 DESCRIPTION:This holiday season\, Centreville Bank Stadium will be transfo
  rmed into a spectacular winter wonderland as the Rhode Island Lights Festi
@@ -1174,7 +1216,7 @@ BEGIN:VEVENT
 SUMMARY:Santa Magic in Long Wharf
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
-DTSTAMP:20261114T164258Z
+DTSTAMP:20261115T172324Z
 UID:87475b86156a7bb04dfea6f34ef6@visitri-calendar
 DESCRIPTION:🎄✨ Holiday Tree Lighting Event!✨🎄 Mark your calendar
  s! The holiday season is kicking off at the Shops of Long Wharf\, and you 
@@ -1198,7 +1240,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
-DTSTAMP:20261114T164258Z
+DTSTAMP:20261115T172324Z
 UID:b086f1bd58d78d3d3eb4b27c4e80@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -1226,7 +1268,7 @@ BEGIN:VEVENT
 SUMMARY:Blowing Bubbles ~ Make Your Own Ornament - November
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
-DTSTAMP:20261114T164258Z
+DTSTAMP:20261115T172324Z
 UID:c64da7dafbfe82f8529e223312e2@visitri-calendar
 DESCRIPTION:Join us for our Blowing Bubbles class where each student learn
  s how to manipulate molten glass on the end of a 4-foot pipe. In this Blow
@@ -1256,7 +1298,7 @@ BEGIN:VEVENT
 SUMMARY:Holiday Market at Clark Farms
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
-DTSTAMP:20261114T164258Z
+DTSTAMP:20261115T172324Z
 UID:9e82c569344220f4daa31be9f0fe@visitri-calendar
 DESCRIPTION:Visit the Clark Farms massive Holiday Market inside the half a
  cre greenhouse. Think live music\, Santa visits\, food &amp\; drink\, and 
@@ -1290,7 +1332,7 @@ BEGIN:VEVENT
 SUMMARY:Rhode Island Lights Festival
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
-DTSTAMP:20261114T164258Z
+DTSTAMP:20261115T172324Z
 UID:10ebb05c2374acae092481a580db@visitri-calendar
 DESCRIPTION:This holiday season\, Centreville Bank Stadium will be transfo
  rmed into a spectacular winter wonderland as the Rhode Island Lights Festi
@@ -1315,7 +1357,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
-DTSTAMP:20261114T164258Z
+DTSTAMP:20261115T172324Z
 UID:a07e4e611fb4e8a3b793ee3d6baa@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -1343,7 +1385,7 @@ BEGIN:VEVENT
 SUMMARY:Rhode Island Lights Festival
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
-DTSTAMP:20261114T164258Z
+DTSTAMP:20261115T172324Z
 UID:ce724247a0b0f5b958de383d5791@visitri-calendar
 DESCRIPTION:This holiday season\, Centreville Bank Stadium will be transfo
  rmed into a spectacular winter wonderland as the Rhode Island Lights Festi
@@ -1368,7 +1410,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
-DTSTAMP:20261114T164258Z
+DTSTAMP:20261115T172324Z
 UID:0e0d137da86e729e9b7c503df973@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -1396,7 +1438,7 @@ BEGIN:VEVENT
 SUMMARY:Rhode Island Lights Festival
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
-DTSTAMP:20261114T164258Z
+DTSTAMP:20261115T172324Z
 UID:55a3de0c84372bcc3132f2594f57@visitri-calendar
 DESCRIPTION:This holiday season\, Centreville Bank Stadium will be transfo
  rmed into a spectacular winter wonderland as the Rhode Island Lights Festi
@@ -1421,7 +1463,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
-DTSTAMP:20261114T164258Z
+DTSTAMP:20261115T172324Z
 UID:ccc9d94ce27546581c6bf2b71fd9@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -1450,7 +1492,7 @@ SUMMARY:Bosgraaf Stained Glass Studio’s 11th Annual Holiday Sale & Hot C
  hocolate Happening!
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
-DTSTAMP:20261114T164258Z
+DTSTAMP:20261115T172324Z
 UID:be911d47885e79be62ea5f4dfca4@visitri-calendar
 DESCRIPTION:All are invited to Bosgraaf Stained Glass Studio’s 11th Annu
  al Holiday Sale\, featuring original glass works from over 60 student arti
@@ -1485,7 +1527,7 @@ BEGIN:VEVENT
 SUMMARY:Bristol Christmas Festival
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
-DTSTAMP:20261114T164258Z
+DTSTAMP:20261115T172324Z
 UID:119bfccbe66a35d0c84a1f776fe3@visitri-calendar
 DESCRIPTION:The Bristol Christmas Festival at Unity Park will take place D
  ecember 5 and 6\, 2026 and will feature live music\, holiday activities\, 
@@ -1503,7 +1545,7 @@ BEGIN:VEVENT
 SUMMARY:Holiday Market at Clark Farms
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
-DTSTAMP:20261114T164258Z
+DTSTAMP:20261115T172324Z
 UID:6d47bbfe94204e0ed0e6bc907f05@visitri-calendar
 DESCRIPTION:Visit the Clark Farms massive Holiday Market inside the half a
  cre greenhouse. Think live music\, Santa visits\, food &amp\; drink\, and 
@@ -1537,7 +1579,7 @@ BEGIN:VEVENT
 SUMMARY:Rhode Island Lights Festival
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
-DTSTAMP:20261114T164258Z
+DTSTAMP:20261115T172324Z
 UID:0a04df26f11880a9786c182f7140@visitri-calendar
 DESCRIPTION:This holiday season\, Centreville Bank Stadium will be transfo
  rmed into a spectacular winter wonderland as the Rhode Island Lights Festi
@@ -1562,7 +1604,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
-DTSTAMP:20261114T164258Z
+DTSTAMP:20261115T172324Z
 UID:db8b766041237fea9b154b360279@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -1590,7 +1632,7 @@ BEGIN:VEVENT
 SUMMARY:The Intentional Celebration: Holiday Edition
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
-DTSTAMP:20261114T164258Z
+DTSTAMP:20261115T172324Z
 UID:6f484250684bf2271dde2a31e276@visitri-calendar
 DESCRIPTION:The Intentional Celebration: Holiday Edition is a two-day indo
  or holiday market and immersive Christmas experience taking place December
@@ -1621,7 +1663,7 @@ SUMMARY:Bosgraaf Stained Glass Studio’s 11th Annual Holiday Sale & Hot C
  hocolate Happening!
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
-DTSTAMP:20261114T164258Z
+DTSTAMP:20261115T172324Z
 UID:be38fc7a5f892549ae1dbf46140c@visitri-calendar
 DESCRIPTION:All are invited to Bosgraaf Stained Glass Studio’s 11th Annu
  al Holiday Sale\, featuring original glass works from over 60 student arti
@@ -1656,7 +1698,7 @@ BEGIN:VEVENT
 SUMMARY:Bristol Christmas Festival
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
-DTSTAMP:20261114T164258Z
+DTSTAMP:20261115T172324Z
 UID:33da073af4a8494e7f1a85047827@visitri-calendar
 DESCRIPTION:The Bristol Christmas Festival at Unity Park will take place D
  ecember 5 and 6\, 2026 and will feature live music\, holiday activities\, 
@@ -1671,10 +1713,47 @@ URL:https://www.visitrhodeisland.com/event/bristol-christmas-festival/1126
  06/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Fused Mezuzah
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+DTSTAMP:20261115T172324Z
+UID:71059d8e0a03713f9746ac1d27f1@visitri-calendar
+DESCRIPTION:Create a meaningful and beautiful piece of glass art in this h
+ ands-on fused glass mezuzah class. Participants will design and build a de
+ corative glass mezuzah using colorful sheet glass\, frit\, and stringers. 
+ You’ll explore composition\, color layering\, and basic glass-fusing tec
+ hniques while creating a one-of-a-kind piece that reflects your personal s
+ tyle. Once completed\, your mezuzah will be fired in our kiln. No prior gl
+ ass experience is necessary—this class is beginner-friendly and guided s
+ tep by step by one of our instructors. Important Note This class is for ed
+ ucational/craft purposes\, the resulting glass is a decorative holder\, no
+ t a ritually certified vessel\, and participants should consult a Rabbi fo
+ r religious validity/kosher status of the scroll (klaf) and final product
+ \, as the shop's process isn't halachically supervised. ⏳ Finished piece
+ s will be ready for pickup approximately 2 weeks after class due to kiln f
+ iring schedules. Ages &amp\; Safety Adults\, and children ages 9+. Childre
+ n ages 9&#8211\;12 must be supervised one-on-one by an adult or teen. No e
+ xceptions as this is a safety issue. Whether you’re creating this piece 
+ for yourself\, as a gift\, or as a meaningful artistic exploration\, this 
+ class offers a thoughtful blend of tradition\, creativity\, and molten mag
+ ic. What to Expect An introduction to fused glass safety\, materials\, and
+  basic design techniques Design and assemble a decorative fused glass mezu
+ zah front using sheet glass\, frit\, and stringers Your glass piece will b
+ e kiln-fired after class and ready for pickup in approximately 2 weeks Par
+ ticipants will be sent home with: A non-kosher scroll (klaf) A wooden mezu
+ zah case Items are not assembled in class The finished glass mezuzah can b
+ e adhered to the wooden case at home using E600 glue\, which is readily av
+ ailable at most hardware stores\n\nSource: https://www.visitrhodeisland.co
+ m/event/fused-mezuzah/110083/
+LOCATION:Blackstone River Glass Center\, 30 Meeting Street\, Cumberland\, 
+ RI 02864
+URL:https://www.visitrhodeisland.com/event/fused-mezuzah/110083/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Holiday Market at Clark Farms
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
-DTSTAMP:20261114T164258Z
+DTSTAMP:20261115T172324Z
 UID:0f181ec22244908af2bf3a356ba9@visitri-calendar
 DESCRIPTION:Visit the Clark Farms massive Holiday Market inside the half a
  cre greenhouse. Think live music\, Santa visits\, food &amp\; drink\, and 
@@ -1708,7 +1787,7 @@ BEGIN:VEVENT
 SUMMARY:Rhode Island Lights Festival
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
-DTSTAMP:20261114T164258Z
+DTSTAMP:20261115T172324Z
 UID:3e00c85f7e2a4b6d6053a10b9425@visitri-calendar
 DESCRIPTION:This holiday season\, Centreville Bank Stadium will be transfo
  rmed into a spectacular winter wonderland as the Rhode Island Lights Festi
@@ -1733,7 +1812,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
-DTSTAMP:20261114T164258Z
+DTSTAMP:20261115T172324Z
 UID:4b643200b30e60635e855ddfbcdb@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -1761,7 +1840,7 @@ BEGIN:VEVENT
 SUMMARY:The Intentional Celebration: Holiday Edition
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
-DTSTAMP:20261114T164258Z
+DTSTAMP:20261115T172324Z
 UID:f0031a8c4f9ec38b7e0300063594@visitri-calendar
 DESCRIPTION:The Intentional Celebration: Holiday Edition is a two-day indo
  or holiday market and immersive Christmas experience taking place December
@@ -1791,7 +1870,7 @@ BEGIN:VEVENT
 SUMMARY:Rhode Island Lights Festival
 DTSTART;VALUE=DATE:20261209
 DTEND;VALUE=DATE:20261210
-DTSTAMP:20261114T164258Z
+DTSTAMP:20261115T172324Z
 UID:16cd82a02f4badfd01431e9ef39e@visitri-calendar
 DESCRIPTION:This holiday season\, Centreville Bank Stadium will be transfo
  rmed into a spectacular winter wonderland as the Rhode Island Lights Festi
@@ -1816,7 +1895,7 @@ BEGIN:VEVENT
 SUMMARY:Rhode Island Lights Festival
 DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261211
-DTSTAMP:20261114T164258Z
+DTSTAMP:20261115T172324Z
 UID:37acb6393bef02c7e33a4f9172a7@visitri-calendar
 DESCRIPTION:This holiday season\, Centreville Bank Stadium will be transfo
  rmed into a spectacular winter wonderland as the Rhode Island Lights Festi
@@ -1841,7 +1920,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261211
-DTSTAMP:20261114T164258Z
+DTSTAMP:20261115T172324Z
 UID:f1266d72481edfcb924f687a42f0@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -1869,7 +1948,7 @@ BEGIN:VEVENT
 SUMMARY:Rhode Island Lights Festival
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
-DTSTAMP:20261114T164258Z
+DTSTAMP:20261115T172324Z
 UID:64fcbc94723e108499c2256308ad@visitri-calendar
 DESCRIPTION:This holiday season\, Centreville Bank Stadium will be transfo
  rmed into a spectacular winter wonderland as the Rhode Island Lights Festi
@@ -1894,7 +1973,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
-DTSTAMP:20261114T164258Z
+DTSTAMP:20261115T172324Z
 UID:b2668ced84621f351ee2e743ffd9@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -1922,7 +2001,7 @@ BEGIN:VEVENT
 SUMMARY:Rhode Island Lights Festival
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
-DTSTAMP:20261114T164258Z
+DTSTAMP:20261115T172324Z
 UID:1a105cfeadeefb1a60902dd5d339@visitri-calendar
 DESCRIPTION:This holiday season\, Centreville Bank Stadium will be transfo
  rmed into a spectacular winter wonderland as the Rhode Island Lights Festi
@@ -1947,7 +2026,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
-DTSTAMP:20261114T164258Z
+DTSTAMP:20261115T172324Z
 UID:756ae7e966f3899cb85d7657b4e5@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -1975,7 +2054,7 @@ BEGIN:VEVENT
 SUMMARY:Rhode Island Lights Festival
 DTSTART;VALUE=DATE:20261213
 DTEND;VALUE=DATE:20261214
-DTSTAMP:20261114T164258Z
+DTSTAMP:20261115T172324Z
 UID:5bc7195208a828ee2bcc3d774641@visitri-calendar
 DESCRIPTION:This holiday season\, Centreville Bank Stadium will be transfo
  rmed into a spectacular winter wonderland as the Rhode Island Lights Festi
@@ -2000,7 +2079,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261213
 DTEND;VALUE=DATE:20261214
-DTSTAMP:20261114T164258Z
+DTSTAMP:20261115T172324Z
 UID:6926863c714413a4b343c291725f@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -2028,7 +2107,7 @@ BEGIN:VEVENT
 SUMMARY:Rhode Island Lights Festival
 DTSTART;VALUE=DATE:20261216
 DTEND;VALUE=DATE:20261217
-DTSTAMP:20261114T164258Z
+DTSTAMP:20261115T172324Z
 UID:96d265a999c123070f85ca5b66f2@visitri-calendar
 DESCRIPTION:This holiday season\, Centreville Bank Stadium will be transfo
  rmed into a spectacular winter wonderland as the Rhode Island Lights Festi
@@ -2053,7 +2132,7 @@ BEGIN:VEVENT
 SUMMARY:Rhode Island Lights Festival
 DTSTART;VALUE=DATE:20261217
 DTEND;VALUE=DATE:20261218
-DTSTAMP:20261114T164258Z
+DTSTAMP:20261115T172324Z
 UID:4f6c8b924dd45c83266e1cc4ce3a@visitri-calendar
 DESCRIPTION:This holiday season\, Centreville Bank Stadium will be transfo
  rmed into a spectacular winter wonderland as the Rhode Island Lights Festi
@@ -2078,7 +2157,7 @@ BEGIN:VEVENT
 SUMMARY:Rhode Island Lights Festival
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
-DTSTAMP:20261114T164258Z
+DTSTAMP:20261115T172324Z
 UID:ba26b9bd0103e1c8d511b82aaa8b@visitri-calendar
 DESCRIPTION:This holiday season\, Centreville Bank Stadium will be transfo
  rmed into a spectacular winter wonderland as the Rhode Island Lights Festi
@@ -2103,7 +2182,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
-DTSTAMP:20261114T164258Z
+DTSTAMP:20261115T172324Z
 UID:10f1f0a03ceb6ce5b9d0f1112413@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -2131,7 +2210,7 @@ BEGIN:VEVENT
 SUMMARY:Rhode Island Lights Festival
 DTSTART;VALUE=DATE:20261219
 DTEND;VALUE=DATE:20261220
-DTSTAMP:20261114T164258Z
+DTSTAMP:20261115T172324Z
 UID:eac979c6c6fc0a063ccd84994e4b@visitri-calendar
 DESCRIPTION:This holiday season\, Centreville Bank Stadium will be transfo
  rmed into a spectacular winter wonderland as the Rhode Island Lights Festi
@@ -2156,7 +2235,7 @@ BEGIN:VEVENT
 SUMMARY:Rhode Island Lights Festival
 DTSTART;VALUE=DATE:20261220
 DTEND;VALUE=DATE:20261221
-DTSTAMP:20261114T164258Z
+DTSTAMP:20261115T172324Z
 UID:a4f16cdba637b6426dc3ca7bfe37@visitri-calendar
 DESCRIPTION:This holiday season\, Centreville Bank Stadium will be transfo
  rmed into a spectacular winter wonderland as the Rhode Island Lights Festi
@@ -2181,7 +2260,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261220
 DTEND;VALUE=DATE:20261221
-DTSTAMP:20261114T164258Z
+DTSTAMP:20261115T172324Z
 UID:4b4bda68b74fdf0bae1d4834ec2b@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -2209,7 +2288,7 @@ BEGIN:VEVENT
 SUMMARY:Rhode Island Lights Festival
 DTSTART;VALUE=DATE:20261221
 DTEND;VALUE=DATE:20261222
-DTSTAMP:20261114T164258Z
+DTSTAMP:20261115T172324Z
 UID:aea8b74d95f98a36de889e6f697d@visitri-calendar
 DESCRIPTION:This holiday season\, Centreville Bank Stadium will be transfo
  rmed into a spectacular winter wonderland as the Rhode Island Lights Festi
@@ -2234,7 +2313,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261221
 DTEND;VALUE=DATE:20261222
-DTSTAMP:20261114T164258Z
+DTSTAMP:20261115T172324Z
 UID:5cc6a0eb17a87a57c77fb4a1ee98@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -2262,7 +2341,7 @@ BEGIN:VEVENT
 SUMMARY:Holiday Pops with the Stadium Theatre Orchestra
 DTSTART;VALUE=DATE:20261222
 DTEND;VALUE=DATE:20261223
-DTSTAMP:20261114T164258Z
+DTSTAMP:20261115T172324Z
 UID:befad2e9d6170256faacb3a92b0a@visitri-calendar
 DESCRIPTION:Get into the Holiday spirit with the Stadium Theatre’s Holid
  ay Pops! The Stadium’s 20 piece orchestra\, paired with breathtaking voc
@@ -2282,7 +2361,7 @@ BEGIN:VEVENT
 SUMMARY:Rhode Island Lights Festival
 DTSTART;VALUE=DATE:20261222
 DTEND;VALUE=DATE:20261223
-DTSTAMP:20261114T164258Z
+DTSTAMP:20261115T172324Z
 UID:850d2a1c17a55623147989b58523@visitri-calendar
 DESCRIPTION:This holiday season\, Centreville Bank Stadium will be transfo
  rmed into a spectacular winter wonderland as the Rhode Island Lights Festi
@@ -2307,7 +2386,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261222
 DTEND;VALUE=DATE:20261223
-DTSTAMP:20261114T164258Z
+DTSTAMP:20261115T172324Z
 UID:8b50234eb8215ed0c936d7b3f2fd@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -2332,10 +2411,52 @@ URL:https://www.visitrhodeisland.com/event/sparkling-lights-at-the-breaker
  s/112249/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Fine Arts and Artisans Holiday Marketplace
+DTSTART;VALUE=DATE:20261223
+DTEND;VALUE=DATE:20261224
+DTSTAMP:20261115T172324Z
+UID:dae302fc7a6e92e2ef204d1e9a61@visitri-calendar
+DESCRIPTION:Annual Fine Arts and Artisans Holiday Marketplace November 7&#
+ 8211\;December 23\, 2026 | Middletown\, Rhode Island Opening Reception Sat
+ urday November 7th\, 5:00 - 7:00 PM Holiday Party Saturday December 5th\, 
+ 5:00 - 7:00 PM Gallery Nights Thursday November 12th and December 10th\, 5
+ :00 - 7:00 PM DeBlois Gallery is delighted to present its annual Fine Arts
+  and Artisans Marketplace from Nov. 7 &#8211\; Dec. 23\, 2026\, bringing t
+ ogether original artwork and handcrafted gifts for the holiday season. Spa
+ nning November and December\, the marketplace will offer visitors a two-mo
+ nth period to shop for distinctive gifts while supporting local artists an
+ d artisans. The diverse selection includes ornaments\, jewelry\, wearable 
+ art\, prints\, paintings\, pottery and holiday cards. Fine art and crafts 
+ share the gallery space\, offering an inviting mix of pieces to display\, 
+ wear\, use and give. For shoppers seeking gifts with a personal connection
+ \, the marketplace offers choices ranging from jewelry to suit your indivi
+ dual style\, to pottery and original artwork that add an artistic touch to
+  your home. There are also hand-crafted holiday ornaments and cards ideal 
+ for observing seasonal traditions. DeBlois gift certificates will also be 
+ available\, the perfect present for recipients to choose a work that speak
+ s to them. As one of Rhode Island’s few cooperative galleries\, DeBlois 
+ offers a distinctive setting shaped by the artists who love the space\, br
+ inging a variety of creative perspectives into one shared space where visi
+ tors can discover different styles and media in a welcoming atmosphere. Th
+ e holiday marketplace reflects that spirit\, celebrating individual crafts
+ manship and the collective creativity of the gallery community. Participat
+ ing artists are available for interviews upon request. Deblois Gallery is 
+ located at 134 Aquidneck Avenue in Middletown and is open Wednesday throug
+ h Sunday\, from 1:00 - 5:00 PM. All are welcome\, and ample free parking i
+ s available. Visit www.debloisgallery.com or follow the gallery on Instagr
+ am and Facebook for updates on participating artists and holiday events. M
+ edia contact: Michael Day | dr.mday@gmail.com Gallery: (401) 847-9977 | ww
+ w.debloisgallery.com Instagram / Facebook\n\nSource: https://www.visitrhod
+ eisland.com/event/fine-arts-and-artisans-holiday-marketplace/112555/
+LOCATION:DeBlois Gallery\, 134 Aquidneck Avenue\, Middletown\, RI 02842
+URL:https://www.visitrhodeisland.com/event/fine-arts-and-artisans-holiday-
+ marketplace/112555/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Holiday Pops with the Stadium Theatre Orchestra
 DTSTART;VALUE=DATE:20261223
 DTEND;VALUE=DATE:20261224
-DTSTAMP:20261114T164258Z
+DTSTAMP:20261115T172324Z
 UID:7e3a3f2cfb6189de48b6c64b83bc@visitri-calendar
 DESCRIPTION:Get into the Holiday spirit with the Stadium Theatre’s Holid
  ay Pops! The Stadium’s 20 piece orchestra\, paired with breathtaking voc
@@ -2355,7 +2476,7 @@ BEGIN:VEVENT
 SUMMARY:Rhode Island Lights Festival
 DTSTART;VALUE=DATE:20261223
 DTEND;VALUE=DATE:20261224
-DTSTAMP:20261114T164258Z
+DTSTAMP:20261115T172324Z
 UID:80279afc8aeb86b04b5d61a17fdc@visitri-calendar
 DESCRIPTION:This holiday season\, Centreville Bank Stadium will be transfo
  rmed into a spectacular winter wonderland as the Rhode Island Lights Festi
@@ -2380,7 +2501,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261223
 DTEND;VALUE=DATE:20261224
-DTSTAMP:20261114T164258Z
+DTSTAMP:20261115T172324Z
 UID:64494d8f54810a3b19a989acc268@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -2408,7 +2529,7 @@ BEGIN:VEVENT
 SUMMARY:Rhode Island Lights Festival
 DTSTART;VALUE=DATE:20261226
 DTEND;VALUE=DATE:20261227
-DTSTAMP:20261114T164258Z
+DTSTAMP:20261115T172324Z
 UID:e577321b35406eb3d33b26dafa4f@visitri-calendar
 DESCRIPTION:This holiday season\, Centreville Bank Stadium will be transfo
  rmed into a spectacular winter wonderland as the Rhode Island Lights Festi
@@ -2433,7 +2554,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261226
 DTEND;VALUE=DATE:20261227
-DTSTAMP:20261114T164258Z
+DTSTAMP:20261115T172324Z
 UID:d9203cb0c583483c1e644796bce0@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -2461,7 +2582,7 @@ BEGIN:VEVENT
 SUMMARY:Rhode Island Lights Festival
 DTSTART;VALUE=DATE:20261227
 DTEND;VALUE=DATE:20261228
-DTSTAMP:20261114T164258Z
+DTSTAMP:20261115T172324Z
 UID:5d265915a4c912fce87079d1ade1@visitri-calendar
 DESCRIPTION:This holiday season\, Centreville Bank Stadium will be transfo
  rmed into a spectacular winter wonderland as the Rhode Island Lights Festi
@@ -2486,7 +2607,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261227
 DTEND;VALUE=DATE:20261228
-DTSTAMP:20261114T164258Z
+DTSTAMP:20261115T172324Z
 UID:ecdbb4492e88d8b279d5f0235b57@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -2514,7 +2635,7 @@ BEGIN:VEVENT
 SUMMARY:Rhode Island Lights Festival
 DTSTART;VALUE=DATE:20261228
 DTEND;VALUE=DATE:20261229
-DTSTAMP:20261114T164258Z
+DTSTAMP:20261115T172324Z
 UID:dd38d26392219c393d21b0877ee3@visitri-calendar
 DESCRIPTION:This holiday season\, Centreville Bank Stadium will be transfo
  rmed into a spectacular winter wonderland as the Rhode Island Lights Festi
@@ -2539,7 +2660,7 @@ BEGIN:VEVENT
 SUMMARY:Rhode Island Lights Festival
 DTSTART;VALUE=DATE:20261229
 DTEND;VALUE=DATE:20261230
-DTSTAMP:20261114T164258Z
+DTSTAMP:20261115T172324Z
 UID:ab58713cfcc5bc2a0eec1d869e90@visitri-calendar
 DESCRIPTION:This holiday season\, Centreville Bank Stadium will be transfo
  rmed into a spectacular winter wonderland as the Rhode Island Lights Festi
@@ -2564,7 +2685,7 @@ BEGIN:VEVENT
 SUMMARY:Rhode Island Lights Festival
 DTSTART;VALUE=DATE:20261230
 DTEND;VALUE=DATE:20261231
-DTSTAMP:20261114T164258Z
+DTSTAMP:20261115T172324Z
 UID:c1bc28e07573a8201d91ec765b38@visitri-calendar
 DESCRIPTION:This holiday season\, Centreville Bank Stadium will be transfo
  rmed into a spectacular winter wonderland as the Rhode Island Lights Festi
@@ -2589,7 +2710,7 @@ BEGIN:VEVENT
 SUMMARY:90's vs Y2K New Years Eve
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
-DTSTAMP:20261114T164258Z
+DTSTAMP:20261115T172324Z
 UID:cd9739dc5ca20722a765f80113db@visitri-calendar
 DESCRIPTION:Get ready to step into a time warp this New Year's Eve at Ball
  y's 90s vs. Y2K Party! As you walk through the doors\, you're instantly tr
@@ -2630,7 +2751,7 @@ BEGIN:VEVENT
 SUMMARY:A Christmas Carol
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
-DTSTAMP:20261114T164258Z
+DTSTAMP:20261115T172324Z
 UID:7974b08503c8ecfb69cc65bc6b84@visitri-calendar
 DESCRIPTION:By Charles Dickens Original Music by Richard Cumming Directed 
  by Taavon Gamble November 5 &#8211\; December 31\, 2026 Dowling Theater Ce
@@ -2652,7 +2773,7 @@ BEGIN:VEVENT
 SUMMARY:Beyond the Brewhouse Tour
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
-DTSTAMP:20261114T164258Z
+DTSTAMP:20261115T172324Z
 UID:c7b48636db9ede5f5acbbb263d31@visitri-calendar
 DESCRIPTION:Beyond the Brewhouse Where: Newport Craft Brewing and Distilli
  ng\, 293 JT Connell Road\, Newport 45 minutes: $20 per person Did you know
@@ -2671,7 +2792,7 @@ BEGIN:VEVENT
 SUMMARY:No Holds Barred: New Year's Eve Soirée
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
-DTSTAMP:20261114T164258Z
+DTSTAMP:20261115T172324Z
 UID:ea8226b17ae15d63a31d0f4ca882@visitri-calendar
 DESCRIPTION:Imbibe with endless Champagne\, handcrafted cocktails and indu
  lgent culinary delights as you listen to live music at The Vanderbilt’s 
@@ -2692,7 +2813,7 @@ BEGIN:VEVENT
 SUMMARY:Rhode Island Lights Festival
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
-DTSTAMP:20261114T164258Z
+DTSTAMP:20261115T172324Z
 UID:ec30f72a908269517452d537b506@visitri-calendar
 DESCRIPTION:This holiday season\, Centreville Bank Stadium will be transfo
  rmed into a spectacular winter wonderland as the Rhode Island Lights Festi
@@ -2717,7 +2838,7 @@ BEGIN:VEVENT
 SUMMARY:Rhode Island Lights Festival
 DTSTART;VALUE=DATE:20270101
 DTEND;VALUE=DATE:20270102
-DTSTAMP:20261114T164258Z
+DTSTAMP:20261115T172324Z
 UID:188895ba7b1da1615da9700cf13c@visitri-calendar
 DESCRIPTION:This holiday season\, Centreville Bank Stadium will be transfo
  rmed into a spectacular winter wonderland as the Rhode Island Lights Festi
@@ -2742,7 +2863,7 @@ BEGIN:VEVENT
 SUMMARY:Rhode Island Lights Festival
 DTSTART;VALUE=DATE:20270102
 DTEND;VALUE=DATE:20270103
-DTSTAMP:20261114T164258Z
+DTSTAMP:20261115T172324Z
 UID:4f7b42e72a975c8bb36b0e58e233@visitri-calendar
 DESCRIPTION:This holiday season\, Centreville Bank Stadium will be transfo
  rmed into a spectacular winter wonderland as the Rhode Island Lights Festi
@@ -2767,7 +2888,7 @@ BEGIN:VEVENT
 SUMMARY:Rhode Island Lights Festival
 DTSTART;VALUE=DATE:20270103
 DTEND;VALUE=DATE:20270104
-DTSTAMP:20261114T164258Z
+DTSTAMP:20261115T172324Z
 UID:0b4416631f88abc452bc98265bd2@visitri-calendar
 DESCRIPTION:This holiday season\, Centreville Bank Stadium will be transfo
  rmed into a spectacular winter wonderland as the Rhode Island Lights Festi
