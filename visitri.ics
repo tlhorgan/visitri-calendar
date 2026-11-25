@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:$15 Moonshine Flights & Moonshine Tasting
 DTSTART;VALUE=DATE:20250615
 DTEND;VALUE=DATE:20250616
-DTSTAMP:20261124T205212Z
+DTSTAMP:20261125T200904Z
 UID:b6432d870f2c0958f26453a40d59@visitri-calendar
 DESCRIPTION:Try a Moonshine Flight tasting at Moonshine Alley! Moonshine F
  lights are available daily for just $15! We have over 13 flavors to choose
@@ -23,7 +23,7 @@ BEGIN:VEVENT
 SUMMARY:Après-Ski Holiday Pop-Up at Newport Vineyards
 DTSTART;VALUE=DATE:20260103
 DTEND;VALUE=DATE:20260104
-DTSTAMP:20261124T205212Z
+DTSTAMP:20261125T200904Z
 UID:e84f2496144095219c7b5cf7b601@visitri-calendar
 DESCRIPTION:Newport Vineyards Après-Ski Holiday Pop-Up November 20 &#8211
  \; January 3 | Farm &amp\; Barrel Bistro Lodge Dining &amp\; Holiday Marke
@@ -76,7 +76,7 @@ BEGIN:VEVENT
 SUMMARY:Christmas at Blithewold
 DTSTART;VALUE=DATE:20260103
 DTEND;VALUE=DATE:20260104
-DTSTAMP:20261124T205212Z
+DTSTAMP:20261125T200904Z
 UID:bf60ff7d6a5137c2224f29f97985@visitri-calendar
 DESCRIPTION:Christmas at Blithewold is currently scheduled for November 24
  \, 2026 &#8211\; January 3\, 2027. Come and enjoy the elaborate holiday de
@@ -94,7 +94,7 @@ BEGIN:VEVENT
 SUMMARY:Holiday Lights Spectacular at Roger Williams Park Zoo
 DTSTART;VALUE=DATE:20260103
 DTEND;VALUE=DATE:20260104
-DTSTAMP:20261124T205212Z
+DTSTAMP:20261125T200904Z
 UID:9d954c5bfbb94ce967fa8807d18a@visitri-calendar
 DESCRIPTION:Bring family and friends to experience Holiday Lights Spectacu
  lar &#8211\; an annual walk-through experience just in time for the holida
@@ -121,7 +121,7 @@ BEGIN:VEVENT
 SUMMARY:Beyond the Brewhouse Tour
 DTSTART;VALUE=DATE:20260515
 DTEND;VALUE=DATE:20260516
-DTSTAMP:20261124T205212Z
+DTSTAMP:20261125T200904Z
 UID:acc9d8e1d1bdab34c6766b602473@visitri-calendar
 DESCRIPTION:Beyond the Brewhouse Where: Newport Craft Brewing and Distilli
  ng\, 293 JT Connell Road\, Newport 45 minutes: $20 per person Did you know
@@ -137,72 +137,10 @@ URL:https://www.visitrhodeisland.com/event/beyond-the-brewhouse-tour/11015
  3/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Blithewold Homeschool Days
-DTSTART;VALUE=DATE:20260629
-DTEND;VALUE=DATE:20260630
-DTSTAMP:20261124T205212Z
-UID:2d7c1782c92278d18720700e79bc@visitri-calendar
-DESCRIPTION:Homeschool Days at Blithewold Last Tuesday of each month Octob
- er 27\, 2026 &#8211\; June 29\, 2027 10:00 AM &#8211\; 12:00 PM Location: 
- Education Room in Visitor’s Center and Grounds Join us on the last Tuesd
- ay of each month\, from October through June\, for fun (and educational) h
- ands-on learning at Blithewold! Each month\, we explore intriguing topics 
- in the arts\, history\, horticulture\, environmental science\, and climate
-  change. Indoor and outdoor learning experiences complete our curriculum\,
-  which aligns with RI\, MA\, and CT state standards. Check our website for
-  more information on our monthly themes and activities. This drop-off prog
- ram is designed for ages 8 &#8211\; 13. Students check in at the Welcome C
- enter. Please bring a refillable water bottle and dress for the weather\, 
- as we often take our lessons outside! Monthly Program Topics: October 27: 
- Blithewold’s Champion Trees &#8211\; What makes them Champions? November
-  24: Rising Seas and Climate Change &#8211\; Learn about our new berm and 
- how climate change affects plant\, insect\, and bird breeding cycles. Marc
- h 30: What Are Textiles? History and Methods of Creation &#8211\; Make a t
- extile project to enjoy! April 27: Archives Tour with the Curator &#8211\;
-  Learn about the collection items stored behind the scenes and how they’
- re handled and cataloged with our new curator\, Kristen Costa. May 25: Nat
- ure Journaling &#8211\; Learn to capture your time in nature by drawing an
- d writing in a book or journal for future enjoyment. June 29: Pollinators 
- and Native Plants &#8211\; Find out why pollinators are so important to th
- e world and how to provide the food and habitat they need to survive. Cost
- : Nonmember Student $15 | Additional Nonmember Student $12 Member Student 
- $5 | Additional Member Student $4 The programs are designed for ages 8 &#8
- 211\; 13 Class size is limited to 15. Reservations are required. Register 
- Here\n\nSource: https://www.visitrhodeisland.com/event/blithewold-homescho
- ol-days/109483/
-LOCATION:Education Room in Visitor’s Center and Grounds Join us on the l
- ast Tuesday of each month\, from October through June\, for fun (and educa
- tional) hands-on learning at Blithewold! Each month\, we explore intriguin
- g topics in the arts\, history\, horticulture\, environmental science\, an
- d climate change. Indoor and outdoor learning experiences complete our cur
- riculum\, which aligns with RI\, MA\, and CT state standards. Check our we
- bsite for more information on our monthly themes and activities. This drop
- -off program is designed for ages 8 – 13. Students check in at the Welco
- me Center. Please bring a refillable water bottle and dress for the weathe
- r\, as we often take our lessons outside! Monthly Program Topics: October 
- 27: Blithewold’s Champion Trees – What makes them Champions? November 
- 24: Rising Seas and Climate Change – Learn about our new berm and how cl
- imate change affects plant\, insect\, and bird breeding cycles. March 30: 
- What Are Textiles? History and Methods of Creation – Make a textile proj
- ect to enjoy! April 27: Archives Tour with the Curator – Learn about the
-  collection items stored behind the scenes and how they’re handled and c
- ataloged with our new curator\, Kristen Costa. May 25: Nature Journaling 
- – Learn to capture your time in nature by drawing and writing in a book 
- or journal for future enjoyment. June 29: Pollinators and Native Plants 
- – Find out why pollinators are so important to the world and how to prov
- ide the food and habitat they need to survive. Cost: Nonmember Student $15
-  | Additional Nonmember Student $12 Member Student $5 | Additional Member 
- Student $4 The programs are designed for ages 8 – 13 Class size is limit
- ed to 15. Reservations are required. Register Here Show More View Website 
- | Email 1 / 1 Additional Information\, 101 Ferry Road\, Bristol\, RI 02809
-URL:https://www.visitrhodeisland.com/event/blithewold-homeschool-days/1094
- 83/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:$15 Moonshine Flights & Moonshine Tasting
 DTSTART;VALUE=DATE:20260721
 DTEND;VALUE=DATE:20260722
-DTSTAMP:20261124T205212Z
+DTSTAMP:20261125T200904Z
 UID:6ac059c408c431eceb1c3c855c19@visitri-calendar
 DESCRIPTION:Try a Moonshine Flight tasting at Moonshine Alley! Moonshine F
  lights are available daily for just $15! We have over 13 flavors to choose
@@ -215,97 +153,10 @@ URL:https://www.visitrhodeisland.com/event/%2415-moonshine-flights-%26-moo
  nshine-tasting/105663/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Life on the Avenue: Immigration\, Protest\, and Triumph on Federal
-  Hill
-DTSTART;VALUE=DATE:20260807
-DTEND;VALUE=DATE:20260808
-DTSTAMP:20261124T205212Z
-UID:72f32ec3c7ddaf31a0c995ce585b@visitri-calendar
-DESCRIPTION:Life on the Avenue: Immigration\, Protest\, and Triumph on Fed
- eral Hill is a powerful\, story-driven walking tour that goes beyond the n
- eighborhood’s celebrated food scene to uncover the journey for belonging
-  that shaped it. As you explore one of Providence’s most iconic district
- s\, you’ll trace the journeys of Indigenous communities\, Irish and Ital
- ian immigrants\, and modern newcomers—each group navigating hardship\, d
- iscrimination\, and resilience in their fight to call this place home. Alo
- ng the way\, you’ll stand where protests erupted\, revolutions nearly ig
- nited\, and everyday people carved out lives against the odds. Blending ri
- ch storytelling with local flavor and insider food recommendations\, this 
- experience reveals Federal Hill not just as a destination—but as a battl
- eground where identity\, power\, and community have been contested for gen
- erations.\n\nSource: https://www.visitrhodeisland.com/event/life-on-the-av
- enue%3a-immigration-protest-and-triumph-on-federal-hill/111313/
-LOCATION:Garibaldi Square\, 99 Atwells Avenue\, Providence\, RI 02903
-URL:https://www.visitrhodeisland.com/event/life-on-the-avenue%3a-immigrati
- on-protest-and-triumph-on-federal-hill/111313/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Blithewold Homeschool Days
-DTSTART;VALUE=DATE:20261027
-DTEND;VALUE=DATE:20261028
-DTSTAMP:20261124T205212Z
-UID:7d56adf2287b7b2d41b16c882b6a@visitri-calendar
-DESCRIPTION:Homeschool Days at Blithewold Last Tuesday of each month Octob
- er 27\, 2026 &#8211\; June 29\, 2027 10:00 AM &#8211\; 12:00 PM Location: 
- Education Room in Visitor’s Center and Grounds Join us on the last Tuesd
- ay of each month\, from October through June\, for fun (and educational) h
- ands-on learning at Blithewold! Each month\, we explore intriguing topics 
- in the arts\, history\, horticulture\, environmental science\, and climate
-  change. Indoor and outdoor learning experiences complete our curriculum\,
-  which aligns with RI\, MA\, and CT state standards. Check our website for
-  more information on our monthly themes and activities. This drop-off prog
- ram is designed for ages 8 &#8211\; 13. Students check in at the Welcome C
- enter. Please bring a refillable water bottle and dress for the weather\, 
- as we often take our lessons outside! Monthly Program Topics: October 27: 
- Blithewold’s Champion Trees &#8211\; What makes them Champions? November
-  24: Rising Seas and Climate Change &#8211\; Learn about our new berm and 
- how climate change affects plant\, insect\, and bird breeding cycles. Marc
- h 30: What Are Textiles? History and Methods of Creation &#8211\; Make a t
- extile project to enjoy! April 27: Archives Tour with the Curator &#8211\;
-  Learn about the collection items stored behind the scenes and how they’
- re handled and cataloged with our new curator\, Kristen Costa. May 25: Nat
- ure Journaling &#8211\; Learn to capture your time in nature by drawing an
- d writing in a book or journal for future enjoyment. June 29: Pollinators 
- and Native Plants &#8211\; Find out why pollinators are so important to th
- e world and how to provide the food and habitat they need to survive. Cost
- : Nonmember Student $15 | Additional Nonmember Student $12 Member Student 
- $5 | Additional Member Student $4 The programs are designed for ages 8 &#8
- 211\; 13 Class size is limited to 15. Reservations are required. Register 
- Here\n\nSource: https://www.visitrhodeisland.com/event/blithewold-homescho
- ol-days/109483/
-LOCATION:Education Room in Visitor’s Center and Grounds Join us on the l
- ast Tuesday of each month\, from October through June\, for fun (and educa
- tional) hands-on learning at Blithewold! Each month\, we explore intriguin
- g topics in the arts\, history\, horticulture\, environmental science\, an
- d climate change. Indoor and outdoor learning experiences complete our cur
- riculum\, which aligns with RI\, MA\, and CT state standards. Check our we
- bsite for more information on our monthly themes and activities. This drop
- -off program is designed for ages 8 – 13. Students check in at the Welco
- me Center. Please bring a refillable water bottle and dress for the weathe
- r\, as we often take our lessons outside! Monthly Program Topics: October 
- 27: Blithewold’s Champion Trees – What makes them Champions? November 
- 24: Rising Seas and Climate Change – Learn about our new berm and how cl
- imate change affects plant\, insect\, and bird breeding cycles. March 30: 
- What Are Textiles? History and Methods of Creation – Make a textile proj
- ect to enjoy! April 27: Archives Tour with the Curator – Learn about the
-  collection items stored behind the scenes and how they’re handled and c
- ataloged with our new curator\, Kristen Costa. May 25: Nature Journaling 
- – Learn to capture your time in nature by drawing and writing in a book 
- or journal for future enjoyment. June 29: Pollinators and Native Plants 
- – Find out why pollinators are so important to the world and how to prov
- ide the food and habitat they need to survive. Cost: Nonmember Student $15
-  | Additional Nonmember Student $12 Member Student $5 | Additional Member 
- Student $4 The programs are designed for ages 8 – 13 Class size is limit
- ed to 15. Reservations are required. Register Here Show More View Website 
- | Email 1 / 1 Additional Information\, 101 Ferry Road\, Bristol\, RI 02809
-URL:https://www.visitrhodeisland.com/event/blithewold-homeschool-days/1094
- 83/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:A Christmas Carol
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
-DTSTAMP:20261124T205212Z
+DTSTAMP:20261125T200904Z
 UID:a214778016481db972ef3f095096@visitri-calendar
 DESCRIPTION:By Charles Dickens Original Music by Richard Cumming Directed 
  by Taavon Gamble November 5 &#8211\; December 31\, 2026 Dowling Theater Ce
@@ -327,7 +178,7 @@ BEGIN:VEVENT
 SUMMARY:Après-Ski Holiday Pop-Up at Newport Vineyards
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
-DTSTAMP:20261124T205212Z
+DTSTAMP:20261125T200904Z
 UID:6abc4263da955f9d8ac946d8e69d@visitri-calendar
 DESCRIPTION:Newport Vineyards Après-Ski Holiday Pop-Up November 20 &#8211
  \; January 3 | Farm &amp\; Barrel Bistro Lodge Dining &amp\; Holiday Marke
@@ -377,31 +228,83 @@ URL:https://www.visitrhodeisland.com/event/apr%c3%a8s-ski-holiday-pop-up-a
  t-newport-vineyards/112655/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Gnomevember at RWP Botanical Center
-DTSTART;VALUE=DATE:20261123
-DTEND;VALUE=DATE:20261124
-DTSTAMP:20261124T205212Z
-UID:dcbfcb3c58a4984a191d7b640b61@visitri-calendar
-DESCRIPTION:Gnomes nestled in the leaves…gnomes perched among the trees!
-  Hidden spots of mystery. Just for you to find…hopefully with ease! Come
-  to the Roger Williams Botanical Center all November and discover hidden l
- ittle creatures in our gardens and greenhouses. Gnomevember is all month l
- ong. Visitors are welcome to come to the Botanical Center during our open 
- hours and search for the gnomes we’re hiding around the gardens. Want an
-  extra challenge? Find the Golden Gnome! How many gnomes can you find??\n
- \nSource: https://www.visitrhodeisland.com/event/gnomevember-at-rwp-botani
- cal-center/112653/
-LOCATION:Roger Williams Park Botanical Center\, 1 Floral Avenue\, Providen
- ce\, 02905
-URL:https://www.visitrhodeisland.com/event/gnomevember-at-rwp-botanical-ce
- nter/112653/
+SUMMARY:Christmas at Blithewold
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+DTSTAMP:20261125T200904Z
+UID:ae7c2f64948229997d8e54c8dfd5@visitri-calendar
+DESCRIPTION:Christmas at Blithewold is currently scheduled for November 24
+ \, 2026 &#8211\; January 3\, 2027. Come and enjoy the elaborate holiday de
+ corations around every corner of Blithewold Manor. Hours for the Manor: No
+ vember 24\, 2026 &#8211\; January 3\, 2027. Monday: Closed Tuesday &#8211
+ \; Sunday: 11:00 AM &#8211\; 7:00 PM The Manor will occasionally close ear
+ ly for special events. Schedule subject to change\, see Blithewold website
+  for more details.\n\nSource: https://www.visitrhodeisland.com/event/chris
+ tmas-at-blithewold/109477/
+LOCATION:Blithewold Manor\, Gardens & Arboretum\, 101 Ferry Road\, Bristol
+ \, RI 02809
+URL:https://www.visitrhodeisland.com/event/christmas-at-blithewold/109477/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:21st Annual Holiday Show
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+DTSTAMP:20261125T200904Z
+UID:8048a6ffd9cd31d9f1eaa91e5395@visitri-calendar
+DESCRIPTION:21st Annual Holiday Show - 2026 at Jessica Hagen Fine Art + De
+ sign Exhibition Dates: November 21- December 31\, 2026 Opening Reception: 
+ November 21\, 2026\, 5:00- 7:00 PM Location: 9A Bridge Street\, Newport\, 
+ RI 02840 Contact: Jessica Hagen at jessica@jessicahagen.com or 401-835-768
+ 2 Jessica Hagen Fine Art + Design is pleased to announce the opening of th
+ e gallery’s 2026 Holiday Show with an Opening Reception on Saturday Nove
+ mber 21\, 2026 from 5:00- 7:00 PM. The show features new work by over thre
+ e dozen gallery artists and includes paintings\, sculpture\, photography\,
+  ceramics\, jewelry\, art books\, textiles\, and Hunt Slonem Hop Up Shop m
+ erchandise. The gallery offers gift certificates and gift wrapping. Galler
+ y owner Jessica Hagen states\, “The holiday show is the something for ev
+ eryone show of the year. From paintings of all sizes and subject matter\, 
+ to artisan-made jewelry\, books\, ceramics\, sculpture\, glass and more\, 
+ it’s wonderful to celebrate the season with art and objects made with cr
+ eativity\, skill and dedication. Human beings are irreplaceably amazing!
+ ” The show will be on display through December 31\, 2026. Jessica Hagen 
+ Fine Art + Design was founded in 2005 and features contemporary art includ
+ ing painting\, sculpture\, photography\, ceramics\, textiles\, and jewelry
+ . Located in the historic Point section of Newport\, the gallery’s hours
+  are Wednesday through Saturday 11:00- 5:00 and Sunday 12:00-5:00. Monday 
+ and Tuesday\, the gallery is open by appointment. Image attached: Willy He
+ eks Day (2026) oil/acrylic/pencil/canvas mounted panel 23.25” x 23.75”
+ \n\nSource: https://www.visitrhodeisland.com/event/21st-annual-holiday-sho
+ w/112639/
+LOCATION:9A Bridge Street\, Newport\, RI 02840 Contact: Jessica Hagen at j
+ essica@jessicahagen.com or 401-835-7682 Jessica Hagen Fine Art + Design is
+  pleased to announce the opening of the gallery’s 2026 Holiday Show with
+  an Opening Reception on Saturday November 21\, 2026 from 5:00- 7:00 PM. T
+ he show features new work by over three dozen gallery artists and includes
+  paintings\, sculpture\, photography\, ceramics\, jewelry\, art books\, te
+ xtiles\, and Hunt Slonem Hop Up Shop merchandise. The gallery offers gift 
+ certificates and gift wrapping. Gallery owner Jessica Hagen states\, “Th
+ e holiday show is the something for everyone show of the year. From painti
+ ngs of all sizes and subject matter\, to artisan-made jewelry\, books\, ce
+ ramics\, sculpture\, glass and more\, it’s wonderful to celebrate the se
+ ason with art and objects made with creativity\, skill and dedication. Hum
+ an beings are irreplaceably amazing!” The show will be on display throug
+ h December 31\, 2026. Jessica Hagen Fine Art + Design was founded in 2005 
+ and features contemporary art including painting\, sculpture\, photography
+ \, ceramics\, textiles\, and jewelry. Located in the historic Point sectio
+ n of Newport\, the gallery’s hours are Wednesday through Saturday 11:00-
+  5:00 and Sunday 12:00-5:00. Monday and Tuesday\, the gallery is open by a
+ ppointment. Image attached: Willy Heeks Day (2026) oil/acrylic/pencil/canv
+ as mounted panel 23.25” x 23.75” Show More View Website | Email 1 / 1 
+ Additional Information\, 9A Bridge Street\, Newport\, RI 02840
+URL:https://www.visitrhodeisland.com/event/21st-annual-holiday-show/112639
+ /
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:90's vs Y2K New Years Eve
-DTSTART;VALUE=DATE:20261124
-DTEND;VALUE=DATE:20261125
-DTSTAMP:20261124T205212Z
-UID:257b9bc239e9a3f07efbf5563e91@visitri-calendar
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+DTSTAMP:20261125T200904Z
+UID:3400e3a97e7039a9b65eb7bdc851@visitri-calendar
 DESCRIPTION:Get ready to step into a time warp this New Year's Eve at Ball
  y's 90s vs. Y2K Party! As you walk through the doors\, you're instantly tr
  ansported back to the iconic decade\, where glitter and neon rule the nigh
@@ -438,29 +341,11 @@ URL:https://www.visitrhodeisland.com/event/90s-vs-y2k-new-years-eve/110031
  /
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Christmas at Blithewold
-DTSTART;VALUE=DATE:20261124
-DTEND;VALUE=DATE:20261125
-DTSTAMP:20261124T205212Z
-UID:ae7c2f64948229997d8e54c8dfd5@visitri-calendar
-DESCRIPTION:Christmas at Blithewold is currently scheduled for November 24
- \, 2026 &#8211\; January 3\, 2027. Come and enjoy the elaborate holiday de
- corations around every corner of Blithewold Manor. Hours for the Manor: No
- vember 24\, 2026 &#8211\; January 3\, 2027. Monday: Closed Tuesday &#8211
- \; Sunday: 11:00 AM &#8211\; 7:00 PM The Manor will occasionally close ear
- ly for special events. Schedule subject to change\, see Blithewold website
-  for more details.\n\nSource: https://www.visitrhodeisland.com/event/chris
- tmas-at-blithewold/109477/
-LOCATION:Blithewold Manor\, Gardens & Arboretum\, 101 Ferry Road\, Bristol
- \, RI 02809
-URL:https://www.visitrhodeisland.com/event/christmas-at-blithewold/109477/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fiery Sunset - Painting Class
-DTSTART;VALUE=DATE:20261124
-DTEND;VALUE=DATE:20261125
-DTSTAMP:20261124T205212Z
-UID:23b842245472a686fe42134942a2@visitri-calendar
+SUMMARY:A Nightmare Before Christmas - Painting Class
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+DTSTAMP:20261125T200904Z
+UID:25058b8aabbb467aaaca174d64c0@visitri-calendar
 DESCRIPTION:🖌️ IN-STUDIO SESSION DETAILS Reserve your spot and enjoy 
  a complimentary beverage—choose from soda\, beer\, or wine (21+ with val
  id ID). Additional drinks will be available for purchase. Immerse yourself
@@ -493,18 +378,75 @@ DESCRIPTION:🖌️ IN-STUDIO SESSION DETAILS Reserve your spot and enjoy
   make final decisions. If we cancel due to snow or other severe weather\, 
  we’ll email you a voucher for a future session. Have more questions? Che
  ck out our [Frequently Asked Questions] page — just [click here].\n\nSou
- rce: https://www.visitrhodeisland.com/event/fiery-sunset-painting-class/11
- 2351/
+ rce: https://www.visitrhodeisland.com/event/a-nightmare-before-christmas-p
+ ainting-class/112274/
 LOCATION:Paint and Vino\, 150 Main Street\, Pawtucket\, RI 02860
-URL:https://www.visitrhodeisland.com/event/fiery-sunset-painting-class/112
- 351/
+URL:https://www.visitrhodeisland.com/event/a-nightmare-before-christmas-pa
+ inting-class/112274/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A-Trak: Thanksgiving Eve at Medici Providence
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+DTSTAMP:20261125T200904Z
+UID:12b5312e7ea7d59ec771d494dd1b@visitri-calendar
+DESCRIPTION:Peatt Entertainment presents A-Trak at Medici in Providence on
+  Thanksgiving Eve\, Wednesday\, November 25. A-Trak is a Grammy nominated 
+ DJ and producer\, founder of Fool's Gold Records\, and a world champion tu
+ rntablist. Ryan Nichols and Cunha open the night. 9 PM to 2 AM\, 18+. Tick
+ ets on Posh.\n\nSource: https://www.visitrhodeisland.com/event/a-trak%3a-t
+ hanksgiving-eve-at-medici-providence/112667/
+LOCATION:Medici\, 127 Friendship Street\, Providence\, 02904
+URL:https://www.visitrhodeisland.com/event/a-trak%3a-thanksgiving-eve-at-m
+ edici-providence/112667/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Aperitivo! Wines of Spain
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+DTSTAMP:20261125T200904Z
+UID:392fdf9c1acb1ff03fc579e33d73@visitri-calendar
+DESCRIPTION:Join our Chef and Sommelier for a pre-dinner wine tasting and 
+ appetizers prepared live in our Center for Wine &amp\; Culinary Arts. Afte
+ r\, enjoy a dinner in the Bistro or COAST to retire the night. Explore the
+  tasting of both white and red Rioja and a new discovery from Priorat. Eac
+ h wine will be thoughtfully paired with small bites. The expertly crafted 
+ pairings will perfectly complement the bold\, nuanced flavors of the wines
+ . Whether you’re looking to deepen your knowledge of Spanish wine or sim
+ ply enjoy an evening of delicious pairings and conversation\, this Aperiti
+ vo Class promises to be a memorable experience. Reservations are recommend
+ ed\, as space is limited. Please note: Tickets purchased for this event ar
+ e non-refundable.\n\nSource: https://www.visitrhodeisland.com/event/aperit
+ ivo!-wines-of-spain/112382/
+LOCATION:Ocean House\, 1 Bluff Avenue\, Westerly\, 02891 Time: 5:30 PM to 
+ 10:30 PM
+URL:https://www.visitrhodeisland.com/event/aperitivo!-wines-of-spain/11238
+ 2/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Christmas at Blithewold
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+DTSTAMP:20261125T200904Z
+UID:4c26178ddaf0125a140fa396647d@visitri-calendar
+DESCRIPTION:Christmas at Blithewold is currently scheduled for November 24
+ \, 2026 &#8211\; January 3\, 2027. Come and enjoy the elaborate holiday de
+ corations around every corner of Blithewold Manor. Hours for the Manor: No
+ vember 24\, 2026 &#8211\; January 3\, 2027. Monday: Closed Tuesday &#8211
+ \; Sunday: 11:00 AM &#8211\; 7:00 PM The Manor will occasionally close ear
+ ly for special events. Schedule subject to change\, see Blithewold website
+  for more details.\n\nSource: https://www.visitrhodeisland.com/event/chris
+ tmas-at-blithewold/109477/
+LOCATION:Blithewold Manor\, Gardens & Arboretum\, 101 Ferry Road\, Bristol
+ \, RI 02809
+URL:https://www.visitrhodeisland.com/event/christmas-at-blithewold/109477/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:FirstWorks presents Ice Theatre of New York®
-DTSTART;VALUE=DATE:20261124
-DTEND;VALUE=DATE:20261125
-DTSTAMP:20261124T205212Z
-UID:c7685061c977cdbe427c1318b390@visitri-calendar
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+DTSTAMP:20261125T200904Z
+UID:a67827fb30f7aec314c927166f3e@visitri-calendar
 DESCRIPTION:Know Before You Go: ❄️ Baby\, it’s cold outside. Dress f
  or the weather! ⛸️ The performances and the ice-skating dance party ar
  e FREE &#8211\; we ask that you please check in at the rink’s ticket win
@@ -524,51 +466,11 @@ URL:https://www.visitrhodeisland.com/event/firstworks-presents-ice-theatre
  -of-new-york%c2%ae/112718/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Gnomevember at RWP Botanical Center
-DTSTART;VALUE=DATE:20261124
-DTEND;VALUE=DATE:20261125
-DTSTAMP:20261124T205212Z
-UID:2d7f9c72bfdad24363cb0dbbefa2@visitri-calendar
-DESCRIPTION:Gnomes nestled in the leaves…gnomes perched among the trees!
-  Hidden spots of mystery. Just for you to find…hopefully with ease! Come
-  to the Roger Williams Botanical Center all November and discover hidden l
- ittle creatures in our gardens and greenhouses. Gnomevember is all month l
- ong. Visitors are welcome to come to the Botanical Center during our open 
- hours and search for the gnomes we’re hiding around the gardens. Want an
-  extra challenge? Find the Golden Gnome! How many gnomes can you find??\n
- \nSource: https://www.visitrhodeisland.com/event/gnomevember-at-rwp-botani
- cal-center/112653/
-LOCATION:Roger Williams Park Botanical Center\, 1 Floral Avenue\, Providen
- ce\, 02905
-URL:https://www.visitrhodeisland.com/event/gnomevember-at-rwp-botanical-ce
- nter/112653/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lifelong Learners: Museum: From Top to Bottom
-DTSTART;VALUE=DATE:20261124
-DTEND;VALUE=DATE:20261125
-DTSTAMP:20261124T205212Z
-UID:46ebea635776fdb6ac6fc52c0df6@visitri-calendar
-DESCRIPTION:Explore behind the scenes at the Museum of Natural History in 
- Roger Williams Park with docent Mike McGinity. Discover the Museum’s arc
- hives and collection storage vaults while learning more about its history 
- and collections in this adult program. Please note: This program is design
- ed for adults. Access to the archives and collection storage vaults is by 
- stairs only. Program fee per session: $3 per adult/Free for museum members
- . Pre-registration required. Capacity is limited. Children are not permitt
- ed in our lifelong learners programming.\n\nSource: https://www.visitrhode
- island.com/event/lifelong-learners%3a-museum%3a-from-top-to-bottom/112311/
-LOCATION:Museum of Natural History and Planetarium\, Roger Williams Park\,
-  1000 Elmwood Avenue\, Providence\, 02907
-URL:https://www.visitrhodeisland.com/event/lifelong-learners%3a-museum%3a-
- from-top-to-bottom/112311/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:No Holds Barred: New Year's Eve Soirée
-DTSTART;VALUE=DATE:20261124
-DTEND;VALUE=DATE:20261125
-DTSTAMP:20261124T205212Z
-UID:a705c918a23cedbee2a9c3dbc5cf@visitri-calendar
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+DTSTAMP:20261125T200904Z
+UID:330aaa03b1f7d1b9f4a01de13842@visitri-calendar
 DESCRIPTION:Imbibe with endless Champagne\, handcrafted cocktails and indu
  lgent culinary delights as you listen to live music at The Vanderbilt’s 
  New Year’s Eve Soirée. Enjoy passed bites\, sumptuous stationed food an
@@ -586,10 +488,10 @@ URL:https://www.visitrhodeisland.com/event/no-holds-barred%3a-new-years-ev
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Santa Magic and Tree Lighting
-DTSTART;VALUE=DATE:20261124
-DTEND;VALUE=DATE:20261125
-DTSTAMP:20261124T205212Z
-UID:141781be6ac847e5367f2a44ec0c@visitri-calendar
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+DTSTAMP:20261125T200904Z
+UID:018afd04d73420693e10ef1eedce@visitri-calendar
 DESCRIPTION:🎄✨ Holiday Tree Lighting Event!✨🎄 Mark your calendar
  s! The holiday season is kicking off at the Shops of Long Wharf\, and you 
  won’t want to miss it! 🎅🎁 📅 When: Saturday\, November 28th Rain
@@ -610,10 +512,10 @@ URL:https://www.visitrhodeisland.com/event/santa-magic-and-tree-lighting/1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Warwick Symphony Orchestra's 60th Anniversary Holiday Celebration
-DTSTART;VALUE=DATE:20261124
-DTEND;VALUE=DATE:20261125
-DTSTAMP:20261124T205212Z
-UID:139f9f99a4f694c6ae5820e38475@visitri-calendar
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+DTSTAMP:20261125T200904Z
+UID:a55545b5e7cb17a2222cbefccb46@visitri-calendar
 DESCRIPTION:Celebrate this holiday season with a live performance by WSO! 
  Adults: $20 online\, $23 at the door Seniors: $15 online\, $18 at the door
   Children Under 12: Free\n\nSource: https://www.visitrhodeisland.com/event
@@ -640,47 +542,9 @@ URL:https://www.visitrhodeisland.com/event/warwick-symphony-orchestras-60t
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Christmas at Blithewold
-DTSTART;VALUE=DATE:20261125
-DTEND;VALUE=DATE:20261126
-DTSTAMP:20261124T205212Z
-UID:4c26178ddaf0125a140fa396647d@visitri-calendar
-DESCRIPTION:Christmas at Blithewold is currently scheduled for November 24
- \, 2026 &#8211\; January 3\, 2027. Come and enjoy the elaborate holiday de
- corations around every corner of Blithewold Manor. Hours for the Manor: No
- vember 24\, 2026 &#8211\; January 3\, 2027. Monday: Closed Tuesday &#8211
- \; Sunday: 11:00 AM &#8211\; 7:00 PM The Manor will occasionally close ear
- ly for special events. Schedule subject to change\, see Blithewold website
-  for more details.\n\nSource: https://www.visitrhodeisland.com/event/chris
- tmas-at-blithewold/109477/
-LOCATION:Blithewold Manor\, Gardens & Arboretum\, 101 Ferry Road\, Bristol
- \, RI 02809
-URL:https://www.visitrhodeisland.com/event/christmas-at-blithewold/109477/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Gnomevember at RWP Botanical Center
-DTSTART;VALUE=DATE:20261125
-DTEND;VALUE=DATE:20261126
-DTSTAMP:20261124T205212Z
-UID:2e4daef4cf4f2c715ec17b276542@visitri-calendar
-DESCRIPTION:Gnomes nestled in the leaves…gnomes perched among the trees!
-  Hidden spots of mystery. Just for you to find…hopefully with ease! Come
-  to the Roger Williams Botanical Center all November and discover hidden l
- ittle creatures in our gardens and greenhouses. Gnomevember is all month l
- ong. Visitors are welcome to come to the Botanical Center during our open 
- hours and search for the gnomes we’re hiding around the gardens. Want an
-  extra challenge? Find the Golden Gnome! How many gnomes can you find??\n
- \nSource: https://www.visitrhodeisland.com/event/gnomevember-at-rwp-botani
- cal-center/112653/
-LOCATION:Roger Williams Park Botanical Center\, 1 Floral Avenue\, Providen
- ce\, 02905
-URL:https://www.visitrhodeisland.com/event/gnomevember-at-rwp-botanical-ce
- nter/112653/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Christmas at Blithewold
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
-DTSTAMP:20261124T205212Z
+DTSTAMP:20261125T200904Z
 UID:4019bb1b6e3aeb922b99e5d4c7ac@visitri-calendar
 DESCRIPTION:Christmas at Blithewold is currently scheduled for November 24
  \, 2026 &#8211\; January 3\, 2027. Come and enjoy the elaborate holiday de
@@ -695,30 +559,10 @@ LOCATION:Blithewold Manor\, Gardens & Arboretum\, 101 Ferry Road\, Bristol
 URL:https://www.visitrhodeisland.com/event/christmas-at-blithewold/109477/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Gnomevember at RWP Botanical Center
-DTSTART;VALUE=DATE:20261126
-DTEND;VALUE=DATE:20261127
-DTSTAMP:20261124T205212Z
-UID:c078050ed2950ca48733dd78299b@visitri-calendar
-DESCRIPTION:Gnomes nestled in the leaves…gnomes perched among the trees!
-  Hidden spots of mystery. Just for you to find…hopefully with ease! Come
-  to the Roger Williams Botanical Center all November and discover hidden l
- ittle creatures in our gardens and greenhouses. Gnomevember is all month l
- ong. Visitors are welcome to come to the Botanical Center during our open 
- hours and search for the gnomes we’re hiding around the gardens. Want an
-  extra challenge? Find the Golden Gnome! How many gnomes can you find??\n
- \nSource: https://www.visitrhodeisland.com/event/gnomevember-at-rwp-botani
- cal-center/112653/
-LOCATION:Roger Williams Park Botanical Center\, 1 Floral Avenue\, Providen
- ce\, 02905
-URL:https://www.visitrhodeisland.com/event/gnomevember-at-rwp-botanical-ce
- nter/112653/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Annual Holiday Stroll on Block Island
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
-DTSTAMP:20261124T205212Z
+DTSTAMP:20261125T200904Z
 UID:b1f9779ff10ce0391d001cb522dd@visitri-calendar
 DESCRIPTION:Although it's quiet in town compared to the common summer scen
  e\, there are shops\, restaurants\, and hotels that are still open. The Ho
@@ -758,7 +602,7 @@ BEGIN:VEVENT
 SUMMARY:Christmas at Blithewold
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
-DTSTAMP:20261124T205212Z
+DTSTAMP:20261125T200904Z
 UID:e5eeaac5477c2b21460959e8350f@visitri-calendar
 DESCRIPTION:Christmas at Blithewold is currently scheduled for November 24
  \, 2026 &#8211\; January 3\, 2027. Come and enjoy the elaborate holiday de
@@ -776,7 +620,7 @@ BEGIN:VEVENT
 SUMMARY:Foundry Artists Holiday Show
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
-DTSTAMP:20261124T205212Z
+DTSTAMP:20261125T200904Z
 UID:1bdb9aa2017969b679598c22e66a@visitri-calendar
 DESCRIPTION:2026 Foundry Artists Holiday Show PAWTUCKET\, RI: The Foundry 
  Artists Association Holiday Show\, one of Rhode Island's premier holiday a
@@ -820,30 +664,10 @@ URL:https://www.visitrhodeisland.com/event/foundry-artists-holiday-show/11
  2709/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Gnomevember at RWP Botanical Center
-DTSTART;VALUE=DATE:20261127
-DTEND;VALUE=DATE:20261128
-DTSTAMP:20261124T205212Z
-UID:e7d6782cf496d01b971dd60161cd@visitri-calendar
-DESCRIPTION:Gnomes nestled in the leaves…gnomes perched among the trees!
-  Hidden spots of mystery. Just for you to find…hopefully with ease! Come
-  to the Roger Williams Botanical Center all November and discover hidden l
- ittle creatures in our gardens and greenhouses. Gnomevember is all month l
- ong. Visitors are welcome to come to the Botanical Center during our open 
- hours and search for the gnomes we’re hiding around the gardens. Want an
-  extra challenge? Find the Golden Gnome! How many gnomes can you find??\n
- \nSource: https://www.visitrhodeisland.com/event/gnomevember-at-rwp-botani
- cal-center/112653/
-LOCATION:Roger Williams Park Botanical Center\, 1 Floral Avenue\, Providen
- ce\, 02905
-URL:https://www.visitrhodeisland.com/event/gnomevember-at-rwp-botanical-ce
- nter/112653/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Holiday Lights Spectacular at Roger Williams Park Zoo
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
-DTSTAMP:20261124T205212Z
+DTSTAMP:20261125T200904Z
 UID:1a483302c1650a0748a651476fff@visitri-calendar
 DESCRIPTION:Bring family and friends to experience Holiday Lights Spectacu
  lar &#8211\; an annual walk-through experience just in time for the holida
@@ -870,7 +694,7 @@ BEGIN:VEVENT
 SUMMARY:Holiday Shop & Stroll:Tours\, Shopping and Animal Sactuary
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
-DTSTAMP:20261124T205212Z
+DTSTAMP:20261125T200904Z
 UID:384393d6b60acafcfdd3dd43a610@visitri-calendar
 DESCRIPTION:​​A Farm Coast tradition returns! Bring your family to mee
  t the farm family at West Place Animal Sanctuary\, including our new arriv
@@ -898,7 +722,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
-DTSTAMP:20261124T205212Z
+DTSTAMP:20261125T200904Z
 UID:f83dbecb85872dc3b9715683d412@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -926,7 +750,7 @@ BEGIN:VEVENT
 SUMMARY:Christmas at Blithewold
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
-DTSTAMP:20261124T205212Z
+DTSTAMP:20261125T200904Z
 UID:f51b400882a45d37a67a229658ce@visitri-calendar
 DESCRIPTION:Christmas at Blithewold is currently scheduled for November 24
  \, 2026 &#8211\; January 3\, 2027. Come and enjoy the elaborate holiday de
@@ -944,7 +768,7 @@ BEGIN:VEVENT
 SUMMARY:Foundry Artists Holiday Show
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
-DTSTAMP:20261124T205212Z
+DTSTAMP:20261125T200904Z
 UID:0d85c26a7522675827fb6270ed81@visitri-calendar
 DESCRIPTION:2026 Foundry Artists Holiday Show PAWTUCKET\, RI: The Foundry 
  Artists Association Holiday Show\, one of Rhode Island's premier holiday a
@@ -988,30 +812,10 @@ URL:https://www.visitrhodeisland.com/event/foundry-artists-holiday-show/11
  2709/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Gnomevember at RWP Botanical Center
-DTSTART;VALUE=DATE:20261128
-DTEND;VALUE=DATE:20261129
-DTSTAMP:20261124T205212Z
-UID:22591d71ee52cf8d318c2681a020@visitri-calendar
-DESCRIPTION:Gnomes nestled in the leaves…gnomes perched among the trees!
-  Hidden spots of mystery. Just for you to find…hopefully with ease! Come
-  to the Roger Williams Botanical Center all November and discover hidden l
- ittle creatures in our gardens and greenhouses. Gnomevember is all month l
- ong. Visitors are welcome to come to the Botanical Center during our open 
- hours and search for the gnomes we’re hiding around the gardens. Want an
-  extra challenge? Find the Golden Gnome! How many gnomes can you find??\n
- \nSource: https://www.visitrhodeisland.com/event/gnomevember-at-rwp-botani
- cal-center/112653/
-LOCATION:Roger Williams Park Botanical Center\, 1 Floral Avenue\, Providen
- ce\, 02905
-URL:https://www.visitrhodeisland.com/event/gnomevember-at-rwp-botanical-ce
- nter/112653/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Holiday Market at Clark Farms
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
-DTSTAMP:20261124T205212Z
+DTSTAMP:20261125T200904Z
 UID:fe4e382596a866f435f8deb2d1ec@visitri-calendar
 DESCRIPTION:Visit the Clark Farms massive Holiday Market inside the half a
  cre greenhouse. Think live music\, Santa visits\, food &amp\; drink\, and 
@@ -1045,7 +849,7 @@ BEGIN:VEVENT
 SUMMARY:Holiday Shop & Stroll:Tours\, Shopping and Animal Sactuary
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
-DTSTAMP:20261124T205212Z
+DTSTAMP:20261125T200904Z
 UID:9853a68932c24ab7f625dba90819@visitri-calendar
 DESCRIPTION:​​A Farm Coast tradition returns! Bring your family to mee
  t the farm family at West Place Animal Sanctuary\, including our new arriv
@@ -1073,7 +877,7 @@ BEGIN:VEVENT
 SUMMARY:Rhode Island Lights Festival
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
-DTSTAMP:20261124T205212Z
+DTSTAMP:20261125T200904Z
 UID:448ec4f075219bf9373bb35a3117@visitri-calendar
 DESCRIPTION:This holiday season\, Centreville Bank Stadium will be transfo
  rmed into a spectacular winter wonderland as the Rhode Island Lights Festi
@@ -1098,7 +902,7 @@ BEGIN:VEVENT
 SUMMARY:Santa Magic and Tree Lighting
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
-DTSTAMP:20261124T205212Z
+DTSTAMP:20261125T200904Z
 UID:f4c59057059bb1d16f43e8dd4c6c@visitri-calendar
 DESCRIPTION:🎄✨ Holiday Tree Lighting Event!✨🎄 Mark your calendar
  s! The holiday season is kicking off at the Shops of Long Wharf\, and you 
@@ -1122,7 +926,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
-DTSTAMP:20261124T205212Z
+DTSTAMP:20261125T200904Z
 UID:b086f1bd58d78d3d3eb4b27c4e80@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -1150,7 +954,7 @@ BEGIN:VEVENT
 SUMMARY:Annual Holiday Stroll on Block Island
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
-DTSTAMP:20261124T205212Z
+DTSTAMP:20261125T200904Z
 UID:aeada7400655d58d4665f5b5075c@visitri-calendar
 DESCRIPTION:Although it's quiet in town compared to the common summer scen
  e\, there are shops\, restaurants\, and hotels that are still open. The Ho
@@ -1187,30 +991,10 @@ URL:https://www.visitrhodeisland.com/event/annual-holiday-stroll-on-block-
  island/112689/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Gnomevember at RWP Botanical Center
-DTSTART;VALUE=DATE:20261129
-DTEND;VALUE=DATE:20261130
-DTSTAMP:20261124T205212Z
-UID:ed444f760080a3fe4af5ac5cdba0@visitri-calendar
-DESCRIPTION:Gnomes nestled in the leaves…gnomes perched among the trees!
-  Hidden spots of mystery. Just for you to find…hopefully with ease! Come
-  to the Roger Williams Botanical Center all November and discover hidden l
- ittle creatures in our gardens and greenhouses. Gnomevember is all month l
- ong. Visitors are welcome to come to the Botanical Center during our open 
- hours and search for the gnomes we’re hiding around the gardens. Want an
-  extra challenge? Find the Golden Gnome! How many gnomes can you find??\n
- \nSource: https://www.visitrhodeisland.com/event/gnomevember-at-rwp-botani
- cal-center/112653/
-LOCATION:Roger Williams Park Botanical Center\, 1 Floral Avenue\, Providen
- ce\, 02905
-URL:https://www.visitrhodeisland.com/event/gnomevember-at-rwp-botanical-ce
- nter/112653/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Holiday Market at Clark Farms
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
-DTSTAMP:20261124T205212Z
+DTSTAMP:20261125T200904Z
 UID:9e82c569344220f4daa31be9f0fe@visitri-calendar
 DESCRIPTION:Visit the Clark Farms massive Holiday Market inside the half a
  cre greenhouse. Think live music\, Santa visits\, food &amp\; drink\, and 
@@ -1244,7 +1028,7 @@ BEGIN:VEVENT
 SUMMARY:Rhode Island Lights Festival
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
-DTSTAMP:20261124T205212Z
+DTSTAMP:20261125T200904Z
 UID:10ebb05c2374acae092481a580db@visitri-calendar
 DESCRIPTION:This holiday season\, Centreville Bank Stadium will be transfo
  rmed into a spectacular winter wonderland as the Rhode Island Lights Festi
@@ -1269,7 +1053,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
-DTSTAMP:20261124T205212Z
+DTSTAMP:20261125T200904Z
 UID:a07e4e611fb4e8a3b793ee3d6baa@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -1294,10 +1078,28 @@ URL:https://www.visitrhodeisland.com/event/sparkling-lights-at-the-breaker
  s/112249/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Christmas at Blithewold
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+DTSTAMP:20261125T200904Z
+UID:70dd368aedbd1fe90a8ef3f1a812@visitri-calendar
+DESCRIPTION:Christmas at Blithewold is currently scheduled for November 24
+ \, 2026 &#8211\; January 3\, 2027. Come and enjoy the elaborate holiday de
+ corations around every corner of Blithewold Manor. Hours for the Manor: No
+ vember 24\, 2026 &#8211\; January 3\, 2027. Monday: Closed Tuesday &#8211
+ \; Sunday: 11:00 AM &#8211\; 7:00 PM The Manor will occasionally close ear
+ ly for special events. Schedule subject to change\, see Blithewold website
+  for more details.\n\nSource: https://www.visitrhodeisland.com/event/chris
+ tmas-at-blithewold/109477/
+LOCATION:Blithewold Manor\, Gardens & Arboretum\, 101 Ferry Road\, Bristol
+ \, RI 02809
+URL:https://www.visitrhodeisland.com/event/christmas-at-blithewold/109477/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Rhode Island Lights Festival
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
-DTSTAMP:20261124T205212Z
+DTSTAMP:20261125T200904Z
 UID:ce724247a0b0f5b958de383d5791@visitri-calendar
 DESCRIPTION:This holiday season\, Centreville Bank Stadium will be transfo
  rmed into a spectacular winter wonderland as the Rhode Island Lights Festi
@@ -1322,7 +1124,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
-DTSTAMP:20261124T205212Z
+DTSTAMP:20261125T200904Z
 UID:0e0d137da86e729e9b7c503df973@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -1350,7 +1152,7 @@ BEGIN:VEVENT
 SUMMARY:FirstWorks presents Ice Theatre of New York®
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
-DTSTAMP:20261124T205212Z
+DTSTAMP:20261125T200904Z
 UID:61b61775bc6f91ff545ee4ef0bcb@visitri-calendar
 DESCRIPTION:Know Before You Go: ❄️ Baby\, it’s cold outside. Dress f
  or the weather! ⛸️ The performances and the ice-skating dance party ar
@@ -1374,7 +1176,7 @@ BEGIN:VEVENT
 SUMMARY:Foundry Artists Holiday Show
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
-DTSTAMP:20261124T205212Z
+DTSTAMP:20261125T200904Z
 UID:8d8fb77478bd7c30f3106c2716b8@visitri-calendar
 DESCRIPTION:2026 Foundry Artists Holiday Show PAWTUCKET\, RI: The Foundry 
  Artists Association Holiday Show\, one of Rhode Island's premier holiday a
@@ -1421,7 +1223,7 @@ BEGIN:VEVENT
 SUMMARY:Rhode Island Lights Festival
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
-DTSTAMP:20261124T205212Z
+DTSTAMP:20261125T200904Z
 UID:55a3de0c84372bcc3132f2594f57@visitri-calendar
 DESCRIPTION:This holiday season\, Centreville Bank Stadium will be transfo
  rmed into a spectacular winter wonderland as the Rhode Island Lights Festi
@@ -1446,7 +1248,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
-DTSTAMP:20261124T205212Z
+DTSTAMP:20261125T200904Z
 UID:ccc9d94ce27546581c6bf2b71fd9@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -1475,7 +1277,7 @@ SUMMARY:Bosgraaf Stained Glass Studio’s 11th Annual Holiday Sale & Hot C
  hocolate Happening!
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
-DTSTAMP:20261124T205212Z
+DTSTAMP:20261125T200904Z
 UID:be911d47885e79be62ea5f4dfca4@visitri-calendar
 DESCRIPTION:All are invited to Bosgraaf Stained Glass Studio’s 11th Annu
  al Holiday Sale\, featuring original glass works from over 60 student arti
@@ -1510,7 +1312,7 @@ BEGIN:VEVENT
 SUMMARY:Bristol Christmas Festival
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
-DTSTAMP:20261124T205212Z
+DTSTAMP:20261125T200904Z
 UID:119bfccbe66a35d0c84a1f776fe3@visitri-calendar
 DESCRIPTION:The Bristol Christmas Festival at Unity Park will take place D
  ecember 5 and 6\, 2026 and will feature live music\, holiday activities\, 
@@ -1528,7 +1330,7 @@ BEGIN:VEVENT
 SUMMARY:Holiday Market at Clark Farms
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
-DTSTAMP:20261124T205212Z
+DTSTAMP:20261125T200904Z
 UID:6d47bbfe94204e0ed0e6bc907f05@visitri-calendar
 DESCRIPTION:Visit the Clark Farms massive Holiday Market inside the half a
  cre greenhouse. Think live music\, Santa visits\, food &amp\; drink\, and 
@@ -1562,7 +1364,7 @@ BEGIN:VEVENT
 SUMMARY:Pawtucket Winter Wonderland
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
-DTSTAMP:20261124T205212Z
+DTSTAMP:20261125T200904Z
 UID:aae116e1871b00c180053eb5a1d8@visitri-calendar
 DESCRIPTION:Spread across more than 40 acres with park roads closed to veh
  icle traffic for walking\, the display features over 650 decorated Christm
@@ -1599,7 +1401,7 @@ BEGIN:VEVENT
 SUMMARY:Rhode Island Lights Festival
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
-DTSTAMP:20261124T205212Z
+DTSTAMP:20261125T200904Z
 UID:0a04df26f11880a9786c182f7140@visitri-calendar
 DESCRIPTION:This holiday season\, Centreville Bank Stadium will be transfo
  rmed into a spectacular winter wonderland as the Rhode Island Lights Festi
@@ -1624,7 +1426,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
-DTSTAMP:20261124T205212Z
+DTSTAMP:20261125T200904Z
 UID:db8b766041237fea9b154b360279@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -1652,7 +1454,7 @@ BEGIN:VEVENT
 SUMMARY:The Intentional Celebration: Holiday Edition
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
-DTSTAMP:20261124T205212Z
+DTSTAMP:20261125T200904Z
 UID:6f484250684bf2271dde2a31e276@visitri-calendar
 DESCRIPTION:The Intentional Celebration: Holiday Edition is a two-day indo
  or holiday market and immersive Christmas experience taking place December
@@ -1683,7 +1485,7 @@ SUMMARY:Bosgraaf Stained Glass Studio’s 11th Annual Holiday Sale & Hot C
  hocolate Happening!
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
-DTSTAMP:20261124T205212Z
+DTSTAMP:20261125T200904Z
 UID:be38fc7a5f892549ae1dbf46140c@visitri-calendar
 DESCRIPTION:All are invited to Bosgraaf Stained Glass Studio’s 11th Annu
  al Holiday Sale\, featuring original glass works from over 60 student arti
@@ -1718,7 +1520,7 @@ BEGIN:VEVENT
 SUMMARY:Bristol Christmas Festival
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
-DTSTAMP:20261124T205212Z
+DTSTAMP:20261125T200904Z
 UID:33da073af4a8494e7f1a85047827@visitri-calendar
 DESCRIPTION:The Bristol Christmas Festival at Unity Park will take place D
  ecember 5 and 6\, 2026 and will feature live music\, holiday activities\, 
@@ -1736,7 +1538,7 @@ BEGIN:VEVENT
 SUMMARY:Holiday Market at Clark Farms
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
-DTSTAMP:20261124T205212Z
+DTSTAMP:20261125T200904Z
 UID:0f181ec22244908af2bf3a356ba9@visitri-calendar
 DESCRIPTION:Visit the Clark Farms massive Holiday Market inside the half a
  cre greenhouse. Think live music\, Santa visits\, food &amp\; drink\, and 
@@ -1770,7 +1572,7 @@ BEGIN:VEVENT
 SUMMARY:Pawtucket Winter Wonderland
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
-DTSTAMP:20261124T205212Z
+DTSTAMP:20261125T200904Z
 UID:a23907fd05a8c76113b111a8c412@visitri-calendar
 DESCRIPTION:Spread across more than 40 acres with park roads closed to veh
  icle traffic for walking\, the display features over 650 decorated Christm
@@ -1807,7 +1609,7 @@ BEGIN:VEVENT
 SUMMARY:Rhode Island Lights Festival
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
-DTSTAMP:20261124T205212Z
+DTSTAMP:20261125T200904Z
 UID:3e00c85f7e2a4b6d6053a10b9425@visitri-calendar
 DESCRIPTION:This holiday season\, Centreville Bank Stadium will be transfo
  rmed into a spectacular winter wonderland as the Rhode Island Lights Festi
@@ -1832,7 +1634,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
-DTSTAMP:20261124T205212Z
+DTSTAMP:20261125T200904Z
 UID:4b643200b30e60635e855ddfbcdb@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -1860,7 +1662,7 @@ BEGIN:VEVENT
 SUMMARY:The Intentional Celebration: Holiday Edition
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
-DTSTAMP:20261124T205212Z
+DTSTAMP:20261125T200904Z
 UID:f0031a8c4f9ec38b7e0300063594@visitri-calendar
 DESCRIPTION:The Intentional Celebration: Holiday Edition is a two-day indo
  or holiday market and immersive Christmas experience taking place December
@@ -1890,7 +1692,7 @@ BEGIN:VEVENT
 SUMMARY:Rhode Island Lights Festival
 DTSTART;VALUE=DATE:20261209
 DTEND;VALUE=DATE:20261210
-DTSTAMP:20261124T205212Z
+DTSTAMP:20261125T200904Z
 UID:16cd82a02f4badfd01431e9ef39e@visitri-calendar
 DESCRIPTION:This holiday season\, Centreville Bank Stadium will be transfo
  rmed into a spectacular winter wonderland as the Rhode Island Lights Festi
@@ -1915,7 +1717,7 @@ BEGIN:VEVENT
 SUMMARY:Rhode Island Lights Festival
 DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261211
-DTSTAMP:20261124T205212Z
+DTSTAMP:20261125T200904Z
 UID:37acb6393bef02c7e33a4f9172a7@visitri-calendar
 DESCRIPTION:This holiday season\, Centreville Bank Stadium will be transfo
  rmed into a spectacular winter wonderland as the Rhode Island Lights Festi
@@ -1940,7 +1742,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261211
-DTSTAMP:20261124T205212Z
+DTSTAMP:20261125T200904Z
 UID:f1266d72481edfcb924f687a42f0@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -1968,7 +1770,7 @@ BEGIN:VEVENT
 SUMMARY:Rhode Island Lights Festival
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
-DTSTAMP:20261124T205212Z
+DTSTAMP:20261125T200904Z
 UID:64fcbc94723e108499c2256308ad@visitri-calendar
 DESCRIPTION:This holiday season\, Centreville Bank Stadium will be transfo
  rmed into a spectacular winter wonderland as the Rhode Island Lights Festi
@@ -1993,7 +1795,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
-DTSTAMP:20261124T205212Z
+DTSTAMP:20261125T200904Z
 UID:b2668ced84621f351ee2e743ffd9@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -2021,7 +1823,7 @@ BEGIN:VEVENT
 SUMMARY:Pawtucket Winter Wonderland
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
-DTSTAMP:20261124T205212Z
+DTSTAMP:20261125T200904Z
 UID:c7db53b63dac24282d3f1933309d@visitri-calendar
 DESCRIPTION:Spread across more than 40 acres with park roads closed to veh
  icle traffic for walking\, the display features over 650 decorated Christm
@@ -2058,7 +1860,7 @@ BEGIN:VEVENT
 SUMMARY:Rhode Island Lights Festival
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
-DTSTAMP:20261124T205212Z
+DTSTAMP:20261125T200904Z
 UID:1a105cfeadeefb1a60902dd5d339@visitri-calendar
 DESCRIPTION:This holiday season\, Centreville Bank Stadium will be transfo
  rmed into a spectacular winter wonderland as the Rhode Island Lights Festi
@@ -2083,7 +1885,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
-DTSTAMP:20261124T205212Z
+DTSTAMP:20261125T200904Z
 UID:756ae7e966f3899cb85d7657b4e5@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -2111,7 +1913,7 @@ BEGIN:VEVENT
 SUMMARY:Foundry Artists Holiday Show
 DTSTART;VALUE=DATE:20261213
 DTEND;VALUE=DATE:20261214
-DTSTAMP:20261124T205212Z
+DTSTAMP:20261125T200904Z
 UID:9a045651c4c50599c09f13069aa2@visitri-calendar
 DESCRIPTION:2026 Foundry Artists Holiday Show PAWTUCKET\, RI: The Foundry 
  Artists Association Holiday Show\, one of Rhode Island's premier holiday a
@@ -2158,7 +1960,7 @@ BEGIN:VEVENT
 SUMMARY:Pawtucket Winter Wonderland
 DTSTART;VALUE=DATE:20261213
 DTEND;VALUE=DATE:20261214
-DTSTAMP:20261124T205212Z
+DTSTAMP:20261125T200904Z
 UID:6f4e45fa4c1992a8d8a4b03dd368@visitri-calendar
 DESCRIPTION:Spread across more than 40 acres with park roads closed to veh
  icle traffic for walking\, the display features over 650 decorated Christm
@@ -2195,7 +1997,7 @@ BEGIN:VEVENT
 SUMMARY:Rhode Island Lights Festival
 DTSTART;VALUE=DATE:20261213
 DTEND;VALUE=DATE:20261214
-DTSTAMP:20261124T205212Z
+DTSTAMP:20261125T200904Z
 UID:5bc7195208a828ee2bcc3d774641@visitri-calendar
 DESCRIPTION:This holiday season\, Centreville Bank Stadium will be transfo
  rmed into a spectacular winter wonderland as the Rhode Island Lights Festi
@@ -2220,7 +2022,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261213
 DTEND;VALUE=DATE:20261214
-DTSTAMP:20261124T205212Z
+DTSTAMP:20261125T200904Z
 UID:6926863c714413a4b343c291725f@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -2248,7 +2050,7 @@ BEGIN:VEVENT
 SUMMARY:Warwick Symphony Orchestra's 60th Anniversary Holiday Celebration
 DTSTART;VALUE=DATE:20261213
 DTEND;VALUE=DATE:20261214
-DTSTAMP:20261124T205212Z
+DTSTAMP:20261125T200904Z
 UID:e9f4539412312f9f372a88fb1be8@visitri-calendar
 DESCRIPTION:Celebrate this holiday season with a live performance by WSO! 
  Adults: $20 online\, $23 at the door Seniors: $15 online\, $18 at the door
@@ -2278,7 +2080,7 @@ BEGIN:VEVENT
 SUMMARY:Rhode Island Lights Festival
 DTSTART;VALUE=DATE:20261216
 DTEND;VALUE=DATE:20261217
-DTSTAMP:20261124T205212Z
+DTSTAMP:20261125T200904Z
 UID:96d265a999c123070f85ca5b66f2@visitri-calendar
 DESCRIPTION:This holiday season\, Centreville Bank Stadium will be transfo
  rmed into a spectacular winter wonderland as the Rhode Island Lights Festi
@@ -2303,7 +2105,7 @@ BEGIN:VEVENT
 SUMMARY:Rhode Island Lights Festival
 DTSTART;VALUE=DATE:20261217
 DTEND;VALUE=DATE:20261218
-DTSTAMP:20261124T205212Z
+DTSTAMP:20261125T200904Z
 UID:4f6c8b924dd45c83266e1cc4ce3a@visitri-calendar
 DESCRIPTION:This holiday season\, Centreville Bank Stadium will be transfo
  rmed into a spectacular winter wonderland as the Rhode Island Lights Festi
@@ -2328,7 +2130,7 @@ BEGIN:VEVENT
 SUMMARY:Rhode Island Lights Festival
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
-DTSTAMP:20261124T205212Z
+DTSTAMP:20261125T200904Z
 UID:ba26b9bd0103e1c8d511b82aaa8b@visitri-calendar
 DESCRIPTION:This holiday season\, Centreville Bank Stadium will be transfo
  rmed into a spectacular winter wonderland as the Rhode Island Lights Festi
@@ -2353,7 +2155,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
-DTSTAMP:20261124T205212Z
+DTSTAMP:20261125T200904Z
 UID:10f1f0a03ceb6ce5b9d0f1112413@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -2381,7 +2183,7 @@ BEGIN:VEVENT
 SUMMARY:Rhode Island Lights Festival
 DTSTART;VALUE=DATE:20261219
 DTEND;VALUE=DATE:20261220
-DTSTAMP:20261124T205212Z
+DTSTAMP:20261125T200904Z
 UID:eac979c6c6fc0a063ccd84994e4b@visitri-calendar
 DESCRIPTION:This holiday season\, Centreville Bank Stadium will be transfo
  rmed into a spectacular winter wonderland as the Rhode Island Lights Festi
@@ -2406,7 +2208,7 @@ BEGIN:VEVENT
 SUMMARY:Rhode Island Lights Festival
 DTSTART;VALUE=DATE:20261220
 DTEND;VALUE=DATE:20261221
-DTSTAMP:20261124T205212Z
+DTSTAMP:20261125T200904Z
 UID:a4f16cdba637b6426dc3ca7bfe37@visitri-calendar
 DESCRIPTION:This holiday season\, Centreville Bank Stadium will be transfo
  rmed into a spectacular winter wonderland as the Rhode Island Lights Festi
@@ -2431,7 +2233,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261220
 DTEND;VALUE=DATE:20261221
-DTSTAMP:20261124T205212Z
+DTSTAMP:20261125T200904Z
 UID:4b4bda68b74fdf0bae1d4834ec2b@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -2459,7 +2261,7 @@ BEGIN:VEVENT
 SUMMARY:Rhode Island Lights Festival
 DTSTART;VALUE=DATE:20261221
 DTEND;VALUE=DATE:20261222
-DTSTAMP:20261124T205212Z
+DTSTAMP:20261125T200904Z
 UID:aea8b74d95f98a36de889e6f697d@visitri-calendar
 DESCRIPTION:This holiday season\, Centreville Bank Stadium will be transfo
  rmed into a spectacular winter wonderland as the Rhode Island Lights Festi
@@ -2484,7 +2286,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261221
 DTEND;VALUE=DATE:20261222
-DTSTAMP:20261124T205212Z
+DTSTAMP:20261125T200904Z
 UID:5cc6a0eb17a87a57c77fb4a1ee98@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -2512,7 +2314,7 @@ BEGIN:VEVENT
 SUMMARY:Holiday Pops with the Stadium Theatre Orchestra
 DTSTART;VALUE=DATE:20261222
 DTEND;VALUE=DATE:20261223
-DTSTAMP:20261124T205212Z
+DTSTAMP:20261125T200904Z
 UID:befad2e9d6170256faacb3a92b0a@visitri-calendar
 DESCRIPTION:Get into the Holiday spirit with the Stadium Theatre’s Holid
  ay Pops! The Stadium’s 20 piece orchestra\, paired with breathtaking voc
@@ -2532,7 +2334,7 @@ BEGIN:VEVENT
 SUMMARY:Rhode Island Lights Festival
 DTSTART;VALUE=DATE:20261222
 DTEND;VALUE=DATE:20261223
-DTSTAMP:20261124T205212Z
+DTSTAMP:20261125T200904Z
 UID:850d2a1c17a55623147989b58523@visitri-calendar
 DESCRIPTION:This holiday season\, Centreville Bank Stadium will be transfo
  rmed into a spectacular winter wonderland as the Rhode Island Lights Festi
@@ -2557,7 +2359,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261222
 DTEND;VALUE=DATE:20261223
-DTSTAMP:20261124T205212Z
+DTSTAMP:20261125T200904Z
 UID:8b50234eb8215ed0c936d7b3f2fd@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -2585,7 +2387,7 @@ BEGIN:VEVENT
 SUMMARY:Holiday Pops with the Stadium Theatre Orchestra
 DTSTART;VALUE=DATE:20261223
 DTEND;VALUE=DATE:20261224
-DTSTAMP:20261124T205212Z
+DTSTAMP:20261125T200904Z
 UID:7e3a3f2cfb6189de48b6c64b83bc@visitri-calendar
 DESCRIPTION:Get into the Holiday spirit with the Stadium Theatre’s Holid
  ay Pops! The Stadium’s 20 piece orchestra\, paired with breathtaking voc
@@ -2605,7 +2407,7 @@ BEGIN:VEVENT
 SUMMARY:Rhode Island Lights Festival
 DTSTART;VALUE=DATE:20261223
 DTEND;VALUE=DATE:20261224
-DTSTAMP:20261124T205212Z
+DTSTAMP:20261125T200904Z
 UID:80279afc8aeb86b04b5d61a17fdc@visitri-calendar
 DESCRIPTION:This holiday season\, Centreville Bank Stadium will be transfo
  rmed into a spectacular winter wonderland as the Rhode Island Lights Festi
@@ -2630,7 +2432,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261223
 DTEND;VALUE=DATE:20261224
-DTSTAMP:20261124T205212Z
+DTSTAMP:20261125T200904Z
 UID:64494d8f54810a3b19a989acc268@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -2655,35 +2457,10 @@ URL:https://www.visitrhodeisland.com/event/sparkling-lights-at-the-breaker
  s/112249/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Life on the Avenue: Immigration\, Protest\, and Triumph on Federal
-  Hill
-DTSTART;VALUE=DATE:20261224
-DTEND;VALUE=DATE:20261225
-DTSTAMP:20261124T205212Z
-UID:b647795e53ce8e44e67b534819a6@visitri-calendar
-DESCRIPTION:Life on the Avenue: Immigration\, Protest\, and Triumph on Fed
- eral Hill is a powerful\, story-driven walking tour that goes beyond the n
- eighborhood’s celebrated food scene to uncover the journey for belonging
-  that shaped it. As you explore one of Providence’s most iconic district
- s\, you’ll trace the journeys of Indigenous communities\, Irish and Ital
- ian immigrants\, and modern newcomers—each group navigating hardship\, d
- iscrimination\, and resilience in their fight to call this place home. Alo
- ng the way\, you’ll stand where protests erupted\, revolutions nearly ig
- nited\, and everyday people carved out lives against the odds. Blending ri
- ch storytelling with local flavor and insider food recommendations\, this 
- experience reveals Federal Hill not just as a destination—but as a battl
- eground where identity\, power\, and community have been contested for gen
- erations.\n\nSource: https://www.visitrhodeisland.com/event/life-on-the-av
- enue%3a-immigration-protest-and-triumph-on-federal-hill/111313/
-LOCATION:Garibaldi Square\, 99 Atwells Avenue\, Providence\, RI 02903
-URL:https://www.visitrhodeisland.com/event/life-on-the-avenue%3a-immigrati
- on-protest-and-triumph-on-federal-hill/111313/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Rhode Island Lights Festival
 DTSTART;VALUE=DATE:20261226
 DTEND;VALUE=DATE:20261227
-DTSTAMP:20261124T205212Z
+DTSTAMP:20261125T200904Z
 UID:e577321b35406eb3d33b26dafa4f@visitri-calendar
 DESCRIPTION:This holiday season\, Centreville Bank Stadium will be transfo
  rmed into a spectacular winter wonderland as the Rhode Island Lights Festi
@@ -2708,7 +2485,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261226
 DTEND;VALUE=DATE:20261227
-DTSTAMP:20261124T205212Z
+DTSTAMP:20261125T200904Z
 UID:d9203cb0c583483c1e644796bce0@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -2736,7 +2513,7 @@ BEGIN:VEVENT
 SUMMARY:Rhode Island Lights Festival
 DTSTART;VALUE=DATE:20261227
 DTEND;VALUE=DATE:20261228
-DTSTAMP:20261124T205212Z
+DTSTAMP:20261125T200904Z
 UID:5d265915a4c912fce87079d1ade1@visitri-calendar
 DESCRIPTION:This holiday season\, Centreville Bank Stadium will be transfo
  rmed into a spectacular winter wonderland as the Rhode Island Lights Festi
@@ -2761,7 +2538,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkling Lights at The Breakers
 DTSTART;VALUE=DATE:20261227
 DTEND;VALUE=DATE:20261228
-DTSTAMP:20261124T205212Z
+DTSTAMP:20261125T200904Z
 UID:ecdbb4492e88d8b279d5f0235b57@visitri-calendar
 DESCRIPTION:Sparkling Lights at The Breakers presented by BankNewport When
  : November 21 &#8211\; December 27\, 2026 from 4:00 - 8:00 PM November 21
@@ -2789,7 +2566,7 @@ BEGIN:VEVENT
 SUMMARY:Rhode Island Lights Festival
 DTSTART;VALUE=DATE:20261228
 DTEND;VALUE=DATE:20261229
-DTSTAMP:20261124T205212Z
+DTSTAMP:20261125T200904Z
 UID:dd38d26392219c393d21b0877ee3@visitri-calendar
 DESCRIPTION:This holiday season\, Centreville Bank Stadium will be transfo
  rmed into a spectacular winter wonderland as the Rhode Island Lights Festi
@@ -2814,7 +2591,7 @@ BEGIN:VEVENT
 SUMMARY:Rhode Island Lights Festival
 DTSTART;VALUE=DATE:20261229
 DTEND;VALUE=DATE:20261230
-DTSTAMP:20261124T205212Z
+DTSTAMP:20261125T200904Z
 UID:ab58713cfcc5bc2a0eec1d869e90@visitri-calendar
 DESCRIPTION:This holiday season\, Centreville Bank Stadium will be transfo
  rmed into a spectacular winter wonderland as the Rhode Island Lights Festi
@@ -2839,7 +2616,7 @@ BEGIN:VEVENT
 SUMMARY:Rhode Island Lights Festival
 DTSTART;VALUE=DATE:20261230
 DTEND;VALUE=DATE:20261231
-DTSTAMP:20261124T205212Z
+DTSTAMP:20261125T200904Z
 UID:c1bc28e07573a8201d91ec765b38@visitri-calendar
 DESCRIPTION:This holiday season\, Centreville Bank Stadium will be transfo
  rmed into a spectacular winter wonderland as the Rhode Island Lights Festi
@@ -2864,7 +2641,7 @@ BEGIN:VEVENT
 SUMMARY:90's vs Y2K New Years Eve
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
-DTSTAMP:20261124T205212Z
+DTSTAMP:20261125T200904Z
 UID:cd9739dc5ca20722a765f80113db@visitri-calendar
 DESCRIPTION:Get ready to step into a time warp this New Year's Eve at Ball
  y's 90s vs. Y2K Party! As you walk through the doors\, you're instantly tr
@@ -2905,7 +2682,7 @@ BEGIN:VEVENT
 SUMMARY:A Christmas Carol
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
-DTSTAMP:20261124T205212Z
+DTSTAMP:20261125T200904Z
 UID:7974b08503c8ecfb69cc65bc6b84@visitri-calendar
 DESCRIPTION:By Charles Dickens Original Music by Richard Cumming Directed 
  by Taavon Gamble November 5 &#8211\; December 31\, 2026 Dowling Theater Ce
@@ -2927,7 +2704,7 @@ BEGIN:VEVENT
 SUMMARY:Beyond the Brewhouse Tour
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
-DTSTAMP:20261124T205212Z
+DTSTAMP:20261125T200904Z
 UID:c7b48636db9ede5f5acbbb263d31@visitri-calendar
 DESCRIPTION:Beyond the Brewhouse Where: Newport Craft Brewing and Distilli
  ng\, 293 JT Connell Road\, Newport 45 minutes: $20 per person Did you know
@@ -2946,7 +2723,7 @@ BEGIN:VEVENT
 SUMMARY:No Holds Barred: New Year's Eve Soirée
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
-DTSTAMP:20261124T205212Z
+DTSTAMP:20261125T200904Z
 UID:ea8226b17ae15d63a31d0f4ca882@visitri-calendar
 DESCRIPTION:Imbibe with endless Champagne\, handcrafted cocktails and indu
  lgent culinary delights as you listen to live music at The Vanderbilt’s 
@@ -2967,7 +2744,7 @@ BEGIN:VEVENT
 SUMMARY:Rhode Island Lights Festival
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
-DTSTAMP:20261124T205212Z
+DTSTAMP:20261125T200904Z
 UID:ec30f72a908269517452d537b506@visitri-calendar
 DESCRIPTION:This holiday season\, Centreville Bank Stadium will be transfo
  rmed into a spectacular winter wonderland as the Rhode Island Lights Festi
@@ -2992,7 +2769,7 @@ BEGIN:VEVENT
 SUMMARY:Rhode Island Lights Festival
 DTSTART;VALUE=DATE:20270101
 DTEND;VALUE=DATE:20270102
-DTSTAMP:20261124T205212Z
+DTSTAMP:20261125T200904Z
 UID:188895ba7b1da1615da9700cf13c@visitri-calendar
 DESCRIPTION:This holiday season\, Centreville Bank Stadium will be transfo
  rmed into a spectacular winter wonderland as the Rhode Island Lights Festi
@@ -3017,7 +2794,7 @@ BEGIN:VEVENT
 SUMMARY:Rhode Island Lights Festival
 DTSTART;VALUE=DATE:20270102
 DTEND;VALUE=DATE:20270103
-DTSTAMP:20261124T205212Z
+DTSTAMP:20261125T200904Z
 UID:4f7b42e72a975c8bb36b0e58e233@visitri-calendar
 DESCRIPTION:This holiday season\, Centreville Bank Stadium will be transfo
  rmed into a spectacular winter wonderland as the Rhode Island Lights Festi
@@ -3042,7 +2819,7 @@ BEGIN:VEVENT
 SUMMARY:Rhode Island Lights Festival
 DTSTART;VALUE=DATE:20270103
 DTEND;VALUE=DATE:20270104
-DTSTAMP:20261124T205212Z
+DTSTAMP:20261125T200904Z
 UID:0b4416631f88abc452bc98265bd2@visitri-calendar
 DESCRIPTION:This holiday season\, Centreville Bank Stadium will be transfo
  rmed into a spectacular winter wonderland as the Rhode Island Lights Festi
